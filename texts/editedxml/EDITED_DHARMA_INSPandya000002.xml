@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tiruppattūr stela 1</title>
+            <respStmt>
+               <resp>EpiDoc encoding</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+               <persName ref="part:vagi">
+                  <forename>Valérie</forename>
+                  <surname>Gillet</surname>
+               </persName>
+            </respStmt>
+            <respStmt>
+               <resp>intellectual authorship of edition</resp>
+               <persName ref="part:emfr">
+                  <forename>Emmanuel</forename>
+                  <surname>Francis</surname>
+               </persName>
+               <persName ref="part:vagi">
+                  <forename>Valérie</forename>
+                  <surname>Gillet</surname>
+               </persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris, CEIAS</pubPlace>
+            <pubPlace>Paris, EFEO</pubPlace>
+            <idno type="filename">DHARMA_INSPandya000002</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+							Licence. To view a copy of the licence, visit
+							https://creativecommons.org/licenses/by/4.0/ or send a letter to
+							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+							California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by Valérie Gillet.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno/>
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+               </msContents>
+               <physDesc>
+                  <handDesc>
+                     <p>The <foreign>puḷḷi</foreign> is used.</p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>This project DHARMA has received funding from the European Research Council (ERC)
+					under the European Union’s Horizon 2020 research and innovation programme (grant
+					agreement no 809994).</p>
+         </projectDesc>
+         <schemaRef type="guide"
+                    key="EGDv01"
+                    url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+         <listPrefixDef>
+            <prefixDef ident="bib"
+                       matchPattern="([a-zA-Z0-9\-\_]+)"
+                       replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+               <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+						ERC-DHARMA whose data are open to the public.</p>
+            </prefixDef>
+            <prefixDef ident="part"
+                       matchPattern="([a-z]+)"
+                       replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+               <p>Internal URIs using the part prefix to point to person elements in the
+							<ref>DHARMA_IdListMembers_V01.xml</ref> file.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <revisionDesc>
+         <change who="part:emfr part:vagi" when="2021-02-16" status="draft">Creation of the file</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:space="preserve">
+      <body>
+
+         <div type="edition" xml:lang="tam-Latn">
+         	<p>
+         		
+         		<lb n="1"/>
+         		<hi rend="grantha"><gap reason="lost" quantity="15" unit="character" precision="low"/>
+         			<lb n="2"/>mma vo/po X Xya tā[n]matyudāromā {{ro under the mā}} X
+         			<lb n="3"/>[X] X suna[ja/ba]ga[du]ku[nta]laka śrī na{{ro above}}[pra]
+         			<lb n="4"/>X X [mabā]ta[ḥ] śrī s[tha]lyāligamū[tta]
+         			<lb n="5"/>[X] X X vanapatayeśa[ṃ]bhave X
+         			<lb n="6"/>X X pāttrekācānām va/pa[ntyu] pa[ṃ] ra/ka X
+         			<lb n="7"/>X X taradukutarandhāmaśambhoyyi X
+         			<lb n="8"/>X X X ni/di vye/pye tā[ndi]pamāle[ṇyu/ba] sva
+         			<lb n="9"/>[X] X X divasetathāpratimāsamiti pra
+         			<lb n="10"/> X X kam vunarapi svayam <g type="gomutra">.</g><!--check markup--> svasti</hi>
+         		<lb n="11"/>X Xāṟañcaṭaiyaṟku yāṇṭu [5] [ba/˚ai]
+         		<lb n="12"/>X X va[tu] koḻuvūrk kūṟṟattu ppi[ra]
+         		<lb n="13" break="no"/><supplied reason="lost">ma</supplied>teyan tīrupputtūr maṇa[lu]
+         		<lb n="14" break="no"/>X [ki]ḻār makaṉ ˚oloccaṉṟuvve
+         		<lb n="15"/>ticcaṭaṅkavi ˚iṭaiyā[ṟu]ṭaiyāṉ
+         		<lb n="16"/>tattaṉ māṟaṉ ˚ivvūrt tirut
+         		<lb n="17" break="no"/>taḷip perumāṉaṭikaḷukku no
+         		<lb n="18" break="no"/>ntā viḷakk’ oṉṟ’ erippataṟk[u]
+         		<lb n="19"/>vaitta niṟai kuṟaiyā paḻaṅ
+         		<lb n="20" break="no"/>kācu poṉ vaiyyā[cu]ṉ 10 5
+         		<lb n="21" break="no"/>pati[ṉai]ntum Ivaṉ X ṅkaṭṭi [X?]
+         		<lb n="22"/>natanāṉ vicākattu nāṉṟuḷḷā
+         		<lb n="23" break="no"/>[la?][di]pamā[lai] Iraṇṭum erippataṟ
+         		<lb n="24" break="no"/><supplied reason="lost">ku</supplied> me]ṟpaṭi kācoṉṟum[ā]kap pati[ṉā]
+         		<lb n="25" break="no"/>X k[ā]ciṉālun tiṅkaṭa[po][li]
+         		<lb n="26"/>[ṉa]ṇṭu tiruviḷakkerippatāka
+         		<lb n="27" break="no"/><unclear>t</unclear> tirupputtūr sabhaiyār kaiyyi
+         		<lb n="28" break="no"/>X X [t]teṉ tattaṉ mā[ṟaṉe]
+         		<lb n="29" break="no"/><supplied reason="lost">ṉ</supplied> X X X X mt ti[lai/ṉai] rakṣippa X X
+         		<lb n="30"/>X X [ṉṉṟalai] melaṉa [||]        		
+         		
+         	</p>
+         </div>
+
+         <div type="apparatus">
+            
+            
+         	<listApp>
+         		
+         		<app loc="1">
+         			<lem/>
+         			<note/>
+         		</app>
+               
+            </listApp>
+            
+         </div>
+
+        <div type="translation" resp="part:emfr part:vagi">
+         	
+         </div>
+
+         <div type="commentary">
+         	
+         </div>
+
+         <div type="bibliography">
+
+            <p>
+               First noticed and first edited for DHARMA (ERC n° 809994) by Emmanuel Francis and Valérie Gillet (2021), based on autopsy and photographs.
+            </p>
+            
+            
+
+         </div>
+
+      </body>
+  </text>
+</TEI>
