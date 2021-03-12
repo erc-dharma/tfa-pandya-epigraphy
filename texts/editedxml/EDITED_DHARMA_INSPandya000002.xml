@@ -60,7 +60,7 @@
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>The <foreign>puḷḷi</foreign> is used. Medial <foreign>i</foreign> and <foreign>ī</foreign> interchangeable.</p>
+                     <p>The <foreign>puḷḷi</foreign> is used. Medial <foreign>i</foreign> and <foreign>ī</foreign> are interchangeable.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -100,28 +100,32 @@
 
          <div type="edition" xml:lang="tam-Latn">
          	<p>
+         	<!--EF: check if verse and accordingly add <lg/>-->
+         	<!--Add paragraph split-->
          		
-         		<lb n="1"/>
-         		<hi rend="grantha"><gap reason="lost" quantity="15" unit="character" precision="low"/>
-         		<lb n="2"/>mVmV <!--Update--> <unclear>l</unclear>o<unclear>dav</unclear>yatām ity udāro mā <gap reason="lost" quantity="1" unit="character"/>
-         		<lb n="3"/><gap reason="lost" quantity="1" unit="character"/> sūn<unclear>u</unclear>-jagad-uru-tilaka-śrī-na{{ro above<!--Update-->}}pra
+         	<lb n="1"/><hi rend="grantha"><gap reason="lost" quantity="15" unit="character" precision="low"/>
+         	<!--EF: possibly more than one line missing?-->
+         	<lb n="2"/>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>l</unclear>o<unclear>dav</unclear>yatām ity udāro mā <gap reason="lost" quantity="1" unit="character"/>
+         		<lb n="3"/><gap reason="lost" quantity="1" unit="character"/> sūn<unclear>u</unclear>-jagad-uru-tilaka-śrī-na<add place="above">ro</add> pra
          		<lb n="4"/><gap reason="lost" quantity="1" unit="character"/> m<unclear>a</unclear>-jātaḥ śrī-sthalyā<unclear>ṃ</unclear> liṃga-mū<supplied reason="omitted">r</supplied>tt<unclear>y</unclear><supplied reason="lost">ā</supplied>
+         		<!--display issue: <supplied reason="lost">ā</supplied>: the closing "]" is unduly in bold.--> 
          		<lb n="5"/><supplied reason="lost">tri</supplied><unclear>bhu</unclear>vana-pataye śam·bhave <gap reason="lost" quantity="1" unit="character"/>
          		<lb n="6"/><gap reason="lost" quantity="2" unit="character"/> <unclear>dh</unclear>āttre kācānām pañca-paṃkti-<gap reason="lost" quantity="1" unit="character"/>
          		<lb n="7"/><gap reason="lost" quantity="2" unit="character"/> tarad urutaran dhāma śaṃbho<supplied reason="omitted">r</supplied> yyi <gap reason="lost" quantity="1" unit="character"/>
          		<lb n="8"/><gap reason="lost" quantity="1" unit="character"/> <unclear><g type="gomutra">.</g></unclear> dipye tā<unclear>n</unclear> d<choice><sic>i</sic><corr>ī</corr></choice>pa-māle dve sva
          		<lb n="9"/><supplied reason="lost">janma</supplied>-divase tathā pratimāsam iti p<choice><unclear>ṛ</unclear><unclear>ra</unclear></choice>
          			<lb n="10"/> <gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g type="gomutra">.</g> svasti</hi>
-         		<lb n="11"/><supplied reason="lost"><hi rend="grantha">śrī</hi> kō-m</supplied>āṟañ·caṭaiyaṟku yāṇṭu 5 <!--update--> Ai-
+         		<lb n="11"/><supplied reason="lost"><hi rend="grantha">śrī</hi> kō-m</supplied>āṟañ·caṭaiyaṟku yāṇṭu <num value="5">5</num> Ai-
          		<lb n="12"/><supplied reason="lost">nt</supplied>āvatu koḻuvūrkkūṟ·ṟattup pira
          		<lb n="13" break="no"/><supplied reason="lost">ma</supplied>tēyan tirupputtūr maṇal<unclear>ū</unclear>
          		<lb n="14" break="no"/><supplied reason="lost">r</supplied>kiḻār· makaṉ· Oloccaṉ·ṟuv vē
+         		<!--EF: Oloccaṉ·ṟuv vēti >> Oloccaṉ· ṟuvvēti >> tuvēti = Skt dvivedin??-->
          		<lb n="15"/>ti-c·-caṭaṅkavi Iṭaiyāṟuṭaiyāṉ·
          		<lb n="16"/>tattaṉ· māṟaṉ Iv·vūrt tirut
          		<lb n="17" break="no"/>taḷip perumāṉaṭikaḷukku no
          		<lb n="18" break="no"/>ntā viḷak·k’ oṉṟ’ erippataṟku
          		<lb n="19"/>vaitta niṟai kuṟaiyā paḻaṅ·       		
-         		<lb n="20" break="no"/>kācu poṉ· vaiy·yātaṉa 10 5 <!--update-->
+         		<lb n="20" break="no"/>kācu poṉ· vaiy·yātaṉa <num value="15"><g type="numeral">10</g> <g type="numeral">5</g></num>
          		<lb n="21" break="no"/>patiṉ ain·tum· Ivaṉ ṟiṅkaṭ· pi<unclear>ṟa</unclear>
          		<lb n="22"/>nta nāḷ· vicākattu nāṉ·ṟ’ uḷḷā
          		<lb n="23" break="no"/><unclear>l</unclear> <hi rend="grantha">d<choice><sic>i</sic><corr>ī</corr></choice></hi>pa-mālai Iraṇ·ṭum eripp·ataṟ<unclear>·</unclear>        	
@@ -137,13 +141,12 @@
          </div>
 
          <div type="apparatus">
-            
-            
+                        
          	<listApp>
          		
-         		<app loc="1">
-         			<lem/>
-         			<note/>
+         		<app loc="20">
+         			<lem>vaiy·yātaṉa</lem>
+         			<note>This is probably to be understood as <foreign>vaittaṉa</foreign> (“that which were given”) or <foreign>vaittēṉ</foreign> (“I gave”).</note>
          		</app>
                
             </listApp>
@@ -161,10 +164,8 @@
          <div type="bibliography">
 
             <p>
-               First noticed and first edited for DHARMA (ERC n° 809994) by Emmanuel Francis and Valérie Gillet (2021), based on autopsy and photographs.
-            </p>
-            
-            
+               First noticed and first edited for DHARMA (ERC n° 809994) by Emmanuel Francis and Valérie Gillet (2021), based on autopsy and photographs (2019).
+            </p>    
 
          </div>
 
