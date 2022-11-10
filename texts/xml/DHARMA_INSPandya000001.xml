@@ -8,10 +8,13 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Tirukkōṭikkāval, Tirukkōṭīśvara Temple, time of Uttamacōḻa, year 11
-					(1)</title>
+				<title>Tiruppattūr stela 1</title>
 				<respStmt>
 					<resp>EpiDoc encoding</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
 					<persName ref="part:vagi">
 						<forename>Valérie</forename>
 						<surname>Gillet</surname>
@@ -19,6 +22,10 @@
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
 					<persName ref="part:vagi">
 						<forename>Valérie</forename>
 						<surname>Gillet</surname>
@@ -28,7 +35,8 @@
 			<publicationStmt>
 				<authority>DHARMA</authority>
 				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSPandya000001</idno>
+				<pubPlace>Paris, EFEO</pubPlace>
+				<idno type="filename">DHARMA_INSPandya000002</idno>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by/4.0/">
 						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
@@ -52,11 +60,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>Repha in conjunct is a dot above the letter.</p>
-							<!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
-						<summary><p><p/></summary>
-						<handNote xml:id="Pallava00001_hand1"></handNote>
-						<handNote xml:id="Pallava00001_hand2"></handNote>-->
+							<p>The <foreign>puḷḷi</foreign> is used. Medial <foreign>i</foreign> and <foreign>ī</foreign> are interchangeable.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -84,132 +88,81 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:axja" when="2020-11-03" status="draft">Updating toward the encoding
-				template v03</change>
-			<change who="part:vagi" when="2020-12-10" status="draft">Creation of the file</change>
+			<change who="part:emfr part:vagi" when="2021-02-16" status="draft">Creation of the
+				file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
       <body>
 
          <div type="edition" xml:lang="tam-Latn">
-            <p>
-               <lb n="1"/><hi rend="grantha">svasti śrī</hi>
-            </p>
-            <p>
-            <lb n="1"/>kōppa<supplied reason="lost">rakēcaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num value="11"><g type="numeral">10</g>1</num></supplied> Āvatu vaṭakarai nallāṟṟūrnāṭṭu tirukkō<supplied reason="lost">ṭikāvil <hi rend="grantha">mahā</hi></supplied><hi rend="grantha">de</hi>varkku <hi rend="grantha">śrī</hi> Uttamacōḻa<hi rend="grantha">de</hi><supplied reason="lost">varai tiruvayiṟu vāytta ma</supplied>ḻavaraiyar makiḷār
-            <lb n="2"/><choice><sic>prā</sic><corr>pirā</corr></choice>ntaka<supplied reason="lost">ṉ <hi rend="grantha">mā</hi>tēvaṭikaḷār-āna cem</supplied>piyan <hi rend="grantha"><choice><sic>māha</sic><corr>mahā</corr></choice>de</hi>viyār I<hi rend="grantha">dde</hi>varkku muṉ<surplus>ṉ</surplus> iṭṭikai<supplied reason="lost">p paṭaiyāluḷḷa <hi rend="grantha">śrī</hi></supplied>kōyilait tavirttu kallālē <supplied reason="lost"><hi rend="grantha">śrī</hi> vimāṉam amaippi</supplied>tu I<hi rend="grantha">de</hi>varuṭaiya
-             <lb n="3"/>paṭikaḷ muṉpu <hi rend="grantha">dharmma</hi>ttukku <unclear>v</unclear>ai<unclear>t</unclear>tu kaṟkaḷil veṭṭik kiṭanta Avai vevvēṟu kallāl palav iṭattilāyk kiṭanta Avai Ēllām Inta <hi rend="grantha">śrī</hi> vimāṉattiṉ mēl muṉ <gap reason="lost" extent="unknown" unit="character"/>
-             <lb n="4"/>Ēṟa veṭṭikkoḷka Eṉṟu Aruḷicey veṭṭiṉapaṭi muṉ kiṭanta paṭikaḷil Itu Oru paṭi <persName>kōmāṟañcaṭaiyaṟku</persName> yāṇṭu <num>4</num> Āvatiṉ etir Oṉpat’ āvatu Ā <gap reason="lost" extent="unknown" unit="character"/>
-             <lb n="5" break="no"/>rukkoṭikāvil <hi rend="grantha">mahāde</hi>varkku nontāviḷakkiṉukku <supplied reason="lost">vara</supplied> <gap reason="lost" quantity="15" unit="character" precision="low"/> <hi rend="grantha">ja</hi>r kuṭutta poṉ ṉūṟṟirupatiṉ <gap reason="lost" quantity="3" unit="character" precision="low"/> <supplied reason="lost">Ippo</supplied>ṉ <hi rend="grantha">mahendra</hi>koṭṭūr <hi rend="grantha">sabhai</hi>yoṅ <gap reason="lost" extent="unknown" unit="character"/>
-             <lb n="6" break="no"/>licaiyāl nicatam nāḻi ney <hi rend="grantha">rāja</hi>māttāṇṭaṉukku <hi rend="grantha">śrī</hi><unclear>kō</unclear> <gap reason="lost" quantity="5" unit="character" precision="low"/> <unclear>ko</unclear>ṇṭu ceṉṟu tirukkōyiluṭaiyār <gap reason="lost" quantity="6" unit="character" precision="low"/> kuṭuppōmāṉōm <hi rend="grantha">mahendra</hi>koṭṭūr <hi rend="grantha">sabhai</hi> <gap reason="lost" extent="unknown" unit="character"/>
-             <lb n="7"/><g/> Inta <hi rend="grantha">śrī</hi> vimāṉattilē Ēṟa veṭṭinamaiyil muṉṉivvā<hi rend="grantha">ja</hi>kam veṭṭi kiṭanta taṉik<unclear>kallāl</unclear> <hi rend="grantha"><supplied reason="lost">U</supplied>paiyogam</hi> Illāmaiyil Atu tavirntatu
-            </p>
+         	<p>
+         	<!--EF: check if verse and accordingly add <lg/>-->
+         	<!--Add paragraph split-->
+         		
+         	<lb n="1"/><hi rend="grantha"><gap reason="lost" quantity="15" unit="character" precision="low"/>
+         	<!--EF: possibly more than one line missing?-->
+         	<lb n="2"/>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>l</unclear>o<unclear>dav</unclear>yatām ity udāro mā <gap reason="lost" quantity="1" unit="character"/>
+         		<lb n="3"/><gap reason="lost" quantity="1" unit="character"/> sūn<unclear>u</unclear>-jagad-uru-tilaka-śrī-na<add place="above">ro</add> pra
+         		<lb n="4"/><gap reason="lost" quantity="1" unit="character"/> m<unclear>a</unclear>-jātaḥ śrī-sthalyā<unclear>ṃ</unclear> liṃga-mū<supplied reason="omitted">r</supplied>tt<unclear>y</unclear><supplied reason="lost">ā</supplied>
+         		<!--display issue: <supplied reason="lost">ā</supplied>: the closing "]" is unduly in bold.--> 
+         		<lb n="5"/><supplied reason="lost">tri</supplied><unclear>bhu</unclear>vana-pataye śam·bhave <gap reason="lost" quantity="1" unit="character"/>
+         		<lb n="6"/><gap reason="lost" quantity="2" unit="character"/> <unclear>dh</unclear>āttre kācānām pañca-paṃkti-<gap reason="lost" quantity="1" unit="character"/>
+         		<lb n="7"/><gap reason="lost" quantity="2" unit="character"/> tarad urutaran dhāma śaṃbho<supplied reason="omitted">r</supplied> yyi <gap reason="lost" quantity="1" unit="character"/>
+         		<lb n="8"/><gap reason="lost" quantity="1" unit="character"/> <unclear><g type="gomutra">.</g></unclear> dipye tā<unclear>n</unclear> d<choice><sic>i</sic><corr>ī</corr></choice>pa-māle dve sva
+         		<lb n="9"/><supplied reason="lost">janma</supplied>-divase tathā pratimāsam iti p<choice><unclear>ṛ</unclear><unclear>ra</unclear></choice>
+         			<lb n="10"/> <gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g type="gomutra">.</g> svasti</hi>
+         		<lb n="11"/><supplied reason="lost"><hi rend="grantha">śrī</hi> kō-m</supplied>āṟañ·caṭaiyaṟku yāṇṭu <num value="5">5</num> Ai-
+         		<lb n="12"/><supplied reason="lost">nt</supplied>āvatu koḻuvūrkkūṟ·ṟattup pira
+         		<lb n="13" break="no"/><supplied reason="lost">ma</supplied>tēyan tirupputtūr maṇal<unclear>ū</unclear>
+         		<lb n="14" break="no"/><supplied reason="lost">r</supplied>kiḻār· makaṉ· Oloccaṉ·ṟuv vē
+         		<!--EF: Oloccaṉ·ṟuv vēti >> Oloccaṉ· ṟuvvēti >> tuvēti = Skt dvivedin??-->
+         		<lb n="15"/>ti-c·-caṭaṅkavi Iṭaiyāṟuṭaiyāṉ·
+         		<lb n="16"/>tattaṉ· māṟaṉ Iv·vūrt tirut
+         		<lb n="17" break="no"/>taḷip perumāṉaṭikaḷukku no
+         		<lb n="18" break="no"/>ntā viḷak·k’ oṉṟ’ erippataṟku
+         		<lb n="19"/>vaitta niṟai kuṟaiyā paḻaṅ·       		
+         		<lb n="20" break="no"/>kācu poṉ· vaiy·yātaṉa <num value="15"><g type="numeral">10</g> <g type="numeral">5</g></num>
+         		<lb n="21" break="no"/>patiṉ ain·tum· Ivaṉ ṟiṅkaṭ· pi<unclear>ṟa</unclear>
+         		<lb n="22"/>nta nāḷ· vicākattu nāṉ·ṟ’ uḷḷā
+         		<lb n="23" break="no"/><unclear>l</unclear> <hi rend="grantha">d<choice><sic>i</sic><corr>ī</corr></choice></hi>pa-mālai Iraṇ·ṭum eripp·ataṟ<unclear>·</unclear>        	
+         		<lb n="24" break="no"/><supplied reason="lost">ku</supplied> mēṟpaṭi kāc’ oṉ·ṟumākap· patiṉā
+         		<lb n="25" break="no"/><supplied reason="lost">lu</supplied> kāciṉālun· tiṅkaṭ poli
+         		<lb n="26"/>koṇṭu tiruviḷak·k’ erip·patāka
+         		<lb n="27" break="no"/>t tirupput·tūr· <hi rend="grantha">sabhai</hi>yār· kaiyyi
+         		<lb n="28" break="no"/><supplied reason="lost">l kuṭu</supplied><unclear>t</unclear>tēṉ tattaṉ māṟaṉē
+         		<lb n="29" break="no"/><supplied reason="lost">ṉ</supplied> <gap reason="lost" quantity="2" unit="character" precision="low"/> <supplied reason="lost">I</supplied><hi rend="grantha"><unclear>ddha</unclear></hi><choice><sic>m·</sic><corr>ma</corr></choice>ttiṉai <hi rend="grantha">rakṣi</hi>ppār
+         		<lb n="30"/><hi rend="grantha">śrī-pāda</hi><unclear>m</unclear> Eṉ· ṟalai mēlaṉa <g type="gomutra">.</g>
+         	
+         	</p>
          </div>
 
          <div type="apparatus">
-            
-            
-            <listApp>
-                <app loc="1">
-                  <lem>kōppa<supplied reason="lost">rakēcaripaṉ<hi rend="grantha">ma</hi>kku yāṇṭu <num>10 1</num></supplied></lem>
-                  <rdg source="bib:SrinivasaRao1967_01">kōpparakēcaripaṉmakku yāṇṭu <num>10 1</num></rdg>
-                   <note>this passage is no longer fully legible</note>
-                   </app>
-                   
-               <app loc="1">
-                  <lem>Uttamacōḻa<hi rend="grantha">de</hi><supplied reason="lost">varai tiruvayiṟu vāytta ma</supplied>ḻavaraiyar</lem>
-                  <rdg source="bib:SrinivasaRao1967_01">Uttamacōḻa<hi rend="grantha">de</hi>varai tiruvayiṟu vāytta maḻavaraiyar</rdg>
-                   <note>this passage is no longer fully legible</note>
-               </app>
-                
-               <app loc="2">
-                  <lem><supplied reason="lost">ṉ <hi rend="grantha">mā</hi>tēvaṭikaḷār-āna cem</supplied></lem>
-                  <rdg source="bib:SrinivasaRao1967_01">ṉ <hi rend="grantha">mā</hi>tēvaṭikaḷār-āna cem</rdg>
-                   <note>this passage is no longer legible</note>
-               </app>
-               
-                <app loc="2">
-                  <lem><supplied reason="lost">p paṭaiyāluḷḷa <hi rend="grantha">śrī</hi></supplied></lem>
-                  <rdg source="bib:SrinivasaRao1967_01"><unclear>p paṭaiyālu</unclear>ḷḷa <hi rend="grantha">śrī</hi></rdg>
-                   <note>this passage is no longer legible</note> 
-               </app>
-               
-             <app loc="2">
-                  <lem><supplied reason="lost"><hi rend="grantha">śrī</hi> vimāṉam amaippi</supplied></lem>
-                  <rdg source="bib:SrinivasaRao1967_01"><hi rend="grantha">śrī</hi> vimāṉam amaippi</rdg>
-                   <note>this passage is no longer legible</note> 
-               </app>
-               
-                <app loc="5">
-                  <lem><supplied reason="lost">vara</supplied></lem>
-                  <rdg source="bib:SrinivasaRao1967_01">vara</rdg>
-                   <note>this passage is no longer legible</note> 
-               </app>
-               
-               <app loc="5">
-                  <lem><supplied reason="lost">Ippo</supplied></lem>
-                  <rdg source="bib:SrinivasaRao1967_01">Ippo</rdg>
-                   <note>this passage is no longer legible</note> 
-               </app>
-               
-               <app loc="7">
-                  <lem><supplied reason="lost">U</supplied></lem>
-                  <rdg source="bib:SrinivasaRao1967_01">U</rdg>
-                   <note>this letter is no longer legible</note> 
-               </app>
-               
-               
+                        
+         	<listApp>
+         		
+         		<app loc="20">
+         			<lem>vaiy·yātaṉa</lem>
+         			<note>This is probably to be understood as <foreign>vaittaṉa</foreign> ("that which were given") or <foreign>vaittēṉ</foreign> ("I gave").</note>
+         		</app>
                
             </listApp>
             
          </div>
 
-         <!--<div type="translation">
+        <div type="translation" resp="part:emfr part:vagi">
          	
-         </div>-->
+         </div>
 
          <div type="commentary">
-         	<p n="20">
-         	</p>
-           <p n="21">
-         	</p>
-           <p n="36">
-         	</p>
+         	
          </div>
 
          <div type="bibliography">
 
             <p>
-<!--               First reported in ARIE 1930-1931/B/36 <ptr target="bib:ARIE1930-1931"/>; edited for the first time in SII 19, no. 292 <ptr target="bib:SrinivasaRao1967_01"/>; present edition by Valérie Gillet from autopsy and photographs. I COPIED THIS ONE FROM A PREVIOUS EDITION WE DID TOGETHER, BUT THE ONE UNDER HAS CHANGED. SO I DON'T KNOW WHICH ONE TO KEEP. OR PERHAPS IT DOES NOT MATTER ?-->
-               
-               First edited in <bibl n="SII 19.292">
-                  <ptr target="bib:SrinivasaRao1967_01"/>
-                  <citedRange unit="page">144-145</citedRange>
-                  <citedRange unit="item">292</citedRange>
-               </bibl>; re-edited here for DHARMA (ERC n° 809994) by Valérie Gillet (2020), based on autopsy and photographs.
-            </p>
-            
-            <listBibl type="primary">
-               
-               <bibl n="SII 19.292">
-                  <ptr target="bib:SrinivasaRao1967_01"/>
-                  <citedRange unit="page">144-145</citedRange>
-                  <citedRange unit="item">292</citedRange>
-               </bibl>
-               
-            </listBibl>
-            
-            <listBibl type="secondary">
-               
-               <bibl>
-                  <ptr target="bib:ARIE1930-1931"/>
-                  <citedRange unit="page">8</citedRange>
-                  <citedRange unit="appendix">B</citedRange>
-                  <citedRange unit="item">36</citedRange>
-               </bibl>
-               
-            </listBibl>
+               First noticed and first edited for DHARMA (ERC n° 809994) by Emmanuel Francis and Valérie Gillet (2021), based on autopsy and photographs (2019).
+            </p>    
 
          </div>
 
