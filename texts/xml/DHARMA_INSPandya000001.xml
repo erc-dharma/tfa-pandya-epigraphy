@@ -56,7 +56,7 @@
 						<idno/>
 					</msIdentifier>
 					<msContents>
-						<summary/>
+						<summary>Donation of gold coins for the upkeep of lamps.</summary>
 					</msContents>
 					<physDesc>
 						<handDesc>
@@ -98,21 +98,19 @@
 <div type="edition" xml:lang="tam-Latn">
       		
 	<!--EF: check if verse and accordingly add <lg/>-->
-	<!--Add paragraph split-->
 	
 	<p>	
 		<lb n="1"/><hi rend="grantha"><gap reason="lost" quantity="15" unit="character" precision="low"/>
-		<!--EF: possibly more than one line missing?-->
 		<lb n="2"/>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>l</unclear>o<unclear>dav</unclear>yatām ity udāro mā <gap reason="lost" quantity="1" unit="character"/>
-		<lb n="3"/><gap reason="lost" quantity="1" unit="character"/> sūn<unclear>u</unclear>-jagad-uru-tilaka-śrī-na<add place="above">ro</add> pra
-		<lb n="4"/><gap reason="lost" quantity="1" unit="character"/> m<unclear>a</unclear>-jātaḥ śrī-sthalyā<unclear>ṃ</unclear> liṃga-mū<supplied reason="omitted">r</supplied>tt<unclear>y</unclear><supplied reason="lost">ā</supplied>
+		<lb n="3" break="no"/><gap reason="lost" quantity="1" unit="character"/>-sūn<unclear>u</unclear>-jagad-uru-tilaka-śrī-na<add place="above">ro</add> pra
+		<lb n="4" break="no"/><supplied reason="lost">tha</supplied>m<unclear>a</unclear>-jātaḥ śrī-sthalyā<unclear>ṃ</unclear> liṃga-mū<supplied reason="omitted">r</supplied>tt<unclear>y</unclear><supplied reason="lost">ā</supplied>
 		<!--display issue: <supplied reason="lost">ā</supplied>: the closing "]" is unduly in bold.--> 
 		<lb n="5"/><supplied reason="lost">tri</supplied><unclear>bhu</unclear>vana-pataye śam·bhave <gap reason="lost" quantity="1" unit="character"/>
-		<lb n="6"/><gap reason="lost" quantity="2" unit="character"/> <unclear>dh</unclear>āttre kācānām pañca-paṃkti-<gap reason="lost" quantity="1" unit="character"/>
-		<lb n="7"/><gap reason="lost" quantity="2" unit="character"/> tarad urutaran dhāma śaṃbho<supplied reason="omitted">r</supplied> yyi <gap reason="lost" quantity="1" unit="character"/>
-		<lb n="8"/><gap reason="lost" quantity="1" unit="character"/> <unclear><g type="gomutra">.</g></unclear> dipye tā<unclear>n</unclear> d<choice><sic>i</sic><corr>ī</corr></choice>pa-māle dve sva
-		<lb n="9"/><supplied reason="lost">janma</supplied>-divase tathā pratimāsam iti p<choice><unclear>ṛ</unclear><unclear>ra</unclear></choice>
-		<lb n="10"/> <gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g type="gomutra">.</g></hi>
+		<lb n="6" break="no"/><gap reason="lost" quantity="2" unit="character"/> <unclear>dh</unclear>āttre kācānām pañca-paṃkti-<gap reason="lost" quantity="1" unit="character"/>
+		<lb n="7" break="no"/><gap reason="lost" quantity="2" unit="character"/> tarad urutaran dhāma śaṃbho<supplied reason="omitted">r</supplied> yyi <gap reason="lost" quantity="1" unit="character"/>
+		<lb n="8" break="no"/><gap reason="lost" quantity="1" unit="character"/> <unclear><g type="gomutra">.</g></unclear> dipye tā<unclear>n</unclear> d<choice><sic>i</sic><corr>ī</corr></choice>pa-māle dve sva
+		<lb n="9" break="no"/><supplied reason="lost">janma</supplied>-divase tathā pratimāsam iti p<choice><unclear>ṛ</unclear><unclear>ra</unclear></choice>
+		<lb n="10" break="no"/><gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g type="gomutra">.</g></hi>
 	</p>
 	
 	<p>
@@ -126,12 +124,11 @@
 	</p>
 	
 	<p>
-		koḻuvūrkkūṟ·ṟattup pira
+		koḻuvūr-k-kūṟ·ṟattu-p pira
 		<lb n="13" break="no"/><supplied reason="lost">ma</supplied>tēyan tirupputtūr maṇal<unclear>ū</unclear>
-		<lb n="14" break="no"/><supplied reason="lost">r</supplied>kiḻār· makaṉ· Oloccaṉ·ṟuv vē
-		<!--EF: Oloccaṉ·ṟuv vēti >> Oloccaṉ· ṟuvvēti >> tuvēti = Skt dvivedin??-->
+		<lb n="14" break="no"/><supplied reason="lost">r</supplied>kiḻār· makaṉ· Oloccaṉ·ṟuvvē
 		<lb n="15"/>ti-c·-caṭaṅkavi Iṭaiyāṟuṭaiyāṉ·
-		<lb n="16"/>tattaṉ· māṟaṉ Iv·vūrt tirut
+		<lb n="16"/>tattaṉ· māṟaṉ Iv·vūr-t tirut
 		<lb n="17" break="no"/>taḷip perumāṉaṭikaḷukku no
 		<lb n="18" break="no"/>ntā viḷak·k’ oṉṟ’ erippataṟku
 		<lb n="19"/>vaitta niṟai kuṟaiyā paḻaṅ·       		
@@ -162,6 +159,12 @@
                         
 	<listApp>
 		
+		<app loc="1">
+			<lem><hi rend="grantha"><gap reason="lost" quantity="15" unit="character" precision="low"/></hi></lem>
+			<note>Some more lines are possibly missing at the beginning of the inscription.</note>
+		</app>
+		
+		
 		<app loc="20">
 			<lem>vaiy·yātaṉa</lem>
 			<note>This is probably to be understood as <foreign>vaittaṉa</foreign> ("that which were given") or <foreign>vaittēṉ</foreign> ("I gave").</note>
@@ -171,23 +174,23 @@
 	
 </div>
 
-<div type="translation" resp="part:emfr">      
+<div type="translation" resp="part:emfr part:vagi">      
 	
-	<p>...</p>
+	<p n="1-10"><gap reason="ellipsis"/> the glorious hero who is the large ornament of the world and the son of <gap reason="ellipsis"/>, the first born, in the glorious Sthāli, to Śambhu, the master of the <supplied reason="lost">three</supplied> worlds in the form of a <foreign>liṅga</foreign> <gap reason="ellipsis"/> the very large abode of Śambhu <gap reason="ellipsis"/> two kindled garlands of lamps <gap reason="ellipsis"/> on the day of his <supplied reason="lost">birth</supplied>, thus, every month, <gap reason="ellipsis"/> agin, himself.</p>
 	
 	<p n="10-11">Prosperity! Fortune!</p>
 	
-	<p n="11-12">Fifth (5) year of the king Māṟañ Caṭaiyaṉ.</p>
+	<p n="11-12">Year 5, fifth<note>The year number is written twice (as a digit and in letters) to avoid confusion.</note>, of the king Māṟañ Caṭaiyaṉ.</p>
 	
-	<p n="12-21">...</p>
+	<p n="12-21"><supplied reason="subaudible">In</supplied> Tirupputtūr, a <foreign>brahmadeya</foreign> in the Kōḻuvūrkkūṟṟam, the old gold coins, full and undiminished <supplied reason="explanation"><foreign>niṟai kuṟaiyā</foreign></supplied>, that <supplied reason="subaudible">l, </supplied> Tattaṉ Māṟaṉ, lord of Iṭaiyāru, versed in the Vedas and the Vedāṅgas <supplied reason="explanation"><foreign>vēti-c-caṭaṅkavi</foreign></supplied>, Oloccaṉṟu, son of the lord of Maṇalūr, I have given for lighting one perpetual lamp for the lord <supplied reason="explanation"><foreign>perumāṉaṭikaḷ</foreign></supplied> of the glorious Taḷi in this village <supplied reason="subaudible">are</supplied> 15 fifteen<note>The number is written twice (as digits and in letters) to avoid confusion.</note>.</p>
 	
 	<p n="21-29">
-		<l>So that there be <supplied reason="explanation"><foreign>āka</foreign><note>Line 24</note></supplied> one coin <supplied reason="explanation"><foreign>kācu</foreign></supplied> ...</l>
-		<l><supplied reason="subaudible">and</supplied> so that there be ...</l>
-		<l><unclear>I,</unclear> Tattaṉ Māṟaṉ have given <supplied reason="subaudible">these</supplied> in the hands of the members of the assembly of Tirrupputtūr.</l>
+		<l>So that there be <supplied reason="explanation"><foreign>āka</foreign><note>Line 24.</note></supplied> one coin <supplied reason="explanation"><foreign>kācu</foreign></supplied> <supplied reason="subaudible">among the</supplied> above<supplied reason="subaudible">-mentioned coins</supplied> for lighting two guarlands / rows of lamps, inside <supplied reason="explanation"><foreign>uḷḷāl</foreign></supplied> <supplied reason="subaudible">the temple</supplied>, at the time of <foreign>vicākam</foreign> <supplied reason="explanation">at the time</supplied> his birthday <supplied reason="explanation"><foreign>ivaṉ tiṅkaḷ</foreign><note>The referent of <foreign>ivaṉ</foreign> appears to be the donor who speaks however in the first person in this sentence.</note></supplied>,</l>
+		<l><supplied reason="subaudible">and</supplied> so that there be <supplied reason="explanation"><foreign>āka</foreign><note>Line 26.</note></supplied>, with the monthly interest <supplied reason="explanation"><foreign>tiṅkaṭ poli</foreign></supplied> of the <supplied reason="subaudible">remaining</supplied> fourteen coins, the lighting of a glorious lamp</l>
+		<l><unclear>I,</unclear> Tattaṉ Māṟaṉ have given <supplied reason="subaudible">these coins</supplied> in the hands of the members of the assembly of Tirrupputtūr.</l>
 	</p>
 	
-	<p n="29-30">...</p>
+	<p n="29-30">The glorious feet of those who protect this pious donation are on my head.</p>
         	         	
          </div>
 
@@ -198,7 +201,7 @@
 <div type="bibliography">
 
             <p>
-               First noticed and first edited for DHARMA (ERC n° 809994) by Emmanuel Francis and Valérie Gillet (2021), based on autopsy and photographs (2019).
+               Edited for DHARMA (ERC no. 809994) by Emmanuel Francis and Valérie Gillet (2021), based on autopsy and photographs (2019).
             </p>    
 
          </div>
