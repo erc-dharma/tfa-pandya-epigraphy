@@ -14,14 +14,14 @@
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
-					</persName>					
+					</persName>
 				</respStmt>
 				<respStmt>
 					<resp>intellectual authorship of edition</resp>
 					<persName ref="part:emfr">
 						<forename>Emmanuel</forename>
 						<surname>Francis</surname>
-					</persName>					
+					</persName>
 				</respStmt>
 			</titleStmt>
 			<publicationStmt>
@@ -52,7 +52,7 @@
 					</msContents>
 					<physDesc>
 						<handDesc>
-							<p>The <foreign>puḷḷi</foreign> is used.</p>
+							<p>Tamil script. The <foreign>puḷḷi</foreign> is used, almost consistently.</p>
 						</handDesc>
 					</physDesc>
 				</msDesc>
@@ -80,7 +80,8 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:emfr part:vagi" when="2023-10-10" status="draft">Creation of the file</change>
+			<change who="part:emfr part:vagi" when="2023-10-10" status="draft"
+				>Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
@@ -96,7 +97,7 @@
             	<l n="a">ka<lb n="2" break="no"/>lpāpāya-hutāśa-dhū<lb n="3" break="no"/>ma-paṭala-krūram‧ viṣaṃ līla<lb n="4" break="no"/>yā</l>
 		<l n="b">kaṇṭhe yaḥ kalayām‧ babhūva v<supplied reason="lost">i</supplied><lb n="5" break="no"/>budhai<supplied reason="omitted">r</supplied> bibhyattir abhya<supplied reason="omitted">r</supplied>tthitaḥ</l>
 		<l n="c">ya<supplied reason="lost">s tā</supplied><lb n="6"/><supplied reason="omitted">r</supplied>ṇīr iva ni<supplied reason="omitted">r</supplied>ddadāha vitatīś śuṣkāḥ purī<lb n="7" break="no"/>r āsurī<supplied reason="omitted">r</supplied></l>
-		<l n="d">yyaś cākṣi-jvalane juhāva <lb n="8"/> madanam‧ pāyād apāyāt sa vaḥ {wavy line}</l>
+		<l n="d">yyaś cākṣi-jvalane juhāva <lb n="8"/> madanam‧ pāyād apāyāt sa vaḥ {wavy line} <!--update encoding of punctuation--></l>
             </lg>
 		
 	<p>	
@@ -108,30 +109,98 @@
 	<p>
 		vem·pil· mati<supplied reason="lost">ḷ a</supplied>
 		<lb n="11" break="no"/>ḻit<unclear>·</unclear>tup pōntu niyamat<unclear>·</unclear>t’ irunt’ aruḷi <supplied reason="lost"><hi rend="grantha">so</hi></supplied>		
-		<lb n="12" break="no"/>...
-	</p>	
+		<lb n="12" break="no"/><hi rend="grantha">ma-sū<supplied reason="omitted">r</supplied>yyānva</hi>ya-<hi rend="grantha">dva</hi>ya-ti<hi rend="grantha">lakāraṃgārar-ā</hi>yina <supplied reason="lost"><hi rend="grantha">pā</hi></supplied>
+		<lb n="13" break="no"/><hi rend="grantha">ṇḍyādhirājar</hi> va<hi rend="grantha">ragu</hi>ṇa-<hi rend="grantha">de</hi>var tirumal<unclear>ai</unclear>-<hi rend="grantha">bhaṭā</hi>ra<supplied reason="lost">rk</supplied>
+		<lb n="14" break="no"/>ku-k kuṭutta poṉ pāṭi-k-kallāl <num value="125"><g type="numeral">100</g> <unclear>2 <g type="numeral">10</g></unclear> 5</num> {kaḻañcu}<!--update encoding of abbreviation--> nūṟ<unclear>ṟ</unclear>’ <supplied reason="lost">i</supplied>
+		<lb n="15" break="no"/>rupatt’ aiṅ-kaḻañcum
+	</p>
+
+	<p>
+		Ip-poṉ· mutaṉiṟka
+		<lb n="16" break="no"/>poli koṇṭu muppatiṉ kaḻañcu poṉṉiṉ
+		<lb n="17"/>poliyāl Oru nontā-viḷakk’ āka <unclear reason="eccentric_ductus">nū</unclear>ṟṟ’ iru
+		<lb n="18" break="no"/>patin kaḻañcu poṉṉāl· nālu non
+		<lb n="19" break="no"/>tā viḷakk’ eriya-k kāṇa-nāḻiyāl nicati Aṭṭa-k ka
+		<lb n="20" break="no"/>ṭava ney Iru-nāḻi
+	</p>
 	
+	<p>
+		niṉ·ṟa Aiṅ-kaḻañcu po
+		<lb n="21" break="no"/>ṉṉālun tiṅkaṭoṟum tiṅkaṭ ṭiruvāti
+		<lb n="22" break="no"/>rai nāṉṟ’ avv-irā-p pularum aḷavum Aintu
+		<lb n="23"/>viḷakk’ eriya Aṭṭa-k kaṭava ney Iru-nāḻi U
+		<lb n="24" break="no"/>ri		
+	</p>
+	
+	<p>
+		Ivv-oṭṭiṉa paricu ney Aṭṭi It-ti
+		<lb n="25" break="no"/>ru-viḷakk’ erippāṉ<unclear>·</unclear> Ip-poṉ· nūṟṟ’ irupatt’ ai
+		<lb n="26" break="no"/>ṅ-kaḻañcuṅ koṇṭōm· ciṟ<unclear>·</unclear>ṟampar naka<supplied reason="lost">rat</supplied>
+		<lb n="27" break="no"/>tōm
+	</p>
+	
+	<p>
+		Ivv-oṭ·ṭiṉa paricu ney Aṭ·ṭuvip·<supplied reason="lost">p</supplied>
+		<lb n="28" break="no"/>taṟku Amain·tu puṇai-p· paṭṭōm· ciṟ·ṟam·par· <supplied reason="lost">pa</supplied>
+		<lb n="29" break="no"/>tiyum<unclear>·</unclear> pātam<choice><unclear>u</unclear><unclear>ū</unclear></choice>lattōmum
+	</p>
+	
+	<p>Itu <hi rend="grantha">pan·māhe</hi>
+		<lb n="30" break="no"/><space/> <hi rend="grantha">śvararar Iraikṣai</hi>
+	</p>
+
 </div>
       	
-<!--<div type="apparatus">
+<div type="apparatus">
                         
 	<listApp>
 		
-		<app loc="0">
+		<!--<app loc="0">
 			<lem>...</lem>
 			<rdg source="bib:RamanathaAyyar1962_01">...</rdg>
 			<rdg source="bib:Gillet2017_01">...</rdg>
-		</app>
+		</app>-->
+		
+		<app loc="12">
+			<lem>°ti<hi rend="grantha">lakāraṃgārar</hi>°</lem>
+			<rdg source="bib:RamanathaAyyar1962_01">°ti<hi rend="grantha">lakāraṃgārar</hi>°</rdg>
+			<rdg source="bib:Gillet2017_01">°ti<hi rend="grantha">lakāraṅgārar</hi>°</rdg>
+		</app>			
 			
+		<app loc="20">
+			<lem>niṉ·ṟa</lem>
+			<rdg source="bib:RamanathaAyyar1962_01">niṉṟu</rdg>
+			<rdg source="bib:Gillet2017_01">niṉṟu</rdg>
+		</app>		
+					
+		<app loc="24">
+			<lem>paricu</lem>
+			<rdg source="bib:RamanathaAyyar1962_01 bib:Gillet2017_01"><hi rend="grantha">pa</hi>ricu</rdg>
+		</app>
 		
 	</listApp>
 	
-</div>-->
+</div>
 
 <div type="translation" resp="part:emfr">      
 	
-	<p n="1-...">...
+	<p n="1">Prosperity! Fortune!</p>
+	
+	<p rend="stanza" n="1">
+		<l>...</l>
 	</p>
+	
+	<p n="8-10">...</p>
+	
+	<p n="10-15">...</p>
+	
+	<p n="15-20">...</p>
+	
+	<p n="20-24">...</p>
+	
+	<p n="24-27">...</p>
+	
+	<p n="27-29">...</p>
 	
 	<p n="29-30">This pious donation is under the protection of the Paṉmāheśvaras.</p>
         	         	
