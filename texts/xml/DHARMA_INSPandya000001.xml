@@ -103,11 +103,11 @@
 		<lb n="1"/><hi rend="grantha"><gap reason="lost" quantity="15" unit="character" precision="low"/>
 		<lb n="2"/>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>l</unclear>o<unclear>dav</unclear>yatām ity udāro mā <gap reason="lost" quantity="1" unit="character"/>
 		<lb n="3" break="no"/><gap reason="lost" quantity="1" unit="character"/>-sūn<unclear>u</unclear>-jagad-uru-tilaka-śrī-na<add place="above">ro</add> pra
-		<lb n="4" break="no"/><supplied reason="lost">tha</supplied>m<unclear>a</unclear>-jātaḥ śrī-sthalyā<unclear>ṃ</unclear> liṃga-mū<supplied reason="omitted">r</supplied>tt<unclear>y</unclear><supplied reason="lost">ā</supplied>
+		<lb n="4" break="no"/><supplied reason="lost">tha</supplied>m<unclear>a</unclear>-jātaḥ śrī-sthalyā<unclear>ṁ</unclear> liṁga-mū<supplied reason="omitted">r</supplied>tt<unclear>y</unclear><supplied reason="lost">ā</supplied>
 		<!--display issue: <supplied reason="lost">ā</supplied>: the closing "]" is unduly in bold.--> 
 		<lb n="5"/><supplied reason="lost">tri</supplied><unclear>bhu</unclear>vana-pataye śam·bhave <gap reason="lost" quantity="1" unit="character"/>
-		<lb n="6" break="no"/><gap reason="lost" quantity="2" unit="character"/> <unclear>dh</unclear>āttre kācānām pañca-paṃkti-<gap reason="lost" quantity="1" unit="character"/>
-		<lb n="7" break="no"/><gap reason="lost" quantity="2" unit="character"/> tarad urutaran dhāma śaṃbho<supplied reason="omitted">r</supplied> yyi <gap reason="lost" quantity="1" unit="character"/>
+		<lb n="6" break="no"/><gap reason="lost" quantity="2" unit="character"/> <unclear>dh</unclear>āttre kācānām pañca-paṁkti-<gap reason="lost" quantity="1" unit="character"/>
+		<lb n="7" break="no"/><gap reason="lost" quantity="2" unit="character"/> tarad urutaran dhāma śaṁbho<supplied reason="omitted">r</supplied> yyi <gap reason="lost" quantity="1" unit="character"/>
 		<lb n="8" break="no"/><gap reason="lost" quantity="1" unit="character"/> <unclear><g type="gomutra">.</g></unclear> dipye tā<unclear>n</unclear> d<choice><sic>i</sic><corr>ī</corr></choice>pa-māle dve sva
 		<lb n="9" break="no"/><supplied reason="lost">janma</supplied>-divase tathā pratimāsam iti p<choice><unclear>ṛ</unclear><unclear>ra</unclear></choice>
 		<lb n="10" break="no"/><gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g type="gomutra">.</g></hi>

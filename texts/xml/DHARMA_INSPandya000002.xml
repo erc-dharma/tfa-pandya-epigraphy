@@ -94,7 +94,7 @@
 	</ab>
 	
 	<lg n="1" met="śārdūlavikrīḍita">
-            	<l n="a">ka<lb n="2" break="no"/>lpāpāya-hutāśa-dhū<lb n="3" break="no"/>ma-paṭala-krūram‧ viṣaṃ līla<lb n="4" break="no"/>yā</l>
+            	<l n="a">ka<lb n="2" break="no"/>lpāpāya-hutāśa-dhū<lb n="3" break="no"/>ma-paṭala-krūram‧ viṣaṁ līla<lb n="4" break="no"/>yā</l>
 		<l n="b">kaṇṭhe yaḥ kalayām‧ babhūva v<supplied reason="lost">i</supplied><lb n="5" break="no"/>budhai<supplied reason="omitted">r</supplied> bibhyattir abhya<supplied reason="omitted">r</supplied>tthitaḥ</l>
 		<l n="c">ya<supplied reason="lost">s tā</supplied><lb n="6"/><supplied reason="omitted">r</supplied>ṇīr iva ni<supplied reason="omitted">r</supplied>ddadāha vitatīś śuṣkāḥ purī<lb n="7" break="no"/>r āsurī<supplied reason="omitted">r</supplied></l>
 		<l n="d">yyaś cākṣi-jvalane juhāva <lb n="8"/> madanam‧ pāyād apāyāt sa vaḥ {wavy line} <!--update encoding of punctuation--></l>
@@ -109,7 +109,7 @@
 	<p>
 		vem·pil· mati<supplied reason="lost">ḷ a</supplied>
 		<lb n="11" break="no"/>ḻit<unclear>·</unclear>tup pōntu niyamat<unclear>·</unclear>t’ irunt’ aruḷi <supplied reason="lost"><hi rend="grantha">so</hi></supplied>		
-		<lb n="12" break="no"/><hi rend="grantha">ma-sū<supplied reason="omitted">r</supplied>yyānva</hi>ya-<hi rend="grantha">dva</hi>ya-ti<hi rend="grantha">lakāraṃgārar-ā</hi>yina <supplied reason="lost"><hi rend="grantha">pā</hi></supplied>
+		<lb n="12" break="no"/><hi rend="grantha">ma-sū<supplied reason="omitted">r</supplied>yyānva</hi>ya-<hi rend="grantha">dva</hi>ya-ti<hi rend="grantha">lakāraṁgārar-ā</hi>yina <supplied reason="lost"><hi rend="grantha">pā</hi></supplied>
 		<lb n="13" break="no"/><hi rend="grantha">ṇḍyādhirājar</hi> va<hi rend="grantha">ragu</hi>ṇa-<hi rend="grantha">de</hi>var tirumal<unclear>ai</unclear>-<hi rend="grantha">bhaṭā</hi>ra<supplied reason="lost">rk</supplied>
 		<lb n="14" break="no"/>ku-k kuṭutta poṉ pāṭi-k-kallāl <num value="125"><g type="numeral">100</g> <unclear>2 <g type="numeral">10</g></unclear> 5</num> {kaḻañcu}<!--update encoding of abbreviation--> nūṟ<unclear>ṟ</unclear>’ <supplied reason="lost">i</supplied>
 		<lb n="15" break="no"/>rupatt’ aiṅ-kaḻañcum
@@ -162,8 +162,8 @@
 		</app>-->
 		
 		<app loc="12">
-			<lem>°ti<hi rend="grantha">lakāraṃgārar</hi>°</lem>
-			<rdg source="bib:RamanathaAyyar1962_01">°ti<hi rend="grantha">lakāraṃgārar</hi>°</rdg>
+			<lem>°ti<hi rend="grantha">lakāraṁgārar</hi>°</lem>
+			<rdg source="bib:RamanathaAyyar1962_01">°ti<hi rend="grantha">lakāraṁgārar</hi>°</rdg>
 			<rdg source="bib:Gillet2017_01">°ti<hi rend="grantha">lakāraṅgārar</hi>°</rdg>
 		</app>			
 			
