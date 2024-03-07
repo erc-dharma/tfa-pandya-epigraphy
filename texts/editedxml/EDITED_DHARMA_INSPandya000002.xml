@@ -2,22 +2,18 @@
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tiruppattūr stela 1</title>
+            <title>Trichy, rock, time of Māṟañ Caṭaiyaṉ, year 4</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
-               </persName>
-               <persName ref="part:vagi">
-                  <forename>Valérie</forename>
-                  <surname>Gillet</surname>
                </persName>
             </respStmt>
             <respStmt>
@@ -25,10 +21,6 @@
                <persName ref="part:emfr">
                   <forename>Emmanuel</forename>
                   <surname>Francis</surname>
-               </persName>
-               <persName ref="part:vagi">
-                  <forename>Valérie</forename>
-                  <surname>Gillet</surname>
                </persName>
             </respStmt>
          </titleStmt>
@@ -56,11 +48,11 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Donation of gold coins for the upkeep of lamps.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>The <foreign>puḷḷi</foreign> is used. Medial <foreign>i</foreign> and <foreign>ī</foreign> are interchangeable.</p>
+                     <p>Tamil script. The <foreign>puḷḷi</foreign> is used, almost consistently.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -91,81 +83,175 @@
          </listPrefixDef>
       </encodingDesc>
       <revisionDesc>
-         <change who="part:emfr part:vagi" when="2021-02-16" status="draft">Creation of the
-				file</change>
+         <change who="part:emfr part:vagi" when="2023-10-10" status="draft">Creation of the file</change>
       </revisionDesc>
    </teiHeader>
    <text xml:space="preserve">
       <body>
 
-         <div type="edition" xml:lang="tam-Latn">
-         	<p>
-         	<!--EF: check if verse and accordingly add <lg/>-->
-         	<!--Add paragraph split-->
-         		
-         	<lb n="1"/><hi rend="grantha"><gap reason="lost" quantity="15" unit="character" precision="low"/>
-         	<!--EF: possibly more than one line missing?-->
-         	<lb n="2"/>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>l</unclear>o<unclear>dav</unclear>yatām ity udāro mā <gap reason="lost" quantity="1" unit="character"/>
-         		<lb n="3"/><gap reason="lost" quantity="1" unit="character"/> sūn<unclear>u</unclear>-jagad-uru-tilaka-śrī-na<add place="above">ro</add> pra
-         		<lb n="4"/><gap reason="lost" quantity="1" unit="character"/> m<unclear>a</unclear>-jātaḥ śrī-sthalyā<unclear>ṃ</unclear> liṃga-mū<supplied reason="omitted">r</supplied>tt<unclear>y</unclear><supplied reason="lost">ā</supplied>
-         		<!--display issue: <supplied reason="lost">ā</supplied>: the closing "]" is unduly in bold.--> 
-         		<lb n="5"/><supplied reason="lost">tri</supplied><unclear>bhu</unclear>vana-pataye śam·bhave <gap reason="lost" quantity="1" unit="character"/>
-         		<lb n="6"/><gap reason="lost" quantity="2" unit="character"/> <unclear>dh</unclear>āttre kācānām pañca-paṃkti-<gap reason="lost" quantity="1" unit="character"/>
-         		<lb n="7"/><gap reason="lost" quantity="2" unit="character"/> tarad urutaran dhāma śaṃbho<supplied reason="omitted">r</supplied> yyi <gap reason="lost" quantity="1" unit="character"/>
-         		<lb n="8"/><gap reason="lost" quantity="1" unit="character"/> <unclear><g type="gomutra">.</g></unclear> dipye tā<unclear>n</unclear> d<choice><sic>i</sic><corr>ī</corr></choice>pa-māle dve sva
-         		<lb n="9"/><supplied reason="lost">janma</supplied>-divase tathā pratimāsam iti p<choice><unclear>ṛ</unclear><unclear>ra</unclear></choice>
-         			<lb n="10"/> <gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g type="gomutra">.</g> svasti</hi>
-         		<lb n="11"/><supplied reason="lost"><hi rend="grantha">śrī</hi> kō-m</supplied>āṟañ·caṭaiyaṟku yāṇṭu <num value="5">5</num> Ai-
-         		<lb n="12"/><supplied reason="lost">nt</supplied>āvatu koḻuvūrkkūṟ·ṟattup pira
-         		<lb n="13" break="no"/><supplied reason="lost">ma</supplied>tēyan tirupputtūr maṇal<unclear>ū</unclear>
-         		<lb n="14" break="no"/><supplied reason="lost">r</supplied>kiḻār· makaṉ· Oloccaṉ·ṟuv vē
-         		<!--EF: Oloccaṉ·ṟuv vēti >> Oloccaṉ· ṟuvvēti >> tuvēti = Skt dvivedin??-->
-         		<lb n="15"/>ti-c·-caṭaṅkavi Iṭaiyāṟuṭaiyāṉ·
-         		<lb n="16"/>tattaṉ· māṟaṉ Iv·vūrt tirut
-         		<lb n="17" break="no"/>taḷip perumāṉaṭikaḷukku no
-         		<lb n="18" break="no"/>ntā viḷak·k’ oṉṟ’ erippataṟku
-         		<lb n="19"/>vaitta niṟai kuṟaiyā paḻaṅ·       		
-         		<lb n="20" break="no"/>kācu poṉ· vaiy·yātaṉa <num value="15"><g type="numeral">10</g> <g type="numeral">5</g></num>
-         		<lb n="21" break="no"/>patiṉ ain·tum· Ivaṉ ṟiṅkaṭ· pi<unclear>ṟa</unclear>
-         		<lb n="22"/>nta nāḷ· vicākattu nāṉ·ṟ’ uḷḷā
-         		<lb n="23" break="no"/><unclear>l</unclear> <hi rend="grantha">d<choice><sic>i</sic><corr>ī</corr></choice></hi>pa-mālai Iraṇ·ṭum eripp·ataṟ<unclear>·</unclear>        	
-         		<lb n="24" break="no"/><supplied reason="lost">ku</supplied> mēṟpaṭi kāc’ oṉ·ṟumākap· patiṉā
-         		<lb n="25" break="no"/><supplied reason="lost">lu</supplied> kāciṉālun· tiṅkaṭ poli
-         		<lb n="26"/>koṇṭu tiruviḷak·k’ erip·patāka
-         		<lb n="27" break="no"/>t tirupput·tūr· <hi rend="grantha">sabhai</hi>yār· kaiyyi
-         		<lb n="28" break="no"/><supplied reason="lost">l kuṭu</supplied><unclear>t</unclear>tēṉ tattaṉ māṟaṉē
-         		<lb n="29" break="no"/><supplied reason="lost">ṉ</supplied> <gap reason="lost" quantity="2" unit="character" precision="low"/> <supplied reason="lost">I</supplied><hi rend="grantha"><unclear>ddha</unclear></hi><choice><sic>m·</sic><corr>ma</corr></choice>ttiṉai <hi rend="grantha">rakṣi</hi>ppār
-         		<lb n="30"/><hi rend="grantha">śrī-pāda</hi><unclear>m</unclear> Eṉ· ṟalai mēlaṉa <g type="gomutra">.</g>
-         	
-         	</p>
-         </div>
+<div type="edition" xml:lang="tam-Latn">
+      		
+	<ab>
+		<lb n="1"/><hi rend="grantha">svasti śrī</hi>		
+	</ab>
+	
+	<lg n="1" met="śārdūlavikrīḍita">
+            	<l n="a">ka<lb n="2" break="no"/>lpāpāya-hutāśa-dhū<lb n="3" break="no"/>ma-paṭala-krūram‧ viṣaṁ līla<lb n="4" break="no"/>yā</l>
+		<l n="b">kaṇṭhe yaḥ kalayām‧ babhūva v<supplied reason="lost">i</supplied><lb n="5" break="no"/>budhai<supplied reason="omitted">r</supplied> bibhyattir abhya<supplied reason="omitted">r</supplied>tthitaḥ</l>
+		<l n="c">ya<supplied reason="lost">s tā</supplied><lb n="6"/><supplied reason="omitted">r</supplied>ṇīr iva ni<supplied reason="omitted">r</supplied>ddadāha vitatīś śuṣkāḥ purī<lb n="7" break="no"/>r āsurī<supplied reason="omitted">r</supplied></l>
+		<l n="d">yyaś cākṣi-jvalane juhāva <lb n="8"/> madanam‧ pāyād apāyāt sa vaḥ {wavy line} <!--update encoding of punctuation--></l>
+            </lg>
+		
+	<p>	
+		kō-māṟa<supplied reason="lost">ñ</supplied>
+		<lb n="9" break="no"/>caṭaiyaṟku yāṇṭu nāṅ<unclear>·</unclear>ku nāḷ Ir<supplied reason="lost">ā</supplied>
+		<lb n="10" break="no"/>yirat<unclear>·</unclear>t’ ainnūṟṟ’ oṉṟu
+	</p>
+	
+	<p>
+		vem·pil· mati<supplied reason="lost">ḷ a</supplied>
+		<lb n="11" break="no"/>ḻit<unclear>·</unclear>tup pōntu niyamat<unclear>·</unclear>t’ irunt’ aruḷi <supplied reason="lost"><hi rend="grantha">so</hi></supplied>		
+		<lb n="12" break="no"/><hi rend="grantha">ma-sū<supplied reason="omitted">r</supplied>yyānva</hi>ya-<hi rend="grantha">dva</hi>ya-ti<hi rend="grantha">lakāraṁgārar-ā</hi>yina <supplied reason="lost"><hi rend="grantha">pā</hi></supplied>
+		<lb n="13" break="no"/><hi rend="grantha">ṇḍyādhirājar</hi> va<hi rend="grantha">ragu</hi>ṇa-<hi rend="grantha">de</hi>var tirumal<unclear>ai</unclear>-<hi rend="grantha">bhaṭā</hi>ra<supplied reason="lost">rk</supplied>
+		<lb n="14" break="no"/>ku-k kuṭutta poṉ pāṭi-k-kallāl <num value="125"><g type="numeral">100</g> <unclear>2 <g type="numeral">10</g></unclear> 5</num> {kaḻañcu}<!--update encoding of abbreviation--> nūṟ<unclear>ṟ</unclear>’ <supplied reason="lost">i</supplied>
+		<lb n="15" break="no"/>rupatt’ aiṅ-kaḻañcum
+	</p>
 
-         <div type="apparatus">
+	<p>
+		Ip-poṉ· mutaṉiṟka
+		<lb n="16" break="no"/>poli koṇṭu muppatiṉ kaḻañcu poṉṉiṉ
+		<lb n="17"/>poliyāl Oru nontā-viḷakk’ āka <unclear reason="eccentric_ductus">nū</unclear>ṟṟ’ iru
+		<lb n="18" break="no"/>patin kaḻañcu poṉṉāl· nālu non
+		<lb n="19" break="no"/>tā viḷakk’ eriya-k kāṇa-nāḻiyāl nicati Aṭṭa-k ka
+		<lb n="20" break="no"/>ṭava ney Iru-nāḻi
+	</p>
+	
+	<p>
+		niṉ·ṟa Aiṅ-kaḻañcu po
+		<lb n="21" break="no"/>ṉṉālun tiṅkaṭoṟum tiṅkaṭ ṭiruvāti
+		<lb n="22" break="no"/>rai nāṉṟ’ avv-irā-p pularum aḷavum Aintu
+		<lb n="23"/>viḷakk’ eriya Aṭṭa-k kaṭava ney Iru-nāḻi U
+		<lb n="24" break="no"/>ri		
+	</p>
+	
+	<p>
+		Ivv-oṭṭiṉa paricu ney Aṭṭi It-ti
+		<lb n="25" break="no"/>ru-viḷakk’ erippāṉ<unclear>·</unclear> Ip-poṉ· nūṟṟ’ irupatt’ ai
+		<lb n="26" break="no"/>ṅ-kaḻañcuṅ koṇṭōm· ciṟ<unclear>·</unclear>ṟampar naka<supplied reason="lost">rat</supplied>
+		<lb n="27" break="no"/>tōm
+	</p>
+	
+	<p>
+		Ivv-oṭ·ṭiṉa paricu ney Aṭ·ṭuvip·<supplied reason="lost">p</supplied>
+		<lb n="28" break="no"/>taṟku Amain·tu puṇai-p· paṭṭōm· ciṟ·ṟam·par· <supplied reason="lost">pa</supplied>
+		<lb n="29" break="no"/>tiyum<unclear>·</unclear> pātam<choice><unclear>u</unclear><unclear>ū</unclear></choice>lattōmum
+	</p>
+	
+	<p>Itu <hi rend="grantha">pan·māhe</hi>
+		<lb n="30" break="no"/><space/> <hi rend="grantha">śvararar Iraikṣai</hi>
+	</p>
+
+</div>
+      	
+<div type="apparatus">
                         
-         	<listApp>
-         		
-         		<app loc="20">
-         			<lem>vaiy·yātaṉa</lem>
-         			<note>This is probably to be understood as <foreign>vaittaṉa</foreign> (“that which were given”) or <foreign>vaittēṉ</foreign> (“I gave”).</note>
-         		</app>
-               
-            </listApp>
-            
+	<listApp>
+		
+		<!--<app loc="0">
+			<lem>...</lem>
+			<rdg source="bib:RamanathaAyyar1962_01">...</rdg>
+			<rdg source="bib:Gillet2017_01">...</rdg>
+		</app>-->
+		
+		<app loc="12">
+			<lem>°ti<hi rend="grantha">lakāraṁgārar</hi>°</lem>
+			<rdg source="bib:RamanathaAyyar1962_01">°ti<hi rend="grantha">lakāraṁgārar</hi>°</rdg>
+			<rdg source="bib:Gillet2017_01">°ti<hi rend="grantha">lakāraṅgārar</hi>°</rdg>
+		</app>			
+			
+		<app loc="20">
+			<lem>niṉ·ṟa</lem>
+			<rdg source="bib:RamanathaAyyar1962_01">niṉṟu</rdg>
+			<rdg source="bib:Gillet2017_01">niṉṟu</rdg>
+		</app>		
+					
+		<app loc="24">
+			<lem>paricu</lem>
+			<rdg source="bib:RamanathaAyyar1962_01 bib:Gillet2017_01"><hi rend="grantha">pa</hi>ricu</rdg>
+		</app>
+		
+	</listApp>
+	
+</div>
+
+<div type="translation" resp="part:emfr">      
+	
+	<p n="1">Prosperity! Fortune!</p>
+	
+	<p rend="stanza" n="1">
+		<l>...</l>
+	</p>
+	
+	<p n="8-10">...</p>
+	
+	<p n="10-15">...</p>
+	
+	<p n="15-20">...</p>
+	
+	<p n="20-24">...</p>
+	
+	<p n="24-27">...</p>
+	
+	<p n="27-29">...</p>
+	
+	<p n="29-30">This pious donation is under the protection of the Paṉmāheśvaras.</p>
+        	         	
          </div>
 
-        <div type="translation" resp="part:emfr part:vagi">
+<!--<div type="commentary">
          	
-         </div>
+</div>-->
+      	
+<div type="bibliography">
 
-         <div type="commentary">
-         	
-         </div>
-
-         <div type="bibliography">
-
-            <p>
-               First noticed and first edited for DHARMA (ERC n° 809994) by Emmanuel Francis and Valérie Gillet (2021), based on autopsy and photographs (2019).
-            </p>    
+	<p>
+		First reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/414).
+	</p>
+	
+	<p>
+		First edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (SII 14, no. 10);
+		re-edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>.
+	</p>
+	<p>
+		Edited for DHARMA (ERC no. 809994) by Emmanuel Francis (2023), based on autopsy and photographs (2004).
+	</p>    
+	
+	<listBibl type="primary">
+      			
+      			<bibl n="RA">
+      				<ptr target="bib:RamanathaAyyar1962_01"/>
+      				<citedRange unit="page">6</citedRange>
+      				<citedRange unit="item">10</citedRange>
+      			</bibl>      			
+      			      	
+      			<bibl n="VG">
+      				<ptr target="bib:Gillet2017_01"/>
+      				<citedRange unit="page">11-23</citedRange>
+      				<citedRange unit="plate">II</citedRange>
+      			</bibl>		
+      			      			      			
+      		</listBibl>
+      		
+      		<listBibl type="secondary">
+      			
+      			<bibl n="ARIE 1904-1905">
+      				<ptr target="bib:ARIE1904-1905"/>
+      				<citedRange unit="page">15</citedRange>
+      				<citedRange unit="appendix">A/1904</citedRange>
+      				<citedRange unit="item">414</citedRange>
+      			</bibl>      			
+      			
+      		</listBibl>
 
          </div>
 
