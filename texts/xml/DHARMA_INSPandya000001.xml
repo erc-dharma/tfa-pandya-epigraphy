@@ -95,12 +95,12 @@
 	<text xml:space="preserve">
       <body>
 
-<div type="edition" xml:lang="tam-Latn">
+<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
       		
 	<!--EF: check if verse and accordingly add <lg/>-->
 	
-	<p>	
-		<lb n="1"/><hi rend="grantha"><gap reason="lost" quantity="15" unit="character" precision="low"/>
+	<lg n="1" met="uncertain" xml:lang="san-Latn" rendition="class:38768 maturity:83215">	
+		<l n="abcd"><lb n="1"/><gap reason="lost" quantity="15" unit="character" precision="low"/>
 		<lb n="2"/>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>l</unclear>o<unclear>dav</unclear>yatām ity udāro mā <gap reason="lost" quantity="1" unit="character"/>
 		<lb n="3" break="no"/><gap reason="lost" quantity="1" unit="character"/>-sūn<unclear>u</unclear>-jagad-uru-tilaka-śrī-na<add place="above">ro</add> pra
 		<lb n="4" break="no"/><supplied reason="lost">tha</supplied>m<unclear>a</unclear>-jātaḥ śrī-sthalyā<unclear>ṁ</unclear> liṁga-mū<supplied reason="omitted">r</supplied>tt<unclear>y</unclear><supplied reason="lost">ā</supplied>
@@ -110,13 +110,13 @@
 		<lb n="7" break="no"/><gap reason="lost" quantity="2" unit="character"/> tarad urutaran dhāma śaṁbho<supplied reason="omitted">r</supplied> yyi <gap reason="lost" quantity="1" unit="character"/>
 		<lb n="8" break="no"/><gap reason="lost" quantity="1" unit="character"/> <unclear><g type="gomutra">.</g></unclear> dipye tā<unclear>n</unclear> d<choice><sic>i</sic><corr>ī</corr></choice>pa-māle dve sva
 		<lb n="9" break="no"/><supplied reason="lost">janma</supplied>-divase tathā pratimāsam iti p<choice><unclear>ṛ</unclear><unclear>ra</unclear></choice>
-		<lb n="10" break="no"/><gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g type="gomutra">.</g></hi>
-	</p>
+		<lb n="10" break="no"/><gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g type="gomutra">.</g></l>
+	</lg>
 	
-	<p>
-		<hi rend="grantha">svasti</hi>
-		<lb n="11"/><supplied reason="lost"><hi rend="grantha">śrī</hi></supplied>
-	</p>
+	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+		svasti
+		<lb n="11"/><supplied reason="lost">śrī</supplied>
+	</ab>
 	
 	<p>
 		<supplied reason="lost">kō-m</supplied>āṟañ·-caṭaiyaṟku yāṇṭu <num value="5">5</num> Ai-
