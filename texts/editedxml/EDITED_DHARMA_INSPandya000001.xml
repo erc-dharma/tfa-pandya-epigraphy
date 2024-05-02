@@ -106,7 +106,6 @@
 		<lb n="2"/>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>l</unclear>o<unclear>dav</unclear>yatām ity udāro mā <gap reason="lost" quantity="1" unit="character"/>
 		<lb n="3" break="no"/><gap reason="lost" quantity="1" unit="character"/>-sūn<unclear>u</unclear>-jagad-uru-tilaka-śrī-na<add place="above">ro</add> pra
 		<lb n="4" break="no"/><supplied reason="lost">tha</supplied>m<unclear>a</unclear>-jātaḥ śrī-sthalyā<unclear>ṁ</unclear> liṁga-mū<supplied reason="omitted">r</supplied>tt<unclear>y</unclear><supplied reason="lost">ā</supplied>
-		<!--display issue: <supplied reason="lost">ā</supplied>: the closing "]" is unduly in bold.--> 
 		<lb n="5"/><supplied reason="lost">tri</supplied><unclear>bhu</unclear>vana-pataye śam·bhave <gap reason="lost" quantity="1" unit="character"/>
 		<lb n="6" break="no"/><gap reason="lost" quantity="2" unit="character"/> <unclear>dh</unclear>āttre kācānām pañca-paṁkti-<gap reason="lost" quantity="1" unit="character"/>
 		<lb n="7" break="no"/><gap reason="lost" quantity="2" unit="character"/> tarad urutaran dhāma śaṁbho<supplied reason="omitted">r</supplied> yyi <gap reason="lost" quantity="1" unit="character"/>
@@ -208,9 +207,7 @@
 
 <div type="bibliography">
 
-            <p>
-               Edited for DHARMA (ERC no. 809994) by Emmanuel Francis and Valérie Gillet (2021), based on autopsy and photographs (2019).
-            </p>    
+            <p>Edited here by Emmanuel Francis and Valérie Gillet (2021), based on autopsy and photographs (Emmanuel Francis, 2019).</p>    
 
          </div>
 

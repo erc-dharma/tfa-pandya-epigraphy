@@ -8,7 +8,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Trichy, rock, time of Māṟañ Caṭaiyaṉ, year 4</title>
+            <title>Trichy, cave, time of Māṟañ Caṭaiyaṉ, year 4</title>
             <respStmt>
                <resp>EpiDoc encoding</resp>
                <persName ref="part:emfr">
@@ -27,7 +27,6 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris, CEIAS</pubPlace>
-            <pubPlace>Paris, EFEO</pubPlace>
             <idno type="filename">DHARMA_INSPandya000002</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
@@ -48,11 +47,12 @@
                   <idno/>
                </msIdentifier>
                <msContents>
-                  <summary>Donation of gold coins for the upkeep of lamps.</summary>
+                  <summary>Endowment of gold for maintaining perpetual lamps.</summary>
                </msContents>
                <physDesc>
                   <handDesc>
-                     <p>Tamil script. The <foreign>puḷḷi</foreign> is used, almost consistently.</p>
+                     <p>
+                        <hi rend="bold">Tamil script</hi>. The <foreign>puḷḷi</foreign> is used, almost consistently.</p>
                   </handDesc>
                </physDesc>
             </msDesc>
@@ -113,7 +113,7 @@
 		<lb n="11" break="no"/>ḻit<unclear>·</unclear>tup pōntu niyamat<unclear>·</unclear>t’ irunt’ aruḷi <supplied reason="lost"><hi rend="grantha">so</hi></supplied>		
 		<lb n="12" break="no"/><hi rend="grantha">ma-sū<supplied reason="omitted">r</supplied>yyānva</hi>ya-<hi rend="grantha">dva</hi>ya-ti<hi rend="grantha">lakāraṁgārar-ā</hi>yina <supplied reason="lost"><hi rend="grantha">pā</hi></supplied>
 		<lb n="13" break="no"/><hi rend="grantha">ṇḍyādhirājar</hi> va<hi rend="grantha">ragu</hi>ṇa-<hi rend="grantha">de</hi>var tirumal<unclear>ai</unclear>-<hi rend="grantha">bhaṭā</hi>ra<supplied reason="lost">rk</supplied>
-		<lb n="14" break="no"/>ku-k kuṭutta poṉ pāṭi-k-kallāl <num value="125"><g type="numeral">100</g> <unclear>2 <g type="numeral">10</g></unclear> 5</num> {kaḻañcu}<!--update encoding of abbreviation--> nūṟ<unclear>ṟ</unclear>’ <supplied reason="lost">i</supplied>
+		<lb n="14" break="no"/>ku-k kuṭutta poṉ pāṭi-k-kallāl <num value="125"><g type="numeral">100</g> <unclear>2 <g type="numeral">10</g></unclear> 5</num> <g type="kaḻañcu"/> nūṟ<unclear>ṟ</unclear>’ <supplied reason="lost">i</supplied>
 		<lb n="15" break="no"/>rupatt’ aiṅ-kaḻañcum
 	</p>
 
@@ -192,7 +192,7 @@
 		<l>...</l>
 	</p>
 	
-	<p n="8-10">...</p>
+	<p n="8-10">Year four, day two thousand five hundred one of the king Mārañ Caṭaiyaṉ</p>
 	
 	<p n="10-15">...</p>
 	
@@ -204,7 +204,7 @@
 	
 	<p n="27-29">...</p>
 	
-	<p n="29-30">This pious donation is under the protection of the Paṉmāheśvaras.</p>
+	<p n="29-30">This is under the protection of the Paṉmāheśvaras.</p>
         	         	
          </div>
 
@@ -214,16 +214,10 @@
       	
 <div type="bibliography">
 
-	<p>
-		First reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/414).
-	</p>
+	<p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/414).</p>
 	
-	<p>
-		First edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (SII 14, no. 10);
-		re-edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>.
-	</p>
-	<p>
-		Edited for DHARMA (ERC no. 809994) by Emmanuel Francis (2023), based on autopsy and photographs (2004).
+	<p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (SII 14.10); edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>.</p>
+	<p>Edited here by Emmanuel Francis (2023), based on autopsy and photographs (Emmanuel Francis, 2004).
 	</p>    
 	
 	<listBibl type="primary">
@@ -234,7 +228,7 @@
       				<citedRange unit="item">10</citedRange>
       			</bibl>      			
       			      	
-      			<bibl n="VG">
+      			<bibl n="G">
       				<ptr target="bib:Gillet2017_01"/>
       				<citedRange unit="page">11-23</citedRange>
       				<citedRange unit="plate">II</citedRange>
