@@ -95,11 +95,11 @@
 	<text xml:space="preserve">
       <body>
 
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
 	<!--EF: check if verse and accordingly add <lg/>-->
 	
-	<lg n="1" met="uncertain" xml:lang="san-Latn" rendition="class:38768 maturity:83215">	
+	<lg n="1" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">	
 		<l n="abcd"><lb n="1"/><gap reason="lost" quantity="15" unit="character" precision="low"/>
 		<lb n="2"/>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg>m<seg type="component" subtype="vowel"><gap reason="illegible" quantity="1" unit="component"/></seg><unclear>l</unclear>o<unclear>dav</unclear>yatām ity udāro mā <gap reason="lost" quantity="1" unit="character"/>
 		<lb n="3" break="no"/><gap reason="lost" quantity="1" unit="character"/>-sūn<unclear>u</unclear>-jagad-uru-tilaka-śrī-na<add place="above">ro</add> pra
@@ -112,7 +112,7 @@
 		<lb n="10" break="no"/><gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g type="gomutra">.</g></l>
 	</lg>
 	
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		svasti
 		<lb n="11"/><supplied reason="lost">śrī</supplied>
 	</ab>

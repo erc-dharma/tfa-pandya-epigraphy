@@ -86,13 +86,13 @@
 	<text xml:space="preserve">
       <body>
 
-<div type="edition" xml:lang="tam-Latn" rendition="class:57475 maturity:83215">
+<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
       		
-	<ab xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
 		<lb n="1"/>svasti śrī		
 	</ab>
 	
-	<lg n="1" met="śārdūlavikrīḍita" xml:lang="san-Latn" rendition="class:38768 maturity:83215">
+	<lg n="1" met="śārdūlavikrīḍita" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
             	<l n="a">ka<lb n="2" break="no"/>lpāpāya-hutāśa-dhū<lb n="3" break="no"/>ma-paṭala-krūram‧ viṣaṁ līla<lb n="4" break="no"/>yā</l>
 		<l n="b">kaṇṭhe yaḥ kalayām‧ babhūva v<supplied reason="lost">i</supplied><lb n="5" break="no"/>budhai<supplied reason="omitted">r</supplied> bibhyattir abhya<supplied reason="omitted">r</supplied>tthitaḥ</l>
 		<l n="c">ya<supplied reason="lost">s tā</supplied><lb n="6"/><supplied reason="omitted">r</supplied>ṇīr iva ni<supplied reason="omitted">r</supplied>ddadāha vitatīś śuṣkāḥ purī<lb n="7" break="no"/>r āsurī<supplied reason="omitted">r</supplied></l>
