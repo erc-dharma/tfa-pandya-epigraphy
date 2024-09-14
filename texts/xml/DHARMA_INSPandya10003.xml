@@ -55,9 +55,12 @@
 						<summary></summary>
 					</msContents>
 					<physDesc>
-						<handDesc>
-						    <p></p>
-						</handDesc>
+	<handDesc>
+		<p>
+			<hi rend="bold">Tamil</hi>.
+			The <foreign>puḷḷi</foreign> is consistently used.
+		</p>
+	</handDesc>
 					</physDesc>
 				</msDesc>
 			</sourceDesc>
@@ -118,13 +121,20 @@
         
         <pb n="5v"/>
         
-        <pb n="6r"/>
-        
-        <pb n="6v"/>
-        
-        <lb n="6v1=84"/><hi rend="grantha">tāmra-śāsana</hi>ñ· cey·vit·tāṉ· <g type="gomutraFinal">.</g>        
+        <pb n="6r"/>        
+        <lb n="6r1=78"/>        
+        <lb n="6r2=79"/>        
+        <lb n="6r3=80"/>        
+        <lb n="6r4=81"/>...
     </p>
-    
+	
+<p>
+	maṟ·ṟ’ itaṉai
+	<lb n="6r5=82" break="no"/>k· kāt·tāraṉ· malar-aṭi Eṉ· muṭi mēlaṉa E		
+	<lb n="6r6=83" break="no"/>ṉ·ṟu koṟ·ṟavaṉē-y· paṇitt-aruḷi-t· teṟṟ’ eṉa	
+	<pb n="6v"/><lb n="6v1=84"/><hi rend="grantha">tāmra-śāsana</hi>ñ· cey·vit·tāṉ· <g type="gomutraFinal">.</g>        
+</p>
+	
     <lg n="7" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
         <l n="a">brahmadeya-paripā<lb n="6v2=85" break="no"/>lanād ṛte</l>
         <l n="b">nānyad asti bhuvi dharmma-sādhanam·</l>
@@ -154,9 +164,9 @@
     </lg>
 
 <p>
-    ... ma
-    <lb n="7r3=92" break="no"/>kaṉ...
-    <lb n="7r4=93" break="no"/>...
+    pāṇ·ṭi-p<supplied reason="omitted">·</supplied> perum· paṇaikāraṉ· ma
+    <lb n="7r3=92" break="no"/>kaṉ pāṇṭi-p· perum· paṇaikāraṉ-ākiya <hi rend="grantha">Arikesa</hi>
+    <lb n="7r4=93" break="no"/><hi rend="grantha">r</hi>i Eḻut·tu <g type="gomutraFinal">.</g>
 </p>
     
     <pb n="7v"/>
@@ -178,12 +188,18 @@
           
 <div type="translation" resp="part:emfr">      
         
-        <p n="7" rend="stanza">
+        <p n="82-84">Furthermore, having said <quote>the lotus-feet of he who protects this are on my head</quote>, having graciously ordered <supplied reason="subaudible">so</supplied>, the king <supplied reason="explanation"><foreign>koṟṟavaṉ</foreign></supplied> had this copper order made, as ... <supplied reason="explanation"><foreign>teṟṟu</foreign>/<foreign>tēṟṟu</foreign></supplied>.</p>
+	
+	<p n="7" rend="stanza">
             <l>Apart from protecting a <foreign>brahmadeya</foreign>,</l>
             <l>There is no other means of attaining <foreign>dharma</foreign> on this earth;</l>
             <l>And likewise apart of taking it away,</l>
             <l>There is not other means of obtaining sin on this earth.</l>
         </p>
+	
+	<p n="91-93">
+		Writing of Arikesarin, <hi rend="italic">alias</hi> Pāṇṭi Perum Paṇaikkāraṉ, son of Pāṇṭi Perum Paṇaikkāraṉ.
+	</p>
 </div>
 
 <!--<div type="commentary">
@@ -193,7 +209,7 @@
 <div type="bibliography">
               
     <p>Edited in <bibl><ptr target="bib:Venkayya1893_01"/></bibl>, with English translation and facsimiles; in <bibl><ptr target="bib:Anonymous1967_01"/></bibl>, with facsimiles; in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 11).</p>
-    <p>This digital edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Venkayya1893_01"/></bibl>.</p>    
+    <p>This digital edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Venkayya1893_01"/></bibl> and on photos (V. Gillet, 2010).</p>    
     
     <listBibl type="primary">
         		
