@@ -9,12 +9,16 @@
 		<fileDesc>
 			<titleStmt>
 			    <title>Śrīvaramaṅgala Grant, time of ***, year ***</title>			    
-			    <respStmt>
-			        <resp>intellectual authorship of edition</resp>			        
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
+				<respStmt>
+					<resp>intellectual authorship of edition</resp>			        
+					<persName>
+						<forename>V.</forename>
+						<surname>Venkayya</surname>
+					</persName>
+					<persName ref="part:emfr">
+						<forename>Emmanuel</forename>
+						<surname>Francis</surname>
+					</persName>
 			    </respStmt>			    
 			    <respStmt>
 					<resp>EpiDoc encoding</resp>
@@ -188,14 +192,19 @@
        
 <div type="bibliography">
               
-    <p>Edited and translated in <bibl><ptr target="bib:Venkayya1893_01"/></bibl> and in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 11).</p>
-    <p>This digital edition by Emmanuel Francis (2024).</p>    
+    <p>Edited in <bibl><ptr target="bib:Venkayya1893_01"/></bibl>, with English translation and facsimiles; in <bibl><ptr target="bib:Anonymous1967_01"/></bibl>, with facsimiles; in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 11).</p>
+    <p>This digital edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Venkayya1893_01"/></bibl>.</p>    
     
     <listBibl type="primary">
         		
         		<bibl n="V">
         			<ptr target="bib:Venkayya1893_01"/>
         		</bibl> 
+    	
+    		<bibl n="PCP">
+    		<ptr target="bib:Anonymous1967_01"/>
+    			<citedRange unit="page">49-70</citedRange>
+        		</bibl>
     	
         		<bibl n="K">
         			<ptr target="bib:Krishnan2002_01"/>
