@@ -62,7 +62,7 @@
 	<handDesc>
 		<p>
 			<hi rend="bold">Grantha</hi>.
-			Proper diacritics for meadial <foreign>au</foreign>.
+			Proper diacritics for medial <foreign>au</foreign>.
 			Unclosed form of<foreign>dha</foreign> looking like a Tamil script <foreign>pa</foreign>.
 		</p>
 	</handDesc>
@@ -131,7 +131,7 @@
 	...
 </p>
 <p>	
-	maṟṟ’ itaṉai-k kāttāṉ
+	maṟṟ’ itaṉ<choice><sic>a</sic><corr>ai</corr></choice>-k kāttāṉ
 	<lb n="3r10=57"/>malar-aṭi Eṉ muṭi mēl <choice><sic>a</sic><corr>e</corr></choice>ṉṟu koṟṟavaṉ paṇitt-aruḷa-t teṟṟ’ eṉa <hi rend="grantha">tāmra-śā</hi>
 	<lb n="3r11=58"/><hi rend="grantha">sana</hi>ñ ceytāṉ
 </p>
@@ -171,18 +171,23 @@
 	
 </div>
       	
-<!--<div type="apparatus">
+<div type="apparatus">
                         
 	<listApp>
 		
-		<app loc="0">
+		<!--<app loc="0">
 			<lem></lem>
 			<rdg source="bib:..."></rdg>
+		</app>-->
+		
+		<app loc="56">
+			<lem>itaṉ<choice><sic>a</sic><corr>ai</corr></choice>k</lem>
+			<rdg source="bib:Cupparāyalu+al_2007_01">itaṉaik</rdg>
 		</app>
+		
 	</listApp>
 	
 </div>
--->
           
 <div type="translation" resp="part:emfr">      
         
@@ -192,7 +197,7 @@
 	
 	<p>...</p>
 		
-	<p n="56-58">Furthermore, having said <quote>the lotus-feet of he who protects this are on my head</quote>, the king <supplied reason="explanation"><foreign>koṟṟavaṉ</foreign></supplied> ... made this copper order.</p>
+	<p n="56-58">Furthermore, having said <quote>the lotus-feet of he who protects this are on my head</quote>, having graciously ordered <supplied reason="subaudible">so</supplied>, the king <supplied reason="explanation"><foreign>koṟṟavaṉ</foreign></supplied> made this copper order, as ... <supplied reason="explanation"><foreign>teṟṟu</foreign>/<foreign>tēṟṟu</foreign></supplied>..</p>
 		
 	<p n="58-59">Furthermore, ...</p>
 	
@@ -229,7 +234,7 @@
     
     <listBibl type="primary">
         		
-        		<bibl n="YS">
+        		<bibl n="Y+V">
         			<ptr target="bib:Cupparāyalu+al_2007_01"/>
         		</bibl>
         		        		
