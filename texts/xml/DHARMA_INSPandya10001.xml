@@ -92,7 +92,7 @@
 			</listPrefixDef>
 		</encodingDesc>
 		<revisionDesc>
-			<change who="part:emfr part:vagi" when="2024-09-13" status="draft">Creation of the file</change>
+			<change who="part:emfr" when="2024-09-13" status="draft">Creation of the file</change>
 		</revisionDesc>
 	</teiHeader>
 	<text xml:space="preserve">
