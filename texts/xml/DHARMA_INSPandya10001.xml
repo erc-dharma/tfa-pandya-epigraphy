@@ -59,9 +59,13 @@
 						<summary></summary>
 					</msContents>
 					<physDesc>
-						<handDesc>
-						    <p><hi rend="bold">Grantha</hi>. <foreign>dha</foreign> looks like <foreign>pa</foreign>.</p>
-						</handDesc>
+	<handDesc>
+		<p>
+			<hi rend="bold">Grantha</hi>.
+			Proper diacritics for meadial <foreign>au</foreign>.
+			Unclosed form of<foreign>dha</foreign> looking like a Tamil script <foreign>pa</foreign>.
+		</p>
+	</handDesc>
 					</physDesc>
 				</msDesc>
 			</sourceDesc>
@@ -98,11 +102,12 @@
       		
     <pb n="1r"/>
     
-<lg n="1" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">	
-	<l n="abcd">
-	    <pb n="1v"/><lb n="1v1=1"/>
-	    <lb n="1v2=2"/>
-	</l>
+<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">	
+	
+	<l n="a"><pb n="1v"/><lb n="1v1=1"/>bhavot·bhavas sadā bhūyāt·</l>
+	<l n="b">bhavatā mahī-vṛ<choice><orig>dh</orig><reg>d</reg></choice>dhaye</l>
+	<l n="c"><lb n="1v2=2"/>yat· prasādāt· samut·bhūtau</l>
+	<l n="d">ni<reg>r</reg>vvāṇābhyudayau nṛṇām<unclear>·</unclear></l>
 </lg>
     
 <p>
@@ -114,7 +119,25 @@
     <pb n="2v"/>
     
     <pb n="3r"/>
-    <lb n="3r12=59"/>
+	<lb n="3r1=48"/>
+	<lb n="3r2=49"/>
+	<lb n="3r3=50"/>
+	<lb n="3r4=51"/>
+	<lb n="3r5=52"/>
+	<lb n="3r6=53"/>
+	<lb n="3r7=54"/>
+	<lb n="3r8=55"/>
+	<lb n="3r9=56"/>	
+	...
+</p>
+<p>	
+	maṟṟ’ itaṉai-k kāttāṉ
+	<lb n="3r10=57"/>malar-aṭi Eṉ muṭi mēl <choice><sic>a</sic><corr>e</corr></choice>ṉṟu koṟṟavaṉ paṇitt-aruḷa-t teṟṟ’ eṉa <hi rend="grantha">tāmra-śā</hi>
+	<lb n="3r11=58"/><hi rend="grantha">sana</hi>ñ ceytāṉ
+</p>
+<p>	
+	maṟṟ’ itaṉukku Āṇatti paṭṭāṉ Aṇṭaṉāṭṭu-k kuṇṭūr
+	<lb n="3r12=59" break="no"/>-k-kūṟṟattu-k kuṇṭūr-k kumāṉtāyaṉai vaṭa taraṉāṟ paṇikka-p paṭṭatu
 </p>
     
     <lg n="2" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
@@ -140,7 +163,8 @@
     </lg>
 
 <p>
-    <lb n="3r18=65"/>
+	pāṇṭi-p perum paṇaikkā<unclear>ra</unclear>ṉ makaṉ
+	<lb n="3r18=65"/>Arikēcari kai-<choice><orig>yy</orig><reg>y</reg></choice>-eḻuttu
 </p>
     
     <pb n="3v"/>
@@ -162,12 +186,36 @@
           
 <div type="translation" resp="part:emfr">      
         
-        <p n="2" rend="stanza">
-            <l>Apart from protecting a <foreign>brahmadeya</foreign>,</l>
-            <l>There is no other means of attaining <foreign>dharma</foreign> on this earth;</l>
-            <l>And likewise apart of taking it away,</l>
-            <l>There is not other means of obtaining sin on this earth.</l>
-        </p>
+	<p n="1" rend="stanza">
+		...
+	</p>
+	
+	<p>...</p>
+		
+	<p n="56-58">Furthermore, having said <quote>the lotus-feet of he who protects this are on my head</quote>, the king <supplied reason="explanation"><foreign>koṟṟavaṉ</foreign></supplied> ... made this copper order.</p>
+		
+	<p n="58-59">Furthermore, ...</p>
+	
+	<p n="2" rend="stanza">
+		<l>Apart from protecting a <foreign>brahmadeya</foreign>,</l>
+		<l>There is no other means of attaining <foreign>dharma</foreign> on this earth;</l>
+		<l>And likewise, apart of infringing it,</l>
+		<l>There is not other means of obtaining sin on this earth.</l>
+	</p>
+	
+	<p n="3" rend="stanza">
+		...
+	</p>
+	
+	<p n="4" rend="stanza">
+		...
+	</p>	
+	
+	<p n="5" rend="stanza">
+		...
+	</p>
+	
+	<p>Handwriting of Arikēcari<note>Sanskrit Arikesarin.</note>, son of Pāṇṭi Perum Paṇaikkā<unclear>ra</unclear>ṉ.</p>
 </div>
 
 <!--<div type="commentary">
@@ -176,7 +224,7 @@
        
 <div type="bibliography">
               
-    <p>Edited in <bibl><ptr target="bib:Cupparāyalu+al_2007_01"/></bibl>, with photos (Āvaṇam 18.1).</p>
+    <p>Edited in <bibl><ptr target="bib:Cupparāyalu+al_2007_01"/></bibl>, with facsimiles (Āvaṇam 18.1).</p>
     <p>This digital edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Cupparāyalu+al_2007_01"/></bibl>.</p>    
     
     <listBibl type="primary">
