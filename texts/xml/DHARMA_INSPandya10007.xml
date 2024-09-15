@@ -149,6 +149,12 @@
 			<rdg source="bib:Krishnan2002_01"></rdg>
 		</app>-->
 		
+		<app loc="116">
+			<lem>candrā<unclear>r</unclear>kkānvaya°</lem>
+			<rdg source="bib:Anonymous1967_01">candrārkkānvaya°</rdg>
+			<rdg source="bib:Krishnan2002_01">candrārkānvaya°</rdg>
+		</app>
+		
 		<app loc="117">
 			<lem>ś<supplied reason="lost">āsanañ jaga</supplied>ti</lem>
 			<rdg source="bib:Anonymous1967_01">ś<unclear>ā</unclear><gap reason="lost" quantity="4" unit="character"/><unclear>ga</unclear>ti</rdg>
