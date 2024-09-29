@@ -110,12 +110,29 @@
 		<pb n="2v"/>
 	</p>
 	<!--check EGD about 1 missing plate--> 
-	<p>	
+<p>	
 		
-		<pb n="4r"/>
-	</p>
+<pb n="3r"/>
+<lb n="3r1=29"/>...
+<lb n="3r7=35"/>...	
+</p>
 	
-	<pb n="4v"/>
+<lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+	<l n="a"><lb n="3r8=36"/>svadattāM<unclear>·</unclear> paradattāM<unclear>·</unclear> vā</l>
+	<l n="b">yo hareta vasundharāM<unclear>·</unclear></l>
+	<l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l>
+	<l n="d"><lb n="3r9=37"/> viṣṭḥāyāñ jāyate kṛmī <g type="undefined">.</g></l>
+</lg>
+	
+<lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+	<l n="a">brahmasva-ra<choice><orig>t</orig><reg>k</reg></choice>ṣaṇād anyat</l>
+	<l n="b">puṇya-mūlan na vidyate</l>
+	<l n="c">tasyāti<lb n="3r10=38"/><unclear>kramaṇād anyat</unclear></l>
+	<l n="d"><unclear>pā</unclear>pa-mūlan na vidyate</l>
+</lg>
+	<p>...</p>
+	
+<pb n="3v"/>
 	
 </div>
       	
