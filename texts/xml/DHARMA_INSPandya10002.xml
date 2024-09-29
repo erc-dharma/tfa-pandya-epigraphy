@@ -133,26 +133,54 @@
     	
     	<pb n="8v"/>
     	
-    	<pb n="9r"/>        
-    	
-    	<pb n="9v"/>
+    	<pb n="9r"/>    
     	
     </p>
 	
 	<pb n="9v"/>
+	<lb n="9v1=142" break="no"/>
+	<lb n="9v2=143" break="no"/>	
 	
-	
-    <lg n="19" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <l n="a">...</l>
-        <l n="b">...</l>
-        <l n="c">...</l>
-        <l n="d">...</l>
-    </lg>
+<lg n="19" met="vasantatilakā" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+	<l n="a">ra<choice><orig>t</orig><reg>k</reg></choice>ṣān naraḥ parakṛtau vidadhīta vidvān</l>
+	<l n="b">pādā hi dharmma-yaśasaḥ para<lb n="9v3=144" break="no"/>masya labdhā<supplied reason="omitted">ḥ</supplied></l>
+	<l n="c">dhātraiva s<choice><orig>ra</orig><reg>ṛ</reg></choice>ṣṭam akhilaM· bhuvanan tathāpi</l>
+	<l n="d">ra<choice><orig>t</orig><reg>k</reg></choice>ṣant<surplus>r</surplus>i puṇyaratayaḥ p<choice><orig>ra</orig><reg>ṛ</reg></choice>thiv<choice><orig>i</orig><reg>ī</reg></choice>n narendrā<supplied reason="omitted">ḥ</supplied> <g type="floret">.</g></l>
+</lg>
     
+<lg n="20" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+	<l n="a"><lb n="9v4=145" break="no"/>na hi bhūmi-pradānād vai</l>
+	<l n="b">dānam anyad viśiṣyate</l>
+	<l n="c">na cāpi bhūmi-haraṇāt</l>
+	<l n="d">pāpa<lb n="9v5=146" break="no"/>m anyad vidhīyate <g type="pcs">.</g></l>
+</lg>
+	
+<lg n="21" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+	<l n="a">dātā daśānugrahṇāti yo</l>
+	<l n="b">hare<surplus>r</surplus>d daśa hanti ca</l>
+	<l n="c">Atītānāgatā<lb n="9v6=147" break="no"/>nī ha</l>
+	<l n="d">kulāni kulanandana</l>
+</lg>
+	
+<lg n="22" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+	<l n="a">svadattāM· paradattāM· vā</l>
+	<l n="b">yo hareta vasundharā<lb n="9v7=148" break="no"/>M·</l>
+	<l n="c">na tasya <unclear>na</unclear>rakāt ghorād</l>
+	<l n="d">vidyate niṣk<supplied reason="lost">ṛ</supplied>ti<supplied reason="omitted">ḥ</supplied> kvacit·  <g type="pcs">.</g></l>
+</lg>
+	
+<lg n="23" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+	<l n="a">bahubhir vvasudhā <pb n="10r"/><lb n="10r1=149"/> dattā</l>
+	<l n="b">bhujyate hi tarādhipaiḥ</l>
+	<l n="c">yasya yasya yadā bhūm<unclear>i</unclear>s</l>
+	<l n="d">tasya tasya ta<lb n="10r2=150" break="no"/>dā phalaM· <g type="floret">.</g></l>
+</lg>
+	
+	<p xml:lang="san-Latn" rendition="class:grantha maturity:83215">catvāraḥ Ime vaiṣṇave dharme ślokāḥ <g type="floret">.</g></p>
     
 
 <p>
-    <lb n="10r3=151" break="no"/>
+    <lb n="10r3=151"/>...
 </p>
     
     <pb n="11v"/>
@@ -172,12 +200,42 @@
 </div>
 -->
           
-<!--<div type="translation" resp="part:emfr">      
+<div type="translation" resp="part:emfr">      
         
         
-       
+	<p n="19" rend="stanza">
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+	</p>
+	
+	<p n="20" rend="stanza">
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+	</p>	
+	<p n="21" rend="stanza">
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+	</p>	
+	<p n="22" rend="stanza">
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+	</p>	
+	<p n="23" rend="stanza">
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+		<l>...</l>
+	</p>	
 </div>
--->
+
 <!--<div type="commentary">
          	
 </div>-->
