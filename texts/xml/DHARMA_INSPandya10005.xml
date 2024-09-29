@@ -109,6 +109,13 @@
 	
 		<pb n="3r"/>
 		
+<lg n="35" met="indravjrā" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+	<l n="a">Etaṃ grāmaṃ rakṣatāM· bhūpatīnāM·</l>
+	<l n="b">cātvārotthāḥ prāṇibhiḥ prārtthyamānāḥ</l>
+	<l n="c">dīrgghaṃ kā<lb n="3r60=60" break="no"/>laṃ vṛddhim ṛccantu p<choice><orig>ra</orig><reg>ṛ</reg></choice>thvīn</l>
+	<l n="d">dharmo lakṣmir bhoga-śaktir yaśāś ca</l>
+</lg>
+		
 		<pb n="3v"/>
 	
 		<pb n="4r"/>
@@ -143,9 +150,15 @@
 </div>
 -->
           
-<!--<div type="translation" resp="part:emfr">      
+<div type="translation" resp="part:emfr">      
                
-</div>-->
+               <p>Prosperity!</p>
+	
+               <!--<p n="35" rend="stanza">
+               	<l>Of the kings protecting this village</l>
+               	<l></l>
+               </p>-->
+</div>
 
 <!--<div type="commentary">
          	
