@@ -8,16 +8,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Iḷaiyāṉ Puttūr Grant, time of Netumāṟaṉ, year ***</title>			    
+                <title>Iḷaiyāṉ Puttūr grant, time of Parāṅkucaṉ, year 36</title>			    
                 <respStmt>
                     <resp>author of digital edition</resp>
-                    <persName ref="part:emfr">
-                        <forename>Emmanuel</forename>
-                        <surname>Francis</surname>
-                    </persName>
-                </respStmt>			    
-                <respStmt>
-                    <resp>EpiDoc encoding</resp>
                     <persName ref="part:emfr">
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
@@ -105,7 +98,8 @@
                 
                 <p>
                     
-                    <lb n="1v3=3"/>
+                    <lb n="1v3=3"/>tiru maruviṟ ṟikaḻnt’ ilaṅku martaka <hi rend="grantha">śrī</hi> malint’ aṉai
+                    <lb n="1v4=4"/>ya taraṅkaṅkaḷ ...                    
                     
                     <pb n="2r"/>
                     
@@ -215,7 +209,7 @@
                     <l>To him the fruit then.</l>
                 </p>	
                 
-                <p>Handwriting of Arikēcari<note>Sanskrit Arikesarin.</note>, son of Pāṇṭi Perum Paṇaikkā<unclear>ra</unclear>ṉ.</p>
+                <p>Handwriting of Arikēcari,<note>Sanskrit Arikesarin.</note> son of Pāṇṭi Perum Paṇaikkā<unclear>ra</unclear>ṉ.</p>
                 
             </div>
             

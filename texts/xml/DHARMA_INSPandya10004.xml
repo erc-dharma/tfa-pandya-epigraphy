@@ -8,7 +8,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Ciṉṉamaṉūr Plates (smaller set), time of ***, year ***</title>			    
+				<title>Ciṉṉamaṉūr plates (smaller set)</title>			    
 			    <respStmt>
 			        <resp>author of digital edition</resp>
 			        <persName ref="part:emfr">
@@ -142,9 +142,9 @@
                
 </div>-->
 
-<!--<div type="commentary">
-         	
-</div>-->
+<div type="commentary">
+         	<p>The name of the king and his regnal year are lost with the missing plate(s).</p>
+</div>
        
 <div type="bibliography">
               
