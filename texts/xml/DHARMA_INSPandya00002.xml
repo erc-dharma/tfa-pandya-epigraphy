@@ -5,247 +5,243 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Trichy, cave, time of Māṟañ Caṭaiyaṉ, year 4</title>
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<idno type="filename">DHARMA_INSPandya00002</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Valérie Gillet.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary>Endowment of gold for maintaining perpetual lamps.</summary>
-					</msContents>
-					<physDesc>
-						<handDesc>
-							<p><hi rend="bold">Tamil script</hi>. The <foreign>puḷḷi</foreign> is used, almost consistently.</p>
-						</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union’s Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr part:vagi" when="2023-10-10" status="draft"
-				>Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-      <body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
-      		
-	<ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<lb n="1"/>svasti śrī		
-	</ab>
-	
-	<lg n="1" met="śārdūlavikrīḍita" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-            	<l n="a">ka<lb n="2" break="no"/>lpāpāya-hutāśa-dhū<lb n="3" break="no"/>ma-paṭala-krūram‧ viṣaṁ līla<lb n="4" break="no"/>yā</l>
-		<l n="b">kaṇṭhe yaḥ kalayām‧ babhūva v<supplied reason="lost">i</supplied><lb n="5" break="no"/>budhai<supplied reason="omitted">r</supplied> bibhyattir abhya<supplied reason="omitted">r</supplied>tthitaḥ</l>
-		<l n="c">ya<supplied reason="lost">s tā</supplied><lb n="6"/><supplied reason="omitted">r</supplied>ṇīr iva ni<supplied reason="omitted">r</supplied>ddadāha vitatīś śuṣkāḥ purī<lb n="7" break="no"/>r āsurī<supplied reason="omitted">r</supplied></l>
-		<l n="d">yyaś cākṣi-jvalane juhāva <lb n="8"/> madanam‧ pāyād apāyāt sa vaḥ {wavy line} <!--update encoding of punctuation--></l>
-            </lg>
-		
-	<p>	
-		kō-māṟa<supplied reason="lost">ñ</supplied>
-		<lb n="9" break="no"/>caṭaiyaṟku yāṇṭu nāṅ<unclear>·</unclear>ku nāḷ Ir<supplied reason="lost">ā</supplied>
-		<lb n="10" break="no"/>yirat<unclear>·</unclear>t’ ainnūṟṟ’ oṉṟu
-	</p>
-	
-	<p>
-		vem·pil· mati<supplied reason="lost">ḷ a</supplied>
-		<lb n="11" break="no"/>ḻit<unclear>·</unclear>tup pōntu niyamat<unclear>·</unclear>t’ irunt’ aruḷi <supplied reason="lost"><hi rend="grantha">so</hi></supplied>		
-		<lb n="12" break="no"/><hi rend="grantha">ma-sū<supplied reason="omitted">r</supplied>yyānva</hi>ya-<hi rend="grantha">dva</hi>ya-ti<hi rend="grantha">lakāraṁgārar-ā</hi>yina <supplied reason="lost"><hi rend="grantha">pā</hi></supplied>
-		<lb n="13" break="no"/><hi rend="grantha">ṇḍyādhirājar</hi> va<hi rend="grantha">ragu</hi>ṇa-<hi rend="grantha">de</hi>var tirumal<unclear>ai</unclear>-<hi rend="grantha">bhaṭā</hi>ra<supplied reason="lost">rk</supplied>
-		<lb n="14" break="no"/>ku-k kuṭutta poṉ pāṭi-k-kallāl <num value="125"><g type="numeral">100</g> <unclear>2 <g type="numeral">10</g></unclear> 5</num> <g type="kaḻañcu"/> nūṟ<unclear>ṟ</unclear>’ <supplied reason="lost">i</supplied>
-		<lb n="15" break="no"/>rupatt’ aiṅ-kaḻañcum
-	</p>
-
-	<p>
-		Ip-poṉ· mutaṉiṟka
-		<lb n="16" break="no"/>poli koṇṭu muppatiṉ kaḻañcu poṉṉiṉ
-		<lb n="17"/>poliyāl Oru nontā-viḷakk’ āka <unclear reason="eccentric_ductus">nū</unclear>ṟṟ’ iru
-		<lb n="18" break="no"/>patin kaḻañcu poṉṉāl· nālu non
-		<lb n="19" break="no"/>tā viḷakk’ eriya-k kāṇa-nāḻiyāl nicati Aṭṭa-k ka
-		<lb n="20" break="no"/>ṭava ney Iru-nāḻi
-	</p>
-	
-	<p>
-		niṉ·ṟa Aiṅ-kaḻañcu po
-		<lb n="21" break="no"/>ṉṉālun tiṅkaṭoṟum tiṅkaṭ ṭiruvāti
-		<lb n="22" break="no"/>rai nāṉṟ’ avv-irā-p pularum aḷavum Aintu
-		<lb n="23"/>viḷakk’ eriya Aṭṭa-k kaṭava ney Iru-nāḻi U
-		<lb n="24" break="no"/>ri		
-	</p>
-	
-	<p>
-		Ivv-oṭṭiṉa paricu ney Aṭṭi It-ti
-		<lb n="25" break="no"/>ru-viḷakk’ erippāṉ<unclear>·</unclear> Ip-poṉ· nūṟṟ’ irupatt’ ai
-		<lb n="26" break="no"/>ṅ-kaḻañcuṅ koṇṭōm· ciṟ<unclear>·</unclear>ṟampar naka<supplied reason="lost">rat</supplied>
-		<lb n="27" break="no"/>tōm
-	</p>
-	
-	<p>
-		Ivv-oṭ·ṭiṉa paricu ney Aṭ·ṭuvip·<supplied reason="lost">p</supplied>
-		<lb n="28" break="no"/>taṟku Amain·tu puṇai-p· paṭṭōm· ciṟ·ṟam·par· <supplied reason="lost">pa</supplied>
-		<lb n="29" break="no"/>tiyum<unclear>·</unclear> pātam<choice><unclear>u</unclear><unclear>ū</unclear></choice>lattōmum
-	</p>
-	
-	<p>Itu <hi rend="grantha">pan·māhe</hi>
-		<lb n="30" break="no"/><space/> <hi rend="grantha">śvararar Iraikṣai</hi>
-	</p>
-
-</div>
-      	
-<div type="apparatus">
-                        
-	<listApp>
-		
-		<!--<app loc="0">
-			<lem>...</lem>
-			<rdg source="bib:RamanathaAyyar1962_01">...</rdg>
-			<rdg source="bib:Gillet2017_01">...</rdg>
-		</app>-->
-		
-		<app loc="12">
-			<lem>°ti<hi rend="grantha">lakāraṁgārar</hi>°</lem>
-			<rdg source="bib:RamanathaAyyar1962_01">°ti<hi rend="grantha">lakāraṁgārar</hi>°</rdg>
-			<rdg source="bib:Gillet2017_01">°ti<hi rend="grantha">lakāraṅgārar</hi>°</rdg>
-		</app>			
-			
-		<app loc="20">
-			<lem>niṉ·ṟa</lem>
-			<rdg source="bib:RamanathaAyyar1962_01">niṉṟu</rdg>
-			<rdg source="bib:Gillet2017_01">niṉṟu</rdg>
-		</app>		
-					
-		<app loc="24">
-			<lem>paricu</lem>
-			<rdg source="bib:RamanathaAyyar1962_01 bib:Gillet2017_01"><hi rend="grantha">pa</hi>ricu</rdg>
-		</app>
-		
-	</listApp>
-	
-</div>
-
-<div type="translation" resp="part:emfr">      
-	
-	<p n="1">Prosperity! Fortune!</p>
-	
-	<p rend="stanza" n="1">
-		<l>...</l>
-	</p>
-	
-	<p n="8-10">Year four, day two thousand five hundred one of the king Mārañ Caṭaiyaṉ</p>
-	
-	<p n="10-15">...</p>
-	
-	<p n="15-20">...</p>
-	
-	<p n="20-24">...</p>
-	
-	<p n="24-27">...</p>
-	
-	<p n="27-29">...</p>
-	
-	<p n="29-30">This is under the protection of the Paṉmāheśvaras.</p>
-        	         	
-         </div>
-
-<!--<div type="commentary">
-         	
-</div>-->
-      	
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Trichy<!-- upper cave-->, time of Māṟañ Caṭaiyaṉ, year 4</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                    <persName ref="part:vagi">
+                        <forename>Valérie</forename>
+                        <surname>Gillet</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPandya00002</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Valérie Gillet.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Inscription recording the endowment of gold for maintaining perpetual lamps.</summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><hi rend="bold">Tamil script</hi>. The <foreign>puḷḷi</foreign> is used, almost consistently.</p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr part:vagi" when="2023-10-10" status="draft"
+                >Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:83215">
+                
+                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <lb n="1"/>svasti śrī		
+                </ab>
+                
+                <lg n="1" met="śārdūlavikrīḍita" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">ka<lb n="2" break="no"/>lpāpāya-hutāśa-dhū<lb n="3" break="no"/>ma-paṭala-krūram‧ viṣaṁ līla<lb n="4" break="no"/>yā</l>
+                    <l n="b">kaṇṭhe yaḥ kalayām‧ babhūva v<supplied reason="lost">i</supplied><lb n="5" break="no"/>budhai<supplied reason="omitted">r</supplied> bibhyattir abhya<supplied reason="omitted">r</supplied>tthitaḥ</l>
+                    <l n="c">ya<supplied reason="lost">s tā</supplied><lb n="6"/><supplied reason="omitted">r</supplied>ṇīr iva ni<supplied reason="omitted">r</supplied>ddadāha vitatīś śuṣkāḥ purī<lb n="7" break="no"/>r āsurī<supplied reason="omitted">r</supplied></l>
+                    <l n="d">yyaś cākṣi-jvalane juhāva <lb n="8"/> madanam‧ pāyād apāyāt sa vaḥ {wavy line} <!--update encoding of punctuation--></l>
+                </lg>
+                
+                <p>	
+                    kō-māṟa<supplied reason="lost">ñ</supplied>
+                    <lb n="9" break="no"/>caṭaiyaṟku yāṇṭu nāṅ<unclear>·</unclear>ku nāḷ Ir<supplied reason="lost">ā</supplied>
+                    <lb n="10" break="no"/>yirat<unclear>·</unclear>t’ ainnūṟṟ’ oṉṟu
+                </p>
+                
+                <p>
+                    vem·pil· mati<supplied reason="lost">ḷ a</supplied>
+                    <lb n="11" break="no"/>ḻit<unclear>·</unclear>tup pōntu niyamat<unclear>·</unclear>t’ irunt’ aruḷi <supplied reason="lost"><hi rend="grantha">so</hi></supplied>		
+                    <lb n="12" break="no"/><hi rend="grantha">ma-sū<supplied reason="omitted">r</supplied>yyānva</hi>ya-<hi rend="grantha">dva</hi>ya-ti<hi rend="grantha">lakāraṁgārar-ā</hi>yina <supplied reason="lost"><hi rend="grantha">pā</hi></supplied>
+                    <lb n="13" break="no"/><hi rend="grantha">ṇḍyādhirājar</hi> va<hi rend="grantha">ragu</hi>ṇa-<hi rend="grantha">de</hi>var tirumal<unclear>ai</unclear>-<hi rend="grantha">bhaṭā</hi>ra<supplied reason="lost">rk</supplied>
+                    <lb n="14" break="no"/>ku-k kuṭutta poṉ pāṭi-k-kallāl <num value="125"><g type="numeral">100</g> <unclear>2 <g type="numeral">10</g></unclear> 5</num> <g type="kaḻañcu"/> nūṟ<unclear>ṟ</unclear>’ <supplied reason="lost">i</supplied>
+                    <lb n="15" break="no"/>rupatt’ aiṅ-kaḻañcum
+                </p>
+                
+                <p>
+                    Ip-poṉ· mutaṉiṟka
+                    <lb n="16" break="no"/>poli koṇṭu muppatiṉ kaḻañcu poṉṉiṉ
+                    <lb n="17"/>poliyāl Oru nontā-viḷakk’ āka <unclear reason="eccentric_ductus">nū</unclear>ṟṟ’ iru
+                    <lb n="18" break="no"/>patin kaḻañcu poṉṉāl· nālu non
+                    <lb n="19" break="no"/>tā viḷakk’ eriya-k kāṇa-nāḻiyāl nicati Aṭṭa-k ka
+                    <lb n="20" break="no"/>ṭava ney Iru-nāḻi
+                </p>
+                
+                <p>
+                    niṉ·ṟa Aiṅ-kaḻañcu po
+                    <lb n="21" break="no"/>ṉṉālun tiṅkaṭoṟum tiṅkaṭ ṭiruvāti
+                    <lb n="22" break="no"/>rai nāṉṟ’ avv-irā-p pularum aḷavum Aintu
+                    <lb n="23"/>viḷakk’ eriya Aṭṭa-k kaṭava ney Iru-nāḻi U
+                    <lb n="24" break="no"/>ri		
+                </p>
+                
+                <p>
+                    Ivv-oṭṭiṉa paricu ney Aṭṭi It-ti
+                    <lb n="25" break="no"/>ru-viḷakk’ erippāṉ<unclear>·</unclear> Ip-poṉ· nūṟṟ’ irupatt’ ai
+                    <lb n="26" break="no"/>ṅ-kaḻañcuṅ koṇṭōm· ciṟ<unclear>·</unclear>ṟampar naka<supplied reason="lost">rat</supplied>
+                    <lb n="27" break="no"/>tōm
+                </p>
+                
+                <p>
+                    Ivv-oṭ·ṭiṉa paricu ney Aṭ·ṭuvip·<supplied reason="lost">p</supplied>
+                    <lb n="28" break="no"/>taṟku Amain·tu puṇai-p· paṭṭōm· ciṟ·ṟam·par· <supplied reason="lost">pa</supplied>
+                    <lb n="29" break="no"/>tiyum<unclear>·</unclear> pātam<choice><unclear>u</unclear><unclear>ū</unclear></choice>lattōmum
+                </p>
+                
+                <p>Itu <hi rend="grantha">pan·māhe</hi>
+                    <lb n="30" break="no"/><space/><hi rend="grantha">śvararar Iraikṣai</hi>
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <!--<app loc="0">
+                        <lem>...</lem>
+                        <rdg source="bib:RamanathaAyyar1962_01">...</rdg>
+                        <rdg source="bib:Gillet2017_01">...</rdg>
+                        </app>-->
+                    
+                    <app loc="12">
+                        <lem>°ti<hi rend="grantha">lakāraṁgārar</hi>°</lem>
+                        <rdg source="bib:RamanathaAyyar1962_01">°ti<hi rend="grantha">lakāraṁgārar</hi>°</rdg>
+                        <rdg source="bib:Gillet2017_01">°ti<hi rend="grantha">lakāraṅgārar</hi>°</rdg>
+                    </app>			
+                    
+                    <app loc="20">
+                        <lem>niṉ·ṟa</lem>
+                        <rdg source="bib:RamanathaAyyar1962_01">niṉṟu</rdg>
+                        <rdg source="bib:Gillet2017_01">niṉṟu</rdg>
+                    </app>		
+                    
+                    <app loc="24">
+                        <lem>paricu</lem>
+                        <rdg source="bib:RamanathaAyyar1962_01 bib:Gillet2017_01"><hi rend="grantha">pa</hi>ricu</rdg>
+                    </app>
+                    
+                </listApp>
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">      
+                
+                <p n="1">Prosperity! Fortune!</p>
+                
+                <p rend="stanza" n="1">
+                    <l>...</l>
+                </p>
+                
+                <p n="8-10">Year four, day two thousand five hundred one of the king Mārañ Caṭaiyaṉ</p>
+                
+                <p n="10-15">...</p>
+                
+                <p n="15-20">...</p>
+                
+                <p n="20-24">...</p>
+                
+                <p n="24-27">...</p>
+                
+                <p n="27-29">...</p>
+                
+                <p n="29-30">This is under the protection of the Paṉmāheśvaras.</p>
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
 <div type="bibliography">
-
-	<p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/414).</p>
-	
-	<p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (SII 14.10); edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>.</p>
-	<p>Edited here by Emmanuel Francis (2023), based on autopsy and photographs (Emmanuel Francis, 2004).
-	</p>    
-	
-	<listBibl type="primary">
-      			
-      			<bibl n="RA">
-      				<ptr target="bib:RamanathaAyyar1962_01"/>
-      				<citedRange unit="page">6</citedRange>
-      				<citedRange unit="item">10</citedRange>
-      			</bibl>      			
-      			      	
-      			<bibl n="G">
-      				<ptr target="bib:Gillet2017_01"/>
-      				<citedRange unit="page">11-23</citedRange>
-      				<citedRange unit="plate">II</citedRange>
-      			</bibl>		
-      			      			      			
-      		</listBibl>
-      		
-      		<listBibl type="secondary">
-      			
-      			<bibl n="ARIE 1904-1905">
-      				<ptr target="bib:ARIE1904-1905"/>
-      				<citedRange unit="page">15</citedRange>
-      				<citedRange unit="appendix">A/1904</citedRange>
-      				<citedRange unit="item">414</citedRange>
-      			</bibl>      			
-      			
-      		</listBibl>
-
-         </div>
-
-      </body>
-  </text>
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/414).</p>
+                
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (SII 14.10). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>.</p>
+                <p>Edited here by Emmanuel Francis, based on autopsy and photographs (2004, Emmanuel Francis).</p>    
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:RamanathaAyyar1962_01"/>
+                        <citedRange unit="page">6</citedRange>
+                        <citedRange unit="item">10</citedRange>
+                    </bibl>      			
+                    
+                    <bibl n="G">
+                        <ptr target="bib:Gillet2017_01"/>
+                        <citedRange unit="page">11-23</citedRange>
+                        <citedRange unit="plate">II</citedRange>
+                    </bibl>		
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl n="ARIE 1904-1905">
+                        <ptr target="bib:ARIE1904-1905"/>
+                        <citedRange unit="page">15</citedRange>
+                        <citedRange unit="appendix">A/1904</citedRange>
+                        <citedRange unit="item">414</citedRange>
+                    </bibl>      			
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>

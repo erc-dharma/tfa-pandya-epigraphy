@@ -5,245 +5,239 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-			    <title>Iḷaiyāṉ Puttūr Grant, time of Netumāṟaṉ, year ***</title>			    
-			    <respStmt>
-			        <resp>intellectual authorship of edition</resp>
-			        <persName>
-			            <forename>E.</forename>
-			            <surname>Cupparāyalu</surname>
-			        </persName>
-			        <persName>
-			            <forename>Ve.</forename>
-			            <surname>Vētācalam</surname>
-			        </persName>
-			        <persName ref="part:emfr">
-			            <forename>Emmanuel</forename>
-			            <surname>Francis</surname>
-			        </persName>
-			    </respStmt>			    
-			    <respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<pubPlace>Paris, EFEO</pubPlace>
-				<idno type="filename">DHARMA_INSPandya10001</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Valérie Gillet.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary></summary>
-					</msContents>
-					<physDesc>
-	<handDesc>
-		<p>
-			<hi rend="bold">Grantha</hi>.
-			Proper diacritics for medial <foreign>au</foreign>.
-			Unclosed form of<foreign>dha</foreign> looking like a Tamil script <foreign>pa</foreign>.
-		</p>
-	</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union’s Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-09-13" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-      <body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:83215">
-      		
-    <pb n="1r"/>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iḷaiyāṉ Puttūr Grant, time of Netumāṟaṉ, year ***</title>			    
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>			    
+                <respStmt>
+                    <resp>EpiDoc encoding</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <pubPlace>Paris, EFEO</pubPlace>
+                <idno type="filename">DHARMA_INSPandya10001</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Valérie Gillet.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p>
+                                <hi rend="bold">Grantha</hi>.
+                                Proper diacritics for medial <foreign>au</foreign>.
+                                Unclosed form of<foreign>dha</foreign> looking like a Tamil script <foreign>pa</foreign>.
+                            </p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-09-13" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
     
-<lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">	
-	
-	<l n="a"><pb n="1v"/><lb n="1v1=1"/>bhavot·bhavas sadā bhūyāt·</l>
-	<l n="b">bhavatā mahī-vṛ<choice><orig>dh</orig><reg>d</reg></choice>dhaye</l>
-	<l n="c"><lb n="1v2=2"/>yat· prasādāt· samut·bhūtau</l>
-	<l n="d">ni<reg>r</reg>vvāṇābhyudayau nṛṇām<unclear>·</unclear></l>
-</lg>
-    
-<p>
-    
-    <lb n="1v3=3"/>
-    
-    <pb n="2r"/>
-    
-    <pb n="2v"/>
-    
-    <pb n="3r"/>
-	<lb n="3r1=48"/>
-	<lb n="3r2=49"/>
-	<lb n="3r3=50"/>
-	<lb n="3r4=51"/>
-	<lb n="3r5=52"/>
-	<lb n="3r6=53"/>
-	<lb n="3r7=54"/>
-	<lb n="3r8=55"/>
-	<lb n="3r9=56"/>	
-	...
-</p>
-<p>	
-	maṟṟ’ itaṉ<choice><sic>a</sic><corr>ai</corr></choice>-k kāttāṉ
-	<lb n="3r10=57"/>malar-aṭi Eṉ muṭi mēl <choice><sic>a</sic><corr>e</corr></choice>ṉṟu koṟṟavaṉ paṇitt-aruḷa-t t<choice><unclear>e</unclear><unclear>ē</unclear></choice>ṟṟ’ eṉa <hi rend="grantha">tāmra-śā</hi>
-	<lb n="3r11=58" break="no"/><hi rend="grantha">sana</hi>ñ ceytāṉ
-</p>
-<p>	
-	maṟṟ’ itaṉukku Āṇatti paṭṭāṉ Aṇṭaṉāṭṭu-k kuṇṭūr
-	<lb n="3r12=59" break="no"/>-k-kūṟṟattu-k kuṇṭūr-k kumāṉtāyaṉai vaṭa taraṉāṟ paṇikka-p paṭṭatu
-</p>
-    
-    <lg n="2" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <l n="a"><lb n="3r13=60"/>brahmadeya-paripālanād ṛ<choice><orig>d</orig><reg>t</reg></choice>e</l>
-            <l n="b">n<supplied reason="lost">ā</supplied>nyad asti bhuvi dha<reg>r</reg>mma-sā<unclear reason="eccentric_ductus">dha</unclear>nam<unclear>·</unclear></l>
-            <l n="c"><choice><orig>d</orig><reg>t</reg></choice>asya cāpa<lb n="3r14=61" break="no"/>haraṇād ṛ<choice><orig>d</orig><reg>t</reg></choice>e tathā</l>
-            <l n="d">nānyad asti <supplied reason="lost">bhu</supplied>vi pāpasā<unclear reason="eccentric_ductus">dha</unclear>nam·</l>
-    </lg>
-    
-    <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <l n="a">b<supplied reason="omitted">r</supplied>ahmasva-rakṣaṇā<lb n="3r15=62" break="no"/>d anyat·</l>
-            <l n="b"><choice><sic>ña</sic><corr>pu</corr></choice><add place="below">ṇya</add>-mūla<supplied reason="omitted">n</supplied> na vidyate</l>
-            <l n="c">tasyāt<choice><sic>a</sic><corr>i</corr></choice>la<unclear>ṅ</unclear><choice><orig>kh</orig><reg>gh</reg></choice>anād anyat·</l>
-            <l n="d">pāpa-mūla<supplied reason="omitted">n</supplied> na <lb n="3r16=63"/> vidyate
-        </l>
-    </lg>
-    
-    <lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-        <l n="a">bahubh<choice><sic>ṛ</sic><corr>ir</corr></choice> vvasudhā dattā</l>
-            <l n="b">rājabhi<supplied reason="omitted">s</supplied> saga<unclear>r</unclear>ādibhi<supplied reason="omitted">ḥ</supplied></l>
-            <l n="c">yasya yasya yadā <lb n="3r17=64"/> bhūm<choice><sic>ī</sic><corr>i</corr></choice><supplied reason="omitted">ḥ</supplied></l>
-            <l n="d">tasya tasya t<supplied reason="omitted">ad</supplied>ā <choice><orig>p</orig><reg>ph</reg></choice>alam<supplied reason="omitted">·</supplied></l>
-    </lg>
-
-<p>
-	pāṇṭi-p perum paṇaikkā<unclear>ra</unclear>ṉ makaṉ
-	<lb n="3r18=65"/>Arikēcari kai-<choice><orig>yy</orig><reg>y</reg></choice>-eḻuttu
-</p>
-    
-    <pb n="3v"/>
-	
-</div>
-      	
-<div type="apparatus">
-                        
-	<listApp>
-		
-		<!--<app loc="0">
-			<lem></lem>
-			<rdg source="bib:..."></rdg>
-		</app>-->
-		
-		<app loc="56">
-			<lem>itaṉ<choice><sic>a</sic><corr>ai</corr></choice>k</lem>
-			<rdg source="bib:Cupparāyalu+al_2007_01">itaṉaik</rdg>
-		</app>
-		
-	</listApp>
-	
-</div>
-          
-<div type="translation" resp="part:emfr">      
-        
-	<p n="1" rend="stanza">
-		...
-	</p>
-	
-	<p>...</p>
-		
-	<p n="56-58">Furthermore, having said <quote>the lotus-feet of he who protects this are on my head</quote>, having graciously ordered <supplied reason="subaudible">so</supplied>, the king <supplied reason="explanation"><foreign>koṟṟavaṉ</foreign></supplied> made this copper order, as ascertainment <supplied reason="explanation"><foreign>teṟṟu</foreign>/<foreign>tēṟṟu</foreign></supplied>.</p>
-		
-	<p n="58-59">Furthermore, ...</p>
-	
-	<p n="2" rend="stanza">
-		<l>Apart from protecting a <foreign>brahmadeya</foreign>,</l>
-		<l>There is no other means of attaining <foreign>dharma</foreign> on this earth;</l>
-		<l>And likewise, apart of seizing it,</l>
-		<l>There is not other means of obtaining sin on this earth.</l>
-	</p>
-	
-	<p n="3" rend="stanza">
-		<l>Other than protecting the property of Brahmins</l>
-		<l>There is no source of merit;</l>
-		<l>Other than infringing it</l>
-		<l>There is no source of sin.</l>
-	</p>
-	
-	<p n="4" rend="stanza">
-		<l>Earth has been given by many</l>
-		<l>Kings such as Sagara and other;</l>
-		<l>To whom the land is then,</l>
-		<l>To him the fruit then.</l>
-	</p>	
-	
-	<p>Handwriting of Arikēcari<note>Sanskrit Arikesarin.</note>, son of Pāṇṭi Perum Paṇaikkā<unclear>ra</unclear>ṉ.</p>
-</div>
-
-<!--<div type="commentary">
-         	
-</div>-->
-       
-<div type="bibliography">
-              
-    <p>Edited in <bibl><ptr target="bib:Cupparāyalu+al_2007_01"/></bibl>, with facsimiles (Āvaṇam 18.1).</p>
-    <p>This digital edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Cupparāyalu+al_2007_01"/></bibl>.</p>    
-    
-    <listBibl type="primary">
-        		
-        		<bibl n="Y+V">
-        			<ptr target="bib:Cupparāyalu+al_2007_01"/>
-        		</bibl>
-        		        		
-        		        		        		
-        	</listBibl>
-</div>
-          
-      </body>
-  </text>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:83215">
+                
+                <pb n="1r"/>
+                
+                <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">	
+                    
+                    <l n="a"><pb n="1v"/><lb n="1v1=1"/>bhavot·bhavas sadā bhūyāt·</l>
+                    <l n="b">bhavatā mahī-vṛ<choice><orig>dh</orig><reg>d</reg></choice>dhaye</l>
+                    <l n="c"><lb n="1v2=2"/>yat· prasādāt· samut·bhūtau</l>
+                    <l n="d">ni<reg>r</reg>vvāṇābhyudayau nṛṇām<unclear>·</unclear></l>
+                </lg>
+                
+                <p>
+                    
+                    <lb n="1v3=3"/>
+                    
+                    <pb n="2r"/>
+                    
+                    <pb n="2v"/>
+                    
+                    <pb n="3r"/>
+                    <lb n="3r1=48"/>
+                    <lb n="3r2=49"/>
+                    <lb n="3r3=50"/>
+                    <lb n="3r4=51"/>
+                    <lb n="3r5=52"/>
+                    <lb n="3r6=53"/>
+                    <lb n="3r7=54"/>
+                    <lb n="3r8=55"/>
+                    <lb n="3r9=56"/>	
+                    ...
+                </p>
+                <p>	
+                    maṟṟ’ itaṉ<choice><sic>a</sic><corr>ai</corr></choice>-k kāttāṉ
+                    <lb n="3r10=57"/>malar-aṭi Eṉ muṭi mēl <choice><sic>a</sic><corr>e</corr></choice>ṉṟu koṟṟavaṉ paṇitt-aruḷa-t t<choice><unclear>e</unclear><unclear>ē</unclear></choice>ṟṟ’ eṉa <hi rend="grantha">tāmra-śā</hi>
+                    <lb n="3r11=58" break="no"/><hi rend="grantha">sana</hi>ñ ceytāṉ
+                </p>
+                <p>	
+                    maṟṟ’ itaṉukku Āṇatti paṭṭāṉ Aṇṭaṉāṭṭu-k kuṇṭūr
+                    <lb n="3r12=59" break="no"/>-k-kūṟṟattu-k kuṇṭūr-k kumāṉtāyaṉai vaṭa taraṉāṟ paṇikka-p paṭṭatu
+                </p>
+                
+                <lg n="2" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a"><lb n="3r13=60"/>brahmadeya-paripālanād ṛ<choice><orig>d</orig><reg>t</reg></choice>e</l>
+                    <l n="b">n<supplied reason="lost">ā</supplied>nyad asti bhuvi dha<reg>r</reg>mma-sā<unclear reason="eccentric_ductus">dha</unclear>nam<unclear>·</unclear></l>
+                    <l n="c"><choice><orig>d</orig><reg>t</reg></choice>asya cāpa<lb n="3r14=61" break="no"/>haraṇād ṛ<choice><orig>d</orig><reg>t</reg></choice>e tathā</l>
+                    <l n="d">nānyad asti <supplied reason="lost">bhu</supplied>vi pāpasā<unclear reason="eccentric_ductus">dha</unclear>nam·</l>
+                </lg>
+                
+                <lg n="3" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">b<supplied reason="omitted">r</supplied>ahmasva-rakṣaṇā<lb n="3r15=62" break="no"/>d anyat·</l>
+                    <l n="b"><choice><sic>ña</sic><corr>pu</corr></choice><add place="below">ṇya</add>-mūla<supplied reason="omitted">n</supplied> na vidyate</l>
+                    <l n="c">tasyāt<choice><sic>a</sic><corr>i</corr></choice>la<unclear>ṅ</unclear><choice><orig>kh</orig><reg>gh</reg></choice>anād anyat·</l>
+                    <l n="d">pāpa-mūla<supplied reason="omitted">n</supplied> na <lb n="3r16=63"/> vidyate
+                    </l>
+                </lg>
+                
+                <lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">bahubh<choice><sic>ṛ</sic><corr>ir</corr></choice> vvasudhā dattā</l>
+                    <l n="b">rājabhi<supplied reason="omitted">s</supplied> saga<unclear>r</unclear>ādibhi<supplied reason="omitted">ḥ</supplied></l>
+                    <l n="c">yasya yasya yadā <lb n="3r17=64"/> bhūm<choice><sic>ī</sic><corr>i</corr></choice><supplied reason="omitted">ḥ</supplied></l>
+                    <l n="d">tasya tasya t<supplied reason="omitted">ad</supplied>ā <choice><orig>p</orig><reg>ph</reg></choice>alam<supplied reason="omitted">·</supplied></l>
+                </lg>
+                
+                <p>
+                    pāṇṭi-p perum paṇaikkā<unclear>ra</unclear>ṉ makaṉ
+                    <lb n="3r18=65"/>Arikēcari kai-<choice><orig>yy</orig><reg>y</reg></choice>-eḻuttu
+                </p>
+                
+                <pb n="3v"/>
+                
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>
+                    
+                    <!--<app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:..."></rdg>
+                        </app>-->
+                    
+                    <app loc="56">
+                        <lem>itaṉ<choice><sic>a</sic><corr>ai</corr></choice>k</lem>
+                        <rdg source="bib:Cupparāyalu+al_2007_01">itaṉaik</rdg>
+                    </app>
+                    
+                </listApp>
+                
+            </div>
+            
+            <div type="translation" resp="part:emfr">      
+                
+                <p n="1" rend="stanza">
+                    ...
+                </p>
+                
+                <p>...</p>
+                
+                <p n="56-58">Furthermore, having said <quote>the lotus-feet of he who protects this are on my head</quote>, having graciously ordered <supplied reason="subaudible">so</supplied>, the king <supplied reason="explanation"><foreign>koṟṟavaṉ</foreign></supplied> made this copper order, as ascertainment <supplied reason="explanation"><foreign>teṟṟu</foreign>/<foreign>tēṟṟu</foreign></supplied>.</p>
+                
+                <p n="58-59">Furthermore, ...</p>
+                
+                <p n="2" rend="stanza">
+                    <l>Apart from protecting a <foreign>brahmadeya</foreign>,</l>
+                    <l>There is no other means of attaining <foreign>dharma</foreign> on this earth;</l>
+                    <l>And likewise, apart of seizing it,</l>
+                    <l>There is not other means of obtaining sin on this earth.</l>
+                </p>
+                
+                <p n="3" rend="stanza">
+                    <l>Other than protecting the property of Brahmins</l>
+                    <l>There is no source of merit;</l>
+                    <l>Other than infringing it</l>
+                    <l>There is no source of sin.</l>
+                </p>
+                
+                <p n="4" rend="stanza">
+                    <l>Earth has been given by many</l>
+                    <l>Kings such as Sagara and others;</l>
+                    <l>To whom the land is then,</l>
+                    <l>To him the fruit then.</l>
+                </p>	
+                
+                <p>Handwriting of Arikēcari<note>Sanskrit Arikesarin.</note>, son of Pāṇṭi Perum Paṇaikkā<unclear>ra</unclear>ṉ.</p>
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Edited in <bibl><ptr target="bib:Cupparāyalu+al_2007_01"/></bibl>, with facsimiles (Āvaṇam 18.1).</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Cupparāyalu+al_2007_01"/></bibl>.</p>    
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="CV">
+                        <ptr target="bib:Cupparāyalu+al_2007_01"/>
+                    </bibl>
+                    
+                    
+                </listBibl>
+            </div>
+            
+        </body>
+    </text>
 </TEI>

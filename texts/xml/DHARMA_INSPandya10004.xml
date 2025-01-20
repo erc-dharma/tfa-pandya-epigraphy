@@ -9,24 +9,13 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Ciṉṉamaṉūr Plates (smaller set), time of ***, year ***</title>			    
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>			        
-					<persName>
-						<forename>H.</forename>
-						<surname>Krishna Sastri</surname>
-					</persName>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>			
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
+			    <respStmt>
+			        <resp>author of digital edition</resp>
+			        <persName ref="part:emfr">
+			            <forename>Emmanuel</forename>
+			            <surname>Francis</surname>
+			        </persName>
+			    </respStmt>
 			</titleStmt>
 			<publicationStmt>
 				<authority>DHARMA</authority>
@@ -160,7 +149,7 @@
 <div type="bibliography">
               
     <p>Edited in <bibl><ptr target="bib:KrishnaSastri1929_01"/></bibl>, with English translation and facsimiles (SII 3.206B); in <bibl><ptr target="bib:Anonymous1967_01"/></bibl>, with facsimiles (PCP 3); in <bibl><ptr target="bib:Krishnan2002_01"/></bibl>, with English translation (IEP 16).</p>
-    <p>This digital edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:KrishnaSastri1929_01"/></bibl>.</p>    
+    <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:KrishnaSastri1929_01"/></bibl>.</p>    
     
     <listBibl type="primary">
         		

@@ -5,208 +5,199 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Civakāci Plates, time of Vīrapāṇḍya, year 3</title>			    
-				<respStmt>
-					<resp>intellectual authorship of edition</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>			
-				<respStmt>
-					<resp>EpiDoc encoding</resp>
-					<persName ref="part:emfr">
-						<forename>Emmanuel</forename>
-						<surname>Francis</surname>
-					</persName>
-				</respStmt>
-			</titleStmt>
-			<publicationStmt>
-				<authority>DHARMA</authority>
-				<pubPlace>Paris, CEIAS</pubPlace>
-				<pubPlace>Paris, EFEO</pubPlace>
-				<idno type="filename">DHARMA_INSPandya10007</idno>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/">
-						<p>This work is licenced under the Creative Commons Attribution 4.0 Unported
-							Licence. To view a copy of the licence, visit
-							https://creativecommons.org/licenses/by/4.0/ or send a letter to
-							Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-							California, 94041, USA.</p>
-						<p>Copyright (c) 2019-2025 by Valérie Gillet.</p>
-					</licence>
-				</availability>
-				<date from="2019" to="2025">2019-2025</date>
-			</publicationStmt>
-			<sourceDesc>
-				<msDesc>
-					<msIdentifier>
-						<repository>DHARMAbase</repository>
-						<idno/>
-					</msIdentifier>
-					<msContents>
-						<summary></summary>
-					</msContents>
-					<physDesc>
-	<handDesc>
-		<p>
-			
-		</p>
-	</handDesc>
-					</physDesc>
-				</msDesc>
-			</sourceDesc>
-		</fileDesc>
-		<encodingDesc>
-			<projectDesc>
-				<p>The project DHARMA has received funding from the European Research Council (ERC)
-					under the European Union’s Horizon 2020 research and innovation programme (grant
-					agreement no 809994).</p>
-			</projectDesc>
-			<schemaRef type="guide" key="EGDv01"
-				url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
-			<listPrefixDef>
-				<prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-					replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
-					<p>Public URIs with the prefix bib to point to a Zotero Group Library named
-						ERC-DHARMA whose data are open to the public.</p>
-				</prefixDef>
-				<prefixDef ident="part" matchPattern="([a-z]+)"
-					replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
-					<p>Internal URIs using the part prefix to point to person elements in the
-							<ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
-				</prefixDef>
-			</listPrefixDef>
-		</encodingDesc>
-		<revisionDesc>
-			<change who="part:emfr" when="2024-09-15" status="draft">Creation of the file</change>
-		</revisionDesc>
-	</teiHeader>
-	<text xml:space="preserve">
-      <body>
-
-<div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:83215">
-	
-	<pb n="1r"/>
-	
-	<p>
-		<pb n="1v"/>
-		<lb n="1v1=1"/>
-		
-		<pb n="2r"/>
-		<lb n="2r1=13"/>		
-		
-		<pb n="2v"/>		
-		
-		<pb n="3r"/>
-		
-		<pb n="3v"/>
-		<lb n="3v15=64"/>
-	</p>
-	<p>
-		taṉakk’ iraṇṭām āṇṭiṉ etirām ā
-		<lb n="3v16=65" break="no"/>ṇṭil
-		...
-		
-		<pb n="4r"/>
-		
-		<pb n="4v"/>
-		
-		<pb n="5r"/>
-		
-		<lb n="5r11=114"/>
-		...
-		<hi rend="grantha">A</hi>
-		<lb n="5r12=115" break="no"/><hi rend="grantha">vanikāntanē</hi>
-	</p>
-	
-	<lg n="27" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">...</l>
-		<l n="b">...</l>
-		<l n="c">...</l>
-		<l n="d">...</l>
-	</lg>
-	
-	<lg n="28" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-		<l n="a">candrā<unclear>r</unclear>kkānvaya-dīpasya</l>
-		<l n="b">viśva<lb n="5r14=117" break="no"/>-rakṣaṇa-dakṣiṇaM·</l>
-		<l n="c">ś<supplied reason="lost">āsanañ jaga</supplied>ti jetu<reg>r</reg></l>
-		<l n="d">jaitrañ jaṭila-varmmaṇaḥ <g type="gomutraFinal">.</g></l>
-	</lg>
-		
-		<pb n="5v"/>
-</div>
-      	
-<div type="apparatus">
-                        
-	<listApp>		
-		<!--<app loc="0">
-			<lem></lem>
-			<rdg source="bib:Anonymous1967_01"></rdg>
-			<rdg source="bib:Krishnan2002_01"></rdg>
-		</app>-->
-		
-		<app loc="116">
-			<lem>candrā<unclear>r</unclear>kkānvaya°</lem>
-			<rdg source="bib:Anonymous1967_01">candrārkkānvaya°</rdg>
-			<rdg source="bib:Krishnan2002_01">candrārkānvaya°</rdg>
-		</app>
-		
-		<app loc="117">
-			<lem>ś<supplied reason="lost">āsanañ jaga</supplied>ti</lem>
-			<rdg source="bib:Anonymous1967_01">ś<unclear>ā</unclear><gap reason="lost" quantity="4" unit="character"/><unclear>ga</unclear>ti</rdg>
-			<rdg source="bib:Krishnan2002_01">śāsanañ jagati</rdg>
-		</app>
-		
-		<app loc="117">
-			<lem>jetu<reg>r</reg></lem>
-			<rdg source="bib:Anonymous1967_01 bib:Krishnan2002_01">jetur</rdg>
-		</app>
-	</listApp>
-	
-</div>
-
-          
-<div type="translation" resp="part:emfr">      
-               
-               <p n="28" rend="stanza">
-               	<l><supplied reason="subaudible">This is the</supplied> victorious order,</l>
-               	<l>Able to protect the universe,</l>
-               	<l>Of Jaṭilavarman, victorious in the world,</l>
-               	<l>A lamp in the lunar and solar lineage.</l>
-               </p>
-</div>
-
-<!--<div type="commentary">
-         	
-</div>-->
-       
-<div type="bibliography">
-              
-    <p>Edited in <bibl><ptr target="bib:Anonymous1967_01"/></bibl>, with facsimiles (PCP 6); in <bibl><ptr target="bib:Krishnan2002_01"/></bibl>, with English translation (IEP 90).</p>
-    <p>This digital edition by Emmanuel Francis (2024), based on <bibl><ptr target="bib:Anonymous1967_01"/></bibl> and<bibl><ptr target="bib:Krishnan2002_01"/></bibl>.</p>    
-    
-    <listBibl type="primary">
-    	
-    		<bibl n="PCP">
-    			<ptr target="bib:Anonymous1967_01"/>
-    			<citedRange unit="page">177-206</citedRange>    			
-        			<citedRange unit="item">6</citedRange>    			
-        		</bibl>
-    	
-        		<bibl n="K">
-        			<ptr target="bib:Krishnan2002_01"/>
-        			<citedRange unit="page">107-112</citedRange>
-        			<citedRange unit="item">90</citedRange>
-        		</bibl>        		        		
-        		        		        		
-    </listBibl>
-    
-</div>
-          
-      </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Civakāci Plates, time of Vīrapāṇḍya, year 3</title>			    
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <pubPlace>Paris, EFEO</pubPlace>
+                <idno type="filename">DHARMA_INSPandya10007</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Valérie Gillet.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary/>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>                            
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2024-09-15" status="draft">Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:83215">
+                
+                <pb n="1r"/>
+                
+                <p>
+                    <pb n="1v"/>
+                    <lb n="1v1=1"/>
+                    
+                    <pb n="2r"/>
+                    <lb n="2r1=13"/>		
+                    
+                    <pb n="2v"/>		
+                    
+                    <pb n="3r"/>
+                    
+                    <pb n="3v"/>
+                    <lb n="3v15=64"/>
+                </p>
+                <p>
+                    taṉakk’ iraṇṭām āṇṭiṉ etirām ā
+                    <lb n="3v16=65" break="no"/>ṇṭil
+                    ...
+                    
+                    <pb n="4r"/>
+                    
+                    <pb n="4v"/>
+                    
+                    <pb n="5r"/>
+                    
+                    <lb n="5r11=114"/>
+                    ...
+                    <hi rend="grantha">A</hi>
+                    <lb n="5r12=115" break="no"/><hi rend="grantha">vanikāntanē</hi>
+                </p>
+                
+                <lg n="27" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">...</l>
+                    <l n="b">...</l>
+                    <l n="c">...</l>
+                    <l n="d">...</l>
+                </lg>
+                
+                <lg n="28" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                    <l n="a">candrā<unclear>r</unclear>kkānvaya-dīpasya</l>
+                    <l n="b">viśva<lb n="5r14=117" break="no"/>-rakṣaṇa-dakṣiṇaM·</l>
+                    <l n="c">ś<supplied reason="lost">āsanañ jaga</supplied>ti jetu<reg>r</reg></l>
+                    <l n="d">jaitrañ jaṭila-varmmaṇaḥ <g type="gomutraFinal">.</g></l>
+                </lg>
+                
+                <pb n="5v"/>
+            </div>
+            
+            <div type="apparatus">
+                
+                <listApp>		
+                    <!--<app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Anonymous1967_01"></rdg>
+                        <rdg source="bib:Krishnan2002_01"></rdg>
+                        </app>-->
+                    
+                    <app loc="116">
+                        <lem>candrā<unclear>r</unclear>kkānvaya°</lem>
+                        <rdg source="bib:Anonymous1967_01">candrārkkānvaya°</rdg>
+                        <rdg source="bib:Krishnan2002_01">candrārkānvaya°</rdg>
+                    </app>
+                    
+                    <app loc="117">
+                        <lem>ś<supplied reason="lost">āsanañ jaga</supplied>ti</lem>
+                        <rdg source="bib:Anonymous1967_01">ś<unclear>ā</unclear><gap reason="lost" quantity="4" unit="character"/><unclear>ga</unclear>ti</rdg>
+                        <rdg source="bib:Krishnan2002_01">śāsanañ jagati</rdg>
+                    </app>
+                    
+                    <app loc="117">
+                        <lem>jetu<reg>r</reg></lem>
+                        <rdg source="bib:Anonymous1967_01 bib:Krishnan2002_01">jetur</rdg>
+                    </app>
+                </listApp>
+                
+            </div>
+            
+            
+            <div type="translation" resp="part:emfr">      
+                
+                <p n="28" rend="stanza">
+                    <l><supplied reason="subaudible">This is the</supplied> victorious order,</l>
+                    <l>Able to protect the universe,</l>
+                    <l>Of Jaṭilavarman, victorious in the world,</l>
+                    <l>A lamp in the lunar and solar lineage.</l>
+                </p>
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Edited in <bibl><ptr target="bib:Anonymous1967_01"/></bibl>, with facsimiles (PCP 6); in <bibl><ptr target="bib:Krishnan2002_01"/></bibl>, with English translation (IEP 90).</p>
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:Anonymous1967_01"/></bibl> and<bibl><ptr target="bib:Krishnan2002_01"/></bibl>.</p>    
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="PCP">
+                        <ptr target="bib:Anonymous1967_01"/>
+                        <citedRange unit="page">177-206</citedRange>    			
+                        <citedRange unit="item">6</citedRange>    			
+                    </bibl>
+                    
+                    <bibl n="K">
+                        <ptr target="bib:Krishnan2002_01"/>
+                        <citedRange unit="page">107-112</citedRange>
+                        <citedRange unit="item">90</citedRange>
+                    </bibl>        		        		
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
 </TEI>
