@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Trichy<!-- upper cave-->, time of Māṟañ Caṭaiyaṉ, year 4</title>
+                <title>Trichy, time of Māṟañ Caṭaiyaṉ, year 4</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -44,7 +44,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary>Inscription recording the endowment of gold for maintaining perpetual lamps.</summary>
+                        <summary>Trichy, upper cave. Inscription recording the endowment of gold for maintaining perpetual lamps.</summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -186,7 +186,7 @@
                     <l>...</l>
                 </p>
                 
-                <p n="8-10">Year four, day two thousand five hundred one of the king Mārañ Caṭaiyaṉ</p>
+                <p n="8-10">Year four, day two thousand five hundred one of the king Mārañ Caṭaiyaṉ.</p>
                 
                 <p n="10-15">...</p>
                 
@@ -208,39 +208,45 @@
             
 <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/414).</p>
-                
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (SII 14.10). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>.</p>
-                <p>Edited here by Emmanuel Francis, based on autopsy and photographs (2004, Emmanuel Francis).</p>    
-                
-                <listBibl type="primary">
-                    
-                    <bibl n="SII">
-                        <ptr target="bib:RamanathaAyyar1962_01"/>
-                        <citedRange unit="page">6</citedRange>
-                        <citedRange unit="item">10</citedRange>
-                    </bibl>      			
-                    
-                    <bibl n="G">
-                        <ptr target="bib:Gillet2017_01"/>
-                        <citedRange unit="page">11-23</citedRange>
-                        <citedRange unit="plate">II</citedRange>
-                    </bibl>		
-                    
-                </listBibl>
-                
-                <listBibl type="secondary">
-                    
-                    <bibl n="ARIE 1904-1905">
-                        <ptr target="bib:ARIE1904-1905"/>
-                        <citedRange unit="page">15</citedRange>
-                        <citedRange unit="appendix">A/1904</citedRange>
-                        <citedRange unit="item">414</citedRange>
-                    </bibl>      			
-                    
-                </listBibl>
-                
-            </div>
+    <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/414).</p>
+    
+    <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (SII 14.10). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>.</p>
+    <p>Edited here by Emmanuel Francis, based on autopsy and photographs (2004, Emmanuel Francis).</p>    
+    
+    <listBibl type="primary">
+        
+        <bibl n="SII">
+            <ptr target="bib:RamanathaAyyar1962_01"/>
+            <citedRange unit="page">6</citedRange>
+            <citedRange unit="item">10</citedRange>
+        </bibl>      			
+        
+        <bibl n="G">
+            <ptr target="bib:Gillet2017_01"/>
+            <citedRange unit="page">11-23</citedRange>
+            <citedRange unit="plate">II</citedRange>
+        </bibl>		
+        
+    </listBibl>
+    
+    <listBibl type="secondary">
+        
+        <bibl n="ARIE 1904-1905">
+            <ptr target="bib:ARIE1904-1905"/>
+            <citedRange unit="page">15</citedRange>
+            <citedRange unit="appendix">A/1904</citedRange>
+            <citedRange unit="item">414</citedRange>
+        </bibl>
+        
+        <bibl>
+            <ptr target="bib:Mahalingam1991_01"/>
+            <citedRange unit="page">251-252</citedRange>
+            <citedRange unit="item">Tp 1133</citedRange>
+        </bibl>
+        
+    </listBibl>
+    
+</div>
             
         </body>
     </text>
