@@ -124,12 +124,12 @@
                     <pb n="8v"/>
                     
                     <pb n="9r"/>    
-                    
-                </p>
+                
                 
                 <pb n="9v"/>
-                <lb n="9v1=142" break="no"/>
-                <lb n="9v2=143" break="no"/>	
+                <lb n="9v1=142" break="no"/>Āsīt maṅgalarājo madhurataraḥ śāstravit kavir vvāgmī Ājñaptir asya vaidyaḥ karavandapurādhivāstyaḥ
+                <lb n="9v2=143" break="no"/>dhivāstyaḥ
+                </p>
                 
                 <lg n="19" met="vasantatilakā" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="a">ra<choice><orig>t</orig><reg>k</reg></choice>ṣān naraḥ parakṛtau vidadhīta vidvān</l>
@@ -168,8 +168,7 @@
                 
                 <p xml:lang="san-Latn" rendition="class:grantha maturity:83215">catvāraḥ Ime vaiṣṇave dharme ślokāḥ <g type="floret">.</g></p>
                 
-                
-                <p>
+                                <p>
                     <lb n="10r3=151"/>...
                 </p>
                 
@@ -190,41 +189,49 @@
                 </div>
             -->
             
-            <div type="translation" resp="part:emfr">      
+<div type="translation" resp="part:emfr">      
                 
-                
-                <p n="19" rend="stanza">
-                    <l>...</l>
-                    <l>...</l>
-                    <l>...</l>
-                    <l>...</l>
-                </p>
-                
-                <p n="20" rend="stanza">
-                    <l>...</l>
-                    <l>...</l>
-                    <l>...</l>
-                    <l>...</l>
-                </p>	
-                <p n="21" rend="stanza">
-                    <l>...</l>
-                    <l>...</l>
-                    <l>...</l>
-                    <l>...</l>
-                </p>	
-                <p n="22" rend="stanza">
-                    <l>...</l>
-                    <l>...</l>
-                    <l>...</l>
-                    <l>...</l>
-                </p>	
-                <p n="23" rend="stanza">
-                    <l>...</l>
-                    <l>...</l>
-                    <l>...</l>
-                    <l>...</l>
-                </p>	
-            </div>
+    <p n="19" rend="stanza">
+        <l>...</l>
+        <l>...</l>
+        <l>...</l>
+        <l>...</l>
+    </p>
+    
+    <p n="20" rend="stanza">
+        <l>...</l>
+        <l>...</l>
+        <l>...</l>
+        <l>...</l>
+    </p>	
+    <p n="21" rend="stanza">
+        <l>...</l>
+        <l>...</l>
+        <l>...</l>
+        <l>...</l>
+    </p>	
+    <p n="22" rend="stanza">
+        <l>...</l>
+        <l>...</l>
+        <l>...</l>
+        <l>...</l>
+    </p>	
+    <p n="23" rend="stanza">
+        <l>...</l>
+        <l>...</l>
+        <l>...</l>
+        <l>...</l>
+    </p>	
+</div>
+            
+<div type="translation" source="bib:KrishnaSastri1923-1924_01">
+    <p rend="stanza" n="19">Oh! Dharma! A (learned) man must render protection to the deeds of others. Indeed (there are) the feet acquired by (i.e., on which stands) great fame. The world was all created by Dhātr̥, still kings desirous of merits protect the earth.</p>
+    <p rend="stanza" n="20">No gift is greater than the gift of land; nor is there a greater sin enjoined (on man) than (that of) resuming land (already given)</p>
+    <p rend="stanza" n="21">Oh ! Gladdener of your race ! He that makes a gift on this earth blesses (his) ten generations past and future; and he that takes away (that which has been given) destroys ten generations past and future.</p>
+    <p rend="stanza" n="22">To him that robs land given by himself or by others, there is no expiation anywhere except in the dreadful hell.</p>
+    <p rend="stanza" n="23">Lands have been given away by many. Different kings are ruling (them). The fruit (of protection) belongs to him whose land it happens to be (at the time).</p>
+    <p>These four are verses in the <title>Vaiṣṇava-dharma</title></p>
+</div>
             
             <!--<div type="commentary">
                 
