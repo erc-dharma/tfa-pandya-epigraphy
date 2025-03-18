@@ -15,6 +15,10 @@
                         <forename>Emmanuel</forename>
                         <surname>Francis</surname>
                     </persName>
+                    <persName ref="part:amwb">
+                        <forename>Amandine</forename>
+                        <surname>Wattelier-Bricout</surname>
+                    </persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -83,7 +87,7 @@
     <text xml:space="preserve">
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:83215">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:vernacular">
                 
                 <pb n="1r"/>
                 
@@ -131,37 +135,37 @@
                 <lb n="9v2=143" break="no"/>dhivāstyaḥ
                 </p>
                 
-                <lg n="19" met="vasantatilakā" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                <lg n="19" met="vasantatilakā" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
                     <l n="a">ra<choice><orig>t</orig><reg>k</reg></choice>ṣān naraḥ parakṛtau vidadhīta vidvān</l>
                     <l n="b">pādā hi dharmma-yaśasaḥ para<lb n="9v3=144" break="no"/>masya labdhā<supplied reason="omitted">ḥ</supplied></l>
                     <l n="c">dhātraiva s<choice><orig>ra</orig><reg>ṛ</reg></choice>ṣṭam akhilaM· bhuvanan tathāpi</l>
                     <l n="d">ra<choice><orig>t</orig><reg>k</reg></choice>ṣant<surplus>r</surplus>i puṇyaratayaḥ p<choice><orig>ra</orig><reg>ṛ</reg></choice>thiv<choice><orig>i</orig><reg>ī</reg></choice>n narendrā<supplied reason="omitted">ḥ</supplied> <g type="floret">.</g></l>
                 </lg>
                 
-                <lg n="20" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                <lg n="20" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
                     <l n="a"><lb n="9v4=145" break="no"/>na hi bhūmi-pradānād vai</l>
                     <l n="b">dānam anyad viśiṣyate</l>
                     <l n="c">na cāpi bhūmi-haraṇāt</l>
                     <l n="d">pāpa<lb n="9v5=146" break="no"/>m anyad vidhīyate <g type="pc">.</g></l>
                 </lg>
                 
-                <lg n="21" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                <lg n="21" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
                     <l n="a">dātā daśānugrahṇāti yo</l>
                     <l n="b">hare<surplus>r</surplus>d daśa hanti ca</l>
                     <l n="c">Atītānāgatā<lb n="9v6=147" break="no"/>nī ha</l>
                     <l n="d">kulāni kulanandana</l>
                 </lg>
                 
-                <lg n="22" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                <lg n="22" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
                     <l n="a">svadattāM· paradattāM· vā</l>
                     <l n="b">yo hareta vasundharā<lb n="9v7=148" break="no"/>M·</l>
                     <l n="c">na tasya <unclear>na</unclear>rakāt ghorād</l>
                     <l n="d">vidyate niṣk<supplied reason="lost">ṛ</supplied>ti<supplied reason="omitted">ḥ</supplied> kvacit·  <g type="pc">.</g></l>
                 </lg>
                 
-                <lg n="23" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                <lg n="23" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
                     <l n="a">bahubhir vvasudhā <pb n="10r"/><lb n="10r1=149"/> dattā</l>
-                    <l n="b">bhujyate hi tarādhipaiḥ</l>
+                    <l n="b">bhujyate hi <choice><sic>t</sic><corr>dh</corr></choice>arādhipaiḥ</l>
                     <l n="c">yasya yasya yadā bhūm<unclear>i</unclear>s</l>
                     <l n="d">tasya tasya ta<lb n="10r2=150" break="no"/>dā phalaM· <g type="floret">.</g></l>
                 </lg>
@@ -176,18 +180,30 @@
                 
             </div>
             
-            <!--<div type="apparatus">
+<div type="apparatus">
                 
-                <listApp>
+    <listApp>
+        
+        <!--<app loc="0">
+            <lem></lem>
+            <rdg source="bib:KrishnaSastri1923-1924_01"></rdg>
+        </app>-->
+        
+        <app loc="147">
+            <lem source="bib:KrishnaSastri1923-1924_01 bib:Anonymous1967_01 bib:Krishnan2002_01">kulanandana</lem>
+            <note><ptr target="bib:Sircar1965_03"/> (p. 183) silently emends to <foreign>kurunandana</foreign>.</note>
+        </app>
+        
+        <app loc="149">
+            <lem source="bib:KrishnaSastri1923-1924_01 bib:Anonymous1967_01 bib:Krishnan2002_01"><choice><sic>t</sic><corr>dh</corr></choice>arādhipaiḥ</lem>
+            <note><ptr target="bib:Sircar1965_03"/> (p. 180, n. 2) silently emends to <foreign>ca narādhipaiḥ</foreign>.</note>
+        </app>       
+        
                 
-                <app loc="0">
-                <lem></lem>
-                <rdg source="bib:..."></rdg>
-                </app>
-                </listApp>
-                
-                </div>
-            -->
+    </listApp>
+    
+</div>
+            
             
 <div type="translation" resp="part:emfr">      
                 
@@ -240,7 +256,7 @@
             <div type="bibliography">
                 
                 <p>Edited in <bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl>, with English translation and facsimiles (EI 17.16); in <bibl><ptr target="bib:Anonymous1967_01"/></bibl>, with facsimiles (PCP 1); in <bibl><ptr target="bib:Krishnan2002_01"/></bibl>, with English translation and facsimiles (IEP 7).</p>
-                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl> and on photos (W. Cox, 2007).</p>    
+                <p>This digital edition by Emmanuel Francis and Amandine Wattelier-Bricout, based on <bibl><ptr target="bib:KrishnaSastri1923-1924_01"/></bibl> and on photos (W. Cox, 2007).</p>    
                 
                 <listBibl type="primary">
                     
@@ -261,6 +277,14 @@
                     </bibl>        		        		
                     
                 </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl n="S">
+                        <ptr target="bib:Sircar1965_03"/>
+                    </bibl> 
+                </listBibl>
+               
                 
             </div>
             
