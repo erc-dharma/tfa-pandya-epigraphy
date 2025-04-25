@@ -90,7 +90,7 @@
                 
                 <lg n="1" met="āciriyappā">
                     <l n="1">tiru vaḷara-c ceyam <supplied reason="omitted">va</supplied>ḷara-t teṉṉavar tam kulam <supplied reason="omitted">va</supplied>ḷara</l>
-                    <l n="2">v-aru-maṟai nāṉ-kalai vaḷara v-aṉaitt' ulakum tuyar nīkka-t</l>
+                    <l n="2">v-aru-maṟai nāṉk' avai vaḷara v-aṉaitt' ulakum tuyar nīkka-t</l>
                     <l n="3">teṉ-maturā-puri-t tōṉṟi <surplus>ttē</surplus><lb n="2"/><hi rend="grantha">de</hi>vēn<hi rend="grantha">dra</hi>ṉōṭ' iṉit' irunta</l>
                     <l n="4">maṉṉar pirāṉ va<unclear>ḻu</unclear>tiyar-kōṉ <unclear>vaṭim</unclear>p' alampa niṉṟ-aruḷi</l>
                     <l n="5">māl-kaṭalai Eṟint-aruḷi malaiyattu-k kayal po<choice><orig>r</orig><reg>ṟ</reg></choice>ittu-c</l>
@@ -104,7 +104,7 @@
                     <l n="13">nilaviya poṉ maṇi-viḷakku niṉṟ' eriya-p pattamai<unclear>ttu</unclear></l>
                     <l n="14">Āṅk' amaitta tāyanallūr Aṭatteṉ<lb n="6" break="no"/>ṉāṭ ṭaraiyaṉeṉa</l>
                     <l n="15">Aṟivakaiyāl yarinturaittu teṉṉavar taṅ kula-teyvam</l>
-                    <l n="16">teṉ-kumari-kaṉ<supplied reason="lost">ṉiyar tam</supplied> tiru-nāḷ viḻāvataṉiṟ ⌈<lb n="7" break="no"/>tai-p-pūca-p piṟṟai <choice><orig>n</orig><reg>ñ</reg></choice>āṉṟu</l>
+                    <l n="16">teṉ-kumari-kaṉ<supplied reason="lost">ṉiyar tam</supplied> tiru-nāḷ viḻā v-ataṉiṟ ⌈<lb n="7" break="no"/>tai-p-pūca-p piṟṟai <choice><orig>n</orig><reg>ñ</reg></choice>āṉṟu</l>
                     <l n="17">vant-iruntār ellārkkum māṟṟātē tiyākam Iṭa</l>
                     <l n="18">A<unclear>ṟattāl viḷaṅkiya Āynta kēḷvi-p puṟatt</unclear><lb n="8" break="no"/>āya nāṭu pū-makaṭ kaḷi<supplied reason="omitted">ttu</supplied>-t</l>
                     <l n="19">teliṅka-vī<surplus>y</surplus>maṉ kuḷaṅ koṇṭu teṉ-kaliṅkam aṭippaṭuttu-t</l>
@@ -194,7 +194,8 @@
                 <listBibl type="secondary">
                     
                     <bibl>
-                        
+                        <ptr target="bib:Cuppiramaniyam1983_01"/>
+                        <citedRange unit="page">223-226</citedRange>
                     </bibl>
                     
                 </listBibl>
