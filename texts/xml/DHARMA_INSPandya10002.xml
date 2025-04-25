@@ -96,8 +96,16 @@
                     <lb n="01"/>svasti
                 </ab>
                 
+                <lg n="1" met="vaṁśastha" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:vernacular">
+                    
+                    <l n="a"><lb n="1v1=1"/>śriyañ ciraṃ vaś śiśirāṃśu-śekharaś</l>
+                    <l n="b">śiva<supplied reason="omitted">ḥ</supplied> śritārtthi-pratibandha-kāraṇaM</l>
+                    <l n="c">tanotu sauvarṇṇa-kapa<lb n="1v2=2" break="no"/>rdda-sundaraẖ</l>
+                    <l n="d">ku-darppa-kandarppa-mada-pramarddanaḥ <g type="pc"/></l></lg>
+                
                 <p>
-                    <lb n="1v1=1"/>...
+                    ...
+                    <lb n="1v3=3"/>
                     
                     <pb n="2r"/>
                     
@@ -109,7 +117,7 @@
                     <lb n="3v1=29"/>...
                 </p>
                 
-                <lg n="17" met="anuṣṭubh">
+                <lg n="17" met="anuṣṭubh" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:vernacular">
                     <l n="a">rājatāṃ sa mahīpāla</l>
                     <l n="b">kirīṭārppita-śāsanaḥ</l>
                     <l n="c">rā<lb n="3v2=30" break="no"/>jasiṃha-suto rājā</l>
