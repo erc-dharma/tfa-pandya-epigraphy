@@ -97,7 +97,7 @@
                 </ab>
                 
                 <p>
-                    <lb n="1v1=1"/>
+                    <lb n="1v1=1"/>...
                     
                     <pb n="2r"/>
                     
@@ -106,7 +106,19 @@
                     <pb n="3r"/>
                     
                     <pb n="3v"/>
-                    
+                    <lb n="3v1=29"/>...
+                </p>
+                
+                <lg n="17" met="anuṣṭubh">
+                    <l n="a">rājatāṃ sa mahīpāla</l>
+                    <l n="b">kirīṭārppita-śāsanaḥ</l>
+                    <l n="c">rā<lb n="3v2=30" break="no"/>jasiṃha-suto rājā</l>
+                    <l n="d">ciram urvvyāM parāntakaḥ <g type="gomutraFinal">.</g></l>
+                </lg>
+                
+                <p>
+                    ...
+                    <lb n="3v3=21"/>
                     <pb n="4r"/>
                     
                     <pb n="4v"/>
@@ -128,18 +140,18 @@
                     <pb n="8v"/>
                     
                     <pb n="9r"/>    
-                
-                
-                <pb n="9v"/>
-                <lb n="9v1=142" break="no"/>Āsīt maṅgalarājo madhurataraḥ śāstravit kavir vvāgmī Ājñaptir asya vaidyaḥ karavandapurādhivāstyaḥ
-                <lb n="9v2=143" break="no"/>dhivāstyaḥ
+                    <lb n="9r1=132"/>...
+                    
+                    <pb n="9v"/>
+                    <lb n="9v1=142"/>Āsīt maṅgalarājo madhurataraḥ śāstravit kavir vvāgmī Ājñaptir asya vaidyaḥ karavandapurādhivāstyaḥ
+                    <lb n="9v2=143" break="no"/>dhivāstyaḥ
                 </p>
                 
                 <lg n="19" met="vasantatilakā" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
                     <l n="a">ra<choice><orig>t</orig><reg>k</reg></choice>ṣān naraḥ parakṛtau vidadhīta vidvān</l>
                     <l n="b">pādā hi dharmma-yaśasaḥ para<lb n="9v3=144" break="no"/>masya labdhā<supplied reason="omitted">ḥ</supplied></l>
                     <l n="c">dhātraiva s<choice><orig>ra</orig><reg>ṛ</reg></choice>ṣṭam akhilaM· bhuvanan tathāpi</l>
-                    <l n="d">ra<choice><orig>t</orig><reg>k</reg></choice>ṣant<surplus>r</surplus>i puṇyaratayaḥ p<choice><orig>ra</orig><reg>ṛ</reg></choice>thiv<choice><orig>i</orig><reg>ī</reg></choice>n narendrā<supplied reason="omitted">ḥ</supplied> <g type="floret">.</g></l>
+                    <l n="d">ra<choice><orig>t</orig><reg>k</reg></choice>ṣant<surplus>r</surplus>i puṇyaratayaḥ p<choice><orig>ra</orig><reg>ṛ</reg></choice>thiv<choice><orig>i</orig><reg>ī</reg></choice>n narendrā<supplied reason="omitted">ḥ</supplied> <g type="gomutraInitial">.</g><g type="spiral">.</g><g type="gomutraFinal">.</g></l>
                 </lg>
                 
                 <lg n="20" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -167,87 +179,88 @@
                     <l n="a">bahubhir vvasudhā <pb n="10r"/><lb n="10r1=149"/> dattā</l>
                     <l n="b">bhujyate hi <choice><sic>t</sic><corr>dh</corr></choice>arādhipaiḥ</l>
                     <l n="c">yasya yasya yadā bhūm<unclear>i</unclear>s</l>
-                    <l n="d">tasya tasya ta<lb n="10r2=150" break="no"/>dā phalaM· <g type="floret">.</g></l>
+                    <l n="d">tasya tasya ta<lb n="10r2=150" break="no"/>dā phalaM· <g type="gomutraInitial">.</g><g type="spiral">.</g><g type="gomutraFinal">.</g></l>
                 </lg>
                 
-                <p xml:lang="san-Latn" rendition="class:grantha maturity:83215">catvāraḥ Ime vaiṣṇave dharme ślokāḥ <g type="floret">.</g></p>
+                <p xml:lang="san-Latn" rendition="class:grantha maturity:83215">catvāraḥ Ime vaiṣṇave dharmme ślokāḥ <g type="gomutraInitial">.</g><g type="spiral">.</g><g type="gomutraFinal">.</g></p>
                 
-                                <p>
+                <p>
                     <lb n="10r3=151"/>...
+                    <lb n="10r7=155"/>...
                 </p>
                 
                 <pb n="11v"/>
                 
             </div>
             
-<div type="apparatus">
+            <div type="apparatus">
                 
-    <listApp>
-        
-        <!--<app loc="0">
-            <lem></lem>
-            <rdg source="bib:KrishnaSastri1923-1924_01"></rdg>
-        </app>-->
-        
-        <app loc="147">
-            <lem source="bib:KrishnaSastri1923-1924_01 bib:Anonymous1967_01 bib:Krishnan2002_01">kulanandana</lem>
-            <note><ptr target="bib:Sircar1965_03"/> (p. 183) silently emends to <foreign>kurunandana</foreign>.</note>
-        </app>
-        
-        <app loc="149">
-            <lem source="bib:KrishnaSastri1923-1924_01 bib:Anonymous1967_01 bib:Krishnan2002_01"><choice><sic>t</sic><corr>dh</corr></choice>arādhipaiḥ</lem>
-            <note><ptr target="bib:Sircar1965_03"/> (p. 180, n. 2) silently emends to <foreign>ca narādhipaiḥ</foreign>.</note>
-        </app>       
-        
+                <listApp>
+                    
+                    <!--<app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:KrishnaSastri1923-1924_01"></rdg>
+                        </app>-->
+                    
+                    <app loc="147">
+                        <lem source="bib:KrishnaSastri1923-1924_01 bib:Anonymous1967_01 bib:Krishnan2002_01">kulanandana</lem>
+                        <note><ptr target="bib:Sircar1965_03"/> (p. 183) silently emends to <foreign>kurunandana</foreign>.</note>
+                    </app>
+                    
+                    <app loc="149">
+                        <lem source="bib:KrishnaSastri1923-1924_01 bib:Anonymous1967_01 bib:Krishnan2002_01"><choice><sic>t</sic><corr>dh</corr></choice>arādhipaiḥ</lem>
+                        <note><ptr target="bib:Sircar1965_03"/> (p. 180, n. 2) silently emends to <foreign>ca narādhipaiḥ</foreign>.</note>
+                    </app>       
+                    
+                    
+                </listApp>
                 
-    </listApp>
-    
-</div>
+            </div>
             
             
-<div type="translation" resp="part:emfr">      
+            <div type="translation" resp="part:emfr">      
                 
-    <p n="19" rend="stanza">
-        <l>...</l>
-        <l>...</l>
-        <l>...</l>
-        <l>...</l>
-    </p>
-    
-    <p n="20" rend="stanza">
-        <l>...</l>
-        <l>...</l>
-        <l>...</l>
-        <l>...</l>
-    </p>	
-    <p n="21" rend="stanza">
-        <l>...</l>
-        <l>...</l>
-        <l>...</l>
-        <l>...</l>
-    </p>	
-    <p n="22" rend="stanza">
-        <l>...</l>
-        <l>...</l>
-        <l>...</l>
-        <l>...</l>
-    </p>	
-    <p n="23" rend="stanza">
-        <l>...</l>
-        <l>...</l>
-        <l>...</l>
-        <l>...</l>
-    </p>	
-</div>
+                <p n="19" rend="stanza">
+                    <l>...</l>
+                    <l>...</l>
+                    <l>...</l>
+                    <l>...</l>
+                </p>
+                
+                <p n="20" rend="stanza">
+                    <l>...</l>
+                    <l>...</l>
+                    <l>...</l>
+                    <l>...</l>
+                </p>	
+                <p n="21" rend="stanza">
+                    <l>...</l>
+                    <l>...</l>
+                    <l>...</l>
+                    <l>...</l>
+                </p>	
+                <p n="22" rend="stanza">
+                    <l>...</l>
+                    <l>...</l>
+                    <l>...</l>
+                    <l>...</l>
+                </p>	
+                <p n="23" rend="stanza">
+                    <l>...</l>
+                    <l>...</l>
+                    <l>...</l>
+                    <l>...</l>
+                </p>	
+            </div>
             
-<div type="translation" source="bib:KrishnaSastri1923-1924_01">
-    <p rend="stanza" n="19">Oh! Dharma! A (learned) man must render protection to the deeds of others. Indeed (there are) the feet acquired by (i.e., on which stands) great fame. The world was all created by Dhātr̥, still kings desirous of merits protect the earth.</p>
-    <p rend="stanza" n="20">No gift is greater than the gift of land; nor is there a greater sin enjoined (on man) than (that of) resuming land (already given)</p>
-    <p rend="stanza" n="21">Oh ! Gladdener of your race ! He that makes a gift on this earth blesses (his) ten generations past and future; and he that takes away (that which has been given) destroys ten generations past and future.</p>
-    <p rend="stanza" n="22">To him that robs land given by himself or by others, there is no expiation anywhere except in the dreadful hell.</p>
-    <p rend="stanza" n="23">Lands have been given away by many. Different kings are ruling (them). The fruit (of protection) belongs to him whose land it happens to be (at the time).</p>
-    <p>These four are verses in the <title>Vaiṣṇava-dharma</title></p>
-</div>
+            <div type="translation" source="bib:KrishnaSastri1923-1924_01">
+                <p rend="stanza" n="19">Oh! Dharma! A (learned) man must render protection to the deeds of others. Indeed (there are) the feet acquired by (i.e., on which stands) great fame. The world was all created by Dhātr̥, still kings desirous of merits protect the earth.</p>
+                <p rend="stanza" n="20">No gift is greater than the gift of land; nor is there a greater sin enjoined (on man) than (that of) resuming land (already given)</p>
+                <p rend="stanza" n="21">Oh ! Gladdener of your race ! He that makes a gift on this earth blesses (his) ten generations past and future; and he that takes away (that which has been given) destroys ten generations past and future.</p>
+                <p rend="stanza" n="22">To him that robs land given by himself or by others, there is no expiation anywhere except in the dreadful hell.</p>
+                <p rend="stanza" n="23">Lands have been given away by many. Different kings are ruling (them). The fruit (of protection) belongs to him whose land it happens to be (at the time).</p>
+                <p>These four are verses in the <title>Vaiṣṇava-dharma</title></p>
+            </div>
             
             <!--<div type="commentary">
                 
@@ -284,7 +297,7 @@
                         <ptr target="bib:Sircar1965_03"/>
                     </bibl> 
                 </listBibl>
-               
+                
                 
             </div>
             
