@@ -72,7 +72,7 @@
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr part:vagi" when="2024-04-25" status="draft"
+            <change who="part:emfr" when="2024-04-25" status="draft"
                 >Creation of the file</change>
         </revisionDesc>
     </teiHeader>
@@ -86,48 +86,78 @@
                 </ab>
                 
                 <lg n="1" met="āciriyappā">
-                    <l n="1">tiruvaḷarac ceyam<supplied reason="omitted">va</supplied>ḷarat teṉṉavartam kulam<supplied reason="omitted">va</supplied>ḷara</l>
-                    <l n="2">v-arumaṟaināṉ kalaivaḷara aṉaittulakum tuyarnīkkat</l>
-                    <l n="3">teṉmaturā purittōṉṟit <hi rend="grantha">de</hi>vēn<hi rend="grantha">dra</hi>ṉō ṭiṉitirunta</l>
-                    <l n="4">maṉṉarpirāṉ vaḻutiyarkōṉ vaṭimpalampa niṉṟaruḷi</l>
-                    <l n="5">mākkaṭalai yeṟintaruḷi malaiyattuk kayalpoṟittuc</l>
-                    <l n="6">cēralaṉaic ceruvilveṉṟu tiṟaikoṇṭu vākaicūṭik</l>
-                    <l n="7">kūpakarkōṉ makaṭkoṭuppak kulaviḻiñam kaikkoṇṭu</l>
-                    <l n="8">kaṉṉippōr ceytaruḷik kāntaḷurccālai kalamaṟuttu</l>
-                    <l n="9">maṉṉupukaḻ maṟaiyavartam aṇiampalat tiṉitiruntu</l>
-                    <l n="10">āyirat teṇma ravirōtap paṇippaṇiyāl</l>
-                    <l n="11">paṟaipērttuk kalnāṭṭip paṇṭuḷḷa pērtavirttu</l>
-                    <l n="12">aḷappaṉavum niṟuppaṉavuṅ kayaleḻuti aṉantapurat temmāṟku</l>
-                    <l n="13">nilaviyapoṉ maṇiviḷakku niṉṟeriyap pattamaittu</l>
-                    <l n="14">āṅkamaitta tāyanallūr aṭatteṉṉāṭ ṭaraiyaṉeṉa</l>
-                    <l n="15">aṟivakaiyāl parinturaittut teṉṉavartam kulateyvam</l>
-                    <l n="16">teṉkumarikaṉ [lacuna] tirunāḷ viḻāvataṉil taippūcap piṟṟaiñāṉṟu</l>
-                    <l n="17">vantiruntā rellārkkum āṟṟātē tiyākamiṭa</l>
-                    <l n="18">aṟattāl viḷaṅkiya vāynta kēḷvi puṟattāya nāṭu pūmakaṭ kaḷittu</l>
-                    <l n="19">teliṅkavīmaṉ kuḷaṅkoṇṭu teṉkaliṅkam aṭippaṭuttut</l>
-                    <l n="20">ticai Aṉaittum uṭaṉāṇṭa <hi rend="grantha">śrī</hi>
-                        <lb n="10" break="no"/>parāntakatēvarkku yāṇṭu …
-                    </l>
+                    <l n="1">tiru vaḷara-c ceyam <supplied reason="omitted">va</supplied>ḷara-t teṉṉavar tam kulam <supplied reason="omitted">va</supplied>ḷara</l>
+                    <l n="2">v-aru-maṟai nāṉ-kalai vaḷara v-aṉaitt' ulakum tuyar nīkka-t</l>
+                    <l n="3">teṉ-maturā-puri-t tōṉṟi <surplus>ttē</surplus><lb n="2"/><hi rend="grantha">de</hi>vēn<hi rend="grantha">dra</hi>ṉōṭ' iṉit' irunta</l>
+                    <l n="4">maṉṉar pirāṉ va<unclear>ḻu</unclear>tiyar-kōṉ <unclear>vaṭim</unclear>p' alampa niṉṟ-aruḷi</l>
+                    <l n="5">māl-kaṭalai Eṟint-aruḷi malaiyattu-k kayal po<choice><orig>r</orig><reg>ṟ</reg></choice>ittu-c</l>
+                    <l n="6">cēralaṉai<lb n="3" break="no"/>-c ceruvil veṉṟu <unclear>ti</unclear>ṟai koṇṭu vākai cūṭi-k</l>
+                    <l n="7">kūpakar-kōṉ makaṭ k<choice><orig>u</orig><reg>o</reg></choice>ṭuppa-k kula-viḻiñam kai-k-koṇṭu</l>
+                    <l n="8">kaṉṉi-<unclear>p</unclear>-pōr ceyt-aruḷi-k kāntaḷur-c-cālai kalam aṟut<lb n="4" break="no"/><unclear>tu</unclear></l>
+                    <l n="9">maṉṉupukaḻ maṟaiyavar tam maṇi-y-ampalatt' iṉit' iruntu</l>
+                    <l n="10">Āyiratteṇmar Avirōtam paṇi-p-paṇiyāl</l>
+                    <l n="11">ma<unclear>ṟai pēr</unclear>ttu-k kal nāṭṭi-p paṇṭ-uḷḷa pēr tavi<lb n="5" break="no"/><supplied reason="omitted">rt</supplied>tu</l>
+                    <l n="12">niṟuppaṉavum aḷappaṉavum kayal eḻuti Aṉanta-purattemmāṟku</l>
+                    <l n="13">nilaviya poṉ maṇi-viḷakku niṉṟ' eriya-p pattamai<unclear>ttu</unclear></l>
+                    <l n="14">Āṅk' amaitta tāyanallūr Aṭatteṉ<lb n="6" break="no"/>ṉāṭ ṭaraiyaṉeṉa</l>
+                    <l n="15">Aṟivakaiyāl yarinturaittu teṉṉavar taṅ kula-teyvam</l>
+                    <l n="16">teṉ-kumari-kaṉ<supplied reason="lost">ṉiyar tam</supplied> tiru-nāḷ viḻāvataṉiṟ ⌈<lb n="7" break="no"/>tai-p-pūca-p piṟṟai <choice><orig>n</orig><reg>ñ</reg></choice>āṉṟu</l>
+                    <l n="17">vant-iruntār ellārkkum māṟṟātē tiyākam Iṭa</l>
+                    <l n="18">A<unclear>ṟattāl viḷaṅkiya Āynta kēḷvi-p puṟatt</unclear><lb n="8" break="no"/>āya nāṭu pū-makaṭ kaḷi<supplied reason="omitted">ttu</supplied>-t</l>
+                    <l n="19">teliṅka-vī<surplus>y</surplus>maṉ kuḷaṅ koṇṭu teṉ-kaliṅkam aṭippaṭuttu-t</l>
+                    <l n="20">ticai Aṉaittum uṭaṉ āṇṭa <hi rend="grantha">śrī</hi>
+                        <lb n="9" break="no"/>-parāntaka-tēvarkku</l>
                 </lg>
                 
-                <p>	
+                <p>                    
+                    yāṇṭu 9-tāvatu
                 </p>
                 
-                
+                <p>
+                    ...
+                    <lb n="10" break="no"/>...
+                    
+                    <lb n="27" break="no"/>...
+                </p>
+                                
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
                     
-                    <app loc="0">
+                    <!--<app loc="0">
                         <lem>...</lem>
-                        <rdg source="bib:..">...</rdg>
-                        </app>                    
+                        <rdg source="bib:GopinathaRao1988_01">...</rdg>
+                        </app>-->
+                    
+                    <app loc="2">
+                        <lem source="bib:GopinathaRao1988_01">nīkkat</lem>
+                        <note><ptr target="bib:GopinathaRao1988_01"/> notes: <quote><foreign>nīṅka</foreign> would be better.</quote></note>
+                    </app>
+                    
+                    <app loc="2">
+                        <lem source="bib:GopinathaRao1988_01">iṉit' irunta</lem>
+                        <note><ptr target="bib:GopinathaRao1988_01"/> notes: <quote>The other inscription reads <foreign>iṉit' iruntu</foreign>.</quote></note>
+                    </app> 
+                    
+                    <app loc="4">
+                        <lem source="bib:GopinathaRao1988_01">mālkaṭalai</lem>
+                        <note><ptr target="bib:GopinathaRao1988_01"/> notes: <quote><foreign>vārkaṭalai</foreign> would suit the rhytm better.</quote></note>
+                    </app> 
+                    
+                    <app loc="5">
+                        <lem>eḻuti</lem>
+                        <rdg source="bib:GopinathaRao1988_01">ēḻuti</rdg>
+                    </app>
+                    
+                    <app loc="6">
+                        <lem source="bib:GopinathaRao1988_01">teṉkumarikaṉ<supplied reason="lost">ṉiyar tam</supplied></lem>
+                    </app>
                     
                 </listApp>
                 
-            </div>-->
+            </div>
             
             <div type="translation" resp="part:emfr">      
                 
@@ -140,40 +170,28 @@
                 
             </div>
             
-            <!--<div type="commentary">
-                
-                </div>-->
+            <div type="commentary">
+                <p><ptr target="bib:GopinathaRao1988_01"/> notes that there <quote>is one more record of the 9th year of the king Parântaka in the same temple, but unfortunately it is built in.</quote> He occasionally refers to readings from this other inscription.</p>
+                </div>
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/414).</p>
-                
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (SII 14.10).</p>
-                <p>Edited here by Emmanuel Francis, based.</p>    
+                <p>Edited from impressions in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English translation and visual documentation (TAS 1.3).</p>
+                <p>Edited here by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl> and visual documentation therein.</p>    
                 
                 <listBibl type="primary">
                     
-                    <bibl n="SII">
-                        <ptr target="bib:RamanathaAyyar1962_01"/>
-                        <citedRange unit="page">6</citedRange>
-                        <citedRange unit="item">10</citedRange>
+                    <bibl n="TAS">
+                        <ptr target="bib:GopinathaRao1988_01"/>
+                        <citedRange unit="page">49-57</citedRange>
                     </bibl>      			
-                                        
+                    
                 </listBibl>
                 
                 <listBibl type="secondary">
                     
-                    <bibl n="ARIE 1904-1905">
-                        <ptr target="bib:ARIE1904-1905"/>
-                        <citedRange unit="page">15</citedRange>
-                        <citedRange unit="appendix">A/1904</citedRange>
-                        <citedRange unit="item">414</citedRange>
-                    </bibl>
-                    
                     <bibl>
-                        <ptr target="bib:Mahalingam1991_01"/>
-                        <citedRange unit="page">251-252</citedRange>
-                        <citedRange unit="item">Tp 1133</citedRange>
+                        
                     </bibl>
                     
                 </listBibl>
