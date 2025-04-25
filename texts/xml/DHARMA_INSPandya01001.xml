@@ -97,14 +97,14 @@
                     <l n="6">cēralaṉai<lb n="3" break="no"/>-c ceruvil veṉṟu <unclear>ti</unclear>ṟai koṇṭu vākai cūṭi-k</l>
                     <l n="7">kūpakar-kōṉ makaṭ k<choice><orig>u</orig><reg>o</reg></choice>ṭuppa-k kula-viḻiñam kai-k-koṇṭu</l>
                     <l n="8">kaṉṉi-<unclear>p</unclear>-pōr ceyt-aruḷi-k kāntaḷur-c-cālai kalam aṟut<lb n="4" break="no"/><unclear>tu</unclear></l>
-                    <l n="9">maṉṉupukaḻ maṟaiyavar tam maṇi-y-ampalatt' iṉit' iruntu</l>
+                    <l n="9">maṉṉupukaḻ maṟaiyavar ta<choice><sic>mm</sic><corr>m</corr></choice> aṇi-y-ampalatt' iṉit' iruntu</l>
                     <l n="10">Āyiratteṇmar Avirōtam paṇi-p-paṇiyāl</l>
                     <l n="11">ma<unclear>ṟai pēr</unclear>ttu-k kal nāṭṭi-p paṇṭ-uḷḷa pēr tavi<lb n="5" break="no"/><supplied reason="omitted">rt</supplied>tu</l>
                     <l n="12">niṟuppaṉavum aḷappa<add place="below">ṉa</add>vum kayal eḻuti Aṉanta-purattemmāṟku</l>
-                    <l n="13">nilaviya poṉ maṇi-viḷakku niṉṟ' eriya-p pattamai<unclear>ttu</unclear></l>
+                    <l n="13">nilaviya poṉ maṇi-viḷakku niṉṟ' eriya-p patt' amai<unclear>ttu</unclear></l>
                     <l n="14">Āṅk' amaitta tāyanallūr Aṭatteṉ<lb n="6" break="no"/>ṉāṭ ṭaraiyaṉeṉa</l>
                     <l n="15">Aṟiv<choice><sic>ā</sic><corr>a</corr></choice>kaiyāl y-a<choice><orig>r</orig><reg>ṟ</reg></choice>inturaittu teṉṉavar taṅ kula-teyvam</l>
-                    <l n="16">teṉ-kumari-kaṉ<supplied reason="lost">ṉiyar tam</supplied> tiru-nāḷ viḻā v-ataṉiṟ ⌈<lb n="7" break="no"/>tai-p-pūca-p piṟṟai <choice><orig>n</orig><reg>ñ</reg></choice>āṉṟu</l>
+                    <l n="16">teṉ-kumari-kaṉ<supplied reason="lost">ṉiyar tam</supplied> tiru-nāḷ viḻāvataṉiṟ ⌈<lb n="7" break="no"/>tai-p-pūca-p piṟṟai <choice><orig>n</orig><reg>ñ</reg></choice>āṉṟu</l>
                     <l n="17">vant-iruntār ellārkkum māṟṟātē tiyākam Iṭa</l>
                     <l n="18">A<unclear>ṟattāl viḷaṅkiya Āynta kēḷvi-p puṟatt</unclear><lb n="8" break="no"/>āyanāṭu pū-makaṭ kaḷi<supplied reason="omitted">ttu</supplied>-t</l>
                     <l n="19">teliṅka-vī<surplus>y</surplus>maṉ kuḷaṅ koṇṭu teṉ-kaliṅkam aṭippaṭuttu-t</l>
@@ -161,7 +161,7 @@
                         <lem source="bib:GopinathaRao1988_01">mālkaṭalai</lem>
                         <note><ptr target="bib:GopinathaRao1988_01"/> notes: <quote><foreign>vārkaṭalai</foreign> would suit the rhyme better.</quote></note>
                     </app> 
-                                        
+                    
                     <app loc="4">
                         <lem source="bib:GopinathaRao1988_01"><gap reason="ellipsis"/> Āyiratteṇmar Avirōtam paṇippaṇiyāl</lem>
                         <note><ptr target="bib:GopinathaRao1988_01"/> notes: <quote>The other inscription has <foreign>. . . . m va(ḷarp)pa Amaitta pērāyiratteṇmar aviṟōtap paṇippaṇiyāl</foreign>.</quote></note>
@@ -216,31 +216,35 @@
                 
                 <p n="9">Ninth year of the the glorious king Parāntaka,</p>
                 <p n="1-8">
-                    who appeared in the southern Maturā city,<note>That is, the southern Mathurā, that is, Maturai.</note>
+                    who,
                     so that fortune thrives,
                     so that victory thrives,
                     so that the lineage of the Southerner(s)<note>That is, the Pāṇḍya(s).</note> thrives,
                     so that the four great secrets<note>That is, the <foreign>veda</foreign>s.</note> thrives,
-                    so that he removes the affliction in the whole world,
+                    so as to remove the affliction in the whole world,
+                    appeared in the southern Maturā city,<note>That is, the southern Mathurā, that is, Maturai.</note>,
                     <supplied reason="subaudible">who is</supplied> the lord of kings, the Vaḻuti king,<note>That is, the Pāṇḍya king.</note>,
                     who pleasingly sat along with the king of gods,<note>That is, Indra.</note>
                     who,
-                    graciously stood so as to bathe his feet,
-                    graciously hurled at the sea ...,
-                    engraved the carp on the mountain,
-                    vanquished the Cēra king in battle, obtained tribute <supplied reason="subaudible">from him</supplied>, wore the <foreign>vākai</foreign> flower,
-                    seized Vīḻiṅam ... so that the Kūpakar king gave him his daughter,
-                    graciously made fight ...,
-                    apportioned pots in the feeding-hall <supplied reason="explanation"><foreign>cālai</foreign></supplied> at Kāntaḷur,
-                    pleasingly sat in the hall ... of the Brahmins of enduring fame,
-                    ...
-                    so as to give presents to all those who came following the time of <foreign>taippūcam</foreign> during the festival of the southern Kumarikaṉṉi,
-                    ...,
+                    graciously stood so as to wash his feet and graciously hurled <supplied reason="subaudible">a javelin</supplied> at the great sea,
+                    who engraved the carp on the mountain,
+                    who vanquished the Cēra king in battle, obtained tribute <supplied reason="subaudible">from him</supplied> and wore the <foreign>vākai</foreign> flower,
+                    who, whereas/so that the Kūpakar king gave him his daughter, seized Vīḻiñam of noble lineage and
+                    graciously made his debut fight,
+                    who apportioned pots in the feeding-hall <supplied reason="explanation"><foreign>cālai</foreign></supplied> at Kāntaḷur and
+                    pleasingly sat in the beautiful hall of the Brahmins of enduring fame,
+                    who ...,
+                    who inscribed the fish ...,
+                    who established to permanently burn ten beautiful lamps ... for our lord at Aṉantapuṟam,
+                    who ...,
+                    who, so as to give presents to all those who came at the time of and after <foreign>taippūcam</foreign><note>See MTL: <quote>The full moon in the month of Tai, a day of festival.</quote></note> during the festival of the southern Kumarikaṉṉi, the family deity of the Pāṇḍyas,
+                    who ...,
+                    who ...,
                     ruled in all directions.
                 </p>                
                 
                 <p n="9-10">
-                    Whereas the four great boundaries of the <foreign>devadāna</foreign> of ... are
+                    Whereas the four great boundaries of the <foreign>devadāna</foreign> of the Lady Kumarikkaṉṉi in the Purattāyanāṭu, <supplied reason="subaudible">itself</supplied> in the Uttamacōḻavaḷanātu, <supplied reason="subaudible">itself</supplied> in the Rājarājavaḷanāṭu, are
                     <list>
                         <item>the northern boundary ...</item>
                         <item>east to this boundary ...</item>
@@ -248,7 +252,7 @@
                     </list>
                     <supplied reason="lost">the land</supplied> comprised within these four great boundaries
                     ...
-                    we have given <supplied reason="subaudible">it</supplied> to the Lady Kumarikkaṉṉi.
+                    we have given <supplied reason="subaudible">it</supplied>, with water libation, as tax-free <foreign>devadāna</foreign> to the Lady Kumarikkaṉṉi.
                 </p>
                 
             </div>
