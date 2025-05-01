@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Śrīraṅgam, Raṅganātha temple, time of Sundara Pāṇḍya</title>
+                <title>Tirunelvēli, Nelliyappar temple, time of Māṟavarman Sundara Pāṇḍya I, year 20</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -79,30 +79,21 @@
     <text xml:space="preserve">
         <body>
             
-            <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <ab>
-                    <lb n="1"/>hariḥ OM svasti śrī <g type="circleDouble">.</g><g type="dash">.</g>	
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>		
                 </ab>
                 
-                <lg n="1" >
-                    <l n="a">yenāsau karuṇāmanīyata daśāṃ śrī-raṃga-pa<choice><orig>t</orig><reg>d</reg></choice>mākaraḥ</l>
-                    <l n="b">kṛtvā taM bhuvanāntara-praṇayinaṃ karṇṇāṭa-doṣākaraM</l>
-                    <l n="c">bhūyopy atra jagat-trayī-bahumatāṃ lakṣmīm avasthāpayan</l>
-                    <l n="d">devas sundara-pāṇḍya-bhānur udayaṃ lebhe <lb n="2"/> pratāpoṣmaḷaM <g type="ddanda">.</g></l>
+                <lg n="1" met="āciriyappā">
+                    <l n="1">pū-maruviya tiru-maṭantaiyum puvi-maṭantaiyum puyatt' iruppa</l>
+                    <l n="2">nā-maruviya kalai-maṭantaiyum <hi rend="grantha">ja</hi>ya-maṭantaiyum nalañ ciṟappa</l>
+                    <l n="3">...</l>
                 </lg>
                 
-                <p>
-                    ...
-                    <lb n="3"/>...
+                <p> 
+                    
                 </p>
-                
-                <lg n="30" >
-                    <l n="a"><lb n="23"/>hemāc-chādana-rāja Ity adhigata-prakhyāta-nāmno harer</l>
-                    <l n="b">haimasyoraga-sūdanasya śayanāgārasya vādhiśriyaḥ</l>
-                    <l n="c">trīṇ<unclear>i</unclear>-sva<supplied reason="omitted">rṇṇa</supplied>-mayāni rāja-tapanaś cakre vimānāni yaiś</l>
-                    <l n="d">śrī-raṃgas sa Ivābhiṣeka-vidhṛtair u<choice><orig>T</orig><reg>d</reg></choice>bhāsate maulibhiḥ <g type="ddanda">.</g></l>
-                </lg>
                 
             </div>
             
@@ -112,7 +103,7 @@
                 
                 <app loc="0">
                 <lem>...</lem>
-                <rdg source="bib:Hultzsch1894-1895_04">...</rdg>
+                <rdg source="bib:SubrahmanyAiyer1933-1934_01">...</rdg>
                 </app>                    
                 
                 </listApp>
@@ -130,13 +121,13 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:Hultzsch1894-1895_04"/></bibl>, with English translation and visual documentation (EI 3.2).</p>
-                <p>Edited here by Emmanuel Francis, based on <bibl><ptr target="bib:Hultzsch1894-1895_04"/></bibl> and visual documentation therein.</p>    
+                <p>Edited in <bibl><ptr target="bib:SubrahmanyAiyer1933-1934_01"/></bibl>, with English translation (EI 22.10).</p>
+                <p>Edited here by Emmanuel Francis, based on <bibl><ptr target="bib:SubrahmanyAiyer1933-1934_01"/></bibl> and visual documentation therein.</p>    
                 
                 <listBibl type="primary">
                     
                     <bibl n="EI">
-                        <ptr target="bib:Hultzsch1894-1895_04"/>
+                        <ptr target="bib:SubrahmanyAiyer1933-1934_01"/>
                     </bibl>      			
                     
                 </listBibl>
