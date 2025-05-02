@@ -85,19 +85,25 @@
                     <lb n="1"/>hariḥ OM svasti śrī <g type="circleDouble">.</g><g type="dash">.</g>	
                 </ab>
                 
-                <lg n="1" >
+                <lg n="1" met="śārdūlavikrīḍita">
                     <l n="a">yenāsau karuṇāmanīyata daśāṃ śrī-raṃga-pa<choice><orig>t</orig><reg>d</reg></choice>mākaraḥ</l>
                     <l n="b">kṛtvā taM bhuvanāntara-praṇayinaṃ karṇṇāṭa-doṣākaraM</l>
                     <l n="c">bhūyopy atra jagat-trayī-bahumatāṃ lakṣmīm avasthāpayan</l>
-                    <l n="d">devas sundara-pāṇḍya-bhānur udayaṃ lebhe <lb n="2"/> pratāpoṣmaḷaM <g type="ddanda">.</g></l>
+                    <l n="d">devas sundara-pāṇḍya-bhānur udayaṃ lebhe <lb n="2"/>pratāpoṣmaḷaM <g type="ddanda">.</g></l>
+                </lg>
+                
+                <lg n="2" met="śārdūlavikrīḍita">
+                    <l n="a">dattair nnaika-tulādhiroha-vidhinā raṃgeśvarasyālayan</l>
+                    <l n="b">devaś śrī-madhurā-mahendra-nṛpatir jjāMbūnadair nirmmame</l>
+                    <l n="c">Asyottuṃgabhujādribhāsurayaśas candrodayavyañjikā</l>
+                    <l n="d">sandhyevāniśam īkṣyate navajapāraktā yadaṃśu<lb n="3" break="no"/>chaṭā <g type="ddanda">.</g></l>
                 </lg>
                 
                 <p>
                     ...
-                    <lb n="3"/>...
                 </p>
                 
-                <lg n="30" >
+                <lg n="30" met="śārdūlavikrīḍita">
                     <l n="a"><lb n="23"/>hemāc-chādana-rāja Ity adhigata-prakhyāta-nāmno harer</l>
                     <l n="b">haimasyoraga-sūdanasya śayanāgārasya vādhiśriyaḥ</l>
                     <l n="c">trīṇ<unclear>i</unclear>-sva<supplied reason="omitted">rṇṇa</supplied>-mayāni rāja-tapanaś cakre vimānāni yaiś</l>
@@ -131,8 +137,7 @@
             <div type="bibliography">
                 
                 <p>Edited in <bibl><ptr target="bib:Hultzsch1894-1895_04"/></bibl>, with English translation and visual documentation (EI 3.2).</p>
-                <p>Edited here by Emmanuel Francis, based on <bibl><ptr target="bib:Hultzsch1894-1895_04"/></bibl> and visual documentation therein.</p>    
-                
+                <p>Edited here by Emmanuel Francis, based on <bibl><ptr target="bib:Hultzsch1894-1895_04"/></bibl> and visual documentation therein.</p>                    
                 <listBibl type="primary">
                     
                     <bibl n="EI">
