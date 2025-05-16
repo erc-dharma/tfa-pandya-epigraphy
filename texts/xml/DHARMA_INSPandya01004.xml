@@ -82,8 +82,8 @@
                 
                 <lg n="1" met="eṇcīrkkaḻi neṭilaṭiyāciriyaviruttam">
                     <l n="a"><lb n="1"/>Eṟiya cakāttam āyirattu nāṉuṟṟ' e<lb n="2" break="no"/>ḻupattiṉ ṉālil var<choice><sic>iḻc</sic><corr>u<hi rend="grantha">ṣ</hi></corr></choice>am pari<lb n="3" break="no"/>tāpita<supplied reason="omitted">ṉ</supplied>ṉil
-                        mātan tēriya cittirai<lb n="4"/>yirupatt' oṉpat' ākun tēti yiraṇ<lb n="5" break="no"/>ṭām pakkan tiṅkaḷu rōkaṇi nāl <lb n="6"/>vīruyarnta mituṉattu nelvēli<lb n="7" break="no"/>māṟaṉ vīra-vēḷ kulacēkara-c-ceḻiya<lb n="8" break="no"/>ṉ eṉṟu
-                        curarāṟupuṉai yakilēcar<lb n="9" break="no"/>kāciyilē viḷaṅkavaṇimavuli ta<lb n="10" break="no"/>rittaṉaṉ para-rācar
+                        mātan tēriya cittirai<lb n="4"/>yirupatt' oṉpat' ākun tēti yiraṇ<lb n="5" break="no"/>ṭām pakkan tiṅkaḷu rōkaṇi nāl <lb n="6"/>vīruyarnta mituṉattu nelvēli<lb n="7" break="no"/>-māṟaṉ vīra-vēḷ kulacēkara-c-ceḻiya<lb n="8" break="no"/>ṉ eṉṟu
+                        curarāṟupuṉai yakilēcar<lb n="9"/>kāciyilē viḷaṅkavaṇimavuli ta<lb n="10" break="no"/>rittaṉaṉ para-rācar
                         paṇintaṉarē</l>
                 </lg>
                 <lg n="2" met="kaṭṭalaikalittuṟai">
@@ -92,7 +92,7 @@
                     <l n="b">pāṭiya vīra-veṇpā-mālai<lb n="13" break="no"/>yai-p poṉṉiṉ
                         pāṇṭiyaṉ pōr</l>
                     <l n="c">tē<lb n="14" break="no"/>ṭiya vēṟ-ceḻiyaṉ kulacēkara-t teṉṉaṉai<lb n="15" break="no"/>-p pōṟ</l>
-                    <l n="d">kuṭiya vēntar uṇṭō voru vēn<lb n="16" break="no"/>tarai-c collukilē <g type="dash"/></l>
+                    <l n="d">kuṭiya vēntar uṇṭō v-oru vēn<lb n="16" break="no"/>tarai-c collukilē <g type="dash"/></l>
                 </lg>
                 <p>naṉṟāka <g type="pc">.</g></p>
                 
@@ -121,10 +121,13 @@
                 
             </div>
             
-            <!--<div type="translation" resp="part:emfr">      
+            <div type="translation" source="bib:GopinathaRao1988_01">      
                 
-                
-                </div>-->
+                <p n="1" rend="stanza">Nelveli Māraṉ alias Viraveḷ wore the beautiful crown under the name of Kulaśekhara Pānḍya, in the presence of the lord of the Universe at Teṉkâśi, on the twenty-ninth of the month Chittirai with the Rôhiṇi <foreign>nakshatra</foreign> in the dark half of the same month, in the year Paridâpi, which corresponded to the Śaka year one thousand four hundred and seventy-four; the kings of other countries showed their respect to him on this
+occasion.</p> 
+                <p n="2" rend="stanza">Is it possible to mention another king who wore the crown in the manner in which it was done by the king of rare qualities, Kulaśêkhara Pâṇḍya, the wielder of the spear which seeks battle, who, feeling that flower garlands would all fade away, put on a garland of verses in the <foreign>veṇbâ</foreign> metre sung in praise of him by the poets?</p>
+                <p n="16">Be it well.</p>
+                </div>
             
             <!--<div type="commentary">
                 
