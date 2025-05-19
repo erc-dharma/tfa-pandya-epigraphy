@@ -104,7 +104,7 @@
                     <lb n="13" break="no"/><unclear>ri</unclear>ppat' āka kō-māṟañ <supplied reason="lost">ca</supplied>
                     <lb n="14" break="no"/>ṭ<unclear>ai</unclear>yar-āyiṉa <hi rend="grantha">pāṇ<unclear>ḍya</unclear></hi>
                     <lb n="15"/>Atipati varakuṇa <hi rend="grantha">ma<supplied reason="lost">hā</supplied></hi>
-                    <lb n="16" break="no"/><supplied reason="lost">rā</supplied><hi rend="grantha">ja</hi>r Aṇṭaṇāṭṭu <supplied reason="lost">ve</supplied>
+                    <lb n="16" break="no"/><supplied reason="lost">rā</supplied><hi rend="grantha">ja</hi>r Aṇṭaṇāṭṭu <supplied reason="lost">vē</supplied>
                     <lb n="17" break="no"/>ḷāṉ kaiyyil viṭu <supplied reason="lost">ta</supplied>
                     <lb n="18" break="no"/>nta poṉ pāṭi</p>
                 
@@ -126,12 +126,16 @@
             
             <div type="translation" source="bib:Gillet2017_01">      
                 
-                <p>Hail! Prosperity! [This is] the 9th year opposite to the 4th year of king Māṟañcaṭaiyaṉ;
-                    from (mutal āka) aviṭṭa obtained on Monday (tiṅkaṭ-kiḻamai) in the
+                <p n="1">
+                    Hail! Prosperity!
+                </p>
+                <p n="1-18">
+                    <supplied reason="subaudible">This is</supplied> the 9th year opposite to the 4th year of king Māṟañcaṭaiyaṉ;
+                    from <supplied reason="explanation"><foreign>mutal āka</foreign></supplied> <foreign>aviṭṭam</foreign> obtained on Monday <supplied reason="explanation"><foreign>tiṅkaṭ-kiḻamai</foreign></supplied> in the
                     month of dhanus; for Perumāṉaṭikaḷ of Tirumayilaraṅkam in Iṭaiyyāṟṟu maṅkalam,
-                    night and day, for burning (erippatāka) two (iraṇṭu) perpetual lamps, king
-                    (kō) Māṟañcaṭaiyar alias Varaguṇa Mahārājar, the great Lord of the Pāṇḍyans,
-                    released and gave (viṭu-tanta) into the hand (kaiyyil) of AṇṭanāṭṭuVēḷāṉ, <gap reason="lost"/> gold <gap reason="lost"/></p>
+                    night and day, for burning <supplied reason="explanation"><foreign>erippatāka</foreign></supplied> two <supplied reason="explanation"><foreign>iraṇṭu</foreign></supplied> perpetual lamps, king
+                    <supplied reason="explanation"><foreign>kō</foreign></supplied> Māṟañcaṭaiyar alias Varaguṇa Mahārājar, the great Lord of the Pāṇḍyans,
+                    released and gave <supplied reason="explanation"><foreign>viṭu-tanta</foreign></supplied> into the hand <supplied reason="explanation"><foreign>kaiyyil</foreign></supplied> of Aṇṭanāṭṭu Vēḷāṉ, <gap reason="lost"/> gold <gap reason="lost"/></p>
                 
             </div>
             
@@ -145,7 +149,7 @@
                 
                 <p>Edited in <bibl><ptr target="bib:Venkataramayya1953_03"/></bibl>, with visual documentation; in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 41), with English translation; in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, with English translation.</p>
                 
-                <p>This edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs (<ref target="https://...">2009, by Valérie Gillet</ref>).</p>    
+                <p>This edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/1544bz481">2009, by Valérie Gillet</ref>).</p>    
                 
                 <listBibl type="primary">
                     
