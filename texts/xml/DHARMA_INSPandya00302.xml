@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Javantināthapuram, Laḵṣmīnārāyaṇa temple, time of Māṟañ Caṭaiyaṉ, year 4+5</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vagi">
+                        <forename>Valérie</forename>
+                        <surname>Gillet</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <pubPlace>Paris, EFEO</pubPlace>
+                <idno type="filename">DHARMA_INSPandya00302</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licenced under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Valérie Gillet.</p>
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary></summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p></p>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC)
+                    under the European Union’s Horizon 2020 research and innovation programme (grant
+                    agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01"
+                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
+                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named
+                        ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)"
+                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the
+                        <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:emfr part:vagi" when="2025-05-19" status="draft"
+                >Creation of the file</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                <p>kō-mā<supplied reason="lost">ṟañ</supplied>
+                    <lb n="2"/><unclear>ca</unclear>ṭaiyarkki yā<unclear>ṇ</unclear><supplied reason="lost">ṭu</supplied>
+                    <lb n="3"/>ṉāṉk-ām āṭṭaikk' e<unclear>t</unclear>i<supplied reason="lost">r</supplied>
+                    <lb n="4"/>Oṉpatām yāṇ<supplied reason="lost">ṭu</supplied>
+                    <lb n="5"/>taṉu-ñāyaṟṟu-t ti<supplied reason="lost">ṅ</supplied>
+                    <lb n="6" break="no"/>kaṭ-kiḻamai peṟṟa <supplied reason="lost">A</supplied>
+                    <lb n="7" break="no"/>viṭṭa mutal āka I<supplied reason="lost">ṭ</supplied>ai
+                    <lb n="8" break="no"/>yāṟṟu maṅkalat<supplied reason="lost">tu</supplied>
+                    <lb n="9"/>tirumayilaraṅkat<supplied reason="lost">tu</supplied>
+                    <lb n="10"/><unclear reason="eccentric_ductus">p</unclear>erumāṉaṭikaḷuk<supplied reason="lost">ku</supplied>
+                    <lb n="11"/>Iravum pakalum I<supplied reason="lost">ra</supplied>
+                    <lb n="12" break="no"/>ṇṭu noṉtā-viḷak<supplied reason="lost">k</supplied>' e
+                    <lb n="13" break="no"/><unclear>ri</unclear>ppat' āka kō-māṟañ <supplied reason="lost">ca</supplied>
+                    <lb n="14" break="no"/>ṭ<unclear>ai</unclear>yar-āyiṉa <hi rend="grantha">pāṇ<unclear>ḍya</unclear></hi>
+                    <lb n="15"/>Atipati varakuṇa <hi rend="grantha">ma<supplied reason="lost">hā</supplied></hi>
+                    <lb n="16" break="no"/><supplied reason="lost">rā</supplied><hi rend="grantha">ja</hi>r Aṇṭaṇāṭṭu <supplied reason="lost">ve</supplied>
+                    <lb n="17" break="no"/>ḷāṉ kaiyyil viṭu <supplied reason="lost">ta</supplied>
+                    <lb n="18" break="no"/>nta poṉ pāṭi</p>
+                
+            </div>
+            
+            <!--<div type="apparatus">
+                
+                <listApp>
+                
+                <app loc="0">
+                <lem></lem>
+                <rdg source=""></rdg>
+                <note></note>
+                </app>     
+                
+                </listApp>-->
+            
+            <!--</div>-->
+            
+            <div type="translation" source="bib:Gillet2017_01">      
+                
+                <p>Hail! Prosperity! [This is] the 9th year opposite to the 4th year of king Māṟañcaṭaiyaṉ;
+                    from (mutal āka) aviṭṭa obtained on Monday (tiṅkaṭ-kiḻamai) in the
+                    month of dhanus; for Perumāṉaṭikaḷ of Tirumayilaraṅkam in Iṭaiyyāṟṟu maṅkalam,
+                    night and day, for burning (erippatāka) two (iraṇṭu) perpetual lamps, king
+                    (kō) Māṟañcaṭaiyar alias Varaguṇa Mahārājar, the great Lord of the Pāṇḍyans,
+                    released and gave (viṭu-tanta) into the hand (kaiyyil) of AṇṭanāṭṭuVēḷāṉ, <gap reason="lost"/> gold <gap reason="lost"/></p>
+                
+            </div>
+            
+            <!--<div type="commentary">
+                
+                </div>-->
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1946-1947"/></bibl> (ARIE/1946-1947/B/1946-1947/104).</p>                
+                
+                <p>Edited in <bibl><ptr target="bib:Venkataramayya1953_03"/></bibl>, with visual documentation; in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 41), with English translation; in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, with English translation.</p>
+                
+                <p>This edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs (<ref target="https://...">2009, by Valérie Gillet</ref>).</p>    
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="V">
+                        <ptr target="bib:Venkataramayya1953_03"/>
+                    </bibl>      
+                    
+                    <bibl n="K">
+                        <ptr target="bib:Krishnan2002_01"/>
+                        <citedRange unit="page">48</citedRange>
+                        <citedRange unit="item">41</citedRange>
+                    </bibl>    
+                    
+                    <bibl n="G">
+                        <ptr target="bib:Gillet2017_01"/>
+                        <citedRange unit="page">257</citedRange>
+                        <citedRange unit="item">6</citedRange>
+                    </bibl>		
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    
+                    <bibl>
+                        <ptr target="bib:ARIE1946-1947"/>
+                        <citedRange unit="page">25</citedRange>
+                        <citedRange unit="appendix">B/1946-1947</citedRange>
+                        <citedRange unit="item">104</citedRange>
+                    </bibl>        
+                    
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
