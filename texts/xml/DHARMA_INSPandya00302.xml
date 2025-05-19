@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Javantināthapuram, Laḵṣmīnārāyaṇa temple, time of Māṟañ Caṭaiyaṉ, year 4+5</title>
+                <title>Javantināthapuram, Lakṣmīnārāyaṇa temple, time of Māṟañ Caṭaiyaṉ, year 4+9</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -91,38 +91,52 @@
                 </ab>
                 <p>kō-mā<supplied reason="lost">ṟañ</supplied>
                     <lb n="2"/><unclear>ca</unclear>ṭaiyarkki yā<unclear>ṇ</unclear><supplied reason="lost">ṭu</supplied>
-                    <lb n="3"/>ṉāṉk-ām āṭṭaikk' e<unclear>t</unclear>i<supplied reason="lost">r</supplied>
+                    <lb n="3"/><choice><orig>ṉ</orig><reg>n</reg></choice>āṉk-ām āṭṭaikk’ e<unclear>t</unclear>i<supplied reason="lost">r</supplied>
                     <lb n="4"/>Oṉpatām yāṇ<supplied reason="lost">ṭu</supplied>
                     <lb n="5"/>taṉu-ñāyaṟṟu-t ti<supplied reason="lost">ṅ</supplied>
-                    <lb n="6" break="no"/>kaṭ-kiḻamai peṟṟa <supplied reason="lost">A</supplied>
+                    <lb n="6" break="no"/><unclear>ka</unclear>ṭ-kiḻamai peṟṟa <supplied reason="lost">A</supplied>
                     <lb n="7" break="no"/>viṭṭa mutal āka I<supplied reason="lost">ṭ</supplied>ai
                     <lb n="8" break="no"/>yāṟṟu maṅkalat<supplied reason="lost">tu</supplied>
                     <lb n="9"/>tirumayilaraṅkat<supplied reason="lost">tu</supplied>
                     <lb n="10"/><unclear reason="eccentric_ductus">p</unclear>erumāṉaṭikaḷuk<supplied reason="lost">ku</supplied>
                     <lb n="11"/>Iravum pakalum I<supplied reason="lost">ra</supplied>
-                    <lb n="12" break="no"/>ṇṭu noṉtā-viḷak<supplied reason="lost">k</supplied>' e
-                    <lb n="13" break="no"/><unclear>ri</unclear>ppat' āka kō-māṟañ <supplied reason="lost">ca</supplied>
+                    <lb n="12" break="no"/>ṇṭu noṉtā-viḷak<supplied reason="lost">k</supplied>’ e
+                    <lb n="13" break="no"/><unclear>ri</unclear>ppat’ āka kō-māṟañ <supplied reason="lost">ca</supplied>
                     <lb n="14" break="no"/>ṭ<unclear>ai</unclear>yar-āyiṉa <hi rend="grantha">pāṇ<unclear>ḍya</unclear></hi>
-                    <lb n="15"/>Atipati varakuṇa <hi rend="grantha">ma<supplied reason="lost">hā</supplied></hi>
-                    <lb n="16" break="no"/><supplied reason="lost">rā</supplied><hi rend="grantha">ja</hi>r Aṇṭaṇāṭṭu <supplied reason="lost">vē</supplied>
+                    <lb n="15" break="no"/>-Atipati-varakuṇa-<hi rend="grantha">ma<supplied reason="lost">hā</supplied></hi>
+                    <lb n="16" break="no"/><hi rend="grantha"><supplied reason="lost">rā</supplied>ja</hi>r Aṇṭaṇāṭṭu <supplied reason="lost">vē</supplied>
                     <lb n="17" break="no"/>ḷāṉ kaiyyil viṭu <supplied reason="lost">ta</supplied>
                     <lb n="18" break="no"/>nta poṉ pāṭi</p>
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
+                    
+                    <!--<app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:Venkataramayya1953_03"></rdg>
+                        <rdg source="bib:Krishnan2002_01"></rdg>
+                        <rdg source="bib:Gillet2017_01"></rdg>
+                        <note></note>
+                    </app>-->
+                    
+                    <app loc="15">
+                        <lem>°<hi rend="grantha">ma<supplied reason="lost">hā</supplied></hi>
+                        <lb n="16" break="no"/><hi rend="grantha"><supplied reason="lost">rā</supplied>ja</hi>r</lem>
+                        <rdg source="bib:Venkataramayya1953_03">°ma<supplied reason="lost">kā</supplied>
+                        <lb n="16" break="no"/><supplied reason="lost">rā</supplied>jar</rdg>
+                        <rdg source="bib:Krishnan2002_01">°mahā
+                        <lb n="16" break="no"/><hi rend="grantha">rāja</hi>r</rdg>
+                        <rdg source="bib:Gillet2017_01">°<hi rend="grantha">ma<supplied reason="lost">hā</supplied></hi>
+                        <lb n="16" break="no"/><hi rend="grantha"><supplied reason="lost">rā</supplied>jar</hi></rdg>
+                        <note></note>
+                    </app>
+                    
+                </listApp>
                 
-                <app loc="0">
-                <lem></lem>
-                <rdg source=""></rdg>
-                <note></note>
-                </app>     
-                
-                </listApp>-->
-            
-            <!--</div>-->
+            </div>
             
             <div type="translation" source="bib:Gillet2017_01">      
                 
