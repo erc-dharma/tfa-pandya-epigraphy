@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tillaisthānam, Neyyāṭi Appar temple, time of ***, year **</title>
+                <title>Tillaisthānam, Neyyāṭi Appar temple, time of Māṟañ Caṭaiyaṉ, year 4</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -104,7 +104,7 @@
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">1</citedRange>
                     </bibl>
                 </listBibl>
                 

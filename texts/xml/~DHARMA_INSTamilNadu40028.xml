@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Varaguṇa, *** temple, time of ***, year **</title>
+                <title>Ampal, Perumāḷ temple, time of [name lost], year [incomplete]</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -79,7 +79,17 @@
                     <lb n="22" break="no"/><supplied reason="omitted">kā</supplied> ḻākkut tiruviḷa<unclear>k</unclear>
                     <lb n="23" break="no"/><supplied reason="omitted">ku</supplied> <unclear>ne</unclear>y nārāyakkāl<unclear>o</unclear>
                     <lb n="24"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>k</unclear>ku muḻaiyālla<unclear>ṭ</unclear>
-                    <lb n="25" break="no"/>
+                    <lb n="25" break="no"/><gap reason="lost" extent="unknown" unit="character"/> vāmā<supplied reason="subaudible">ṉo</supplied>m ampar
+                    <lb n="26"/><gap reason="lost" extent="unknown" unit="character"/> ruva <gap reason="lost" extent="unknown" unit="character"/> cattāṉ                    
+                    <lb n="27"/><gap reason="lost" extent="unknown" unit="character"/> uḷḷiṭṭa nakaratto 
+                    <lb n="28" break="no"/><gap reason="lost" extent="unknown" unit="character"/> tu muṭṭil ittaḷi
+                    <lb n="29"/><gap reason="lost" extent="unknown" unit="character"/> tamulattārāṉum
+                    <lb n="30"/><gap reason="lost" extent="unknown" unit="character"/> ṣṇavarāva <gap reason="lost" extent="unknown" unit="character"/> ṇṭi
+                    <lb n="31"/><gap reason="lost" extent="unknown" unit="character"/> vippārāṉār muṭṭi
+                    <lb n="32"/><gap reason="lost" extent="unknown" unit="character"/> k<supplied reason="subaudible">o</supplied>
+                    <lb n="33"/><gap reason="lost" extent="unknown" unit="character"/> ṇa
+                    <lb n="34"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="subaudible">ma</supplied>tu
+                    <lb n="35"/><gap reason="lost" extent="unknown" unit="character"/> me 
                 </p>
                 
             </div>
@@ -90,7 +100,7 @@
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p><gap reason="lost" extent="unknown" unit="character"/> vāmā<supplied reason="subaudible">ṉo</supplied>m ampar </p><p><supplied reason="explanation">26</supplied> <gap reason="lost" extent="unknown" unit="character"/> ruva <gap reason="lost" extent="unknown" unit="character"/> cattāṉ </p><p><supplied reason="explanation">27</supplied> <gap reason="lost" extent="unknown" unit="character"/> uḷḷiṭṭa nakaratto </p><p><supplied reason="explanation">28</supplied> <gap reason="lost" extent="unknown" unit="character"/> tu muṭṭil ittaḷi </p><p><supplied reason="explanation">29</supplied> <gap reason="lost" extent="unknown" unit="character"/> tamulattārāṉum </p><p><supplied reason="explanation">30</supplied> <foreign><gap reason="lost" extent="unknown" unit="character"/> ṣṇa</foreign>varāva <gap reason="lost" extent="unknown" unit="character"/> ṇṭi </p><p><supplied reason="explanation">31</supplied> <gap reason="lost" extent="unknown" unit="character"/> vippārāṉār muṭṭi </p><p><supplied reason="explanation">32</supplied> <gap reason="lost" extent="unknown" unit="character"/> k<supplied reason="subaudible">o</supplied> </p><p><supplied reason="explanation">33</supplied> <gap reason="lost" extent="unknown" unit="character"/> ṇa </p><p><supplied reason="explanation">34</supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="subaudible">ma</supplied>tu </p><p><supplied reason="explanation">35</supplied> <gap reason="lost" extent="unknown" unit="character"/> me </p><p><gap reason="lost" extent="unknown" unit="character"/> the year opposite to the year, opposite to the year, opposite to the year <gap reason="lost" extent="unknown" unit="character"/> For the great Viṣṇu <supplied reason="explanation"><foreign>mahāviṣṇukku</foreign></supplied> of the sanctuary <supplied reason="explanation"><foreign>gṛhattu</foreign></supplied> of Viṣṇu Avaṉi Nārāyaṇa of Ampar in Amparnāṭu, Cāttaṉ Cāttaṉ who has become <supplied reason="explanation"><foreign>āyiṉa</foreign></supplied> the chieftain <supplied reason="explanation"><foreign>kiḻavaṉ</foreign></supplied> of Vempil, in Vempilnāṭu in Pāṇṭināṭu, endowed for a perpetual lamp <supplied reason="explanation"><foreign>nantāviḷakkiṉukku</foreign></supplied>, for a sacred lamp <supplied reason="explanation"><foreign>tiruviḷakku</foreign></supplied>, 20 <foreign>kaḻañcu </foreign>of pure gold which entered fire; having taken <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> these 20 <foreign>kaḻañcu</foreign>, with the interests of these <supplied reason="explanation"><foreign>itaṉ palicaiyāl</foreign></supplied>, everyday, for one <foreign>uḻakku </foreign><supplied reason="explanation"><foreign>uḻakku-āḻākku</foreign></supplied> of a lamp, we will supply <supplied reason="explanation"><supplied reason="subaudible"><foreign>aṭṭu*</foreign></supplied><foreign>vōmāṉōm</foreign></supplied> with a ladle <supplied reason="explanation"><foreign>muḻaiyāl</foreign>?</supplied> with one <supplied reason="subaudible">measure</supplied> <foreign>nārāyakkāl </foreign>of ghee, we the Nagaram, including Cattāṉ <supplied reason="explanation">Cattāṉ for Cāttaṉ?</supplied> <gap reason="lost" extent="unknown" unit="character"/> of Ampar. If this <supplied reason="explanation"><foreign>itu</foreign></supplied> is deficient <supplied reason="explanation"><foreign>muṭṭ-il</foreign></supplied> the <supplied reason="subaudible">Pā*</supplied>tamūlattār of this temple <supplied reason="explanation"><foreign>ittaḷi</foreign></supplied> and the <supplied reason="subaudible">Vai*</supplied>ṣṇavas <gap reason="lost" extent="unknown" unit="character"/></p></div>
+                <p></p><p><gap reason="lost" extent="unknown" unit="character"/> the year opposite to the year, opposite to the year, opposite to the year <gap reason="lost" extent="unknown" unit="character"/> For the great Viṣṇu <supplied reason="explanation"><foreign>mahāviṣṇukku</foreign></supplied> of the sanctuary <supplied reason="explanation"><foreign>gṛhattu</foreign></supplied> of Viṣṇu Avaṉi Nārāyaṇa of Ampar in Amparnāṭu, Cāttaṉ Cāttaṉ who has become <supplied reason="explanation"><foreign>āyiṉa</foreign></supplied> the chieftain <supplied reason="explanation"><foreign>kiḻavaṉ</foreign></supplied> of Vempil, in Vempilnāṭu in Pāṇṭināṭu, endowed for a perpetual lamp <supplied reason="explanation"><foreign>nantāviḷakkiṉukku</foreign></supplied>, for a sacred lamp <supplied reason="explanation"><foreign>tiruviḷakku</foreign></supplied>, 20 <foreign>kaḻañcu </foreign>of pure gold which entered fire; having taken <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> these 20 <foreign>kaḻañcu</foreign>, with the interests of these <supplied reason="explanation"><foreign>itaṉ palicaiyāl</foreign></supplied>, everyday, for one <foreign>uḻakku </foreign><supplied reason="explanation"><foreign>uḻakku-āḻākku</foreign></supplied> of a lamp, we will supply <supplied reason="explanation"><supplied reason="subaudible"><foreign>aṭṭu*</foreign></supplied><foreign>vōmāṉōm</foreign></supplied> with a ladle <supplied reason="explanation"><foreign>muḻaiyāl</foreign>?</supplied> with one <supplied reason="subaudible">measure</supplied> <foreign>nārāyakkāl </foreign>of ghee, we the Nagaram, including Cattāṉ <supplied reason="explanation">Cattāṉ for Cāttaṉ?</supplied> <gap reason="lost" extent="unknown" unit="character"/> of Ampar. If this <supplied reason="explanation"><foreign>itu</foreign></supplied> is deficient <supplied reason="explanation"><foreign>muṭṭ-il</foreign></supplied> the <supplied reason="subaudible">Pā*</supplied>tamūlattār of this temple <supplied reason="explanation"><foreign>ittaḷi</foreign></supplied> and the <supplied reason="subaudible">Vai*</supplied>ṣṇavas <gap reason="lost" extent="unknown" unit="character"/></p></div>
             
             <div type="commentary">
                 
@@ -105,18 +115,18 @@
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">273-274</citedRange>
+                        <citedRange unit="item">28</citedRange>
                     </bibl>
                 </listBibl>
                 
                 <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
+                    <bibl>
+                        <!--<ptr target="bib:ARIE****-****"/>
+                            <citedRange unit="page">TBC</citedRange>
+                            <citedRange unit="appendix">TBC</citedRange>
+                            <citedRange unit="item">TBC</citedRange>-->
+                    </bibl>
                 </listBibl>
                 
             </div>
