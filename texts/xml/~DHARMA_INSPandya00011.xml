@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Varaguṇa, *** temple, time of ***, year **</title>
+                <title>Trichy (Tirucirāppaḷḷi), Lalitāṅkura cave temple, time of Māṟañ <supplied reason="lost">Caṭaiyaṉ</supplied>, year 9 + 4</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#4: a) Lalitāṅkura cave temple in Trichy (Tirucirāppaḷḷi), Trichy taluk and district; b) on the southern pilaster framing the image of Gaṅgādhāramūrti, under the Pallava Sanskrit inscription (sii 1, nos. 33 &amp; 34); c) Regnal year 9 opposite to 4 of Māṟañ[caṭaiyaṉ]; d) are 1904, no. 413; tli Tp 1133; sii 14, no. 11; iep 40; e) inscription located personally.</p><p><foreign/></p>
+                        <summary><p>Lalitāṅkura cave temple in Trichy (Tirucirāppaḷḷi), Trichy taluk and district; on the southern pilaster framing the image of Gaṅgādhāramūrti, under the Pallava Sanskrit inscription (sii 1, nos. 33 &amp; 34); regnal year 9 opposite to 4 of Māṟañ[caṭaiyaṉ]; tli Tp 1133; sii 14, no. 11; iep 40.</p><p><foreign/></p>
                             
                         </summary>
                     </msContents>
@@ -56,7 +56,10 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1" break="no"/><hi rend="grantha"> svasti śrī </hi>komāṟañ <gap reason="lost" extent="unknown" unit="character"/> [[ṇṭu]] <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="1" break="no"/><hi rend="grantha"> svasti śrī</hi>
+                </p>
+                <p>
+                    kō-māṟañ <gap reason="lost" extent="unknown" unit="character"/> [[ṇṭu]] <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="2"/>ṉkāvati ṉetir ro<unclear>ṉ</unclear> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/>yaṟṟu veḷḷikkiḻa <unclear>mai</unclear> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/>malaip perumāṉaṭikaḷu[[kku]] <gap reason="lost" extent="unknown" unit="character"/>
@@ -82,7 +85,10 @@
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p>Hail! Prosperity! <supplied reason="subaudible">This is</supplied> the 9th <supplied reason="explanation"><foreign>oṉ</foreign><supplied reason="subaudible"><foreign>patu</foreign>*</supplied></supplied> opposite to <supplied reason="explanation"><foreign>etir</foreign></supplied> the 4th <supplied reason="explanation"><gap reason="lost" extent="unknown" unit="character"/> <foreign>ṉkuāvati</foreign></supplied> year <supplied reason="explanation"><gap reason="lost" extent="unknown" unit="character"/><foreign>ṇṭu</foreign><gap reason="lost" extent="unknown" unit="character"/></supplied> <gap reason="lost" extent="unknown" unit="character"/> of king Māṟañ<supplied reason="subaudible">caṭaiyaṉ*</supplied>. For Perumāṉaṭikaḷ of <supplied reason="subaudible">Tiru*</supplied> malai <gap reason="lost" extent="unknown" unit="character"/> on Friday <supplied reason="explanation"><foreign>veḷḷikiḻamai</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/>, Pāṇḍyādhipati Varaguṇa <gap reason="lost" extent="unknown" unit="character"/> gave <supplied reason="explanation"><foreign>viṭutan</foreign></supplied> in the hand of <gap reason="lost" extent="unknown" unit="character"/> ṭu Vēḻāṉ, <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="subaudible">5</supplied>00; these <supplied reason="explanation"><foreign>ivai</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> <foreign>maiñcāṭi</foreign> <supplied reason="explanation">measure of gold</supplied> and <foreign>kuṉṟiyā</foreign> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="explanation">measure</supplied> for one <foreign>kācu</foreign> <gap reason="lost" extent="unknown" unit="character"/> 537 <foreign>kalaiñcu</foreign> <gap reason="lost" extent="unknown" unit="character"/>; in this gold <supplied reason="explanation"><foreign>ippoṉṉil</foreign></supplied>, 400 <foreign>kalaiñcu</foreign> of gold for making <supplied reason="explanation"><foreign>ceytu</foreign></supplied> four plates ornament <supplied reason="explanation"><foreign>paṭṭam</foreign></supplied> put <supplied reason="explanation"><foreign>cāt</foreign><supplied reason="subaudible"><foreign>ta*</foreign></supplied></supplied> on the sacred body <supplied reason="explanation"><foreign>tirumeṉi</foreign></supplied>; having made with the gold <gap reason="lost" extent="unknown" unit="character"/> hundred thirty <gap reason="lost" extent="unknown" unit="character"/> and a half <supplied reason="explanation"><foreign>arai</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> one golden flower <supplied reason="explanation"><foreign>poṟpūyu</foreign> for <foreign>poṟpūvu</foreign></supplied> which adorns <supplied reason="explanation"><supplied reason="subaudible"><foreign>cā</foreign>*</supplied><foreign>tta</foreign></supplied> the sacred body <supplied reason="explanation"><foreign>tirume</foreign><supplied reason="subaudible"><foreign>ṉi</foreign>*</supplied></supplied>; we the <supplied reason="subaudible">Pati*</supplied>, the Pātamūlam and the Nagaram <gap reason="lost" extent="unknown" unit="character"/> This is under <supplied reason="subaudible">the protection</supplied> of the Panmāheś<supplied reason="subaudible">varar</supplied>.</p></div>
+                <p>
+                    Hail! Prosperity!
+                    <supplied reason="subaudible">This is</supplied> the 9th <supplied reason="explanation"><foreign>oṉ</foreign><supplied reason="subaudible"><foreign>patu</foreign>*</supplied></supplied> opposite to <supplied reason="explanation"><foreign>etir</foreign></supplied> the 4th <supplied reason="explanation"><foreign>... ṉkuāvati</foreign></supplied> year <supplied reason="explanation">...<foreign>ṇṭu</foreign>...</supplied> <gap reason="lost" extent="unknown" unit="character"/> of king Māṟañ<supplied reason="subaudible">caṭaiyaṉ*</supplied>. For Perumāṉaṭikaḷ of <supplied reason="subaudible">Tiru*</supplied> malai <gap reason="lost" extent="unknown" unit="character"/> on Friday <supplied reason="explanation"><foreign>veḷḷikiḻamai</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/>, Pāṇḍyādhipati Varaguṇa <gap reason="lost" extent="unknown" unit="character"/> gave <supplied reason="explanation"><foreign>viṭutan</foreign></supplied> in the hand of <gap reason="lost" extent="unknown" unit="character"/> ṭu Vēḻāṉ, <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="subaudible">5</supplied>00; these <supplied reason="explanation"><foreign>ivai</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> <foreign>maiñcāṭi</foreign> <supplied reason="explanation">measure of gold</supplied> and <foreign>kuṉṟiyā</foreign> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="explanation">measure</supplied> for one <foreign>kācu</foreign> <gap reason="lost" extent="unknown" unit="character"/> 537 <foreign>kalaiñcu</foreign> <gap reason="lost" extent="unknown" unit="character"/>; in this gold <supplied reason="explanation"><foreign>ippoṉṉil</foreign></supplied>, 400 <foreign>kalaiñcu</foreign> of gold for making <supplied reason="explanation"><foreign>ceytu</foreign></supplied> four plates ornament <supplied reason="explanation"><foreign>paṭṭam</foreign></supplied> put <supplied reason="explanation"><foreign>cāt</foreign><supplied reason="subaudible"><foreign>ta*</foreign></supplied></supplied> on the sacred body <supplied reason="explanation"><foreign>tirumeṉi</foreign></supplied>; having made with the gold <gap reason="lost" extent="unknown" unit="character"/> hundred thirty <gap reason="lost" extent="unknown" unit="character"/> and a half <supplied reason="explanation"><foreign>arai</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> one golden flower <supplied reason="explanation"><foreign>poṟpūyu</foreign> for <foreign>poṟpūvu</foreign></supplied> which adorns <supplied reason="explanation"><supplied reason="subaudible"><foreign>cā</foreign>*</supplied><foreign>tta</foreign></supplied> the sacred body <supplied reason="explanation"><foreign>tirume</foreign><supplied reason="subaudible"><foreign>ṉi</foreign>*</supplied></supplied>; we the <supplied reason="subaudible">Pati*</supplied>, the Pātamūlam and the Nagaram <gap reason="lost" extent="unknown" unit="character"/>
+                    This is under <supplied reason="subaudible">the protection</supplied> of the Panmāheś<supplied reason="subaudible">varar</supplied>.</p></div>
             
             <div type="commentary">
                 
@@ -90,25 +96,25 @@
             
             <div type="bibliography">
                 
-                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+                <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/413).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">255-256</citedRange>
+                        <citedRange unit="item">4</citedRange>
                     </bibl>
                 </listBibl>
                 
                 <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
+                    <bibl>
+                        <ptr target="bib:ARIE1904-1905"/>
+                        <citedRange unit="page">15</citedRange>
+                        <citedRange unit="appendix">A/1904</citedRange>
+                        <citedRange unit="item">413</citedRange>
+                        </bibl>
                 </listBibl>
                 
             </div>
