@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Āṭutuṟai, Āpatsahāteśvara temple, time of Māṟañ Caṭaiyaṉ, year 1 + 1 + 4</title>
+                <title>Āṭutuṟai, Āpatsahāteśvara temple, time of Māṟaṉ Caṭaiyaṉ, year 4 + 1 + 1</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -34,7 +34,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <p>Āpatsahāteśvara temple, Āṭutuṟai, Tiruviṭaimarutūr taluk, Tañcāvūr district; on the wall in the recess between the sanctuary and the <foreign>ardhamaṇḍapa</foreign> of the northern façade; are 1907, no. 364; tli Tj 2; sii 14, no. 6; sii 23, no. 364 (text not given).</p>
+                            <p>Āpatsahāteśvara temple, Āṭutuṟai, Tiruviṭaimarutūr taluk, Tañcāvūr district; on the wall in the recess between the sanctuary and the <foreign>ardhamaṇḍapa</foreign> of the northern façade; are 1907, no. 364; tli Tj 2; sii 23, no. 364 (text not given).</p>
                             
                         </summary>
                     </msContents>
@@ -57,39 +57,52 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī śrī </hi>komāṟaṉ
-                    <lb n="2" break="no"/>caṭaiyaṟkku yāṇṭu nānkāmā
-                    <lb n="3" break="no"/>ṇṭiṉ Etirā<unclear>mā</unclear>ṇṭiṉ Eti
-                    <lb n="4" break="no"/><unclear>rā</unclear>mā<unclear>ṇṭu</unclear> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><unclear>ca</unclear>rāvūrnā<unclear>ṭṭu</unclear> tuṟaiyūrkku
-                    <lb n="6" break="no"/><unclear>ṭi</unclear><hi rend="grantha">sabhai</hi><unclear>yo</unclear>m tiraimūrnā
-                    <lb n="7" break="no"/><unclear>ṭṭu</unclear> tirukkuraṅ<unclear>kāṭu</unclear>tuṟai<hi rend="grantha">mahāde </hi>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                
+                <p><hi rend="grantha">śrī</hi>-kō-māṟaṉ
+                    <lb n="2"/>caṭaiyaṟkku yāṇṭu nānk' ām ā
+                    <lb n="3" break="no"/>ṇṭiṉ Etir ā<unclear>m ā</unclear>ṇṭiṉ Eti
+                    <lb n="4" break="no"/><unclear>r ā</unclear>m ā<unclear>ṇṭu</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                </p>
+                
+                <p>
+                    <lb n="5"/><unclear>ca</unclear>rāvūr-nā<unclear>ṭṭu</unclear> tuṟaiyūr-k-ku
+                    <lb n="6" break="no"/><unclear>ṭi</unclear> <hi rend="grantha">sabhai</hi><unclear>yō</unclear>m tiraimūr-nā
+                    <lb n="7" break="no"/><unclear>ṭṭu</unclear> tiru-k-kuraṅ<unclear>kāṭu</unclear>-tuṟai <hi rend="grantha">mahā-de</hi>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="9"/>ttāl ca<hi rend="grantha">ntrā</hi>tittaval nicatam Aṭṭakkaṭava E<unclear>ṇ</unclear>
-                    <lb n="10" break="no"/>ṇai Uri <supplied reason="omitted">|</supplied> Itu pa<unclear>ṉ<hi rend="grantha">māheśvara rakṣai</hi></unclear>
+                    <lb n="9"/>ttāl ca<hi rend="grantha">ntrā</hi>tittaval nicatam Aṭṭa-k kaṭava E<unclear>ṇ</unclear>
+                    <lb n="10" break="no"/>ṇai Uri <supplied reason="omitted">|</supplied> Itu pa<unclear>ṉ</unclear><hi rend="grantha">māheśvara rakṣai<unclear></unclear></hi>
                 </p>
                 
             </div>
             
-            <div type="apparatus">
+            <div type="apparatus"/>
                 
-            </div>
+            
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p>Hail! Prosperity! <supplied reason="subaudible">This is</supplied> the year opposite to the year, opposite to the 4th year <gap reason="lost" extent="unknown" unit="character"/> of king Māṟañcaṭaiyaṉ. We, the Sabhā of Tuṟaiyūrkkuṭi in <gap reason="lost" extent="unknown" unit="character"/> carāvurnāṭu, <supplied reason="subaudible">for*</supplied> Mahādeva of Tirukkuraṅkāṭutuṟai in Tiraimūrnāṭu <gap reason="lost" extent="unknown" unit="character"/> as long as the moon and the sun endure, everyday, will have to supply <supplied reason="explanation"><foreign>aṭṭakkaṭava</foreign></supplied> one <foreign>uri</foreign> of oil. This is under the protection of the Paṉmāheśvaras.</p></div>
+                <p>Hail! Prosperity! <supplied reason="subaudible">This is</supplied> the year opposite to the year, opposite to the 4th year <gap reason="lost" extent="unknown" unit="character"/> of king Māṟañcaṭaiyaṉ. We, the Sabhā of Tuṟaiyūrkkuṭi in <gap reason="lost" extent="unknown" unit="character"/> carāvurnāṭu, <supplied reason="subaudible">for</supplied> Mahādeva of Tirukkuraṅkāṭutuṟai in Tiraimūrnāṭu <gap reason="lost" extent="unknown" unit="character"/> as long as the moon and the sun endure, everyday, will have to supply <supplied reason="explanation"><foreign>aṭṭakkaṭava</foreign></supplied> one <foreign>uri</foreign> of oil. This is under the protection of the Paṉmāheśvaras.</p></div>
             
-            <div type="commentary">
+            <div type="commentary"/>
                 
-            </div>
+            
             
             <div type="bibliography">
                 
-                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/364).</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0006">SII 14.6</ref>); edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:RamanathaAyyar1962_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">6</citedRange>
+                    </bibl>
+                    
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">269</citedRange>
@@ -98,12 +111,12 @@
                 </listBibl>
                 
                 <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
+                    <bibl>
+                        <ptr target="bib:ARIE1907-1908"/>
+                        <citedRange unit="page">27</citedRange>
+                        <citedRange unit="appendix">B/1907</citedRange>
+                        <citedRange unit="item">364</citedRange>
+                    </bibl>
                 </listBibl>
                 
             </div>
