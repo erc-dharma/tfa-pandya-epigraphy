@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Varaguṇa, *** temple, time of ***, year **</title>
+                <title>Kumpakōṇam, Nāgeśvara temple, time of Māṟañ Caṭaiyaṉ, year 4 + 4</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +33,8 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#2: a) Nāgeśvara temple, Kumpakkōṇam (Kumbakkonam), Kumpakkōṇam taluk &amp; district; b) on the west wall of the shrine of the Goddess temple; c) Regnal year 4 opposite to 4 of Māṟañcaṭaiyaṉ; d) are 1908, no. 13; tli Tj 130; sii 14, no. 8; iep 31; e) I was not able to locate the inscription which seems to have disappeared; f) I follow here the edition given in sii 14.</p>
+                        <summary>
+                            <p>Nāgeśvara temple, Kumpakkōṇam (Kumbakkonam), Kumpakkōṇam taluk &amp; district; on the west wall of the shrine of the Goddess temple; tli Tj 130; IEP 31.</p>
                             
                         </summary>
                     </msContents>
@@ -56,55 +57,70 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī </hi>komāṟañcaṭaiya
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    kō-māṟañ-caṭaiya
                     <lb n="2" break="no"/>ṟku yāṇṭu nāṅku Itaṉ Eti
-                    <lb n="3" break="no"/>r nālāṇṭu cellāniṟkat
-                    <lb n="4"/>tirukkuṭamukkiṟ ṟirukkiḻk
-                    <lb n="5" break="no"/>koṭṭattu<hi rend="grantha">bhaṭā</hi>rakkup pālu 
-                    <lb n="6"/>neyyum Āṭṭak komāṟañca
+                    <lb n="3" break="no"/>r nāl āṇṭu cellā niṟka-t
+                    <lb n="4"/>tiru-k-kuṭamukkiṟ ṟiru-k-kiḻ-k
+                    <lb n="5" break="no"/>-kōṭṭattu <hi rend="grantha">bhaṭā</hi>rakku-p pālu 
+                    <lb n="6"/>neyyum Āṭṭa-k kō-māṟañ-ca
                     <lb n="7" break="no"/>ṭaiyar kuṭutta pacu nūṟṟu mu
-                    <lb n="8" break="no"/><unclear>p</unclear>patteṭṭu <supplied reason="omitted">|</supplied> Iraṇṭu nontā
-                    <lb n="9" break="no"/><unclear>vi</unclear>ḷakkerikkak kuṭutta kācu
-                    <lb n="10"/>nūṟu <supplied reason="omitted">|</supplied> Ippacuviṉāl niyata
+                    <lb n="8" break="no"/><unclear>p</unclear>patt' eṭṭu
+                </p>
+                <p>
+                    Iraṇṭu nontā
+                    <lb n="9" break="no"/>-<unclear>vi</unclear>ḷakk' erikka-k kuṭutta kācu
+                    <lb n="10"/>nūṟu
+                </p>
+                <p>
+                    Ip-pacuviṉāl niyata
                     <lb n="11" break="no"/>m pāl <unclear>pattu</unclear> nāḻiyun ney
-                    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> me Ikkāciṉāl ne
+                    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> me Ik-kāciṉāl ne
                 </p>
                 
             </div>
             
-            <div type="apparatus">
+            <div type="apparatus"/>
                 
-            </div>
+            
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p>Hail! Prosperity! While the 4th year opposite to this <supplied reason="explanation"><foreign>itaṉ</foreign></supplied> 4th year of king <supplied reason="explanation"><foreign>kō</foreign></supplied> Māṟañcaṭaiyaṉ is current <supplied reason="explanation"><foreign>cellā niṟka</foreign></supplied>; for bathing <supplied reason="explanation"><foreign>āṭṭa</foreign></supplied> with milk and ghee <supplied reason="explanation"><foreign>pālum neyyum</foreign></supplied> Bhaṭāra of Tirukkiḻkōṭṭam in Tirukkuṭamukku, king Māṟañcaṭaiyar gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> hundred and thirty-eight cows <supplied reason="explanation"><foreign>pacu</foreign></supplied>; <supplied reason="subaudible">he</supplied> gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> hundred <foreign>kācu </foreign>for burning <supplied reason="explanation"><foreign>erikka</foreign></supplied> two perpetual lamps; with these cows <supplied reason="explanation"><foreign>i-ppacuviṉ-āl</foreign></supplied>, everyday, ten <foreign>nāḻi </foreign>of milk and <gap reason="lost" extent="unknown" unit="character"/> of ghee <gap reason="lost" extent="unknown" unit="character"/>; with these <foreign>kācu </foreign><supplied reason="explanation"><foreign>i-kkāciṉ-āl</foreign></supplied>, <gap reason="lost" extent="unknown" unit="character"/></p></div>
+                <p>Hail! Prosperity! While the 4th year opposite to this <supplied reason="explanation"><foreign>itaṉ</foreign></supplied> 4th year of king <supplied reason="explanation"><foreign>kō</foreign></supplied> Māṟañcaṭaiyaṉ is current <supplied reason="explanation"><foreign>cellā niṟka</foreign></supplied>; for bathing <supplied reason="explanation"><foreign>āṭṭa</foreign></supplied> with milk and ghee <supplied reason="explanation"><foreign>pālum neyyum</foreign></supplied> Bhaṭāra of Tirukkiḻkōṭṭam in Tirukkuṭamukku, king Māṟañcaṭaiyar gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> hundred and thirty-eight cows <supplied reason="explanation"><foreign>pacu</foreign></supplied>; <supplied reason="subaudible">he</supplied> gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> hundred <foreign>kācu</foreign>s for burning <supplied reason="explanation"><foreign>erikka</foreign></supplied> two perpetual lamps; with these cows <supplied reason="explanation"><foreign>i-ppacuviṉ-āl</foreign></supplied>, everyday, ten <foreign>nāḻi</foreign>s of milk and <gap reason="lost" extent="unknown" unit="character"/> of ghee <gap reason="lost" extent="unknown" unit="character"/>; with these <foreign>kācu</foreign>s <supplied reason="explanation"><foreign>i-kkāciṉ-āl</foreign></supplied>, <gap reason="lost" extent="unknown" unit="character"/></p></div>
             
-            <div type="commentary">
+            <div type="commentary"/>
                 
-            </div>
+            
             
             <div type="bibliography">
                 
-                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl>. (ARIE/1907-1908/C/1908/13).</p>
+                <p>Edited <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (SII 14.8).</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl>.</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
+                    <bibl n="SII">
+                        <ptr target="bib:RamanathaAyyar1962_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">8</citedRange>
+                    </bibl> 
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">253-254</citedRange>
+                        <citedRange unit="item">2</citedRange>
                     </bibl>
                 </listBibl>
                 
                 <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
+                    <bibl>
+                        <ptr target="bib:ARIE1907-1908"/>
+                        <citedRange unit="page">41</citedRange>
+                        <citedRange unit="appendix">C/1908</citedRange>
+                        <citedRange unit="item">13</citedRange>
+                        </bibl>
                 </listBibl>
                 
             </div>

@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Varaguṇa, *** temple, time of ***, year **</title>
+                <title>Āṭutuṟai, Āpatsahāteśvara temple, time of Māṟañ Caṭaiyaṉ, year 1 + 1 + 1 + 1 + 4</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#23: a) Āpatsahāteśvara temple, Āṭutuṟai, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the wall in the recess between the sanctuary and the <foreign>ardha-maṇḍapa </foreign>of the southern façade; c) Regnal year 1 opposite to 1, opposite to 1, opposite to 1, opposite to 4 of Māṟañcaṭaiyaṉ; d) are 1907, no. 358; tli Tj 3; sii 14, no. 7; sii 23, no. 358 (text not given); iep 33; e) inscription located personally.</p>
+                        <summary><p>Āpatsahāteśvara temple, Āṭutuṟai, Tiruviṭaimarutūr taluk, Tañcāvūr district; on the wall in the recess between the sanctuary and the <foreign>ardha-maṇḍapa</foreign> of the southern façade; are 1907, no. 358; tli Tj 3; sii 14, no. 7; sii 23, no. 358 (text not given); iep 33.</p>
                             
                         </summary>
                     </msContents>
@@ -76,7 +76,7 @@
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p>Hail! Prosperity! <supplied reason="subaudible">This is</supplied> the year opposite to the year, opposite to the year, opposite to the year, opposite to the 4th year of illustrious king Māṟañcaṭaiyaṉ. We, the Sabhā of Maruttuvakkuṭi in Tiraimūrnāṭu, <supplied reason="subaudible">for</supplied> the place <supplied reason="explanation"><foreign>iṭai</foreign></supplied> of Mahādeva of Tirukku<supplied reason="subaudible">raṅ</supplied>kāṭutuṟai of this country, have to supply <supplied reason="explanation"><foreign>aṭṭakkaṭava</foreign></supplied> one <foreign>uri </foreign><supplied reason="explanation">measure</supplied> of oil <supplied reason="explanation"><foreign>eṇṇai</foreign></supplied> everyday <supplied reason="explanation"><foreign>nicatam</foreign></supplied> with <gap reason="lost" extent="unknown" unit="character"/> This is under the protection of the Paṉmāheśvaras.</p></div>
+                <p>Hail! Prosperity! <supplied reason="subaudible">This is</supplied> the year opposite to the year, opposite to the year, opposite to the year, opposite to the 4th year of illustrious king Māṟañcaṭaiyaṉ. We, the Sabhā of Maruttuvakkuṭi in Tiraimūrnāṭu, <supplied reason="subaudible">for</supplied> the place <supplied reason="explanation"><foreign>iṭai</foreign></supplied> of Mahādeva of Tirukku<supplied reason="subaudible">raṅ</supplied>kāṭutuṟai of this country, have to supply <supplied reason="explanation"><foreign>aṭṭakkaṭava</foreign></supplied> one <foreign>uri</foreign> <supplied reason="explanation">measure</supplied> of oil <supplied reason="explanation"><foreign>eṇṇai</foreign></supplied> everyday <supplied reason="explanation"><foreign>nicatam</foreign></supplied> with <gap reason="lost" extent="unknown" unit="character"/> This is under the protection of the Paṉmāheśvaras.</p></div>
             
             <div type="commentary">
                 
@@ -91,8 +91,8 @@
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">269-270</citedRange>
+                        <citedRange unit="item">23</citedRange>
                     </bibl>
                 </listBibl>
                 
