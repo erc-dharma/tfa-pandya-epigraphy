@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#11: a) Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the base of the western façade of the sanctuary; c) Regnal year 4 of Māṟañcaṭaiyaṉ; d) are 1930–1931, no. 21; tli Tj 262; sii 14, no. 20; iep 24; e) inscription located personally.</p>
+                        <summary><p>#11: a) Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the base of the western façade of the sanctuary; c) Regnal year 4 of Māṟañcaṭaiyaṉ; d) are 1930–1931, no. 21; TLI Tj 262; sii 14, no. 20; iep 24; e) inscription located personally.</p>
                             
                         </summary>
                     </msContents>
@@ -56,9 +56,26 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī </hi>Ituvummoru paḻaṅkalpaṭi <supplied reason="omitted">|</supplied> kom<unclear>āṟa</unclear>ṉcaṭaiyaṟkku yāṇṭu nāṉkāvatu peraiyūrnāṭṭu [[paṉaiyūr Araiyaṉ kaḷva]]44 ṉ tirukkoṭikāvil <hi rend="grantha">mahāde</hi>vaṟkku nontāviḷakkiṉukku kuṭu<unclear>t</unclear>ta cempoṉ patiṉaiṅ <unclear>ka</unclear>ḻañcu <supplied reason="omitted">|</supplied> I
-                    <lb n="2" break="no"/><unclear>ta</unclear>ṉ palicaiyāl nālu Uḻakkum piḻaiy<unclear>ān</unclear>āḻikkiḻ Uḻakkiṉnāl nicati Uḻakku neyyu [[mittaḷikke kuṇaṉtu A]]ccippārkkaḷantu kuṭuppo<unclear>mā</unclear>y Ippoṉ koṇṭom nāraṇakka caturvetimaṅkalattu<hi rend="grantha">sabhai</hi>yom <supplied reason="omitted">|</supplied> 
-                    <lb n="3"/>Itu paḻayakalpaṭi Inta<hi rend="grantha">srī</hi>vimānattile Eṟa veṭṭinamaiyil muṉṉivā <hi rend="grantha">jaga</hi>m veṭṭikkiṭanta taṉikkallāl U<hi rend="grantha">bhai</hi>yokam Illāmaiyāl Atu taviṉtatu <supplied reason="omitted">|</supplied> Itu muṭṭil paṉmāy[[e]]<hi rend="grantha">śvara</hi>re kaṭaikkuṭṭapeṟṟār <supplied reason="omitted">||</supplied>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    Ituvumm oru paḻaṅkal paṭi
+                </p>
+                <p>
+                    kō-m<unclear>āṟa</unclear>ṉ caṭaiyaṟkku yāṇṭu nāṉk-āvatu
+                </p>
+                <p>
+                    peraiyūrnāṭṭu [[paṉaiyūr Araiyaṉ kaḷva]]44 ṉ tirukkoṭikāvil <hi rend="grantha">mahāde</hi>vaṟkku nontāviḷakkiṉukku kuṭu<unclear>t</unclear>ta cempoṉ patiṉaiṅ <unclear>ka</unclear>ḻañcu
+                </p>
+                <p>
+                    I
+                    <lb n="2" break="no"/><unclear>ta</unclear>ṉ palicaiyāl nālu Uḻakkum piḻaiy<unclear>ān</unclear>āḻikkiḻ Uḻakkiṉnāl nicati Uḻakku neyyu [[mittaḷikke kuṇaṉtu A]]ccippārkkaḷantu kuṭuppo<unclear>mā</unclear>y Ippoṉ koṇṭom nāraṇakka caturvetimaṅkalattu<hi rend="grantha">sabhai</hi>yōm
+                </p>
+                <p>
+                    <lb n="3"/>Itu paḻayakal paṭi Inta <hi rend="grantha">srī</hi>-vimānattilē Eṟa veṭṭinamaiyil muṉṉivā <hi rend="grantha">jaga</hi>m veṭṭikkiṭanta taṉikkallāl U<hi rend="grantha">bhai</hi>yokam Illāmaiyāl Atu taviṉtatu
+                </p>
+                <p>
+                    Itu muṭṭil paṉmāy[[e]]<hi rend="grantha">śvara</hi>re kaṭaikkuṭṭa peṟṟār
                 </p>
                 
             </div>

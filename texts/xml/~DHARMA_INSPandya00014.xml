@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirucciṟṟampalam, Purātanavaṉeśvara temple, time of ***, year **</title>
+                <title>Tirucciṟṟampalam, Purātanavaṉeśvara temple, time of Varaguṇa, year 4 + 12</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#21: a) Purātanavaṉeśvara temple, Tirucciṟṟampalam, Pattukkōṭṭai taluk, Tañcāvūr district; b) on the southern doorjamb of the entrance to the <foreign>ardhamaṇḍapa</foreign>; c) Regnal year 12 opposite to 4 of Varaguṇa Mahārāja; d) are 1926, no. 185; tli Pk 559; sii 14, no. 14; iep 45; e) inscription located personally; f) the middle part of the inscription is not legible anymore: it is at the level of the hand of those who enter the sanctuary, and everybody touches it when entering, damaging the inscription. I have counted between 25 to 26 lines in this inscription instead of the 16 lines given in both the editions: only a few letters at the beginning or at the end of the lines are legible. There is a damaged inscription dated to the 29th regnal year of Parāntaka i on the opposite doorjamb (are 1926, no. 186).</p>
+                        <summary><p>#21: a) Purātanavaṉeśvara temple, Tirucciṟṟampalam, Pattukkōṭṭai taluk, Tañcāvūr district; b) on the southern doorjamb of the entrance to the <foreign>ardhamaṇḍapa</foreign>; c) Regnal year 12 opposite to 4 of Varaguṇa Mahārāja; d) are 1926, no. 185; TLI Pk 559; sii 14, no. 14; iep 45; e) inscription located personally; f) the middle part of the inscription is not legible anymore: it is at the level of the hand of those who enter the sanctuary, and everybody touches it when entering, damaging the inscription. I have counted between 25 to 26 lines in this inscription instead of the 16 lines given in both the editions: only a few letters at the beginning or at the end of the lines are legible. There is a damaged inscription dated to the 29th regnal year of Parāntaka i on the opposite doorjamb (are 1926, no. 186).</p>
                             
                         </summary>
                     </msContents>
@@ -56,19 +56,22 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī </hi>va<hi rend="grantha">ra</hi>
-                    <lb n="2" break="no"/>kuṇa<hi rend="grantha">mahārāja</hi>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    va<hi rend="grantha">ra</hi>
+                    <lb n="2" break="no"/>kuṇa-<hi rend="grantha">mahārāja</hi>
                     <lb n="3" break="no"/>ṟku yāṇṭu nāṉ
-                    <lb n="4" break="no"/>kāvataṟku Etir
-                    <lb n="5"/>panni <unclear>raṇṭu</unclear>mā
+                    <lb n="4" break="no"/>k-āvataṟku Etir
+                    <lb n="5"/>panni<unclear>raṇṭu</unclear>m ā
                     <lb n="6" break="no"/>[[ṇṭu]] <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="10"/>[[āvatu tirucci]]
+                    <lb n="10"/>[[Āvatu tirucci]]
                     <lb n="11" break="no"/>[[ṟṟemattu kāṇi U]]
                     <lb n="12" break="no"/>[[ṭaiyārkku Añ]]
-                    <lb n="13"/>the following lines, Up to the lines 25/26, Are damaged
+                    <lb n="13"/>the following lines, up to the lines 25/26, are damaged.
                 </p>
                 
             </div>

@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#12: a) Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the western wall of the sanctuary; c) Regnal year 5 of Māṟañcaṭaiyaṉ; d) are 1930–1931, no. 26; tli Tj 263; sii 14, Appendix i, p. 167; iep 27; e) inscription located personally; f) this inscription is neither prefaced nor concluded with the formula stating that it is a copy; it is located on the plain wall and not on the base as the others prior to Uttamacōḻa period; the script looks slightly different, perhaps older. </p>
+                        <summary><p>#12: a) Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the western wall of the sanctuary; c) Regnal year 5 of Māṟañcaṭaiyaṉ; d) are 1930–1931, no. 26; TLI Tj 263; sii 14, Appendix i, p. 167; iep 27; e) inscription located personally; f) this inscription is neither prefaced nor concluded with the formula stating that it is a copy; it is located on the plain wall and not on the base as the others prior to Uttamacōḻa period; the script looks slightly different, perhaps older. </p>
                             
                         </summary>
                     </msContents>
@@ -56,14 +56,20 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī </hi>komā
-                    <lb n="2" break="no"/>ṟaṉcaṭaiyarkku yā
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    kō-mā
+                    <lb n="2" break="no"/>ṟaṉ caṭaiyarkku yā
                     <lb n="3" break="no"/>ṇṭu 5 Āvatu tiruk
-                    <lb n="4" break="no"/>[[koṭikā<unclear>vil<hi rend="grantha">mahā</hi></unclear><hi rend="grantha">de</hi>varkku]]45 
+                    <lb n="4" break="no"/>[[koṭikā<unclear>vil</unclear><hi rend="grantha"><unclear>mahā</unclear></hi><hi rend="grantha">de</hi>varkku]]45 
                     <lb n="5"/>pperāvūrṉāṭṭu[[k kā]]ṟaṉūruṭaiyā
                     <lb n="6" break="no"/>ṉ paramiñakkaṉ [[v<supplied reason="omitted">ai</supplied>tta]] tippokku
                     <lb n="7"/>ccempoṉ [[pa]]ṉṉiru kaḻañ
-                    <lb n="8" break="no"/>cu <supplied reason="omitted">|</supplied> Ippoṉ[[ṉiṉ]] palicaiyā
+                    <lb n="8" break="no"/>cu
+                </p>
+                <p>
+                    Ip-poṉ[[ṉiṉ]] palicaiyā
                     <lb n="9" break="no"/>[[l tiṅkaḷk kalaṉey]] mukkuṟu[[ṇi]]
                     <lb n="10"/>[[nellāka Āṇṭi patiṉ kala]]
                     <lb n="11"/>nellu Eṇṇāḻikkālāl tiru[[k]]
@@ -73,12 +79,18 @@
                     <lb n="15" break="no"/><unclear>po</unclear>māṉoṅ kañcaṉūruḷḷiṭṭa ma
                     <lb n="16" break="no"/>[[<hi rend="grantha">hendra</hi>]]ko <gap reason="lost" extent="unknown" unit="character"/>46 
                     <lb n="17"/>[[nellum paṉ<unclear>mā<hi rend="grantha">he</hi></unclear><hi rend="grantha">śva</hi>rar kaṭai]] 
-                    <lb n="18"/>[[kkūṭṭa]]ppeṟṟār <supplied reason="omitted">|</supplied> [[ni[cati]]] nāṉāḻi [[ne]]
+                    <lb n="18"/>[[kkūṭṭa]]ppeṟṟār
+                </p>
+                <p>
+                    [[ni[cati]]] nāṉāḻi [[ne]]
                     <lb n="19" break="no"/>[[l]]lāl nicati t[[iru]] vamutu kā[[ṭṭuvi]]
-                    <lb n="20" break="no"/>[[p]]pomāka <supplied reason="omitted">|</supplied> Ip[[paricu]] Oṭṭi Ippo
-                    <lb n="21" break="no"/>ṉ paṉṉiru kaḻañ[[cuṅ]] koṇ[[ṭo]]
+                    <lb n="20" break="no"/>[[p]]pomāka
+                </p>
+                <p>
+                    Ip-[[paricu]] Oṭṭi Ip-po
+                    <lb n="21" break="no"/>ṉ paṉṉiru kaḻañ[[cuṅ]] koṇ[[ṭō]]
                     <lb n="22" break="no"/>[[ṅ]] kañcaṉūruḷḷi[[ṭṭa]] ma<hi rend="grantha">hendra</hi>ko
-                    <lb n="23" break="no"/>[[ṭ]]ṭur<hi rend="grantha">sabhai</hi>[[yo]]m
+                    <lb n="23" break="no"/>[[ṭ]]ṭur<hi rend="grantha">sabhai</hi>[[yō]]m
                 </p>
                 
             </div>

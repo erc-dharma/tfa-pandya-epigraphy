@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvicalūr, Śivayoganātha temple, time of ***, year **</title>
+                <title>Tiruvicalūr, Śivayoganātha temple, time of <supplied reason="lost">Vara</supplied>guṇa, year [lost]</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#20: a) Śivayoganātha temple, Tiruvicalūr, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the south wall of the main sanctuary; c) Regnal year 1 opposite to 1/3/11/13 of [Vara*]guṇa Mahārāja; d) are 1907, no. 17; tli Tj 688; sii 14, no. 24; e) inscription not located personally; f) the inscriptions which were on the main sanctuary of this temple have been polished away with a sanding-machine during a “renovation”; this one has therefore disappeared, and I am using the edition given in sii 14.</p>
+                        <summary><p>#20: a) Śivayoganātha temple, Tiruvicalūr, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the south wall of the main sanctuary; c) Regnal year 1 opposite to 1/3/11/13 of [Vara]guṇa Mahārāja; d) are 1907, no. 17; TLI Tj 688; sii 14, no. 24; e) inscription not located personally; f) the inscriptions which were on the main sanctuary of this temple have been polished away with a sanding-machine during a “renovation”; this one has therefore disappeared, and I am using the edition given in sii 14.</p>
                             
                         </summary>
                     </msContents>
@@ -58,7 +58,7 @@
                 <p>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> kuṇa<hi rend="grantha">mahā</hi>rā <hi rend="grantha">ja</hi>ṟku yā 
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> ṉṟāvatiṉ Etir Āṇṭu va
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> teyam Amaṇinārā <supplied reason="omitted">yaṇa</supplied> ca
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> tēyam Amaṇinārā<supplied reason="omitted">yaṇa</supplied> ca
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> lattu tiruvicallūr
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> ḷukku Eccaperumāḷ
                 </p>
@@ -71,7 +71,7 @@
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p><supplied reason="subaudible">This is</supplied> the year opposite to the year 1/3/11/1349 of <supplied reason="subaudible">Vara*</supplied>guṇa Mahārājar; <gap reason="lost" extent="unknown" unit="character"/> Amaṇinārā<supplied reason="subaudible">yaṇa*</supplied>, a <supplied reason="subaudible">brahma*</supplied>teyam <gap reason="lost" extent="unknown" unit="character"/> for <supplied reason="subaudible">Perumāṉaṭika*</supplied>ḷukku of Tiruvicallūr, <gap reason="lost" extent="unknown" unit="character"/> Eccaperumāḷ <gap reason="lost" extent="unknown" unit="character"/></p></div>
+                <p><supplied reason="subaudible">This is</supplied> the year opposite to the year 1/3/11/1349 of <supplied reason="subaudible">Vara</supplied>guṇa Mahārājar; <gap reason="lost" extent="unknown" unit="character"/> Amaṇinārā<supplied reason="subaudible">yaṇa</supplied>, a <supplied reason="subaudible">brahma</supplied>teyam <gap reason="lost" extent="unknown" unit="character"/> for <supplied reason="subaudible">Perumāṉaṭika</supplied>ḷukku of Tiruvicallūr, <gap reason="lost" extent="unknown" unit="character"/> Eccaperumāḷ <gap reason="lost" extent="unknown" unit="character"/></p></div>
             
             <div type="commentary">
                 

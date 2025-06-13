@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#9: a) Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the base of the southern façade of the <foreign>ardha-maṇḍapa</foreign>; c) Regnal year 11 [<gap reason="lost" extent="unknown" unit="character"/>] of Māṟañcaṭaiyaṉ; d) are 1930–1931, no. 37; tli Tj 264; sii 14, no. 21; iep 34; e) inscription located personally.</p>
+                        <summary><p>#9: a) Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the base of the southern façade of the <foreign>ardha-maṇḍapa</foreign>; c) Regnal year 11 [<gap reason="lost" extent="unknown" unit="character"/>] of Māṟañcaṭaiyaṉ; d) are 1930–1931, no. 37; TLI Tj 264; sii 14, no. 21; iep 34; e) inscription located personally.</p>
                             
                         </summary>
                     </msContents>
@@ -56,9 +56,23 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī </hi>I<unclear>tuvu</unclear>moru pa<unclear>ṭi</unclear> <supplied reason="omitted">|</supplied> komā<unclear>ṟaṉ</unclear>caṭaiyaṟkku yāṇṭu 11 {built Over} 
-                    <lb n="2"/>ṟṟūr nāṭṭut tirukkoṭikāvil<hi rend="grantha">śrīsarasvatigaṇapa</hi>tikaḷukku muṉṟu <unclear>n</unclear>ontāviḷakkerippa<unclear>taṟ</unclear>kku kuṭutta poṉ varakuṇa<hi rend="grantha">mahārāja</hi>r kuṭutta poṉ nūṟṟeṇpatiṉ kaḻa<unclear>ñcu</unclear> <supplied reason="omitted">|</supplied> Ippoṉṉi<unclear>ṉ pa</unclear>licaiyāl nicati nā {built Over} 
-                    <lb n="3"/>yil Aḷantu kuṭuppomāṉom tirukkoṭikāvāṉa kaṇṇamaṅkala<unclear>ttu</unclear><hi rend="grantha">sabhai</hi>yom <supplied reason="omitted">|</supplied> <unclear>i</unclear>tu paḻaṅkalpaṭi Inta <hi rend="grantha">śrī</hi>vi<unclear>mā</unclear>nattile Eṟa veṭṭiṉamaiyil muṉṉi[[vā <hi rend="grantha">ja</hi>kam veṭṭikkiṭanta taṉik kallāl U<hi rend="grantha">bhai</hi>yokam Allāmaiyil {built Over}]]43 
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    I<unclear>tuvu</unclear>m oru pa<unclear>ṭi</unclear>
+                </p>
+                <p>
+                    komā<unclear>ṟaṉ</unclear>caṭaiyaṟkku yāṇṭu 11 {built Over} 
+                    <lb n="2"/>ṟṟūr nāṭṭut tirukkoṭikāvil<hi rend="grantha">śrīsarasvatigaṇapa</hi>tikaḷukku muṉṟu <unclear>n</unclear>ontāviḷakkerippa<unclear>taṟ</unclear>kku kuṭutta poṉ varakuṇa<hi rend="grantha">mahārāja</hi>r kuṭutta poṉ nūṟṟeṇpatiṉ kaḻa<unclear>ñcu</unclear>
+                </p>
+                <p>
+                    Ip-poṉṉi<unclear>ṉ pa</unclear>licaiyāl nicati nā {built Over} 
+                    <lb n="3"/>yil Aḷantu kuṭuppōm āṉōm tirukkoṭikāvāṉa kaṇṇamaṅkala<unclear>ttu</unclear><hi rend="grantha">sabhai</hi>yōm 
+                </p>
+                <p>
+                    <unclear>I</unclear>tu paḻaṅkalpaṭi Inta <hi rend="grantha">śrī</hi>vi<unclear>mā</unclear>nattile Eṟa veṭṭiṉamaiyil muṉṉi[[vā <hi rend="grantha">ja</hi>kam veṭṭikkiṭanta taṉik kallāl U<hi rend="grantha">bhai</hi>yōkam Allāmaiyil {built Over}]]43 
+                </p>
+                <p>
                     <lb n="4"/>Itu muṭṭiṟ paṉmāyeśvara kaṭaikkūṭṭappeṟṟār <supplied reason="omitted">||</supplied>
                 </p>
                 

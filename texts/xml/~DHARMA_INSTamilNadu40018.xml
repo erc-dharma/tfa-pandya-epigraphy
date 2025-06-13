@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#18: a) Sundareśvara temple, Centalai, Tiruvaiyāṟu taluk, Tañcāvūr district; b) on the southern doorjamb of the Gaṇeśa shrine; c) Regnal year 16 of Māṟañcaṭaiyaṉ; d) are 1899, no. 9; tli Tj 2613; sii 6, no. 445; e) inscription located personally; f) the inscription is engraved on a stone which was probably re-used because the inscription on the opposite doorjamb (sii 6, no. 444) records the construction of this shrine at a much later period, probably during the Nāyaka period; the last syllable at the end of each line is not visible, but it appears in brackets in the edition of sii: I therefore kept them, but added them in double brackets.</p>
+                        <summary><p>#18: a) Sundareśvara temple, Centalai, Tiruvaiyāṟu taluk, Tañcāvūr district; b) on the southern doorjamb of the Gaṇeśa shrine; c) Regnal year 16 of Māṟañcaṭaiyaṉ; d) are 1899, no. 9; TLI Tj 2613; sii 6, no. 445; e) inscription located personally; f) the inscription is engraved on a stone which was probably re-used because the inscription on the opposite doorjamb (sii 6, no. 444) records the construction of this shrine at a much later period, probably during the Nāyaka period; the last syllable at the end of each line is not visible, but it appears in brackets in the edition of sii: I therefore kept them, but added them in double brackets.</p>
                             
                         </summary>
                     </msContents>
@@ -56,7 +56,7 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī </hi>ko[[mā]]
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> ko[[mā]]
                     <lb n="2" break="no"/>ṟañcaṭaiyaṟku [[y]]
                     <lb n="3" break="no"/><unclear>ā</unclear>ṇṭu 16 Āvatu [[ti]]
                     <lb n="4" break="no"/>rupperuntuṟai [[<hi rend="grantha">ma</hi>]]

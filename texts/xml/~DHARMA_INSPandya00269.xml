@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#24: a) Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the base of the southern façade of the sanctuary; c) Regnal year 11 of Māṟañcaṭaiyaṉ; d) are 1930–1931, no. 29; tli Tj 265; sii 14, Appendix 2, p. 167; iep 38; e) inscription located personally; f) we do not know who is the donor: his/her name is either not given or given in line 1 but lost under the construction of the shrine of Dakṣiṇāmūrti which covers a part of the inscription.</p>
+                        <summary><p>#24: a) Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the base of the southern façade of the sanctuary; c) Regnal year 11 of Māṟañcaṭaiyaṉ; d) are 1930–1931, no. 29; TLI Tj 265; sii 14, Appendix 2, p. 167; iep 38; e) inscription located personally; f) we do not know who is the donor: his/her name is either not given or given in line 1 but lost under the construction of the shrine of Dakṣiṇāmūrti which covers a part of the inscription.</p>
                             
                         </summary>
                     </msContents>
@@ -56,8 +56,19 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī </hi>Ituvummoru paḻaṅkalpaṭi <supplied reason="omitted">|</supplied> komāṟacaṭaiyarku yā<unclear>nṭu</unclear> [[patiṉṉo]] {built Over} <hi rend="grantha">mahāde</hi>vaṟku tiruviḷakkiṉukku kuṭutta tippokkuccempoṉ muppatiṉ kaḻañcu <supplied reason="omitted">|</supplied> Itaṉ palicaiyāl nāl Uḻakkum piḻaiyānāḻiyoṭo
-                    <lb n="2" break="no"/>kkum muḻaiyāl na <gap reason="lost" extent="unknown" unit="character"/> ṭi Uḻakku <gap reason="lost" extent="unknown" unit="character"/> ytaḷiaṟccipāṟka[[ḷantu nontāvi]] {built Over} paḻaya kalpaṭi Inta<hi rend="grantha">śrī </hi>vimānattile Eṟa veṭṭinamaiyil muṉṉivvā <hi rend="grantha">jaga</hi>m veṭṭikkiṭanta taṉikkallāl U<hi rend="grantha">bhai</hi>yo<hi rend="grantha">ga</hi>m Illāmaiyil Atu tavittatu <supplied reason="omitted">|</supplied> 
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    Ituvumm oru paḻaṅkal paṭi
+                </p>
+                <p>
+                    kō-māṟa-caṭaiyarku yā<unclear>nṭu</unclear> [[patiṉṉo]] {built Over} <hi rend="grantha">mahāde</hi>vaṟku tiruviḷakkiṉukku kuṭutta tippokkuccempoṉ muppatiṉ kaḻañcu
+                </p>
+                <p>
+                    Itaṉ palicaiyāl nāl Uḻakkum piḻaiyānāḻiyoṭo
+                    <lb n="2" break="no"/>kkum muḻaiyāl na <gap reason="lost" extent="unknown" unit="character"/> ṭi Uḻakku <gap reason="lost" extent="unknown" unit="character"/> ytaḷiaṟccipāṟka[[ḷantu nontāvi]] {built Over} paḻaya kalpaṭi Inta<hi rend="grantha">śrī</hi> vimānattile Eṟa veṭṭinamaiyil muṉṉivvā <hi rend="grantha">jaga</hi>m veṭṭikkiṭanta taṉikkallāl U<hi rend="grantha">bhai</hi>yō<hi rend="grantha">ga</hi>m Illāmaiyil Atu tavittatu
+                </p>
+                <p>                    
                     <lb n="3"/>Itu muṭṭiṟ paṉmāyeśvar <unclear>kaṭai</unclear>kkuṭṭapeṟṟār ||
                 </p>
                 

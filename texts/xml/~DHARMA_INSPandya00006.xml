@@ -34,7 +34,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <p>Āpatsahāteśvara temple, Āṭutuṟai, Tiruviṭaimarutūr taluk, Tañcāvūr district; on the wall in the recess between the sanctuary and the <foreign>ardhamaṇḍapa</foreign> of the northern façade; are 1907, no. 364; tli Tj 2; sii 23, no. 364 (text not given).</p>
+                            <p>Āpatsahāteśvara temple, Āṭutuṟai, Tiruviṭaimarutūr taluk, Tañcāvūr district; on the wall in the recess between the sanctuary and the <foreign>ardhamaṇḍapa</foreign> of the northern façade; TLI Tj 2; sii 23, no. 364 (text not given).</p>
                             
                         </summary>
                     </msContents>
@@ -63,16 +63,17 @@
                 <p><hi rend="grantha">śrī</hi>-kō-māṟaṉ
                     <lb n="2"/>caṭaiyaṟkku yāṇṭu nānk' ām ā
                     <lb n="3" break="no"/>ṇṭiṉ Etir ā<unclear>m ā</unclear>ṇṭiṉ Eti
-                    <lb n="4" break="no"/><unclear>r ā</unclear>m ā<unclear>ṇṭu</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4" break="no"/><unclear>r ā</unclear>m ā<unclear>ṇṭu</unclear>
                 </p>
                 
                 <p>
+                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><unclear>ca</unclear>rāvūr-nā<unclear>ṭṭu</unclear> tuṟaiyūr-k-ku
                     <lb n="6" break="no"/><unclear>ṭi</unclear> <hi rend="grantha">sabhai</hi><unclear>yō</unclear>m tiraimūr-nā
                     <lb n="7" break="no"/><unclear>ṭṭu</unclear> tiru-k-kuraṅ<unclear>kāṭu</unclear>-tuṟai <hi rend="grantha">mahā-de</hi>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="9"/>ttāl ca<hi rend="grantha">ntrā</hi>tittaval nicatam Aṭṭa-k kaṭava E<unclear>ṇ</unclear>
-                    <lb n="10" break="no"/>ṇai Uri <supplied reason="omitted">|</supplied> Itu pa<unclear>ṉ</unclear><hi rend="grantha">māheśvara rakṣai<unclear></unclear></hi>
+                    <lb n="10" break="no"/>ṇai Uri <supplied reason="omitted">|</supplied> Itu pa<unclear>ṉ</unclear><hi rend="grantha">māheśvara rakṣai</hi>
                 </p>
                 
             </div>

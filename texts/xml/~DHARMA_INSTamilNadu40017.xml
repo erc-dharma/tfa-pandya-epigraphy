@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#17: a) Tyagarājasvāmin temple, Tiruvāymūr, Tirukkuvaḷai taluk, Nākappaṭṭiṉam district; b) on the southern base of the main sanctuary, starting in the middle of the eastern side of the shrine of Dakṣiṇāmūrti; c) Regnal year 11 opposite to 4 of Māṟañcaṭaiyaṉ; d) are 1962–1963, no. 608; tli Tj 1674; e) inscription located personally; f) this unpublished inscription was probably a copy of an older one, made after the 11th century;48 all inscriptions on this base are copied following each other as in Tirukkōṭikkāval and this one is the fourth inscription; it is followed by Cōḻa-period inscriptions.</p>
+                        <summary><p>#17: a) Tyagarājasvāmin temple, Tiruvāymūr, Tirukkuvaḷai taluk, Nākappaṭṭiṉam district; b) on the southern base of the main sanctuary, starting in the middle of the eastern side of the shrine of Dakṣiṇāmūrti; c) Regnal year 11 opposite to 4 of Māṟañcaṭaiyaṉ; d) are 1962–1963, no. 608; TLI Tj 1674; e) inscription located personally; f) this unpublished inscription was probably a copy of an older one, made after the 11th century;48 all inscriptions on this base are copied following each other as in Tirukkōṭikkāval and this one is the fourth inscription; it is followed by Cōḻa-period inscriptions.</p>
                             
                         </summary>
                     </msContents>
@@ -56,8 +56,8 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī </hi>komā <gap reason="lost" extent="unknown" unit="character"/> ncaṭaiyaṟku <unclear>y</unclear>āṇṭu nānka
-                    <lb n="2" break="no"/>maṇṭin Etir patinonṟamāṇṭu toṇṭaināṭṭu ve <gap reason="lost" extent="unknown" unit="character"/> tta te<unclear>nan</unclear> {built Over} <gap reason="lost" extent="unknown" unit="character"/> yāl mā <gap reason="lost" extent="unknown" unit="character"/> <unclear>ai</unclear> <gap reason="lost" extent="unknown" unit="character"/> <unclear>pa</unclear>cuvāl nāḻip pālum A<unclear>ṭ</unclear> <gap reason="lost" extent="unknown" unit="character"/> <unclear>va</unclear>tākak kaṇ <gap reason="lost" extent="unknown" unit="character"/> ṭār<hi rend="grantha">śrīmāheśvara rakṣai </hi><supplied reason="omitted">||</supplied>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> komā <gap reason="lost" extent="unknown" unit="character"/> ncaṭaiyaṟku <unclear>y</unclear>āṇṭu nānka
+                    <lb n="2" break="no"/>maṇṭin Etir patinonṟamāṇṭu toṇṭaināṭṭu ve <gap reason="lost" extent="unknown" unit="character"/> tta te<unclear>nan</unclear> {built Over} <gap reason="lost" extent="unknown" unit="character"/> yāl mā <gap reason="lost" extent="unknown" unit="character"/> <unclear>ai</unclear> <gap reason="lost" extent="unknown" unit="character"/> <unclear>pa</unclear>cuvāl nāḻip pālum A<unclear>ṭ</unclear> <gap reason="lost" extent="unknown" unit="character"/> <unclear>va</unclear>tākak kaṇ <gap reason="lost" extent="unknown" unit="character"/> ṭār<hi rend="grantha">śrīmāheśvara rakṣai</hi> <supplied reason="omitted">||</supplied>
                 </p>
                 
             </div>

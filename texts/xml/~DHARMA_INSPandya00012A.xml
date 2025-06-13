@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#19: a) Saptaṛṣīśvara temple, Lālkuṭi, Lālkuṭi taluk, Trichy district; b) on the north wall of the <foreign>ardha-maṇḍapa</foreign>; c) Regnal year 1 opposite to 4 of an unnamed king; d) are 1928–1929, no. 120; tli Tp 279; sii 14, no. 12a; ei 20, no. 3a; ip 269; iep 28; e) inscription located personally; f) it is probably the first of the series of inscriptions which were copied after the reconstruction of the temple; it is located above ei 20, no. 3b (#7).</p>
+                        <summary><p>#19: a) Saptaṛṣīśvara temple, Lālkuṭi, Lālkuṭi taluk, Trichy district; b) on the north wall of the <foreign>ardha-maṇḍapa</foreign>; c) Regnal year 1 opposite to 4 of an unnamed king; d) are 1928–1929, no. 120; TLI Tp 279; sii 14, no. 12a; ei 20, no. 3a; ip 269; iep 28; e) inscription located personally; f) it is probably the first of the series of inscriptions which were copied after the reconstruction of the temple; it is located above ei 20, no. 3b (#7).</p>
                             
                         </summary>
                     </msContents>
@@ -56,27 +56,42 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī </hi>yāṇtu 4-vatiṉ Etirāmāṇṭu Iṭaiyāṟṟunāṭṭut tiruttavattuṟai <hi rend="grantha">māhāde</hi>varkku teḷḷāṟṟeṟintu veṉṟa nantippottarai
-                    <lb n="2" break="no"/>yar kuṭutta paḻaṅkācu 60-tu <supplied reason="omitted">|</supplied> Ivvaṟupatu kācum Iññāṭṭu nallimaṅkalat<unclear>tu</unclear><hi rend="grantha">sabhaiyo</hi>m Ivvaṟupatu kācuṅ tiruttavattuṟai <hi rend="grantha">mahāde</hi>var 
-                    <lb n="3"/>Iṭai koṇṭu nārāyanāḻiyāl nicati nāḻi ney Oru nontāviḷakku cantirātit<unclear>ta</unclear>val Irav<unclear>u</unclear>m pakalum Eriyak koṇṭu ceṉṟu Aḷappomāno
-                    <lb n="4" break="no"/>m <supplied reason="omitted">|</supplied> nallimaṅkalattu<hi rend="grantha">sabhaiyo</hi>m tiruttavattuṟai <hi rend="grantha">mahedeva</hi>rkku Aḷavomāyil muṭṭil muṭṭiraṭṭiyum mulappaṭṭa <hi rend="grantha">pamāheśvara</hi><unclear>re</unclear> 
-                    <lb n="5"/><hi rend="grantha">sabhai</hi>yākavum tanittākavum nilaikkaḷam Uḷḷiṭṭa tāṉ veṇṭu koviṉukku pukkavūḷa Iruṉūṟṟup patiṉnāṟu kāṇam taṇṭamiṭa O
-                    <lb n="6" break="no"/>ṭṭinom nallimaṅkalattu<hi rend="grantha">sabhai</hi>yom <supplied reason="omitted">|</supplied> Itu <hi rend="grantha">panmāheśvarar </hi>nāṟpatteṇṇayiravarum <hi rend="grantha">Irakṣai </hi>||
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    yāṇtu 4-vatiṉ Etir ām āṇṭu
+                </p>
+                <p>
+                    Iṭaiyāṟṟunāṭṭu-t tiru-t-tava-t-tuṟai <hi rend="grantha">māhāde</hi>varkku teḷḷāṟṟ' eṟintu veṉṟa nanti-p-pottarai
+                    <lb n="2" break="no"/>yar kuṭutta paḻaṅkācu <num value="60">6 <g type="numeral">10</g></num>-tu
+                </p>
+                <p>
+                    Ivv-aṟupatu kācum Iñ-ñāṭṭu nalli-maṅkalat<unclear>tu</unclear> <hi rend="grantha">sabhaiyō</hi>m Ivv-aṟupatu kācuṅ tiru-t-tava-t-tuṟai <hi rend="grantha"> mahāde</hi>var 
+                    <lb n="3"/>Iṭai koṇṭu nārāyanāḻiyāl nicati nāḻi ney Oru nontā-viḷakku cantirātit<unclear>ta</unclear>val Irav<unclear>u</unclear>m pakalum Eriyak koṇṭu ceṉṟu Aḷappōm ānō
+                    <lb n="4" break="no"/>m
+                </p>
+                <p>
+                    nalli-maṅkalattu <hi rend="grantha">sabhaiyo</hi>m tiru-t-tava-t-tuṟai <hi rend="grantha">mah<seg rend="check">e</seg>deva</hi>rkku Aḷavomāyil muṭṭil muṭṭiraṭṭiyum mulappaṭṭa <hi rend="grantha">pamāheśvara</hi><unclear>re</unclear> 
+                    <lb n="5"/><hi rend="grantha">sabhai</hi>yākavum tanittākavum nilaikkaḷam Uḷḷiṭṭa tāṉ veṇṭu koviṉukku pukkavūḷa Iru-ṉūṟṟup patiṉn āṟu kāṇam taṇṭam iṭa O
+                    <lb n="6" break="no"/>ṭṭinōm nalli-maṅkalattu<hi rend="grantha">sabhai</hi>yōm
+                </p>
+                <p>
+                    Itu <hi rend="grantha">panmāheśvarar</hi> nāṟpatteṇṇayiravarum <hi rend="grantha">Irakṣai</hi> ||
                 </p>
                 
             </div>
             
-            <div type="apparatus">
+            <div type="apparatus"/>
                 
-            </div>
+            
             
             <div type="translation" source="bib:Gillet2017_01">
                 
                 <p>Hail! Prosperity! This is the year opposite to the 4th year. For Mahādeva of Tiruttavattuṟai in Iṭaiyāṟṟunāṭu, Nandippōttaraiyar, who, having fought at Teḷḷāṟu, gained victory, gave 60 old <foreign>kācu</foreign>; all these 60 <foreign>kācu</foreign>, we the Sabhā of Nallimaṅkalam of this country <supplied reason="explanation"><foreign>iññāṭṭu</foreign></supplied>, having taken <supplied reason="subaudible">for</supplied> the place <supplied reason="explanation"><foreign>iṭai</foreign></supplied> of Mahādeva of Tiruttavattuṟai all these 60 <foreign>kācu</foreign>, for one perpetual lamp to burn night and day as long as the sun and the moon endure, having gone <supplied reason="subaudible">to the temple</supplied> <supplied reason="explanation"><foreign>ceṉṟu</foreign></supplied>, we will measure <supplied reason="explanation"><foreign>aḷappōmānōm</foreign></supplied> one <foreign>nāḻi</foreign> of ghee everyday with <supplied reason="subaudible">the measure called</supplied> <foreign>nārāyanāḻi</foreign>; if we, the Sabhā of Nallimaṅkalam, do not measure <supplied reason="explanation"><foreign>aḷavōmāyil</foreign></supplied> and fail <supplied reason="explanation"><foreign>muṭṭil</foreign></supplied> <supplied reason="subaudible">to supply</supplied> for Mahādeva <supplied reason="explanation"><foreign>mahedeva</foreign> for <foreign>mahādeva</foreign></supplied> of Tiruttavattuṟai, twice <supplied reason="subaudible">the amount</supplied> for the deficiency <supplied reason="explanation"><foreign>muṭṭuiraṭṭiy-um</foreign></supplied> <supplied reason="subaudible">for</supplied> the Panmāheśvaras attached to the sanctuary <supplied reason="explanation"><foreign>mūla-paṭṭa</foreign></supplied> and, as Sabhā or individual <supplied reason="explanation"><foreign>sabhaiy-ākavum tanitt-ākavum</foreign></supplied>, a fine of 216 <foreign>kāṇam</foreign> shall go to the king <supplied reason="explanation"><foreign>kōviṉukku</foreign></supplied>, including the <foreign>nilaikkaḷam</foreign>, as requested by him <supplied reason="explanation"><foreign>tāṉ vēṇṭu</foreign></supplied>; we, the Sabhā of Nallimaṅkalam, decided <supplied reason="explanation"><foreign>oṭṭinōm</foreign></supplied>. This is under the protection of all the 48000 Panmāheśvaras.</p></div>
             
-            <div type="commentary">
+            <div type="commentary"/>
                 
-            </div>
+            
             
             <div type="bibliography">
                 
