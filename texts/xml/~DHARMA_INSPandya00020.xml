@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#11: a) Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the base of the western façade of the sanctuary; c) Regnal year 4 of Māṟañcaṭaiyaṉ; d) are 1930–1931, no. 21; TLI Tj 262; sii 14, no. 20; IEP 24; e) inscription located personally.</p>
+                        <summary><p>#11: a) Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the base of the western façade of the sanctuary; c) Regnal year 4 of Māṟañcaṭaiyaṉ; d) are 1930–1931, no. 21; TLI Tj 262 IEP 24; e) inscription located personally.</p>
                             
                         </summary>
                     </msContents>
@@ -95,10 +95,15 @@
             <div type="bibliography">
                 
                 <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0020">SII 14.20</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
+                    <bibl n="SII">
+                        <ptr target="bib:RamanathaAyyar1962_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">8</citedRange>
+                    </bibl> 
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">TBC</citedRange>

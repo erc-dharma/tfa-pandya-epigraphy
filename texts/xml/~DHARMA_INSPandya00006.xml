@@ -34,7 +34,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <p>Āpatsahāteśvara temple, Āṭutuṟai, Tiruviṭaimarutūr taluk, Tañcāvūr district; on the wall in the recess between the sanctuary and the <foreign>ardhamaṇḍapa</foreign> of the northern façade; TLI Tj 2; sii 23, no. 364 (text not given).</p>
+                            <p>Āpatsahāteśvara temple, Āṭutuṟai, Tiruviṭaimarutūr taluk, Tañcāvūr district; on the wall in the recess between the sanctuary and the <foreign>ardhamaṇḍapa</foreign> of the northern façade; TLI Tj 2; SII 23.364 (text not given).</p>
                             
                         </summary>
                     </msContents>
@@ -73,7 +73,10 @@
                     <lb n="7" break="no"/><unclear>ṭṭu</unclear> tiru-k-kuraṅ<unclear>kāṭu</unclear>-tuṟai <hi rend="grantha">mahā-de</hi>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="9"/>ttāl ca<hi rend="grantha">ntrā</hi>tittaval nicatam Aṭṭa-k kaṭava E<unclear>ṇ</unclear>
-                    <lb n="10" break="no"/>ṇai Uri <supplied reason="omitted">|</supplied> Itu pa<unclear>ṉ</unclear><hi rend="grantha">māheśvara rakṣai</hi>
+                    <lb n="10" break="no"/>ṇai Uri
+                </p>
+                <p>
+                    Itu pa<unclear>ṉ</unclear><hi rend="grantha">māheśvara rakṣai</hi>
                 </p>
                 
             </div>
@@ -93,7 +96,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/364).</p>
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0006">SII 14.6</ref>); edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0006">SII 14.6</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">

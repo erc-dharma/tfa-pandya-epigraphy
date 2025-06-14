@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Centalai, Sundareśvara temple, time of Māṟañ Caṭaiyaṉ, year 16</title>
+                <title>Tiruvāymūr, Tyagarājasvāmin temple, time of Varaguṇa, year [lost]</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -24,7 +24,8 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris, CEIAS</pubPlace>
-                <idno type="filename">DHARMA_INSPandya00507</idno>
+                <idno type="filename">DHARMA_INSPandya00507
+                </idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -33,7 +34,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#18: a) Sundareśvara temple, Centalai, Tiruvaiyāṟu taluk, Tañcāvūr district; b) on the southern doorjamb of the Gaṇeśa shrine; c) Regnal year 16 of Māṟañcaṭaiyaṉ; d) are 1899, no. 9; TLI Tj 2613; sii 6, no. 445; e) inscription located personally; f) the inscription is engraved on a stone which was probably re-used because the inscription on the opposite doorjamb (sii 6, no. 444) records the construction of this shrine at a much later period, probably during the Nāyaka period; the last syllable at the end of each line is not visible, but it appears in brackets in the edition of sii: I therefore kept them, but added them in double brackets.</p>
+                        <summary><p>Tyagarājasvāmin temple, Tiruvāymūr, Tirukkuvaḷai taluk, Nākappaṭṭiṉam district; on the southern base of the main sanctuary, starting on the south-west corner; regnal year lost of Varaguṇa Mahārāja; are 1962–1963, no. 605; TLI Tj 1673; inscription located personally; this unpublished inscription is the first inscription of a series of epigraphs which were copied after the 11th century; it is followed by an inscription probably dated with a Pallava regnal year (“<gap reason="lost" extent="unknown" unit="character"/> potta <gap reason="lost" extent="unknown" unit="character"/>” is legible, referring probably to Nantippottaraiyar of whom we often find inscription where the Pāṇḍyan gives).</p>
                             
                         </summary>
                     </msContents>
@@ -56,29 +57,11 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> ko[[mā]]
-                    <lb n="2" break="no"/>ṟañcaṭaiyaṟku [[y]]
-                    <lb n="3" break="no"/><unclear>ā</unclear>ṇṭu 16 Āvatu [[ti]]
-                    <lb n="4" break="no"/>rupperuntuṟai [[<hi rend="grantha">ma</hi>]]
-                    <lb n="5" break="no"/><hi rend="grantha">hādevar</hi>kku narik[[ku]]
-                    <lb n="6" break="no"/>ṭi cātokaraṇi n[[ārā]]
-                    <lb n="7" break="no"/>yaṇaṉ māṟaṉ<hi rend="grantha">brā</hi>[[<hi rend="grantha">hma</hi>]]
-                    <lb n="8" break="no"/>ṇi nilaṉāraṇi pa[[ka]]
-                    <lb n="9" break="no"/>lviḷakku Erip[[pa]]
-                    <lb n="10" break="no"/><unclear>tā</unclear>ka vaiytta [[po]]
-                    <lb n="11" break="no"/>ṉ Eṇ kaḻañ[[cu]] <supplied reason="omitted">|</supplied>
-                    <lb n="12"/>Ippoṉ [[ko]]
-                    <lb n="13" break="no"/>ṇṭom I[[ta]]
-                    <lb n="14" break="no"/>ṉpalicaiyā[[l]]
-                    <lb n="15"/>pakalviḷak[[ku]]
-                    <lb n="16"/>Erippom[[ā]]
-                    <lb n="17" break="no"/>ṉom <supplied reason="omitted">|</supplied> tirup[[pe]]
-                    <lb n="18" break="no"/>runtuṟai ti[[ru]]
-                    <lb n="19" break="no"/>kkoyilu[[ṭai]]
-                    <lb n="20" break="no"/>yom Iv[[vū]]
-                    <lb n="21" break="no"/>rum perumak[[kalu]]
-                    <lb n="21" break="no"/>m mā<hi rend="grantha">heś</hi>va[[ra]]
-                    <lb n="22" break="no"/>rum Ira<hi rend="grantha">kṣai</hi>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    kō-<unclear>va</unclear>rakuṇa-marāya<unclear>ṟ</unclear>k<unclear>ku</unclear> <gap reason="lost" extent="unknown" unit="character"/> {built over} <gap reason="lost" extent="unknown" unit="character"/> na tiruvāmūr <hi rend="grantha">mahādeva</hi>ṟku nantāviḷakkukku vai
+                    <lb n="2" break="no"/>ta <gap reason="lost" extent="unknown" unit="character"/> ṇaka <gap reason="lost" extent="unknown" unit="character"/> {built over} <gap reason="lost" extent="unknown" unit="character"/> vaitta <unclear>to</unclear> panmā <gap reason="lost" extent="unknown" unit="character"/> <unclear>e</unclear> <gap reason="lost" extent="unknown" unit="character"/><hi rend="grantha">kṣai ||</hi>
                 </p>
                 
             </div>
@@ -89,33 +72,33 @@
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p>Hail! Prosperity! This is the 16th year of king Māṟañcaṭaiyaṉ. For Mahādeva of Tirupperuntuṟai, Nilanāraṇi, the Brahmin <supplied reason="subaudible">wife</supplied> of Cātokaraṇi Nārāyaṇaṉ Māṟaṉ of Narikkuṭi, for burning a day lamp <supplied reason="explanation"><foreign>pakal viḷakku</foreign></supplied>, endowed 8 <foreign>kaḻañcu</foreign> of gold; having taken this gold, with the interests of it <supplied reason="explanation"><foreign>itaṉ</foreign></supplied>, we will burn <supplied reason="explanation"><foreign>erippōmāṉōm</foreign></supplied> a day lamp, we the lords of the temple/priests <supplied reason="explanation"><foreign>tiruk-kōyiluṭaiyār</foreign></supplied> of Tirupperuntuṟai. The people of this village <supplied reason="explanation"><foreign>ivvūr-um</foreign></supplied>, the Great people <supplied reason="explanation"><foreign>perumakkaḷ-um</foreign></supplied> and the Māheśvaras protect <supplied reason="subaudible">this endowment</supplied>.</p></div>
+                <p>Hail! Prosperity! <gap reason="lost" extent="unknown" unit="character"/> of king Varaguṇa Mahārāja <gap reason="lost" extent="unknown" unit="character"/> For Mahādeva of Tiruvāmūr, for a perpetual lamp <supplied reason="explanation"><foreign>nantāviḷakkukku</foreign> for <foreign>nontāviḷakku</foreign></supplied> was endowed <supplied reason="explanation"><foreign>vaita</foreign> for <foreign>vaitta</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> was endowed <supplied reason="explanation"><foreign>vaitta</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> This is under the protection <supplied reason="explanation"><foreign><supplied reason="lost">ra</supplied>kṣai</foreign></supplied> of the Panmā<supplied reason="lost">heśvaras</supplied>.</p></div>
             
             <div type="commentary">
-                
+                <p>Built in in the middle.</p>
             </div>
             
             <div type="bibliography">
                 
-                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+                <p>Reported in <bibl><ptr target="bib:ARIE1962-1963"/></bibl> (ARIE/1962-1963/B/1962-1963/605).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
-                        <citedRange unit="page">266-267</citedRange>
-                        <citedRange unit="item">18</citedRange>
+                        <citedRange unit="page">271</citedRange>
+                        <citedRange unit="item">25</citedRange>
                     </bibl>
                 </listBibl>
                 
                 <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
+                    <bibl>
+                        <ptr target="bib:ARIE1962-1963"/>
+                        <citedRange unit="page">117</citedRange>
+                        <citedRange unit="appendix">B/1962-1963</citedRange>
+                        <citedRange unit="item">605</citedRange>
+                        </bibl>
                 </listBibl>
                 
             </div>

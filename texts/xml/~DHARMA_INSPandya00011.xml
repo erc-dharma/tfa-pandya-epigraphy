@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Trichy (Tirucirāppaḷḷi), Lalitāṅkura cave temple, time of Māṟañ<supplied reason="lost">caṭaiyaṉ</supplied>, year [lost] + 4 +  9</title>
+                <title>Trichy (Tirucirāppaḷḷi), Lalitāṅkura cave temple, time of Māṟaṉ <supplied reason="lost">Caṭaiyaṉ</supplied>, year [lost] + 4 +  9</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Lalitāṅkura cave temple in Trichy (Tirucirāppaḷḷi), Trichy taluk and district; on the southern pilaster framing the image of Gaṅgādhāramūrti, under the Pallava Sanskrit inscription (SII 1.33 and SII 1.34); regnal year 9 opposite to 4 of Māṟañ[caṭaiyaṉ]; TLI Tp 1133; sii 14, no. 11; IEP 40.</p><p><foreign/></p>
+                        <summary><p>Lalitāṅkura cave temple in Trichy (Tirucirāppaḷḷi), Trichy taluk and district; on the southern pilaster framing the image of Gaṅgādhāramūrti, under the Pallava Sanskrit inscription (SII 1.33 and SII 1.34); regnal year 9 opposite to 4 of Māṟañ[caṭaiyaṉ]; TLI Tp 1133; IEP 40.</p><p><foreign/></p>
                             
                         </summary>
                     </msContents>
@@ -63,14 +63,14 @@
                     <lb n="2"/>ṉk-āvatiṉ etirr o<unclear>ṉ</unclear> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/>yaṟṟu veḷḷikkiḻa<unclear>mai</unclear> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/>malai-p perumāṉaṭikaḷu[[kku]] <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/>ṉa<hi rend="grantha">pāṇḍyādhipati</hi>-varaku[[ṇa]] <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="5"/>ṉa <hi rend="grantha">pāṇḍyādhipati</hi>-varaku[[ṇa]] <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="6"/>ṭṭu veḷāṉ kaiyil viṭu[[tan]] <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="7"/>ñnūṟu Ivai Oru kācu [[k]] <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="8"/>m[[ai]]ñcāṭiUm kuṉṟiyā <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="9"/>[[ṉ]] Ainūṟṟu muppatt' ēḻu kaḻai <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="10"/>[[I]]p poṉṉil nānūṟṟu kaḻai<unclear>ñcu po</unclear>
                     <lb n="11" break="no"/>[[ṉ]]nāl ce<supplied reason="omitted">y</supplied>tu tiru<unclear>m</unclear>e<unclear>ṉi</unclear> cāt <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="12"/>[[ṟ pa]]ṭṭa nāṉku nūṟṟu[[mu]]ppa<unclear>t</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="12"/>[[ṟ pa]]ṭṭa nāṉku nūṟṟu [[mu]]ppa<unclear>t</unclear> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="13"/>[[carai]] poṉṉāl ceytu ti<unclear>rum</unclear>e <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="14"/>[[tta po]]ṟpūyu Oṉṟu Ivvai <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="15"/>[[yum pā]]tamulamum [[nakarat]] <gap reason="lost" extent="unknown" unit="character"/>
@@ -97,10 +97,15 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/413).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0011">SII 14.11</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
+                    <bibl n="SII">
+                        <ptr target="bib:RamanathaAyyar1962_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">11</citedRange>
+                    </bibl>
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">255-256</citedRange>

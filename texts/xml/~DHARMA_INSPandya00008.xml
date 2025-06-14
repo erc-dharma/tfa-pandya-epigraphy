@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Kumpakōṇam, Nāgeśvara temple, time of Māṟañcaṭaiyaṉ, year 4 + 4</title>
+                <title>Kumpakōṇam, Nāgeśvara temple, time of Māṟaṉ Caṭaiyaṉ, year 4 + 4</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -60,7 +60,7 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </p>
                 <p>
-                    kō-māṟañ-caṭaiya
+                    kō-māṟañ caṭaiya
                     <lb n="2" break="no"/>ṟku yāṇṭu nāṅku Itaṉ Eti
                     <lb n="3" break="no"/>r nāl āṇṭu cellā niṟka-t
                     <lb n="4"/>tiru-k-kuṭamukkiṟ ṟiru-k-kiḻ-k
@@ -97,7 +97,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/C/1908/13).</p>
-                <p>Edited <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (SII 14.8).</p>
+                <p>Edited <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0008">SII 14.8</ref>)).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl>.</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
