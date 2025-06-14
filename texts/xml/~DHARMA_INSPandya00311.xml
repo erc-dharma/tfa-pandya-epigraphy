@@ -24,7 +24,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris, CEIAS</pubPlace>
-                <idno type="filename">DHARMA_INSTamilNadu40028</idno>
+                <idno type="filename">DHARMA_INSPandya00311</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#28: Perumāḷ temple, Ampal, Nākappaṭṭiṉam taluk and district; b) on a doorjamb which was reused as a beam for the entrance door; c) beginning of the regnal year lost, then a year opposite to one, opposite to one, opposite to one of a king whose name is lost; d) <foreign>Āvaṇam</foreign> 27 (2016), no. 7, pp. 25–26; e) inscription not located personally; f) this inscription was recently discovered by Dr.</p><p>V. Selvakumar of the Tamil University at Tañcāvūr who edited it in <foreign>Āvaṇam</foreign>. He generously supplied me with pictures of the inscription. The edition I present here is based on the edited text which I have altered according to my reading of the inscription on the pictures.</p>
+                        <summary><p>Perumāḷ temple, Ampal, Nākappaṭṭiṉam taluk and district; on a doorjamb which was reused as a beam for the entrance door; beginning of the regnal year lost, then a year opposite to one, opposite to one, opposite to one of a king whose name is lost; <foreign>Āvaṇam</foreign> 27 (2016), no. 7, pp. 25–26.</p>
                             
                         </summary>
                     </msContents>
@@ -56,7 +56,7 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>ṇṭu <gap reason="lost" extent="unknown" unit="character"/>54
+                    <lb n="1"/>ṇṭu <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/>ṇṭiṉ Etirāṇ
                     <lb n="3" break="no"/>ṭiṉ Etirāṇṭi
                     <lb n="4" break="no"/>ṉ Etirāmāṇṭu
@@ -103,13 +103,14 @@
                 <p></p><p><gap reason="lost" extent="unknown" unit="character"/> the year opposite to the year, opposite to the year, opposite to the year <gap reason="lost" extent="unknown" unit="character"/> For the great Viṣṇu <supplied reason="explanation"><foreign>mahāviṣṇukku</foreign></supplied> of the sanctuary <supplied reason="explanation"><foreign>gṛhattu</foreign></supplied> of Viṣṇu Avaṉi Nārāyaṇa of Ampar in Amparnāṭu, Cāttaṉ Cāttaṉ who has become <supplied reason="explanation"><foreign>āyiṉa</foreign></supplied> the chieftain <supplied reason="explanation"><foreign>kiḻavaṉ</foreign></supplied> of Vempil, in Vempilnāṭu in Pāṇṭināṭu, endowed for a perpetual lamp <supplied reason="explanation"><foreign>nantāviḷakkiṉukku</foreign></supplied>, for a sacred lamp <supplied reason="explanation"><foreign>tiruviḷakku</foreign></supplied>, 20 <foreign>kaḻañcu</foreign> of pure gold which entered fire; having taken <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> these 20 <foreign>kaḻañcu</foreign>, with the interests of these <supplied reason="explanation"><foreign>itaṉ palicaiyāl</foreign></supplied>, everyday, for one <foreign>uḻakku</foreign> <supplied reason="explanation"><foreign>uḻakku-āḻākku</foreign></supplied> of a lamp, we will supply <supplied reason="explanation"><supplied reason="subaudible"><foreign>aṭṭu*</foreign></supplied><foreign>vōmāṉōm</foreign></supplied> with a ladle <supplied reason="explanation"><foreign>muḻaiyāl</foreign>?</supplied> with one <supplied reason="subaudible">measure</supplied> <foreign>nārāyakkāl</foreign> of ghee, we the Nagaram, including Cattāṉ <supplied reason="explanation">Cattāṉ for Cāttaṉ?</supplied> <gap reason="lost" extent="unknown" unit="character"/> of Ampar. If this <supplied reason="explanation"><foreign>itu</foreign></supplied> is deficient <supplied reason="explanation"><foreign>muṭṭ-il</foreign></supplied> the <supplied reason="subaudible">Pā*</supplied>tamūlattār of this temple <supplied reason="explanation"><foreign>ittaḷi</foreign></supplied> and the <supplied reason="subaudible">Vai*</supplied>ṣṇavas <gap reason="lost" extent="unknown" unit="character"/></p></div>
             
             <div type="commentary">
-                
+                <p>The edition by ... suggests that there were 2 lines before what we see today. However, based on
+the pictures, I find it difficult to evaluate the number of lines missing.</p>
             </div>
             
             <div type="bibliography">
                 
                 <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on previous edition and photographs (by V. Selvakumar, Tamil University at Tañcāvūr).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">

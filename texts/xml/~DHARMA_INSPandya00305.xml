@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirukkāṭṭupaḷḷi, Agnīśvara temple, time of Māṟañ Caṭaiyaṉ, year 11</title>
+                <title>Tirukkāṭṭupaḷḷi, Agnīśvara temple, time of Māṟaṉ Caṭaiyaṉ, year 11</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -24,7 +24,7 @@
             <publicationStmt>
                 <authority>DHARMA</authority>
                 <pubPlace>Paris, CEIAS</pubPlace>
-                <idno type="filename">DHARMA_INSTamilNadu40014</idno>
+                <idno type="filename">DHARMA_INSPandya00305</idno>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#14: a) Agnīśvara temple, Tirukkāṭṭupaḷḷi, Tirukkāṭṭupaḷḷi taluk, Tañcāvūr district; b) on a pillar used as stepping stone in the southern entrance to the Nāṭarāja-<foreign>mandapa</foreign>; c) Regnal year 11 of Māṟañcaṭaiyaṉ; d) are 1960–1961, no. 318 (+ p. 20); TLI Tj 2892; iep 37; e) inscription not located personally; f) I visited the temple in November 2016, but I was not given access to the entrance of the Nāṭarāja-<foreign>maṇḍapa</foreign> to see the inscription. Fortunately, Arlo Griffiths photographed the estampage stored in the offices of the asi in Mysore, and I was therefore able to amend slightly the edition provided in iep 37.</p>
+                        <summary><p>Agnīśvara temple, Tirukkāṭṭupaḷḷi, Tirukkāṭṭupaḷḷi taluk, Tañcāvūr district; b) on a pillar used as stepping stone in the southern entrance to the Nāṭarāja-<foreign>mandapa</foreign>; c) Regnal year 11 of Māṟañcaṭaiyaṉ; d) are 1960–1961, no. 318 (+ p. 20); TLI Tj 2892; iep 37; e) inscription not located personally; f) I visited the temple in November 2016, but I was not given access to the entrance of the Nāṭarāja-<foreign>maṇḍapa</foreign> to see the inscription. Fortunately, Arlo Griffiths photographed the estampage stored in the offices of the asi in Mysore, and I was therefore able to amend slightly the edition provided in iep 37.</p>
                             
                         </summary>
                     </msContents>
@@ -56,9 +56,15 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> komā
-                    <lb n="2" break="no"/><unclear>ṟa</unclear>ñcaṭaiyaṟku yā
-                    <lb n="3" break="no"/>ṇṭu 11 Āvativ
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    kō-mā
+                    <lb n="2" break="no"/><unclear>ṟa</unclear>ñ-caṭaiyaṟku yā
+                    <lb n="3" break="no"/>ṇṭu 11
+                </p>
+                <p>
+                    Āvativ
                     <lb n="4"/>vāṇṭu niyamat
                     <lb n="5" break="no"/>tu Āyirattaḷi mā
                     <lb n="6" break="no"/><hi rend="grantha">hāde</hi>varkku ve
@@ -91,25 +97,25 @@
             
             <div type="bibliography">
                 
-                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+                <p>Reported in <bibl><ptr target="bib:ARIE1960-1961"/></bibl> (ARIE/1960-1961/B/1960-1961/318).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">264</citedRange>
+                        <citedRange unit="item">14</citedRange>
                     </bibl>
                 </listBibl>
                 
                 <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
+                    <bibl>
+                        <ptr target="bib:ARIE1960-1961"/>
+                        <citedRange unit="page">81</citedRange>
+                        <citedRange unit="appendix">B/1960-1961</citedRange>
+                        <citedRange unit="item">318</citedRange>
+                        </bibl>
                 </listBibl>
                 
             </div>
