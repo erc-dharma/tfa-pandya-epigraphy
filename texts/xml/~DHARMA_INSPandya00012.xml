@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#5: a) Jambunāthasvāmin temple, Tiruveḷḷaṟai, Maṇṇaccanallūr taluk, Trichy district; b) on the rock in front of the cave temple; c) Regnal year 9 opposite to 4 of Māṟañcaṭaiyaṉ, <foreign>aśvati</foreign> day, which falls on a Monday in the month of <foreign>vṛścika</foreign>; d) are 1910, no. 84; TLI Tp 489; sii 14, no. 12; IEP 39; e) I could not locate the inscription which seems to have disappeared, perhaps under recent cement additions; f) I follow here the edition given in sii 14.</p>
+                        <summary><p>Jambunāthasvāmin temple, Tiruveḷḷaṟai, Maṇṇaccanallūr taluk, Trichy district; on the rock in front of the cave temple; TLI Tp 489; sii 14, no. 12; IEP 39; e) I could not locate the inscription which seems to have disappeared, perhaps under recent cement additions; f) I follow here the edition given in sii 14.</p>
                             
                         </summary>
                     </msContents>
@@ -60,9 +60,12 @@
                 </p>
                 <p>
                     kō-māṟañ-caṭaiyaṟku yāṇṭu nāl-ā
-                    <lb n="2" break="no"/>vataṟk' etir Oṉpat-āvatu <hi rend="grantha">vṛścika</hi>-ñāIṟṟu ti
-                    <lb n="3" break="no"/>ṅkaṭ-kiḻamai peṟṟa A<hi rend="grantha">śvati</hi> mutalāka tēvatāṉan ti
-                    <lb n="4" break="no"/>ruveḷḷaṟai-t tiruvāṉaikkaṟ perumāṉaṭika
+                    <lb n="2" break="no"/>vataṟk' etir Oṉpat-āvatu
+                </p>
+                <p>
+                    <hi rend="grantha">vṛścika</hi>-ñāIṟṟu ti
+                    <lb n="3" break="no"/>ṅkaṭ-kiḻamai peṟṟa A<hi rend="grantha">śvati</hi> mutal-āka tēvatāṉan ti
+                    <lb n="4" break="no"/>ru-veḷḷaṟai-t tiruvāṉaikkaṟ perumāṉaṭika
                     <lb n="5" break="no"/>ḷukku pāṇṭi-mārācar-āIṉa kō-mārañ-caṭai
                     <lb n="6" break="no"/>yaṉ y-iraṇṭu nontā-viḷakk' iravum paka
                     <lb n="7" break="no"/>lum Erikka Aṇṭanāṭṭu veḷāṉ kaiy
@@ -91,12 +94,17 @@
             
             <div type="bibliography">
                 
-                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1909-1910"/></bibl> (ARIE/1909-1910/C/1910/84).</p>
+                <p>Edited in by <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (SII 14.12). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl>.</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
-                    <bibl>
+                    <bibl n="SII">
+                        <ptr target="bib:RamanathaAyyar1962_01"/>
+                        <citedRange unit="page">7-8</citedRange>
+                        <citedRange unit="item">12</citedRange>
+                    </bibl>
+                    <bibl n="G">
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">256-257</citedRange>
                         <citedRange unit="item">5</citedRange>
@@ -105,10 +113,10 @@
                 
                 <listBibl type="secondary">
                     <bibl>
-                        <!--<ptr target="bib:ARIE****-****"/>
-                            <citedRange unit="page">TBC</citedRange>
-                            <citedRange unit="appendix">TBC</citedRange>
-                            <citedRange unit="item">TBC</citedRange>-->
+                        <ptr target="bib:ARIE1909-1910"/>
+                        <citedRange unit="page">57</citedRange>
+                        <citedRange unit="appendix">C/1910</citedRange>
+                        <citedRange unit="item">84</citedRange>
                     </bibl>
                 </listBibl>
                 
