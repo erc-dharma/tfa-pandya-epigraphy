@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirukkōṭikkāval, Tirukkōṭīśvara temple, time of ***, year **</title>
+                <title>Tirukkōṭikkāval, Tirukkōṭīśvara temple, time of Māṟaṉ Caṭaiyaṉ, year 11</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#24: a) Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the base of the southern façade of the sanctuary; c) Regnal year 11 of Māṟañcaṭaiyaṉ; d) are 1930–1931, no. 29; TLI Tj 265; sii 14, Appendix 2, p. 167; iep 38; e) inscription located personally; f) we do not know who is the donor: his/her name is either not given or given in line 1 but lost under the construction of the shrine of Dakṣiṇāmūrti which covers a part of the inscription.</p>
+                        <summary><p>Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; on the base of the southern façade of the sanctuary; TLI Tj 265; sii 14, Appendix 2, p. 167; iep 38; we do not know who is the donor: his/her name is either not given or given in line 1 but lost under the construction of the shrine of Dakṣiṇāmūrti which covers a part of the inscription.</p>
                             
                         </summary>
                     </msContents>
@@ -88,25 +88,25 @@
             
             <div type="bibliography">
                 
-                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+                <p>Reported in <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE/1930-1931/B/1930-1931/29).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">270-271</citedRange>
+                        <citedRange unit="item">24</citedRange>
                     </bibl>
                 </listBibl>
                 
                 <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
+                    <bibl>
+                        <ptr target="bib:ARIE1930-1931"/>
+                        <citedRange unit="page">7</citedRange>
+                        <citedRange unit="appendix">B/1930-1931</citedRange>
+                        <citedRange unit="item">29</citedRange>
+                        </bibl>
                 </listBibl>
                 
             </div>

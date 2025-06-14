@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#20: a) Śivayoganātha temple, Tiruvicalūr, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the south wall of the main sanctuary; c) Regnal year 1 opposite to 1/3/11/13 of [Vara]guṇa Mahārāja; d) are 1907, no. 17; TLI Tj 688; sii 14, no. 24; e) inscription not located personally; f) the inscriptions which were on the main sanctuary of this temple have been polished away with a sanding-machine during a “renovation”; this one has therefore disappeared, and I am using the edition given in sii 14.</p>
+                        <summary><p>Śivayoganātha temple, Tiruvicalūr, Tiruviṭaimarutūr taluk, Tañcāvūr district; on the south wall of the main sanctuary; regnal year 1 opposite to 1/3/11/13 of [Vara]guṇa Mahārāja; are 1907, no. 17; TLI Tj 688; the inscriptions which were on the main sanctuary of this temple have been polished away with a sanding-machine during a “renovation”; this one has therefore disappeared, and I am using the edition given in sii 14.</p>
                             
                         </summary>
                     </msContents>
@@ -80,14 +80,19 @@
             <div type="bibliography">
                 
                 <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0024">SII 14.24</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
-                    <bibl>
+                     <bibl n="SII">
+                        <ptr target="bib:RamanathaAyyar1962_01"/>
+                        <citedRange unit="page">22</citedRange>
+                        <citedRange unit="item">24</citedRange>
+                    </bibl>    
+                    <bibl n="G">
                         <ptr target="bib:Gillet2017_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">268</citedRange>
+                        <citedRange unit="item">20</citedRange>
                     </bibl>
                 </listBibl>
                 

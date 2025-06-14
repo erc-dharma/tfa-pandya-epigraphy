@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#15: a) Tiruneṭuṅkaḷanātar temple, Tiruneṭuṅkaḷam, Tiruveṟumpūr taluk, Trichy district; b) on a pillar, in the western gallery; c) Regnal year 11 of Māṟañcaṭaiyaṉ; d) <foreign>Varalāṟu</foreign> 8 (1998), pp. 5–6; e) inscription not located personally; f) I was not able to located this inscription during a visit of the site in November 2016, and I therefore follow the edition given by R. Kalaikkovaṉ in <foreign>Varalāṟu</foreign>.</p>
+                        <summary><p>Tiruneṭuṅkaḷanātar temple, Tiruneṭuṅkaḷam, Tiruveṟumpūr taluk, Trichy district; on a pillar, in the western gallery; <foreign>Varalāṟu</foreign> 8 (1998), pp. 5–6; I was not able to located this inscription during a visit of the site in November 2016, and I therefore follow the edition given by R. Kalaikkovaṉ in <foreign>Varalāṟu</foreign>.</p>
                             
                         </summary>
                     </msContents>
@@ -56,11 +56,16 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> 
-                    <lb n="2"/>komāṟañcaṭai
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>                    
+                    <lb n="2"/>kō-māṟañ-caṭai
                     <lb n="3" break="no"/>yaṟku yāṇṭu
-                    <lb n="4"/>11 Āvatu tiru
-                    <lb n="5" break="no"/>neṭuṅkaḷattu
+                    <lb n="4"/>11 Āvatu
+                </p>
+                <p>
+                    tiru
+                    <lb n="5" break="no"/>-neṭuṅkaḷattu
                     <lb n="6" break="no"/>t tevaruṭaiya
                     <lb n="7"/>tevatāṉam me
                     <lb n="8" break="no"/>laikkuṟucci <unclear>to</unclear>
@@ -87,7 +92,9 @@
                     <lb n="29" break="no"/>tāka mayakki
                     <lb n="30"/>vaittēṉ
                     <lb n="31"/>kāmaneṟi
-                    <lb n="32" break="no"/>mai<unclear>ṉa</unclear>ṉ <supplied reason="omitted">|</supplied>
+                    <lb n="32" break="no"/>mai<unclear>ṉa</unclear>ṉ
+                </p>
+                <p>                    
                     <lb n="33"/>Itu kāttā
                     <lb n="34" break="no"/>ṉaṭi Eṉ
                     <lb n="35"/>ṟalai mē
@@ -111,7 +118,7 @@
             <div type="bibliography">
                 
                 <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on previous edition.</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
