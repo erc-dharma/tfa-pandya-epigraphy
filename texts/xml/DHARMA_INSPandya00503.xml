@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Tiruneṭuṅkaḷanātar temple, Tiruneṭuṅkaḷam, Tiruveṟumpūr taluk, Trichy district; on a pillar, in the western gallery.</p>
+                        <summary><p>Tiruneṭuṅkaḷanātar temple, Tiruneṭuṅkaḷam, Tiruveṟumpūr taluk, Trichy district. On a pillar, in the western gallery.</p>
                             
                         </summary>
                     </msContents>
@@ -61,24 +61,24 @@
                     <lb n="3" break="no"/>ya<supplied reason="omitted">ṟ</supplied>kku yā
                     <lb n="4" break="no"/>ṇṭu 1 Ā
                     <lb n="5" break="no"/>m āṭṭaikk' e
-                    <lb n="6" break="no"/>tir 12 Ā
+                    <lb n="6" break="no"/>tir <num value="12"><g type="10">10</g> 2</num> Ā
                     <lb n="7" break="no"/>vatu
                 </p>
                 <p>
                     tiru-ne
                     <lb n="8" break="no"/>ṭuṅkaḷattu
                     <lb n="9"/>mā-tēvar
-                    <lb n="10" break="no"/>kkut te
-                    <lb n="11" break="no"/>vūrnā
-                    <lb n="12" break="no"/>ṭṭu E
+                    <lb n="10" break="no"/>kku-t tē
+                    <lb n="11" break="no"/>vūr-nā
+                    <lb n="12" break="no"/>ṭṭu Ē
                     <lb n="13" break="no"/>natta
                     <lb n="14" break="no"/>nkuṭi
                     <lb n="15"/>cātta
-                    <lb n="16" break="no"/>ṅ
-                    <lb n="17"/>ceran
+                    <lb n="16" break="no"/>ṅ ⌈
+                    <lb n="17" break="no"/>cēran
                     <lb n="18"/>vai
                     <lb n="19" break="no"/>tta
-                    <lb n="20"/>ponni
+                    <lb n="20"/>ponn i
                     <lb n="21" break="no"/>ru kaḻañ
                     <lb n="22" break="no"/>cu
                 </p>
@@ -91,13 +91,13 @@
                 
             </div>
             
-            <div type="apparatus">
+            <div type="apparatus"/>
                 
-            </div>
+            
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p>This is the 12th <supplied reason="subaudible">year</supplied> opposite to the 1st year of king Māṟañcaṭaiyaṉ. For Mahādeva of Tiruneṭuṅkaḷam, Cāttaṉ Cēraṉ Ēnattaṅkuṭi of Tēvūrnāṭu, endowed <supplied reason="explanation"><foreign>vaitta</foreign></supplied> 2 <foreign>kaḻañcu</foreign> of gold. This is the duty <supplied reason="explanation"><foreign>kaṭavatu</foreign></supplied> of Māṅkāṉalaṉ.</p></div>
+                <p>This is the 12th <supplied reason="subaudible">year</supplied> opposite to the 1st year of king Māṟañcaṭaiyaṉ. For Mahādeva of Tiruneṭuṅkaḷam, Cāttaṉ Cēraṉ Ēnattaṅkuṭi of Tēvūrnāṭu, endowed <supplied reason="explanation"><foreign>vaitta</foreign></supplied> 2 <foreign>kaḻañcu</foreign>s of gold. This is the duty <supplied reason="explanation"><foreign>kaṭavatu</foreign></supplied> of Māṅkāṉalaṉ.</p></div>
             
             <div type="commentary">
                 

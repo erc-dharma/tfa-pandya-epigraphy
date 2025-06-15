@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Sundareśvara temple, Centalai, Tiruvaiyāṟu taluk, Tañcāvūr district; on the southern doorjamb of the Gaṇeśa shrine; TLI Tj 2613; SII 6.445; the inscription is engraved on a stone which was probably re-used because the inscription on the opposite doorjamb (SII 6.444) records the construction of this shrine at a much later period, probably during the Nāyaka period; the last syllable at the end of each line is not visible, but it appears in brackets in the edition of SII: I therefore kept them, but added them in double brackets.</p>
+                        <summary><p>Sundareśvara temple, Centalai, Tiruvaiyāṟu taluk, Tañcāvūr district. On the southern doorjamb of the Gaṇeśa shrine. The inscription is engraved on a stone which was probably re-used because the inscription on the opposite doorjamb (SII 6.444) records the construction of this shrine at a much later period, probably during the Nāyaka period. The last syllable at the end of each line is not visible, but it appears in brackets in the edition of SII. I therefore kept them, but added them in double brackets.</p>
                             
                         </summary>
                     </msContents>
@@ -56,48 +56,57 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> ko[[mā]]
-                    <lb n="2" break="no"/>ṟañcaṭaiyaṟku [[y]]
-                    <lb n="3" break="no"/><unclear>ā</unclear>ṇṭu 16 Āvatu [[ti]]
-                    <lb n="4" break="no"/>rupperuntuṟai [[<hi rend="grantha">ma</hi>]]
-                    <lb n="5" break="no"/><hi rend="grantha">hādevar</hi>kku narik[[ku]]
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    kō-[[mā]]
+                    <lb n="2" break="no"/>ṟañ caṭaiyaṟku [[y]]
+                    <lb n="3" break="no"/><unclear>ā</unclear>ṇṭu <num value="16"><g type="numeral">10</g> 6 </num>Āvatu [[ti]]
+                    <lb n="4" break="no"/>ru-p-perun-tuṟai [[<hi rend="grantha">ma</hi>]]
+                    <lb n="5" break="no"/><hi rend="grantha">hā-devar</hi>kku narik[[ku]]
                     <lb n="6" break="no"/>ṭi cātokaraṇi n[[ārā]]
-                    <lb n="7" break="no"/>yaṇaṉ māṟaṉ<hi rend="grantha">brā</hi>[[<hi rend="grantha">hma</hi>]]
+                    <lb n="7" break="no"/>yaṇaṉ māṟaṉ <hi rend="grantha">brā</hi>[[<hi rend="grantha">hma</hi>]]
                     <lb n="8" break="no"/>ṇi nilaṉāraṇi pa[[ka]]
-                    <lb n="9" break="no"/>lviḷakku Erip[[pa]]
+                    <lb n="9" break="no"/>l-viḷakku Erip[[pa]]
                     <lb n="10" break="no"/><unclear>tā</unclear>ka vaiytta [[po]]
-                    <lb n="11" break="no"/>ṉ Eṇ kaḻañ[[cu]] <supplied reason="omitted">|</supplied>
-                    <lb n="12"/>Ippoṉ [[ko]]
-                    <lb n="13" break="no"/>ṇṭom I[[ta]]
-                    <lb n="14" break="no"/>ṉpalicaiyā[[l]]
-                    <lb n="15"/>pakalviḷak[[ku]]
-                    <lb n="16"/>Erippom[[ā]]
-                    <lb n="17" break="no"/>ṉom <supplied reason="omitted">|</supplied> tirup[[pe]]
-                    <lb n="18" break="no"/>runtuṟai ti[[ru]]
-                    <lb n="19" break="no"/>kkoyilu[[ṭai]]
-                    <lb n="20" break="no"/>yom Iv[[vū]]
-                    <lb n="21" break="no"/>rum perumak[[kalu]]
+                    <lb n="11" break="no"/>ṉ Eṇ kaḻañ[[cu]]
+                </p>
+                <p>                    
+                    <lb n="12"/>Ip-poṉ [[ko]]
+                    <lb n="13" break="no"/>ṇṭōm I[[ta]]
+                    <lb n="14" break="no"/>ṉ palicaiyā[[l]]
+                    <lb n="15"/>pakal-viḷak[[ku]]
+                    <lb n="16"/>Erippōm [[ā]]
+                    <lb n="17" break="no"/>ṉōm tiru-p-[[pe]]
+                    <lb n="18" break="no"/>run-tuṟai ti[[ru]]
+                    <lb n="19" break="no"/>-k-kōyil-u[[ṭai]]
+                    <lb n="20" break="no"/>yōm
+                </p>
+                <p>
+                    Iv[[v-ū]]
+                    <lb n="21" break="no"/>rum peru-mak[[kalu]]
                     <lb n="21" break="no"/>m mā<hi rend="grantha">heś</hi>va[[ra]]
                     <lb n="22" break="no"/>rum Ira<hi rend="grantha">kṣai</hi>
                 </p>
                 
             </div>
             
-            <div type="apparatus">
+            <div type="apparatus"/>
                 
-            </div>
+            
             
             <div type="translation" source="bib:Gillet2017_01">
                 
                 <p>Hail! Prosperity! This is the 16th year of king Māṟañcaṭaiyaṉ. For Mahādeva of Tirupperuntuṟai, Nilanāraṇi, the Brahmin <supplied reason="subaudible">wife</supplied> of Cātokaraṇi Nārāyaṇaṉ Māṟaṉ of Narikkuṭi, for burning a day lamp <supplied reason="explanation"><foreign>pakal viḷakku</foreign></supplied>, endowed 8 <foreign>kaḻañcu</foreign> of gold; having taken this gold, with the interests of it <supplied reason="explanation"><foreign>itaṉ</foreign></supplied>, we will burn <supplied reason="explanation"><foreign>erippōmāṉōm</foreign></supplied> a day lamp, we the lords of the temple/priests <supplied reason="explanation"><foreign>tiruk-kōyiluṭaiyār</foreign></supplied> of Tirupperuntuṟai. The people of this village <supplied reason="explanation"><foreign>ivvūr-um</foreign></supplied>, the Great people <supplied reason="explanation"><foreign>perumakkaḷ-um</foreign></supplied> and the Māheśvaras protect <supplied reason="subaudible">this endowment</supplied>.</p></div>
             
-            <div type="commentary">
+            <div type="commentary"/>
                 
-            </div>
+            
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1898-1899"/></bibl> (ARIE/1898-1899/B/1899/9).</p>
+                <p>TLI Tj 2613. SII 6.445.</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 

@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Tyagarājasvāmin temple, Tiruvāymūr, Tirukkuvaḷai taluk, Nākappaṭṭiṉam district; on the southern base of the main sanctuary, starting in the middle of the eastern side of the shrine of Dakṣiṇāmūrti; TLI Tj 1674; this unpublished inscription was probably a copy of an older one, made after the 11th century;<note>The ARIE states that it is a copy from the 12th or 13th century. It could be earlier though.</note> all inscriptions on this base are copied following each other as in Tirukkōṭikkāval and this one is the fourth inscription; it is followed by Cōḻa-period inscriptions.</p>
+                        <summary><p>Tyagarājasvāmin temple, Tiruvāymūr, Tirukkuvaḷai taluk, Nākappaṭṭiṉam district. On the southern base of the main sanctuary, starting in the middle of the eastern side of the shrine of Dakṣiṇāmūrti. This unpublished inscription was probably a copy of an older one, made after the 11th century.<note>The ARIE states that it is a copy from the 12th or 13th century. It could be earlier though.</note> All inscriptions on this base are copied following each other as in Tirukkōṭikkāval and this one is the fourth inscription. It is followed by Cōḻa-period inscriptions.</p>
                             
                         </summary>
                     </msContents>
@@ -56,14 +56,35 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> komā <gap reason="lost" extent="unknown" unit="character"/> ncaṭaiyaṟku <unclear>y</unclear>āṇṭu nānka
-                    <lb n="2" break="no"/>maṇṭin Etir patinonṟamāṇṭu toṇṭaināṭṭu ve <gap reason="lost" extent="unknown" unit="character"/> tta te<unclear>nan</unclear> {built Over} <gap reason="lost" extent="unknown" unit="character"/> yāl mā <gap reason="lost" extent="unknown" unit="character"/> <unclear>ai</unclear> <gap reason="lost" extent="unknown" unit="character"/> <unclear>pa</unclear>cuvāl nāḻip pālum A<unclear>ṭ</unclear> <gap reason="lost" extent="unknown" unit="character"/> <unclear>va</unclear>tākak kaṇ <gap reason="lost" extent="unknown" unit="character"/> ṭār<hi rend="grantha">śrīmāheśvara rakṣai</hi> <supplied reason="omitted">||</supplied>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </p>
+                <p>
+                    kō-mā<unclear>ṟa</unclear>n caṭaiyaṟku <unclear>y</unclear>āṇṭu nānk<unclear>ā</unclear>
+                    <lb n="2" break="no"/>m āṇṭi<choice><orig>n</orig><reg>ṉ</reg></choice> Etir pati<choice><orig>n</orig><reg>ṉ</reg></choice> onṟām āṇṭu
+                </p>
+                <p>
+                    toṇṭai-nāṭṭu ve <gap reason="lost" quantity="5" unit="character"/> tta te<unclear>nan</unclear> <gap reason="lost" extent="unknown" unit="character"/> yāl mā <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>ai</unclear></seg> <gap reason="lost" quantity="5" unit="character"/> <unclear>pa</unclear>cuvāl nāḻip pālum A<unclear>ṭ</unclear> <gap reason="lost" extent="unknown" unit="character"/> <unclear>va</unclear>tākak kaṇ <gap reason="lost" extent="unknown" unit="character"/> ṭār <hi rend="grantha">śrīmāheśvara rakṣai</hi> <g type="ddanda">.</g>
                 </p>
                 
             </div>
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="1">
+                        <lem>kō-mā<unclear>ṟa</unclear>n</lem>
+                        <rdg source="bib:Gillet2017_01">kō-mā <gap reason="lost" extent="unknown" unit="character"/> n</rdg>
+                    </app>
+                    <app loc="1">
+                        <lem>nānk<unclear>ā</unclear>
+                            <lb n="2" break="no"/>m āṇṭin</lem>
+                        <rdg source="bib:Gillet2017_01">nānka
+                            <lb n="2" break="no"/>maṇṭin</rdg>
+                    </app>
+                    <app loc="2">
+                        <lem>pati<choice><orig>n</orig><reg>ṉ</reg></choice> onṟām</lem>
+                        <rdg source="bib:Gillet2017_01">patinonṟam</rdg>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation" source="bib:Gillet2017_01">
@@ -71,17 +92,17 @@
                 <p>Hail! Prosperity! This is the 11th year opposite to the 4th year of king Māṟañcaṭaiyaṉ. Ve <gap reason="lost" extent="unknown" unit="character"/> of Toṇṭaināṭu <gap reason="lost" extent="unknown" unit="character"/> and one <foreign>nāḻi</foreign> of milk <supplied reason="explanation"><foreign>pālum</foreign></supplied> with the cow <supplied reason="explanation"><foreign>pacuvāl</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="subaudible">have to be supplied</supplied> <gap reason="lost" extent="unknown" unit="character"/> This is under the protection of the Śrīmāheśvarar.</p></div>
             
             <div type="commentary">
-                
+                <p>The line 2 is built in the middle.</p>
             </div>
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1962-1963"/></bibl> (ARIE/1962-1963/B/1962-1963/608).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1962-1963"/></bibl> (ARIE/1962-1963/B/1962-1963/608). TLI Tj 1674.</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
-                    <bibl>
+                    <bibl n="G">
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">266</citedRange>
                         <citedRange unit="item">17</citedRange>
