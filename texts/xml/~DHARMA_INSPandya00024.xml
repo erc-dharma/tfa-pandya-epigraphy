@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Śivayoganātha temple, Tiruvicalūr, Tiruviṭaimarutūr taluk, Tañcāvūr district; on the south wall of the main sanctuary; regnal year 1 opposite to 1/3/11/13 of [Vara]guṇa Mahārāja; are 1907, no. 17; TLI Tj 688; the inscriptions which were on the main sanctuary of this temple have been polished away with a sanding-machine during a “renovation”; this one has therefore disappeared, and I am using the edition given in sii 14.</p>
+                        <summary><p>Śivayoganātha temple, Tiruvicalūr, Tiruviṭaimarutūr taluk, Tañcāvūr district; on the south wall of the main sanctuary; TLI Tj 688; the inscriptions which were on the main sanctuary of this temple have been polished away with a sanding-machine during a “renovation”; this one has therefore disappeared, and I am using the edition given in SII 14.</p>
                             
                         </summary>
                     </msContents>
@@ -71,7 +71,7 @@
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p><supplied reason="subaudible">This is</supplied> the year opposite to the year 1/3/11/1349 of <supplied reason="subaudible">Vara</supplied>guṇa Mahārājar; <gap reason="lost" extent="unknown" unit="character"/> Amaṇinārā<supplied reason="subaudible">yaṇa</supplied>, a <supplied reason="subaudible">brahma</supplied>teyam <gap reason="lost" extent="unknown" unit="character"/> for <supplied reason="subaudible">Perumāṉaṭika</supplied>ḷukku of Tiruvicallūr, <gap reason="lost" extent="unknown" unit="character"/> Eccaperumāḷ <gap reason="lost" extent="unknown" unit="character"/></p></div>
+                <p><supplied reason="subaudible">This is</supplied> the year opposite to the year 1/3/11/13<note>The number may have been <foreign><supplied reason="lost">o</supplied>ṉṟāvatu</foreign> (1), <foreign><supplied reason="lost">mu</supplied>ṉṟāvatu</foreign> (3), <foreign><supplied reason="lost">patiṉo</supplied>ṉṟāvatu</foreign> (11), <foreign><supplied reason="lost">patimu</supplied>ṉṟāvatu</foreign> (13), and so on. Since we do not know where the inscription was exactly, it is difficult to evaluate how much is missing. The estampage of this inscription was not available in the ASI offices in Mysore.</note> of <supplied reason="subaudible">Vara</supplied>guṇa Mahārājar; <gap reason="lost" extent="unknown" unit="character"/> Amaṇinārā<supplied reason="subaudible">yaṇa</supplied>, a <supplied reason="subaudible">brahma</supplied>teyam <gap reason="lost" extent="unknown" unit="character"/> for <supplied reason="subaudible">Perumāṉaṭika</supplied>ḷukku of Tiruvicallūr, <gap reason="lost" extent="unknown" unit="character"/> Eccaperumāḷ <gap reason="lost" extent="unknown" unit="character"/></p></div>
             
             <div type="commentary">
                 
@@ -79,8 +79,8 @@
             
             <div type="bibliography">
                 
-                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0024">SII 14.24</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1906-1907"/></bibl> (ARIE/1906-1907/C/1907/17).</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0024">SII 14.24</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl>.</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -97,12 +97,12 @@
                 </listBibl>
                 
                 <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
+                    <bibl>
+                        <ptr target="bib:ARIE1906-1907"/>
+                        <citedRange unit="page">43</citedRange>
+                        <citedRange unit="appendix">C/1907</citedRange>
+                        <citedRange unit="item">17</citedRange>
+                        </bibl>
                 </listBibl>
                 
             </div>

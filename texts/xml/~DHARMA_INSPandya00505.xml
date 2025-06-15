@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#18: a) Sundareśvara temple, Centalai, Tiruvaiyāṟu taluk, Tañcāvūr district; b) on the southern doorjamb of the Gaṇeśa shrine; c) Regnal year 16 of Māṟañcaṭaiyaṉ; d) are 1899, no. 9; TLI Tj 2613; sii 6, no. 445; e) inscription located personally; f) the inscription is engraved on a stone which was probably re-used because the inscription on the opposite doorjamb (sii 6, no. 444) records the construction of this shrine at a much later period, probably during the Nāyaka period; the last syllable at the end of each line is not visible, but it appears in brackets in the edition of sii: I therefore kept them, but added them in double brackets.</p>
+                        <summary><p>Sundareśvara temple, Centalai, Tiruvaiyāṟu taluk, Tañcāvūr district; on the southern doorjamb of the Gaṇeśa shrine; TLI Tj 2613; SII 6.445; the inscription is engraved on a stone which was probably re-used because the inscription on the opposite doorjamb (SII 6.444) records the construction of this shrine at a much later period, probably during the Nāyaka period; the last syllable at the end of each line is not visible, but it appears in brackets in the edition of SII: I therefore kept them, but added them in double brackets.</p>
                             
                         </summary>
                     </msContents>
@@ -97,7 +97,7 @@
             
             <div type="bibliography">
                 
-                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+                <p>Reported in <bibl><ptr target="bib:ARIE1898-1899"/></bibl> (ARIE/1898-1899/B/1899/9).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
@@ -110,12 +110,12 @@
                 </listBibl>
                 
                 <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
+                    <bibl>
+                        <ptr target="bib:ARIE1898-1899"/>
+                        <citedRange unit="page">23</citedRange>
+                        <citedRange unit="appendix">B/1899</citedRange>
+                        <citedRange unit="item">10</citedRange>
+                        </bibl>
                 </listBibl>
                 
             </div>

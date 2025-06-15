@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#7: a) Saptaṛṣīśvara temple, Lālkuṭi, Lālkuṭi taluk, Trichy district; b) on the north wall of the avant-corps (<foreign>ardha-maṇḍapa</foreign>); c) Regnal year 9 opposite to 4 of Māṟañcaṭaiyaṉ, on the day of <foreign>catayam</foreign> which falls on Tuesday in the month of <foreign>dhanus</foreign>;41 d) are 1928–1929, no. 121; TLI Tp 281; sii 14, no. 12b; ei 20, no. 3b; IEP 42; e) inscription located personally; f) this inscription is located below ei 20, no. 3a (our #19) and above sii 12, no. 61. </p>
+                        <summary><p>#7: a) Saptaṛṣīśvara temple, Lālkuṭi, Lālkuṭi taluk, Trichy district; b) on the north wall of the avant-corps (<foreign>ardha-maṇḍapa</foreign>); c) Regnal year 9 opposite to 4 of Māṟañcaṭaiyaṉ, on the day of <foreign>catayam</foreign> which falls on Tuesday in the month of <foreign>dhanus</foreign>;<note>K.V. Subrahmanya Aiyer (EI 20.3, p. 51) and A.S. Ramanatha Ayyar (SII 14.12B, p. 9) assign it to 816 CE. However, later K.G. Krishnan (IEP 42) proposes the more convincing date of 6th December 875.</note> TLI Tp 281; EI 20.3b; IEP 42; this inscription is located below EI 20.3a (<ref target="DHARMA_INSPandya00012A"/>) and above SII 12.61.</p>
                             
                         </summary>
                     </msContents>
@@ -93,7 +93,7 @@
             
             <div type="bibliography">
                 
-                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/121).</p>
                 <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0012B">SII 14.12B</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
@@ -111,12 +111,12 @@
                 </listBibl>
                 
                 <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
+                    <bibl>
+                        <ptr target="bib:ARIE1928-1929"/>
+                        <citedRange unit="page">16</citedRange>
+                        <citedRange unit="appendix">B/1928-1929</citedRange>
+                        <citedRange unit="item">121</citedRange>
+                    </bibl>
                 </listBibl>
                 
             </div>

@@ -96,7 +96,11 @@
                         <lb n="5"/><supplied reason="lost">tri</supplied><unclear>bhu</unclear>vana-pataye śam·bhave <gap reason="lost" quantity="1" unit="character"/>
                         <lb n="6" break="no"/><gap reason="lost" quantity="2" unit="character"/> <unclear>dh</unclear>āttre kācānām pañca-paṁkti-<gap reason="lost" quantity="1" unit="character"/>
                         <lb n="7" break="no"/><gap reason="lost" quantity="2" unit="character"/> tarad urutaran dhāma śaṁbho<supplied reason="omitted">r</supplied> yyi <gap reason="lost" quantity="1" unit="character"/>
-                        <lb n="8" break="no"/><gap reason="lost" quantity="1" unit="character"/> <unclear><g type="gomutra">.</g></unclear> dipye tā<unclear>n</unclear> d<choice><sic>i</sic><corr>ī</corr></choice>pa-māle dve sva
+                        <lb n="8" break="no"/><gap reason="lost" quantity="1" unit="character"/> <unclear><g type="gomutra">.</g></unclear>
+                    </l>
+                </lg>
+                <lg n="2" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
+                        <l n="abcd">dipye tā<unclear>n</unclear> d<choice><sic>i</sic><corr>ī</corr></choice>pa-māle dve sva
                         <lb n="9" break="no"/><supplied reason="lost">janma</supplied>-divase tathā pratimāsam iti p<choice><unclear>ṛ</unclear><unclear>ra</unclear></choice>
                         <lb n="10" break="no"/><gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g type="gomutra">.</g></l>
                 </lg>
@@ -107,8 +111,8 @@
                 </ab>
                 
                 <p>
-                    <supplied reason="lost">kō-m</supplied>āṟañ·-caṭaiyaṟku yāṇṭu 5 Ai-
-                    <lb n="12"/><supplied reason="lost">nt</supplied>-āvatu
+                    <supplied reason="lost">kō-m</supplied>āṟañ·-caṭaiyaṟku yāṇṭu 5 Ai
+                    <lb n="12" break="no"/><supplied reason="lost">nt</supplied>-āvatu
                 </p>
                 
                 <p>
@@ -175,9 +179,9 @@
                 <p n="21-29">
                     
                     <list>
-                        <item>So that there be <supplied reason="explanation"><foreign>āka</foreign><note>Line 24.</note></supplied> one coin <supplied reason="explanation"><foreign>kācu</foreign></supplied> <supplied reason="subaudible">among the</supplied> above<supplied reason="subaudible">-mentioned coins</supplied> for lighting two guarlands / rows of lamps, inside <supplied reason="explanation"><foreign>uḷḷāl</foreign></supplied> <supplied reason="subaudible">the temple</supplied>, at the time of <foreign>vicākam</foreign> <supplied reason="explanation">at the time</supplied> his birthday <supplied reason="explanation"><foreign>ivaṉ tiṅkaḷ</foreign><note>The referent of <foreign>ivaṉ</foreign> appears to be the donor who speaks however in the first person in this sentence.</note></supplied>,</item>
+                        <item>So that there be <supplied reason="explanation"><foreign>āka</foreign>, line 24.</supplied> one coin <supplied reason="explanation"><foreign>kācu</foreign></supplied> <supplied reason="subaudible">among the</supplied> above<supplied reason="subaudible">-mentioned coins</supplied> for lighting two guarlands / rows of lamps, inside <supplied reason="explanation"><foreign>uḷḷāl</foreign></supplied> <supplied reason="subaudible">the temple</supplied>, at the time of <foreign>vicākam</foreign> <supplied reason="explanation">at the time</supplied> his birthday <supplied reason="explanation"><foreign>ivaṉ tiṅkaḷ</foreign><note>The referent of <foreign>ivaṉ</foreign> appears to be the donor who speaks however in the first person in this sentence.</note></supplied>,</item>
                         
-                        <item><supplied reason="subaudible">and</supplied> so that there be <supplied reason="explanation"><foreign>āka</foreign><note>Line 26.</note></supplied>, with the monthly interest <supplied reason="explanation"><foreign>tiṅkaṭ poli</foreign></supplied> of the <supplied reason="subaudible">remaining</supplied> fourteen coins, the lighting of a glorious lamp</item>
+                        <item><supplied reason="subaudible">and</supplied> so that there be <supplied reason="explanation"><foreign>āka</foreign>, line 26.</supplied>, with the monthly interest <supplied reason="explanation"><foreign>tiṅkaṭ poli</foreign></supplied> of the <supplied reason="subaudible">remaining</supplied> fourteen coins, the lighting of a glorious lamp</item>
                         
                     </list>
                     

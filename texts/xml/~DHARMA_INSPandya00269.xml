@@ -95,8 +95,8 @@
                 <listBibl type="primary">
                     <bibl n="SII">
                         <ptr target="bib:RamanathaAyyar1962_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">8</citedRange>
+                        <citedRange unit="page">167</citedRange>
+                        <citedRange unit="item">2</citedRange>
                     </bibl> 
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>

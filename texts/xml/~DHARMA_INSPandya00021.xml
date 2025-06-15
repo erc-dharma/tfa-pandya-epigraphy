@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirukkōṭikkāval, Tirukkōṭīśvara temple, time of ***, year **</title>
+                <title>Tirukkōṭikkāval, Tirukkōṭīśvara temple, time of Māṟaṉ Caṭaiyaṉ, year 11 + [lost?]</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#9: a) Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; b) on the base of the southern façade of the <foreign>ardha-maṇḍapa</foreign>; c) Regnal year 11 [<gap reason="lost" extent="unknown" unit="character"/>] of Māṟañcaṭaiyaṉ; d) are 1930–1931, no. 37; TLI Tj 264; sii 14, no. 21; IEP 34; e) inscription located personally.</p>
+                        <summary><p>Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district; on the base of the southern façade of the <foreign>ardha-maṇḍapa</foreign>; TLI Tj 264; IEP 34.</p>
                             
                         </summary>
                     </msContents>
@@ -70,7 +70,7 @@
                     <lb n="3"/>yil Aḷantu kuṭuppōm āṉōm tirukkoṭikāvāṉa kaṇṇamaṅkala<unclear>ttu</unclear><hi rend="grantha">sabhai</hi>yōm 
                 </p>
                 <p>
-                    <unclear>I</unclear>tu paḻaṅkalpaṭi Inta <hi rend="grantha">śrī</hi>vi<unclear>mā</unclear>nattile Eṟa veṭṭiṉamaiyil muṉṉi[[vā <hi rend="grantha">ja</hi>kam veṭṭikkiṭanta taṉik kallāl U<hi rend="grantha">bhai</hi>yōkam Allāmaiyil {built Over}]]43 
+                    <unclear>I</unclear>tu paḻaṅkalpaṭi Inta <hi rend="grantha">śrī</hi>vi<unclear>mā</unclear>nattile Eṟa veṭṭiṉamaiyil muṉṉi[[vā <hi rend="grantha">ja</hi>kam veṭṭikkiṭanta taṉik kallāl U<hi rend="grantha">bhai</hi>yōkam Allāmaiyil {built Over}]]<note>All this part in brackets has been covered by cement stairs since it was noticed and published. I have supplied the text as it is found in SII 14.</note> 
                 </p>
                 <p>
                     <lb n="4"/>Itu muṭṭiṟ paṉmāyeśvara kaṭaikkūṭṭappeṟṟār <supplied reason="omitted">||</supplied>
@@ -84,7 +84,7 @@
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p>Hail! Prosperity! This is also a copy. <supplied reason="subaudible">This is</supplied> the 11th year of king Māṟañcaṭaiyaṉ <gap reason="lost" extent="unknown" unit="character"/> For Śrī Sarasvatī and Gaṇapati in Tirukkōṭikā of <gap reason="lost" extent="unknown" unit="character"/> ṟṟūrnāṭu, for burning three perpetual lamps, Varaguṇa Mahārāja gave gold; he gave 180 <foreign>kaḻañcu</foreign>; with the interests of this gold, every day <gap reason="lost" extent="unknown" unit="character"/>; we, the Sabhā of Kaṇṇamaṅgalam <foreign>alias</foreign> Tirukkōṭikā, will give <supplied reason="explanation"><foreign>kuṭuppōmāṉōm</foreign></supplied>, having measured <supplied reason="explanation"><foreign>aḷantu</foreign></supplied> into the hands <supplied reason="explanation"><supplied reason="subaudible"><foreign>kai</foreign>*</supplied> <foreign>yil</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/></p><p>This is a copy of an old stone <supplied reason="explanation"><foreign>paḻaṅ-kal-paṭi</foreign></supplied>; since it is engraved <supplied reason="explanation"><foreign>veṭṭinamai-yil</foreign></supplied> completely <supplied reason="explanation"><foreign>ēṟa</foreign></supplied> on this sacred sanctuary <supplied reason="explanation"><foreign>śrīvimāna</foreign></supplied>, since there is no <supplied reason="explanation"><foreign>illāmaiy-il</foreign></supplied> use <supplied reason="explanation"><foreign>upaiyokam</foreign></supplied> for the separate stones <supplied reason="explanation"><foreign>taṉi-k-kal-l-āl</foreign></supplied> which were lying engraved <supplied reason="explanation"><foreign>veṭṭi-kiṭanta</foreign></supplied> with this previous text <supplied reason="explanation"><foreign>muṉ-ṉ-i-vājakam</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> If this <supplied reason="explanation"><foreign>itu</foreign></supplied> is deficient <supplied reason="explanation"><foreign>muṭṭ-iṟ</foreign> for <foreign>muṭṭ-il</foreign></supplied>, the Paṉmāheśvaras will obtain <supplied reason="explanation"><foreign>peṟṟār</foreign></supplied> and carry out <supplied reason="explanation"><foreign>kaṭai-k-kūṭṭa</foreign></supplied>.</p></div>
+                <p>Hail! Prosperity! This is also a copy. <supplied reason="subaudible">This is</supplied> the 11th year of king Māṟañcaṭaiyaṉ <gap reason="lost" extent="unknown" unit="character"/> For Śrī Sarasvatī and Gaṇapati in Tirukkōṭikā of <gap reason="lost" extent="unknown" unit="character"/> ṟṟūrnāṭu, for burning three perpetual lamps, Varaguṇa Mahārāja gave gold; he gave 180 <foreign>kaḻañcu</foreign>; with the interests of this gold, every day <gap reason="lost" extent="unknown" unit="character"/>; we, the Sabhā of Kaṇṇamaṅgalam <foreign>alias</foreign> Tirukkōṭikā, will give <supplied reason="explanation"><foreign>kuṭuppōmāṉōm</foreign></supplied>, having measured <supplied reason="explanation"><foreign>aḷantu</foreign></supplied> into the hands <supplied reason="explanation"><foreign><supplied reason="lost">kai</supplied>yil</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/></p><p>This is a copy of an old stone <supplied reason="explanation"><foreign>paḻaṅ-kal-paṭi</foreign></supplied>; since it is engraved <supplied reason="explanation"><foreign>veṭṭinamai-yil</foreign></supplied> completely <supplied reason="explanation"><foreign>ēṟa</foreign></supplied> on this sacred sanctuary <supplied reason="explanation"><foreign>śrīvimāna</foreign></supplied>, since there is no <supplied reason="explanation"><foreign>illāmaiy-il</foreign></supplied> use <supplied reason="explanation"><foreign>upaiyokam</foreign></supplied> for the separate stones <supplied reason="explanation"><foreign>taṉi-k-kal-l-āl</foreign></supplied> which were lying engraved <supplied reason="explanation"><foreign>veṭṭi-kiṭanta</foreign></supplied> with this previous text <supplied reason="explanation"><foreign>muṉ-ṉ-i-vājakam</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> If this <supplied reason="explanation"><foreign>itu</foreign></supplied> is deficient <supplied reason="explanation"><foreign>muṭṭ-iṟ</foreign> for <foreign>muṭṭ-il</foreign></supplied>, the Paṉmāheśvaras will obtain <supplied reason="explanation"><foreign>peṟṟār</foreign></supplied> and carry out <supplied reason="explanation"><foreign>kaṭai-k-kūṭṭa</foreign></supplied>.</p></div>
             
             <div type="commentary">
                 
@@ -92,7 +92,7 @@
             
             <div type="bibliography">
                 
-                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+                <p>Reported in <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE/1930-1931/B/1930-1931/37).</p>
                 <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0021">SII 14.21</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
@@ -104,18 +104,18 @@
                     </bibl> 
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="page">260</citedRange>
+                        <citedRange unit="item">9</citedRange>
                     </bibl>
                 </listBibl>
                 
                 <listBibl type="secondary">
                     <bibl>
-                        <!--<ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>-->
-                        </bibl>
+                        <ptr target="bib:ARIE1930-1931"/>
+                        <citedRange unit="page">8</citedRange>
+                        <citedRange unit="appendix">B/1930-1931</citedRange>
+                        <citedRange unit="item">37</citedRange>
+                    </bibl>
                 </listBibl>
                 
             </div>

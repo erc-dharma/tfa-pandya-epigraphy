@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#17: a) Tyagarājasvāmin temple, Tiruvāymūr, Tirukkuvaḷai taluk, Nākappaṭṭiṉam district; b) on the southern base of the main sanctuary, starting in the middle of the eastern side of the shrine of Dakṣiṇāmūrti; c) Regnal year 11 opposite to 4 of Māṟañcaṭaiyaṉ; d) are 1962–1963, no. 608; TLI Tj 1674; e) inscription located personally; f) this unpublished inscription was probably a copy of an older one, made after the 11th century;48 all inscriptions on this base are copied following each other as in Tirukkōṭikkāval and this one is the fourth inscription; it is followed by Cōḻa-period inscriptions.</p>
+                        <summary><p>Tyagarājasvāmin temple, Tiruvāymūr, Tirukkuvaḷai taluk, Nākappaṭṭiṉam district; on the southern base of the main sanctuary, starting in the middle of the eastern side of the shrine of Dakṣiṇāmūrti; TLI Tj 1674; this unpublished inscription was probably a copy of an older one, made after the 11th century;<note>The ARIE states that it is a copy from the 12th or 13th century. It could be earlier though.</note> all inscriptions on this base are copied following each other as in Tirukkōṭikkāval and this one is the fourth inscription; it is followed by Cōḻa-period inscriptions.</p>
                             
                         </summary>
                     </msContents>
@@ -76,7 +76,7 @@
             
             <div type="bibliography">
                 
-                <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
+                <p>Reported in <bibl><ptr target="bib:ARIE1962-1963"/></bibl> (ARIE/1962-1963/B/1962-1963/608).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
@@ -89,12 +89,12 @@
                 </listBibl>
                 
                 <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
+                    <bibl>
+                        <ptr target="bib:ARIE1962-1963"/>
+                        <citedRange unit="page">117</citedRange>
+                        <citedRange unit="appendix">B/1962-1963</citedRange>
+                        <citedRange unit="item">608</citedRange>
+                    </bibl>
                 </listBibl>
                 
             </div>
