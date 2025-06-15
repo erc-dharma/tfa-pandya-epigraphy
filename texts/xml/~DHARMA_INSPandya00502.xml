@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Tiruneṭuṅkaḷanātar temple, Tiruneṭuṅkaḷam, Tiruveṟumpūr taluk, Trichy district; on a pillar, in the western gallery; <foreign>Varalāṟu</foreign> 8 (1998), pp. 5–6; I was not able to located this inscription during a visit of the site in November 2016, and I therefore follow the edition given by R. Kalaikkovaṉ in <foreign>Varalāṟu</foreign>.</p>
+                        <summary><p>Tiruneṭuṅkaḷanātar temple, Tiruneṭuṅkaḷam, Tiruveṟumpūr taluk, Trichy district; on a pillar, in the western gallery.</p>
                             
                         </summary>
                     </msContents>
@@ -118,10 +118,14 @@
             <div type="bibliography">
                 
                 <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on previous edition.</p>
-                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+                <p>Edited in <bibl><ptr target="bib:Cankita+al_1998"/></bibl>. Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on <bibl><ptr target="bib:Cankita+al_1998"/></bibl>.</p>
+                <p>This edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
+                    <bibl>
+                        <ptr target="bib:Cankita+al_1998"/>
+                        <citedRange unit="page">5-6</citedRange>
+                    </bibl>
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">264-265</citedRange>

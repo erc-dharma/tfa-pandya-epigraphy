@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#7: a) Saptaṛṣīśvara temple, Lālkuṭi, Lālkuṭi taluk, Trichy district; b) on the north wall of the avant-corps (<foreign>ardha-maṇḍapa</foreign>); c) Regnal year 9 opposite to 4 of Māṟañcaṭaiyaṉ, on the day of <foreign>catayam</foreign> which falls on Tuesday in the month of <foreign>dhanus</foreign>;<note>K.V. Subrahmanya Aiyer (EI 20.3, p. 51) and A.S. Ramanatha Ayyar (SII 14.12B, p. 9) assign it to 816 CE. However, later K.G. Krishnan (IEP 42) proposes the more convincing date of 6th December 875.</note> TLI Tp 281; EI 20.3b; IEP 42; this inscription is located below EI 20.3a (<ref target="DHARMA_INSPandya00012A"/>) and above SII 12.61.</p>
+                        <summary><p>Saptaṛṣīśvara temple, Lālkuṭi, Lālkuṭi taluk, Trichy district; on the north wall of the avant-corps (<foreign>ardha-maṇḍapa</foreign>). K.V. Subrahmanya Aiyer (EI 20.3, p. 51) and A.S. Ramanatha Ayyar (SII 14.12B, p. 9) assign it to 816 CE. However, later K.G. Krishnan (IEP 42) proposes the more convincing date of 6th December 875. This inscription is located below EI 20.3a (<ref target="DHARMA_INSPandya00012A"/>) and above SII 12.61.</p>
                             
                         </summary>
                     </msContents>
@@ -59,7 +59,7 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </p>
                 <p>
-                    kō-māṟañ caṭaiyarkku yāṇṭu 4-vatiṉ Etir <unclear>9</unclear> Ām āṇṭu <hi rend="grantha">dhanu</hi>-nāyiṟṟu cevvākkiḻamai peṟṟa catayamt<unclear>tu nāḷ</unclear>
+                    kō-māṟañ caṭaiyarkku yāṇṭu 4-vatiṉ Etir <unclear>9</unclear> Ām āṇṭu <hi rend="grantha">dhanu</hi>-nāyiṟṟu cevvākkiḻamai peṟṟa cat<choice><orig>a</orig><reg>ai</reg></choice>ya<surplus>m</surplus>t<unclear>ttu nāḷ</unclear>
                 </p>
                 <p>
                     <unclear>I</unclear>
@@ -80,7 +80,12 @@
             </div>
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="1">
+                        <lem>cat<choice><orig>a</orig><reg>ai</reg></choice>ya<surplus>m</surplus>t<unclear>ttu</unclear></lem>
+                        <rdg source="bib:SubrahmanyaAiyer1929-1930_01">cataiya<surplus>m</surplus>t<unclear>ttu</unclear></rdg>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation" source="bib:Gillet2017_01">
@@ -93,20 +98,30 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/121).</p>
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0012B">SII 14.12B</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/121). TLI Tp 281.</p>
+                <p>Edited and translated in <bibl><ptr target="bib:SubrahmanyaAiyer1929-1930_01"/></bibl> (EI 20.3B). Text in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0012B">SII 14.12B</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 42). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
+                    <bibl n="EI">
+                        <ptr target="bib:SubrahmanyaAiyer1929-1930_01"/>
+                        <citedRange unit="page">52-53</citedRange>
+                        <citedRange unit="item">B</citedRange>
+                    </bibl> 
                     <bibl n="SII">
                         <ptr target="bib:RamanathaAyyar1962_01"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="item">12B</citedRange>
                     </bibl> 
-                    <bibl>
-                        <ptr target="bib:Gillet2017_01"/>
+                    <bibl n="IEP">
+                        <ptr target="bib:Krishnan2002_01"/>
                         <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
+                        <citedRange unit="item">42</citedRange>
+                    </bibl>
+                    <bibl n="G">
+                        <ptr target="bib:Gillet2017_01"/>
+                        <citedRange unit="page">257-258</citedRange>
+                        <citedRange unit="item">7</citedRange>
                     </bibl>
                 </listBibl>
                 

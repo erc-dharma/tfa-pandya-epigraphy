@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Saptaṛṣīśvara temple, Lālkuṭi, Lālkuṭi taluk, Trichy district; on the north wall of the <foreign>ardha-maṇḍapa</foreign>; TLI Tp 279; EI 20.3a; IP 269; IEP 28; it is probably the first of the series of inscriptions which were copied after the reconstruction of the temple; it is located above EI 20.3b (<ref target="DHARMA_INSPandya00012B"/>).</p>
+                        <summary><p>Saptaṛṣīśvara temple, Lālkuṭi, Lālkuṭi taluk, Trichy district; on the north wall of the <foreign>ardha-maṇḍapa</foreign>. It is probably the first of the series of inscriptions which were copied after the reconstruction of the temple. It is located above EI 20.3b (<ref target="DHARMA_INSPandya00012B"/>).</p>
                             
                         </summary>
                     </msContents>
@@ -72,11 +72,11 @@
                 </p>
                 <p>
                     nalli-maṅkalattu <hi rend="grantha">sabhai</hi>yōm tiru-t-tava-t-tuṟai <hi rend="grantha">mah<choice><sic>e</sic><corr>ā</corr></choice>deva</hi>rkku Aḷavōmāyil muṭṭil muṭṭiraṭṭiyum mulappaṭṭa <hi rend="grantha">panmāheśvara</hi><unclear>re</unclear> 
-                    <lb n="5"/><hi rend="grantha">sabhai</hi> y-ākavum tanittākavum nilaikkaḷam Uḷḷiṭṭa tāṉ vēṇṭu kōviṉukku pukka<seg rend="check">vūḷa</seg> Iru-ṉūṟṟu-p patiṉ<surplus>n</surplus> āṟu kāṇam taṇṭam iṭa O
+                    <lb n="5"/><hi rend="grantha">sabhai</hi>-y-ākavum tanitt-ākavum nilaikkaḷam Uḷḷiṭṭa tāṉ vēṇṭu kōviṉukku pukka<seg rend="check">vūḷa</seg> Iru-ṉūṟṟu-p patiṉ<surplus>n</surplus> āṟu kāṇam taṇṭam iṭa O
                     <lb n="6" break="no"/>ṭṭinōm nalli-maṅkalattu <hi rend="grantha">sabhai</hi>yōm
                 </p>
                 <p>
-                    Itu <hi rend="grantha">panmāheśvarar·</hi> nāṟpatteṇṇayiravarum <hi rend="grantha"><choice><sic>Ī</sic><corr>I</corr></choice>rakṣai</hi> ||
+                    Itu <hi rend="grantha">panmāheśvarar·</hi> nāṟpatteṇṇayiravarum <hi rend="grantha"><choice><sic>Ī</sic><corr>I</corr></choice>rakṣai</hi> <g type="gomutraFinal">.</g> <g type="gomutraFinal">.</g>
                 </p>
                 
             </div>
@@ -110,16 +110,36 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/120).</p>
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0012A">SII 14.12A</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/120). TLI Tp 279.</p>
+                <p>Edited and translated in <bibl><ptr target="bib:SubrahmanyaAiyer1929-1930_01"/></bibl> (EI 20.3A). Text in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0012A">SII 14.12A</ref>), in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 269), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 28). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
+                    
+                    <bibl n="EI">
+                        <ptr target="bib:SubrahmanyaAiyer1929-1930_01"/>
+                        <citedRange unit="page">52</citedRange>
+                        <citedRange unit="item">A</citedRange>
+                    </bibl> 
+                    
                     <bibl n="SII">
                         <ptr target="bib:RamanathaAyyar1962_01"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="item">8</citedRange>
                     </bibl> 
+                    
+                    <bibl n="IP">
+                        <ptr target="bib:Mahalingam1988_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">269</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IEP">
+                        <ptr target="bib:Krishnan2002_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">28</citedRange>
+                    </bibl>
+                    
                     <bibl n="G">
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">267-268</citedRange>
