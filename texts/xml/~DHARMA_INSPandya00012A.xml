@@ -66,22 +66,37 @@
                     <lb n="2" break="no"/>yar kuṭutta paḻaṅ kācu <num value="60">6 <g type="numeral">10</g></num>-tu
                 </p>
                 <p>
-                    Ivv-aṟupatu kācum Iñ-ñāṭṭu nalli-maṅkalat<unclear>tu</unclear> <hi rend="grantha">sabhaiyō</hi>m Ivv-aṟupatu kācuṅ tiru-t-tava-t-tuṟai <hi rend="grantha"> mahāde</hi>var 
-                    <lb n="3"/>Iṭai koṇṭu nārāyanāḻiyāl nicati nāḻi ney Oru nontā-viḷakku cantirātit<unclear>ta</unclear>val Irav<unclear>u</unclear>m pakalum Eriyak koṇṭu ceṉṟu Aḷappōm ānō
+                    Ivv-aṟupatu kācum Iñ-ñāṭṭu nalli-maṅkalattu <hi rend="grantha">sabhaiyō</hi>m Ivv-aṟupatu kācuṅ tiru-t-tava-t-tuṟai <hi rend="grantha"> mahāde</hi>var 
+                    <lb n="3"/>Iṭai koṇṭu nārāyanāḻiyāl nicati nāḻi ney Oru nontā-viḷakku cantirātit<unclear>ta</unclear>val Irav<unclear>u</unclear>m pakalum Eriya-k koṇṭu ceṉṟu Aḷappōm ānō
                     <lb n="4" break="no"/>m
                 </p>
                 <p>
-                    nalli-maṅkalattu <hi rend="grantha">sabhai</hi>yōm tiru-t-tava-t-tuṟai <hi rend="grantha">mah<seg rend="check">e</seg>deva</hi>rkku Aḷavōmāyil muṭṭil muṭṭiraṭṭiyum mulappaṭṭa <hi rend="grantha">pamāheśvara</hi><unclear>re</unclear> 
-                    <lb n="5"/><hi rend="grantha">sabhai</hi> y-ākavum tanittākavum nilaikkaḷam Uḷḷiṭṭa tāṉ vēṇṭu kōviṉukku pukkavūḷa Iru-ṉūṟṟup patiṉn āṟu kāṇam taṇṭam iṭa O
+                    nalli-maṅkalattu <hi rend="grantha">sabhai</hi>yōm tiru-t-tava-t-tuṟai <hi rend="grantha">mah<choice><sic>e</sic><corr>ā</corr></choice>deva</hi>rkku Aḷavōmāyil muṭṭil muṭṭiraṭṭiyum mulappaṭṭa <hi rend="grantha">panmāheśvara</hi><unclear>re</unclear> 
+                    <lb n="5"/><hi rend="grantha">sabhai</hi> y-ākavum tanittākavum nilaikkaḷam Uḷḷiṭṭa tāṉ vēṇṭu kōviṉukku pukka<seg rend="check">vūḷa</seg> Iru-ṉūṟṟu-p patiṉ<surplus>n</surplus> āṟu kāṇam taṇṭam iṭa O
                     <lb n="6" break="no"/>ṭṭinōm nalli-maṅkalattu <hi rend="grantha">sabhai</hi>yōm
                 </p>
                 <p>
-                    Itu <hi rend="grantha">panmāheśvarar</hi> nāṟpatteṇṇayiravarum <hi rend="grantha">Irakṣai</hi> ||
+                    Itu <hi rend="grantha">panmāheśvarar·</hi> nāṟpatteṇṇayiravarum <hi rend="grantha"><choice><sic>Ī</sic><corr>I</corr></choice>rakṣai</hi> ||
                 </p>
                 
             </div>
             
-            <div type="apparatus"/>
+            <div type="apparatus">
+                <listApp>
+                    <app loc="3">
+                        <lem>Irav<unclear>u</unclear>m</lem>
+                        <note>Alternatively: Irav<choice><sic>a</sic><corr>u</corr></choice>m</note>
+                    </app>
+                    <app loc="4">
+                        <lem><hi rend="grantha">panmāheśvara</hi><unclear>re</unclear></lem>
+                        <rdg source="bib:Gillet2017_01"><hi rend="grantha">pamāheśvara</hi>re</rdg>
+                    </app>
+                    <app loc="6">
+                        <lem><hi rend="grantha"><choice><sic>Ī</sic><corr>I</corr></choice>rakṣai</hi></lem>
+                        <rdg source="bib:Gillet2017_01"><hi rend="grantha">Īrakṣai</hi></rdg>
+                    </app>
+                </listApp>
+            </div>
             
             
             
@@ -105,9 +120,9 @@
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="item">8</citedRange>
                     </bibl> 
-                    <bibl>
+                    <bibl n="G">
                         <ptr target="bib:Gillet2017_01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">267-268</citedRange>
                         <citedRange unit="item">19</citedRange>
                     </bibl>
                 </listBibl>
