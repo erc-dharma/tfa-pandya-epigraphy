@@ -57,21 +57,21 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <unclear><g type="gomutraFinal">.</g></unclear>
                 </p>
                 
                 <p><hi rend="grantha">śrī</hi>-kō-māṟaṉ
-                    <lb n="2"/>caṭaiyaṟkku yāṇṭu nānk' ām ā
+                    <lb n="2"/>caṭaiyaṟkku yāṇṭu nānk-ām ā
                     <lb n="3" break="no"/>ṇṭiṉ Etir ā<unclear>m ā</unclear>ṇṭiṉ Eti
                     <lb n="4" break="no"/><unclear>r ā</unclear>m ā<unclear>ṇṭu</unclear>
                 </p>
                 
                 <p>
-                     <gap reason="lost" extent="unknown" unit="character"/>
+                     <gap reason="lost" quantity="8" unit="character"/>
                     <lb n="5"/><unclear>ca</unclear>rāvūr-nā<unclear>ṭṭu</unclear> tuṟaiyūr-k-ku
                     <lb n="6" break="no"/><unclear>ṭi</unclear> <hi rend="grantha">sabhai</hi><unclear>yō</unclear>m tiraimūr-nā
                     <lb n="7" break="no"/><unclear>ṭṭu</unclear> tiru-k-kuraṅ<unclear>kāṭu</unclear>-tuṟai <hi rend="grantha">mahā-de</hi>
-                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="8"/><gap reason="lost" quantity="2" unit="character"/> i <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="9"/>ttāl ca<hi rend="grantha">ntrā</hi>tittaval nicatam Aṭṭa-k kaṭava E<unclear>ṇ</unclear>
                     <lb n="10" break="no"/>ṇai Uri
                 </p>
