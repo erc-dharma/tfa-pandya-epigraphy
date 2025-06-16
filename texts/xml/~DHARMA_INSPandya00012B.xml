@@ -59,22 +59,22 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </p>
                 <p>
-                    kō-māṟañ caṭaiyarkku yāṇṭu 4-vatiṉ Etir <unclear>9</unclear> Ām āṇṭu <hi rend="grantha">dhanu</hi>-nāyiṟṟu cevvākkiḻamai peṟṟa cat<choice><orig>a</orig><reg>ai</reg></choice>ya<surplus>m</surplus>t<unclear>ttu nāḷ</unclear>
+                    kō-māṟañ caṭaiyarkku yāṇṭu 4-vatiṉ Etir <unclear>9</unclear> Ām āṇṭu <hi rend="grantha">dhanu</hi>-nāyiṟṟu cevvā-k-kiḻamai peṟṟa cat<choice><orig>a</orig><reg>ai</reg></choice>ya<surplus>m</surplus>t<unclear>ttu nāḷ</unclear>
                 </p>
                 <p>
                     <unclear>I</unclear>
                     <lb n="2" break="no"/>ṭaiyāṟṟu-nāṭṭu tiru-t-tava-t-tuṟai <hi rend="grantha">māhā-deva</hi>rkku Iravum pakalum cantirātittaval Iraṇṭu non<unclear>tā-tiru-viḷakku</unclear> 
-                    <lb n="3"/>Erippatāka kō-māṟañ caṭaiyaṉ <choice><sic>a</sic><corr>ā</corr></choice>yiṉa <hi rend="grantha">pāṇḍya</hi>kulapati-varaguṇa-<hi rend="grantha">māhārā</hi>ya<hi rend="grantha">r</hi> Aṇṭanāṭṭu vēḷāṉ <unclear>k</unclear>aiyi[[lk kuṭutta paḻaṅ]] 
-                    <lb n="4"/>kācu 120 nūṟṟ' irupatu kācuṅ
+                    <lb n="3"/>Erippat' āka kō-māṟañ caṭaiyaṉ <choice><sic>a</sic><corr>ā</corr></choice>yiṉa <hi rend="grantha">pāṇḍya</hi>-kula-pati-varaguṇa-<hi rend="grantha">māhārā</hi>ya<hi rend="grantha">r</hi> Aṇṭanāṭṭu vēḷāṉ <unclear>k</unclear>aiyi[[l-k kuṭutta paḻaṅ]] 
+                    <lb n="4"/>kācu 120 nūṟṟ' iru-patu kācuṅ
                 </p>
                 <p>
-                    mutal ke<unclear>ṭā</unclear>maiya poliyūṭṭiṉā<unclear>l ni</unclear>cati [[nā]] <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/>Aḷappōm āyinōm Ip-paṭi Oṭṭi Ik-kācu koṇṭōm Iṭaiyāṟṟu-nāṭṭu Iḷamperuṅkāy Iruk[[kai sabhaiyō]]
+                    mutal ke<unclear>ṭā</unclear>maiy poli-y-ūṭṭiṉā<unclear>l ni</unclear>cati <unclear>nā</unclear><supplied reason="lost">rāyaṉāḷiyāl iru-ṉāḻi ney</supplied>
+                    <lb n="5"/>Aḷappōm āyinōm Ip-paṭi Oṭṭi Ik-kācu koṇṭōm Iṭaiyāṟṟu-nāṭṭu Iḷam-peruṅ-kāy Iruk[[kai sabhaiyō]]
                     <lb n="6" break="no"/>m
                 </p>
                 <p>
-                    Iñ-ñey nicati Iru-nāḻiyum muṭṭi<unclear>l</unclear> muṭṭiraṭṭiyum mulap<unclear>pa</unclear>ṭṭa-<hi rend="grantha">panmāheśvararē sabhai</hi> y-ākavum tanittāka[[vum ni]] <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="7"/>ḷiṭṭa tāṉ vēṇṭu kōviṉukku pukkavuḷa Aññūṟu kāṇam taṇ<unclear>ṭa</unclear>m iṭa Oṭṭi-k kuṭuttōm tiru-t-tava-t-tuṟai <hi rend="grantha">mahāde</hi>varkku
+                    Iñ-ñey nicati Iru-nāḻiyum muṭṭi<unclear>l</unclear> muṭṭiraṭṭiyum mula-p-<unclear>pa</unclear>ṭṭa-<hi rend="grantha">panmāheśvararē sabhai</hi>-y-ākavum tanitt-āka[[vum ni]]<supplied reason="lost">lai-k-kalam u</supplied> 
+                    <lb n="7"/>ḷiṭṭa tāṉ vēṇṭu kōviṉukku pukka<seg rend="check">vūḷa</seg> Añ-ñūṟu kāṇam taṇ<unclear>ṭa</unclear>m iṭa Oṭṭi-k kuṭuttōm tiru-t-tava-t-tuṟai <hi rend="grantha">mahā-de</hi>varkku
                 </p>
                 
             </div>
@@ -85,6 +85,10 @@
                         <lem>cat<choice><orig>a</orig><reg>ai</reg></choice>ya<surplus>m</surplus>t<unclear>ttu</unclear></lem>
                         <rdg source="bib:SubrahmanyaAiyer1929-1930_01">cataiya<surplus>m</surplus>t<unclear>ttu</unclear></rdg>
                     </app>
+                    <app loc="4">
+                        <lem>ke<unclear>ṭā</unclear>maiy</lem>
+                        <rdg source="bib:Gillet2017_01">ke<unclear>ṭā</unclear>maiy</rdg>
+                    </app>                    
                 </listApp>
             </div>
             
