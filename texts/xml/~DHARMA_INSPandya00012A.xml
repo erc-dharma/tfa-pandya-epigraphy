@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Saptaṛṣīśvara temple, Lālkuṭi, Lālkuṭi taluk, Trichy district; on the north wall of the <foreign>ardha-maṇḍapa</foreign>. It is probably the first of the series of inscriptions which were copied after the reconstruction of the temple. It is located above EI 20.3b (<ref target="DHARMA_INSPandya00012B"/>).</p>
+                        <summary><p>Saptaṛṣīśvara temple, Lālkuṭi, Lālkuṭi taluk, Trichy district. On the north wall of the <foreign>ardha-maṇḍapa</foreign>. It is probably the first of the series of inscriptions which were copied after the reconstruction of the temple. It is located above EI 20.3b (<ref target="DHARMA_INSPandya00012B"/>).</p>
                             
                         </summary>
                     </msContents>
@@ -110,7 +110,7 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/120). TLI Tp 279.</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/120), in <bibl><ptr target="bib:Mahalingam1991_01"/></bibl> (Tp 279).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:SubrahmanyaAiyer1929-1930_01"/></bibl> (EI 20.3A). Text in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0012A">SII 14.12A</ref>), in <bibl><ptr target="bib:Mahalingam1988_01"/></bibl> (IP 269), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 28). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
@@ -153,6 +153,10 @@
                         <citedRange unit="page">16</citedRange>
                         <citedRange unit="appendix">B/1928-1929</citedRange>
                         <citedRange unit="item">120</citedRange>
+                    </bibl>
+                    
+                    <bibl n="TLI">
+                        <ptr target="bib:Mahalingam1991_01"/>
                     </bibl>
                 </listBibl>
                 

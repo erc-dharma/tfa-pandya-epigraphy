@@ -34,7 +34,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <p>Āpatsahāteśvara temple, Āṭutuṟai, Tiruviṭaimarutūr taluk, Tañcāvūr district; on the wall in the recess between the sanctuary and the <foreign>ardhamaṇḍapa</foreign> of the northern façade; TLI Tj 2; SII 23.364 (text not given).</p>
+                            <p>Āpatsahāteśvara temple, Āṭutuṟai, Tiruviṭaimarutūr taluk, Tañcāvūr district. On the wall in the recess between the sanctuary and the <foreign>ardhamaṇḍapa</foreign> of the northern façade.</p>
                             
                         </summary>
                     </msContents>
@@ -95,7 +95,7 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/364).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/364), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 2). SII 23.364 (text not given).</p>
                 <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0006">SII 14.6</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
@@ -120,6 +120,9 @@
                         <citedRange unit="page">27</citedRange>
                         <citedRange unit="appendix">B/1907</citedRange>
                         <citedRange unit="item">364</citedRange>
+                    </bibl>
+                    <bibl n="TLI">
+                        <ptr target="bib:Mahalingam1992_01"/>
                     </bibl>
                 </listBibl>
                 

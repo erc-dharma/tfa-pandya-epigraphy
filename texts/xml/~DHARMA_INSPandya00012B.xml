@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Saptaṛṣīśvara temple, Lālkuṭi, Lālkuṭi taluk, Trichy district; on the north wall of the avant-corps (<foreign>ardha-maṇḍapa</foreign>). K.V. Subrahmanya Aiyer (EI 20.3, p. 51) and A.S. Ramanatha Ayyar (SII 14.12B, p. 9) assign it to 816 CE. However, later K.G. Krishnan (IEP 42) proposes the more convincing date of 6th December 875. This inscription is located below EI 20.3a (<ref target="DHARMA_INSPandya00012A"/>) and above SII 12.61.</p>
+                        <summary><p>Saptaṛṣīśvara temple, Lālkuṭi, Lālkuṭi taluk, Trichy district. On the north wall of the avant-corps (<foreign>ardha-maṇḍapa</foreign>). K.V. Subrahmanya Aiyer (EI 20.3, p. 51) and A.S. Ramanatha Ayyar (SII 14.12B, p. 9) assign it to 816 CE. However, later K.G. Krishnan (IEP 42) proposes the more convincing date of 6th December 875. This inscription is located below EI 20.3a (<ref target="DHARMA_INSPandya00012A"/>) and above SII 12.61.</p>
                             
                         </summary>
                     </msContents>
@@ -102,7 +102,7 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/121). TLI Tp 281.</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1928-1929"/></bibl> (ARIE/1928-1929/B/1928-1929/121), in <bibl><ptr target="bib:Mahalingam1991_01"/></bibl> (Tp 281).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:SubrahmanyaAiyer1929-1930_01"/></bibl> (EI 20.3B). Text in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0012B">SII 14.12B</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 42). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
@@ -135,6 +135,10 @@
                         <citedRange unit="page">16</citedRange>
                         <citedRange unit="appendix">B/1928-1929</citedRange>
                         <citedRange unit="item">121</citedRange>
+                    </bibl>
+                    
+                    <bibl n="TLI">
+                        <ptr target="bib:Mahalingam1991_01"/>
                     </bibl>
                 </listBibl>
                 

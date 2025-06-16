@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Lalitāṅkura cave temple in Trichy (Tirucirāppaḷḷi), Trichy taluk and district; on the southern pilaster framing the image of Gaṅgādhāramūrti, under the Pallava Sanskrit inscription (SII 1.33 and SII 1.34); TLI Tp 1133; IEP 40.</p><p><foreign/></p>
+                        <summary><p>Lalitāṅkura cave temple in Trichy (Tirucirāppaḷḷi), Trichy taluk and district. On the southern pilaster framing the image of Gaṅgādhāramūrti, under the Pallava Sanskrit inscription (SII 1.33 and SII 1.34).</p><p><foreign/></p>
                             
                         </summary>
                     </msContents>
@@ -80,7 +80,7 @@
             </div>
             
             <div type="apparatus"/>
-                
+            
             
             
             <div type="translation" source="bib:Gillet2017_01">
@@ -91,13 +91,13 @@
                     This is under <supplied reason="subaudible">the protection</supplied> of the Panmāheś<supplied reason="subaudible">varar</supplied>.</p></div>
             
             <div type="commentary"/>
-                
+            
             
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/413).</p>
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0011">SII 14.11</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/413), in <bibl><ptr target="bib:Mahalingam1991_01"/></bibl> (Tp 1134).</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0011">SII 14.11</ref>). Text in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 40). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -105,6 +105,11 @@
                         <ptr target="bib:RamanathaAyyar1962_01"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="item">11</citedRange>
+                    </bibl>
+                    <bibl n="IEP">
+                        <ptr target="bib:Krishnan2002_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">40</citedRange>
                     </bibl>
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
@@ -119,7 +124,13 @@
                         <citedRange unit="page">15</citedRange>
                         <citedRange unit="appendix">A/1904</citedRange>
                         <citedRange unit="item">413</citedRange>
-                        </bibl>
+                    </bibl>
+                    
+                    <bibl n="TLI">
+                        <ptr target="bib:Mahalingam1991_01"/>
+                        <citedRange unit="page">252</citedRange>
+                        <citedRange unit="item">Tp 1134</citedRange>
+                    </bibl>
                 </listBibl>
                 
             </div>

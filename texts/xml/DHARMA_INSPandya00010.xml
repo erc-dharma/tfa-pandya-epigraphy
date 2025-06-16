@@ -216,9 +216,9 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/414).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1904-1905"/></bibl> (ARIE/1904-1905/A/1904/414), in <bibl><ptr target="bib:Mahalingam1991_01"/></bibl> (Tp 1133).</p>
                 
-                <p>Edited in <bibl><ptr target="bib:Venkayya1906_01"/></bibl>, with English translation (ARASI 1903-1904); in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0010">SII 14.10</ref>); in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, with English translation, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:Venkayya1906_01"/></bibl>, with English translation (ARASI 1903-1904), in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0010">SII 14.10</ref>). Text in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 36). Edited in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, with English translation, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs (2004, Emmanuel Francis).</p>    
                 
                 <listBibl type="primary">
@@ -232,6 +232,12 @@
                         <citedRange unit="page">6</citedRange>
                         <citedRange unit="item">10</citedRange>
                     </bibl>      			
+                    
+                    <bibl n="IEP">
+                        <ptr target="bib:Krishnan2002_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">36</citedRange>
+                    </bibl>
                     
                     <bibl n="G">
                         <ptr target="bib:Gillet2017_01"/>
@@ -250,7 +256,7 @@
                         <citedRange unit="item">414</citedRange>
                     </bibl>
                     
-                    <bibl>
+                    <bibl n="TLI">
                         <ptr target="bib:Mahalingam1991_01"/>
                         <citedRange unit="page">251-252</citedRange>
                         <citedRange unit="item">Tp 1133</citedRange>

@@ -34,7 +34,7 @@
                     </msIdentifier>
                     <msContents>
                         <summary>
-                            <p>Nāgeśvara temple, Kumpakkōṇam (Kumbakkonam), Kumpakkōṇam taluk &amp; district; on the west wall of the shrine of the Goddess temple; TLI Tj 130; IEP 31.</p>
+                            <p>Nāgeśvara temple, Kumpakkōṇam (Kumbakkonam), Kumpakkōṇam taluk &amp; district. On the west wall of the shrine of the Goddess temple.</p>
                             
                         </summary>
                     </msContents>
@@ -83,7 +83,7 @@
             </div>
             
             <div type="apparatus"/>
-                
+            
             
             
             <div type="translation" source="bib:Gillet2017_01">
@@ -91,14 +91,13 @@
                 <p>Hail! Prosperity! While the 4th year opposite to this <supplied reason="explanation"><foreign>itaṉ</foreign></supplied> 4th year of king <supplied reason="explanation"><foreign>kō</foreign></supplied> Māṟañcaṭaiyaṉ is current <supplied reason="explanation"><foreign>cellā niṟka</foreign></supplied>; for bathing <supplied reason="explanation"><foreign>āṭṭa</foreign></supplied> with milk and ghee <supplied reason="explanation"><foreign>pālum neyyum</foreign></supplied> Bhaṭāra of Tirukkiḻkōṭṭam in Tirukkuṭamukku, king Māṟañcaṭaiyar gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> hundred and thirty-eight cows <supplied reason="explanation"><foreign>pacu</foreign></supplied>; <supplied reason="subaudible">he</supplied> gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> hundred <foreign>kācu</foreign>s for burning <supplied reason="explanation"><foreign>erikka</foreign></supplied> two perpetual lamps; with these cows <supplied reason="explanation"><foreign>i-ppacuviṉ-āl</foreign></supplied>, everyday, ten <foreign>nāḻi</foreign>s of milk and <gap reason="lost" extent="unknown" unit="character"/> of ghee <gap reason="lost" extent="unknown" unit="character"/>; with these <foreign>kācu</foreign>s <supplied reason="explanation"><foreign>i-kkāciṉ-āl</foreign></supplied>, <gap reason="lost" extent="unknown" unit="character"/></p></div>
             
             <div type="commentary"/>
-                
+            
             
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/C/1908/13).</p>
-                <p>Edited <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0008">SII 14.8</ref>)).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl>.</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/C/1908/13), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 130).</p>
+                <p>Edited <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0008">SII 14.8</ref>). Text in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 31). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl>.</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -107,6 +106,11 @@
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="item">8</citedRange>
                     </bibl> 
+                    <bibl n="IEP">
+                        <ptr target="bib:Krishnan2002_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">31</citedRange>
+                    </bibl>
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">253-254</citedRange>
@@ -120,7 +124,10 @@
                         <citedRange unit="page">41</citedRange>
                         <citedRange unit="appendix">C/1908</citedRange>
                         <citedRange unit="item">13</citedRange>
-                        </bibl>
+                    </bibl>
+                    <bibl n="TLI">
+                        <ptr target="bib:Mahalingam1992_01"/>
+                    </bibl>
                 </listBibl>
                 
             </div>
