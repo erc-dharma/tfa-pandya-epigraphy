@@ -67,11 +67,11 @@
                 </p>
                 
                 <p>
-                     <gap reason="lost" quantity="8" unit="character"/>
+                    <gap reason="lost" quantity="8" unit="character" precision="low"/>
                     <lb n="5"/><unclear>ca</unclear>rāvūr-nā<unclear>ṭṭu</unclear> tuṟaiyūr-k-ku
                     <lb n="6" break="no"/><unclear>ṭi</unclear> <hi rend="grantha">sabhai</hi><unclear>yō</unclear>m tiraimūr-nā
                     <lb n="7" break="no"/><unclear>ṭṭu</unclear> tiru-k-kuraṅ<unclear>kāṭu</unclear>-tuṟai <hi rend="grantha">mahā-de</hi>
-                    <lb n="8"/><gap reason="lost" quantity="2" unit="character"/> i <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="8"/><gap reason="lost" quantity="2" unit="character" precision="low"/> i <gap reason="lost" quantity="10" unit="character" precision="low"/>
                     <lb n="9"/>ttāl ca<hi rend="grantha">ntrā</hi>tittaval nicatam Aṭṭa-k kaṭava E<unclear>ṇ</unclear>
                     <lb n="10" break="no"/>ṇai Uri
                 </p>
@@ -82,7 +82,7 @@
             </div>
             
             <div type="apparatus"/>
-                
+            
             
             
             <div type="translation" source="bib:Gillet2017_01">
@@ -90,13 +90,13 @@
                 <p>Hail! Prosperity! <supplied reason="subaudible">This is</supplied> the year opposite to the year, opposite to the 4th year <gap reason="lost" extent="unknown" unit="character"/> of king Māṟañcaṭaiyaṉ. We, the Sabhā of Tuṟaiyūrkkuṭi in <gap reason="lost" extent="unknown" unit="character"/> carāvurnāṭu, <supplied reason="subaudible">for</supplied> Mahādeva of Tirukkuraṅkāṭutuṟai in Tiraimūrnāṭu <gap reason="lost" extent="unknown" unit="character"/> as long as the moon and the sun endure, everyday, will have to supply <supplied reason="explanation"><foreign>aṭṭakkaṭava</foreign></supplied> one <foreign>uri</foreign> of oil. This is under the protection of the Paṉmāheśvaras.</p></div>
             
             <div type="commentary"/>
-                
+            
             
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/364), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 2). SII 23.364 (text not given).</p>
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0006">SII 14.6</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/364), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 2).</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0006">SII 14.6</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2008</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -123,6 +123,12 @@
                     </bibl>
                     <bibl n="TLI">
                         <ptr target="bib:Mahalingam1992_01"/>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bib:SrinivasaRao1979_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">364</citedRange>
+                        <note>Text not provided.</note>
                     </bibl>
                 </listBibl>
                 

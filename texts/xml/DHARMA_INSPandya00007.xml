@@ -68,9 +68,9 @@
                 <p>
                     tiraimūr-nāṭṭu maruttuva
                     <lb n="6" break="no"/>-k-kuṭi <hi rend="grantha">sabhai</hi>yōm In-nāṭṭu tiru-k-ku
-                    <lb n="7" break="no"/><supplied reason="lost">raṅ</supplied>kāṭutuṟai <hi rend="grantha">mahāde</hi>var Iṭai <gap reason="lost" extent="unknown" unit="character"/> <unclear>tu</unclear> 
-                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> ṇ <gap reason="lost" extent="unknown" unit="character"/> cāl <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="9"/><unclear>nā</unclear> <gap reason="lost" extent="unknown" unit="character"/> ttāl nicatam Aṭṭa-k kaṭava Eṇṇai <unclear>Ur</unclear>i 
+                    <lb n="7" break="no"/><supplied reason="lost">raṅ</supplied>kāṭutuṟai <hi rend="grantha">mahāde</hi>var Iṭai <gap reason="lost" quantity="2" unit="character"/> <unclear>tu</unclear> 
+                    <lb n="8"/><gap reason="lost" quantity="8" unit="character"/> ṇ <gap reason="lost" quantity="2" unit="character"/> cāl <gap reason="lost" quantity="2" unit="character"/> i
+                    <lb n="9"/><unclear>nā</unclear> <gap reason="lost" quantity="4" unit="character"/> ttāl nicatam Aṭṭa-k kaṭava Eṇṇai <unclear>Ur</unclear>i 
                 </p>
                 <p>
                     <unclear>Itu</unclear>
@@ -98,14 +98,14 @@
                 
                 <p>Hail! Prosperity! <supplied reason="subaudible">This is</supplied> the year opposite to the year, opposite to the year, opposite to the year, opposite to the 4th year of illustrious king Māṟañcaṭaiyaṉ. We, the Sabhā of Maruttuvakkuṭi in Tiraimūrnāṭu, <supplied reason="subaudible">for</supplied> the place <supplied reason="explanation"><foreign>iṭai</foreign></supplied> of Mahādeva of Tirukku<supplied reason="omitted">raṅ</supplied>kāṭutuṟai of this country, have to supply <supplied reason="explanation"><foreign>aṭṭakkaṭava</foreign></supplied> one <foreign>uri</foreign> <supplied reason="explanation">measure</supplied> of oil <supplied reason="explanation"><foreign>eṇṇai</foreign></supplied> everyday <supplied reason="explanation"><foreign>nicatam</foreign></supplied> with <gap reason="lost" extent="unknown" unit="character"/> This is under the protection of the Paṉmāheśvaras.</p></div>
             
-            <div type="commentary">
+            <div type="commentary"/>
                 
-            </div>
+            
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/358), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 3). SII 23.358 (text not given).</p>
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0007">SII 14.7</ref>). Text in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 33). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/358), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 3).</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0007">SII 14.7</ref>). Text in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 33). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2008</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -135,6 +135,12 @@
                     </bibl>
                     <bibl n="TLI">
                         <ptr target="bib:Mahalingam1992_01"/>
+                    </bibl>
+                    <bibl>
+                        <ptr target="bib:SrinivasaRao1979_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">364</citedRange>
+                        <note>Text not provided.</note>
                     </bibl>
                 </listBibl>
                 
