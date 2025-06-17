@@ -65,7 +65,7 @@
                     <lb n="3" break="no"/>r nāl āṇṭu cellā niṟka-t
                     <lb n="4"/>tiru-k-kuṭamukkiṟ ṟiru-k-kiḻ-k
                     <lb n="5" break="no"/>-kōṭṭattu <hi rend="grantha">bhaṭā</hi>rakku-p pālu 
-                    <lb n="6"/>neyyum Āṭṭa-k kō-māṟañ-ca
+                    <lb n="6"/>neyyum āṭṭa-k kō-māṟañ-ca
                     <lb n="7" break="no"/>ṭaiyar kuṭutta pacu nūṟṟu mu
                     <lb n="8" break="no"/><unclear>p</unclear>patt' eṭṭu
                 </p>
@@ -77,7 +77,7 @@
                 <p>
                     Ip-pacuviṉāl niyata
                     <lb n="11" break="no"/>m pāl <unclear>pattu</unclear> nāḻiyun ney
-                    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> me Ik-kāciṉāl ne
+                    <lb n="12"/><gap reason="lost" quantity="4" unit="character" precision="low"/> me Ik-kāciṉāl ne
                 </p>
                 
             </div>
@@ -98,7 +98,7 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/C/1908/13), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 130).</p>
                 <p>Edited <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0008">SII 14.8</ref>). Text in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 31). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl>.</p>
-                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+                <p>This revised edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl n="SII">
@@ -111,7 +111,7 @@
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="item">31</citedRange>
                     </bibl>
-                    <bibl>
+                    <bibl n="G">
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">253-254</citedRange>
                         <citedRange unit="item">2</citedRange>

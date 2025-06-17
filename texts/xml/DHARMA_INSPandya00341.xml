@@ -92,18 +92,18 @@
                 <p>kō-mā<supplied reason="lost">ṟañ</supplied>
                     <lb n="2"/><unclear>ca</unclear>ṭaiyarkki yā<unclear>ṇ</unclear><supplied reason="lost">ṭu</supplied>
                     <lb n="3"/><choice><orig>ṉ</orig><reg>n</reg></choice>āṉk-ām āṭṭaikk’ e<unclear>t</unclear>i<supplied reason="lost">r</supplied>
-                    <lb n="4"/>Oṉpatām yāṇ<supplied reason="lost">ṭu</supplied>
+                    <lb n="4"/>Oṉpat-ām yāṇ<supplied reason="lost">ṭu</supplied>
                     <lb n="5"/>taṉu-ñāyaṟṟu-t ti<supplied reason="lost">ṅ</supplied>
                     <lb n="6" break="no"/><unclear>ka</unclear>ṭ-kiḻamai peṟṟa <supplied reason="lost">A</supplied>
                     <lb n="7" break="no"/>viṭṭa mutal āka I<supplied reason="lost">ṭ</supplied>ai
-                    <lb n="8" break="no"/>yāṟṟu maṅkalat<supplied reason="lost">tu</supplied>
-                    <lb n="9"/>tirumayilaraṅkat<supplied reason="lost">tu</supplied>
-                    <lb n="10"/><unclear reason="eccentric_ductus">p</unclear>erumāṉaṭikaḷuk<supplied reason="lost">ku</supplied>
-                    <lb n="11"/>Iravum pakalum I<supplied reason="lost">ra</supplied>
+                    <lb n="8" break="no"/>yāṟṟu-maṅkalat<supplied reason="lost">tu</supplied>
+                    <lb n="9"/>tiru-mayil-araṅkat<supplied reason="lost">tu</supplied>
+                    <lb n="10"/><unclear reason="eccentric_ductus">p</unclear>erumāṉ-aṭikaḷuk<supplied reason="lost">ku</supplied>
+                    <lb n="11"/>Iravum paka<unclear reason="eccentric_ductus">lu</unclear><choice><orig>mm</orig><reg>m</reg></choice> I<supplied reason="lost">ra</supplied>
                     <lb n="12" break="no"/>ṇṭu noṉtā-viḷak<supplied reason="lost">k</supplied>’ e
                     <lb n="13" break="no"/><unclear>ri</unclear>ppat’ āka kō-māṟañ <supplied reason="lost">ca</supplied>
                     <lb n="14" break="no"/>ṭ<unclear>ai</unclear>yar-āyiṉa <hi rend="grantha">pāṇ<unclear>ḍya</unclear></hi>
-                    <lb n="15" break="no"/>-Atipati-varakuṇa-<hi rend="grantha">ma<supplied reason="lost">hā</supplied></hi>
+                    <lb n="15" break="no"/>-Ati<choice><sic>v</sic><corr>p</corr></choice>ati-varakuṇa-<hi rend="grantha">ma<supplied reason="lost">hā</supplied></hi>
                     <lb n="16" break="no"/><hi rend="grantha"><supplied reason="lost">rā</supplied>ja</hi>r Aṇṭaṇāṭṭu <supplied reason="lost">vē</supplied>
                     <lb n="17" break="no"/>ḷāṉ kaiyyil viṭu <supplied reason="lost">ta</supplied>
                     <lb n="18" break="no"/>nta poṉ pāṭi</p>
@@ -120,17 +120,23 @@
                         <rdg source="bib:Krishnan2002_01"></rdg>
                         <rdg source="bib:Gillet2017_01"></rdg>
                         <note></note>
-                    </app>-->
+                        </app>-->
+                    
+                    <app loc="11">
+                        <lem>paka<unclear reason="eccentric_ductus">lu</unclear><choice><orig>mm</orig><reg>m</reg></choice></lem>
+                        <rdg source="bib:Venkataramayya1953_03 bib:Krishnan2002_01">pagalumm</rdg>
+                        <rdg source="bib:Gillet2017_01">paka<hi rend="grantha">lu</hi>m</rdg>
+                    </app>
                     
                     <app loc="15">
-                        <lem>°<hi rend="grantha">ma<supplied reason="lost">hā</supplied></hi>
-                        <lb n="16" break="no"/><hi rend="grantha"><supplied reason="lost">rā</supplied>ja</hi>r</lem>
-                        <rdg source="bib:Venkataramayya1953_03">°ma<supplied reason="lost">kā</supplied>
-                        <lb n="16" break="no"/><supplied reason="lost">rā</supplied>jar</rdg>
-                        <rdg source="bib:Krishnan2002_01">°mahā
-                        <lb n="16" break="no"/><hi rend="grantha">rāja</hi>r</rdg>
-                        <rdg source="bib:Gillet2017_01">°<hi rend="grantha">ma<supplied reason="lost">hā</supplied></hi>
-                        <lb n="16" break="no"/><hi rend="grantha"><supplied reason="lost">rā</supplied>jar</hi></rdg>
+                        <lem>Ati<choice><sic>v</sic><corr>p</corr></choice>ati-varakuṇa-<hi rend="grantha">ma<supplied reason="lost">hā</supplied></hi>
+                            <lb n="16" break="no"/><hi rend="grantha"><supplied reason="lost">rā</supplied>ja</hi>r</lem>
+                        <rdg source="bib:Venkataramayya1953_03">adipati varaguṇa ma<supplied reason="lost">gā</supplied>
+                            <lb n="16" break="no"/><supplied reason="lost">rā</supplied>jar</rdg>
+                        <rdg source="bib:Krishnan2002_01">adi<hi rend="grantha">pati</hi> varaguṇa ma<hi rend="grantha">hā</hi>
+                            <lb n="16" break="no"/><hi rend="grantha">rājar</hi></rdg>
+                        <rdg source="bib:Gillet2017_01"><hi rend="grantha">a</hi>ti<hi rend="grantha">pa</hi>ti <hi rend="grantha">varakuṇa ma<supplied reason="lost">hā</supplied></hi>
+                            <lb n="16" break="no"/><hi rend="grantha"><supplied reason="lost">rā</supplied>jar</hi></rdg>
                         <note></note>
                     </app>
                     
@@ -146,7 +152,7 @@
                 <p n="1-18">
                     <supplied reason="subaudible">This is</supplied> the 9th year opposite to the 4th year of king Māṟañcaṭaiyaṉ;
                     from <supplied reason="explanation"><foreign>mutal āka</foreign></supplied> <foreign>aviṭṭam</foreign> obtained on Monday <supplied reason="explanation"><foreign>tiṅkaṭ-kiḻamai</foreign></supplied> in the
-                    month of dhanus; for Perumāṉaṭikaḷ of Tirumayilaraṅkam in Iṭaiyyāṟṟu maṅkalam,
+                    month of <foreign>dhanus</foreign>; for Perumāṉaṭikaḷ of Tirumayilaraṅkam in Iṭaiyyāṟṟu maṅkalam,
                     night and day, for burning <supplied reason="explanation"><foreign>erippatāka</foreign></supplied> two <supplied reason="explanation"><foreign>iraṇṭu</foreign></supplied> perpetual lamps, king
                     <supplied reason="explanation"><foreign>kō</foreign></supplied> Māṟañcaṭaiyar alias Varaguṇa Mahārājar, the great Lord of the Pāṇḍyans,
                     released and gave <supplied reason="explanation"><foreign>viṭu-tanta</foreign></supplied> into the hand <supplied reason="explanation"><foreign>kaiyyil</foreign></supplied> of Aṇṭanāṭṭu Vēḷāṉ, <gap reason="lost"/> gold <gap reason="lost"/></p>
@@ -161,12 +167,12 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1946-1947"/></bibl> (ARIE/1946-1947/B/1946-1947/104). </p>                
                 
-                <p>Edited in <bibl><ptr target="bib:Venkataramayya1953_03"/></bibl>, with visual documentation (EI 28.6). Text in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 41), with English translation. Edited in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, with English translation, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
-                <p>This edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/1544bz481">2009, by Valérie Gillet</ref>).</p>    
+                <p>Edited in <bibl><ptr target="bib:Venkataramayya1953_03"/></bibl>, with visual documentation (EI 28.6). Text and translation in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 41). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet, 2009</ref>).</p>
+                <p>This revised edition by Valérie Gillet and Emmanuel Francis.</p>    
                 
                 <listBibl type="primary">
                     
-                    <bibl n="V">
+                    <bibl n="EI">
                         <ptr target="bib:Venkataramayya1953_03"/>
                     </bibl>      
                     
