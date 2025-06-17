@@ -91,7 +91,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1925-1926"/></bibl> (ARIE/1925-1926/C/1926/185). TLI Pk 559.</p>
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0014">SII 14.14</ref>). IEP 45. Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0014">SII 14.14</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 45). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -99,6 +99,11 @@
                         <ptr target="bib:RamanathaAyyar1962_01"/>
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="item">14</citedRange>
+                    </bibl>
+                    <bibl n="IEP">
+                        <ptr target="bib:Krishnan2002_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">45</citedRange>
                     </bibl>
                     <bibl n="G">
                         <ptr target="bib:Gillet2017_01"/>
@@ -113,7 +118,7 @@
                         <citedRange unit="page">52</citedRange>
                         <citedRange unit="appendix">C/1926</citedRange>
                         <citedRange unit="item">185</citedRange>
-                        </bibl>
+                    </bibl>
                 </listBibl>
                 
             </div>

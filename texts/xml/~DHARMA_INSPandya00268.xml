@@ -110,7 +110,7 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE/1930-1931/B/1930-1931/26). TLI Tj 263.</p>
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p2i0001">SII 14, appendix, no. 1</ref>). IEP 27. Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p2i0001">SII 14, appendix, no. 1</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 27). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, ****</ref>).</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -119,6 +119,11 @@
                         <citedRange unit="page">167</citedRange>
                         <citedRange unit="item">1</citedRange>
                     </bibl> 
+                    <bibl n="IEP">
+                        <ptr target="bib:Krishnan2002_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">27</citedRange>
+                    </bibl>
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">262-263</citedRange>

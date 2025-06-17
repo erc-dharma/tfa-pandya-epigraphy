@@ -188,7 +188,7 @@
                         <citedRange unit="item">6</citedRange>    			
                     </bibl>
                     
-                    <bibl n="K">
+                    <bibl n="IEP">
                         <ptr target="bib:Krishnan2002_01"/>
                         <citedRange unit="page">107-112</citedRange>
                         <citedRange unit="item">90</citedRange>
