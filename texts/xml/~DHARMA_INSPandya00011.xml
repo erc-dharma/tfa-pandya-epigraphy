@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Trichy (Tirucirāppaḷḷi), Lalitāṅkura cave temple, time of Māṟaṉ <supplied reason="lost">Caṭaiyaṉ</supplied>, year [lost] + 4 +  9</title>
+                <title>Trichy (Tirucirāppaḷḷi), Lalitāṅkura cave temple, time of Māṟaṉ <supplied reason="lost">Caṭaiyaṉ</supplied>, year 4 + 9</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -39,7 +39,7 @@
                     </msContents>
                     <physDesc>
                         <handDesc>
-                            <p/>
+                            <p>The <foreign>puḷḷi</foreign> is used.</p>
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -59,27 +59,39 @@
                     <lb n="1" break="no"/><hi rend="grantha"> svasti śrī</hi>
                 </p>
                 <p>
-                    kō-māṟañ <gap reason="lost" extent="unknown" unit="character"/> [[ṇṭu]] <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="2"/>ṉk-āvatiṉ etirr o<unclear>ṉ</unclear> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/>yaṟṟu veḷḷi-k-kiḻa<unclear>mai</unclear> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/>malai-p perumāṉaṭikaḷu[[kku]] <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/>ṉa <hi rend="grantha">pāṇḍyādhipati</hi>-varaku[[ṇa]] <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="6"/>ṭṭu veḷāṉ kaiyil viṭu[[tan]] <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="7"/>ñnūṟu Ivai Oru kācu [[k]] <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="8"/>m[[ai]]ñcāṭiUm kuṉṟiyā <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="9"/>[[ṉ]] Ainūṟṟu muppatt' ēḻu kaḻai <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="10"/>[[I]]p poṉṉil nānūṟṟu kaḻai<unclear>ñcu po</unclear>
-                    <lb n="11" break="no"/>[[ṉ]]nāl ce<supplied reason="omitted">y</supplied>tu tiru-<unclear>m</unclear>ē<unclear>ṉi</unclear> cāt <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="12"/>[[ṟ pa]]ṭṭa nāṉku nūṟṟu [[mu]]ppa<unclear>t</unclear> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="13"/>[[carai]] poṉṉāl ceytu ti<unclear>ru-m</unclear>ē <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="14"/>[[tta po]]ṟpūyu Oṉṟu Ivvai <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="15"/>[[yum pā]]tamulamum [[nakarat]] <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="16"/>[[tu <unclear>||</unclear> Itu <hi rend="grantha">panmāhe</hi>]] <gap reason="lost" extent="unknown" unit="character"/>
+                    kō-māṟañ· <gap reason="lost" quantity="6" unit="character" precision="low"/> <unclear>āṇ</unclear><supplied reason="lost">ṭ</supplied><unclear>u</unclear> <supplied reason="lost">nā</supplied> 
+                    <lb n="2"/>ṉk-āvatiṉ eti<choice><orig>rr</orig><reg>r</reg></choice> o<unclear>ṉ</unclear> <gap reason="lost" quantity="9" unit="character" precision="low"/>
+                    <lb n="3"/>yaṟṟu veḷ·ḷi-k-kiḻa<supplied reason="lost">mai</supplied> <gap reason="lost" quantity="9" unit="character" precision="low"/>
+                    <lb n="4"/>malai-p· perumāṉaṭikaḷu<unclear>k</unclear><supplied reason="lost">ku</supplied> <gap reason="lost" quantity="9" unit="character" precision="low"/>
+                    <lb n="5"/>ṉa <hi rend="grantha">pāṇḍyādhi</hi>pati-varaku<unclear>ṇa</unclear> <gap reason="lost" quantity="9" unit="character" precision="low"/> 
+                    <lb n="6"/>ṭṭu veḷāṉ kaiyil viṭu<unclear>ta</unclear><supplied reason="lost">n</supplied> <gap reason="lost" quantity="8" unit="character" precision="low"/>
+                    <lb n="7"/>ñnūṟu Ivai Oru kācu <unclear>k</unclear> <gap reason="lost" quantity="8" unit="character" precision="low"/>
+                    <lb n="8"/>m<hi rend="grantha">ai</hi>ñcāṭiUm kuṉṟiyā m<unclear>e</unclear>ṟi <gap reason="lost" quantity="6" unit="character" precision="low"/>
+                    <lb n="9"/>ṉ Ainūṟṟu muppatt' ēḻu kaḻ<hi rend="grantha">ai</hi> <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><hi rend="grantha">ai</hi></seg> <gap reason="lost" quantity="5" unit="character" precision="low"/>
+                    <lb n="10"/>Ip poṉṉil nānūṟṟu kaḻai<supplied reason="lost">ñcu po</supplied> <gap reason="lost" quantity="2" unit="character" precision="low"/>
+                    <lb n="11" break="no"/>ṉnāl ce<supplied reason="omitted">y</supplied>tu tiru-mē<unclear>ṉi</unclear> cā<unclear>t</unclear> <gap reason="lost" quantity="6" unit="character" precision="low"/>
+                    <lb n="12"/>ṟ paṭṭa nāṉku nūṟṟu <unclear>mu</unclear>ppa<unclear>t</unclear> <gap reason="lost" quantity="5" unit="character" precision="low"/>
+                    <lb n="13"/>car<hi rend="grantha">ai</hi> poṉṉāl ceytu ti<unclear>ru-m</unclear>ē <gap reason="lost" quantity="4" unit="character" precision="low"/>
+                    <lb n="14"/>tta poṟpūyu Oṉṟu I<unclear>v</unclear><hi rend="grantha">ai</hi> <gap reason="lost" quantity="6" unit="character" precision="low"/>
+                    <lb n="15"/>yum pātamūlamum nakarat <gap reason="lost" quantity="7" unit="character" precision="low"/>
+                    <lb n="16"/><supplied reason="lost">tu</supplied> <unclear><g type="ddanda">.</g></unclear> Itu <hi rend="grantha">panmā<supplied reason="lost">h</supplied>e</hi> <gap reason="lost" quantity="4" unit="character" precision="low"/>
                 </p>
                 
             </div>
             
-            <div type="apparatus"/>
+            <div type="apparatus">
+                <listApp>
+                    <app loc="5">
+                        <lem source="bib:RamanathaAyyar1962_01"><hi rend="grantha">pāṇḍyādhi</hi>pati°></lem>
+                        <rdg source="bib:Gillet2017_01"><hi rend="grantha">pāṇḍyādhipati</hi>°</rdg>
+                    </app>
+                    <app loc="14">
+                        <lem source="bib:RamanathaAyyar1962_01">I<unclear>v</unclear><hi rend="grantha">ai</hi></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01">Iv<hi rend="grantha">ai</hi></rdg>
+                        <rdg source="bib:Gillet2017_01">Ivvai</rdg>
+                    </app>
+                </listApp>
+            </div>
             
             
             
@@ -111,7 +123,7 @@
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="item">40</citedRange>
                     </bibl>
-                    <bibl>
+                    <bibl n="G">
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">255-256</citedRange>
                         <citedRange unit="item">4</citedRange>
