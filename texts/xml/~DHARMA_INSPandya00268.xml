@@ -109,8 +109,8 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE/1930-1931/B/1930-1931/26). TLI Tj 263.</p>
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p2i0001">SII 14, appendix, no. 1</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 27). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet, ****</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE/1930-1931/B/1930-1931/26), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 263).</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p2i0001">SII 14, appendix, no. 1</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 27). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet</ref>).</p>
                 <p>This revised edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -137,7 +137,10 @@
                         <citedRange unit="page">7</citedRange>
                         <citedRange unit="appendix">B/1930-1931</citedRange>
                         <citedRange unit="item">26</citedRange>
-                        </bibl>
+                    </bibl>
+                    <bibl n="TLI">
+                        <ptr target="bib:Mahalingam1992_01"/>
+                    </bibl>
                 </listBibl>
                 
             </div>

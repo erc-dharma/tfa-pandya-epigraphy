@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Śivayoganātha temple, Tiruvicalūr, Tiruviṭaimarutūr taluk, Tañcāvūr district. On the south wall of the main sanctuary. The inscriptions which were on the main sanctuary of this temple have been polished away with a sanding-machine during a “renovation”; this one has therefore disappeared.</p>
+                        <summary><p>Śivayoganātha temple, Tiruvicalūr, Tiruviṭaimarutūr taluk, Tañcāvūr district. On the south wall of the main sanctuary. The inscriptions which were on the main sanctuary of this temple have been polished away with a sanding-machine during renovation; this one has therefore disappeared.</p>
                             
                         </summary>
                     </msContents>
@@ -56,35 +56,42 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> kuṇa<hi rend="grantha">mahā</hi>rā <hi rend="grantha">ja</hi>ṟku yā 
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> ṉṟāvatiṉ Etir Āṇṭu va
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> tēyam Amaṇinārā<supplied reason="omitted">yaṇa</supplied> ca
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> lattu tiruvicallūr
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> ḷukku Eccaperumāḷ
+                    <lb n="1"/><gap reason="lost" quantity="3" unit="character"/> kuṇa-<hi rend="grantha">mahā</hi>rā<hi rend="grantha">ja</hi>ṟku yā 
+                    <lb n="2"/><gap reason="lost" quantity="3" unit="character"/> ṉṟ-āvatiṉ etir āṇṭu va
+                    <lb n="3"/><gap reason="lost" quantity="3" unit="character"/> tēyam Amaṉi-nārā<supplied reason="omitted">yaṇa</supplied>-ca
+                    <lb n="4"/><gap reason="lost" quantity="4" unit="character"/> lattu tiruvicallūr
+                    <lb n="5"/><gap reason="lost" quantity="3" unit="character"/> ḷukku Ecca-perumāḷ
                 </p>
                 
             </div>
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="3">
+                        <lem source="bib:RamanathaAyyar1962_01">Amaṉi°</lem>
+                        <rdg source="bib:Gillet2017_01">amaṇi°</rdg>
+                    </app>
+                </listApp>
             </div>
+            
+            
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p><supplied reason="subaudible">This is</supplied> the year opposite to the year 1/3/11/13<note>The number may have been <foreign><supplied reason="lost">o</supplied>ṉṟāvatu</foreign> (1), <foreign><supplied reason="lost">mu</supplied>ṉṟāvatu</foreign> (3), <foreign><supplied reason="lost">patiṉo</supplied>ṉṟāvatu</foreign> (11), <foreign><supplied reason="lost">patimu</supplied>ṉṟāvatu</foreign> (13), and so on. Since we do not know where the inscription was exactly, it is difficult to evaluate how much is missing. The estampage of this inscription was not available in the ASI offices in Mysore.</note> of <supplied reason="subaudible">Vara</supplied>guṇa Mahārājar; <gap reason="lost" extent="unknown" unit="character"/> Amaṇinārā<supplied reason="subaudible">yaṇa</supplied>, a <supplied reason="subaudible">brahma</supplied>teyam <gap reason="lost" extent="unknown" unit="character"/> for <supplied reason="subaudible">Perumāṉaṭika</supplied>ḷukku of Tiruvicallūr, <gap reason="lost" extent="unknown" unit="character"/> Eccaperumāḷ <gap reason="lost" extent="unknown" unit="character"/></p></div>
+                <p><supplied reason="subaudible">This is</supplied> the year opposite to the year 1/3/11/13<note>The number may have been <foreign><supplied reason="lost">o</supplied>ṉṟāvatu</foreign> (1), <foreign><supplied reason="lost">mu</supplied>ṉṟāvatu</foreign> (3), <foreign><supplied reason="lost">patiṉo</supplied>ṉṟāvatu</foreign> (11), <foreign><supplied reason="lost">patimu</supplied>ṉṟāvatu</foreign> (13), and so on. Since we do not know where the inscription was exactly, it is difficult to evaluate how much is missing. The estampage of this inscription was not available in the ASI offices in Mysore.</note> of <supplied reason="subaudible">Vara</supplied>guṇa Mahārājar; <gap reason="lost" extent="unknown" unit="character"/> Amaṇinārā<supplied reason="subaudible">yaṇa</supplied>, a <foreign><supplied reason="subaudible">brahma</supplied>teyam</foreign> <gap reason="lost" extent="unknown" unit="character"/> for <supplied reason="subaudible">Perumāṉaṭika</supplied>ḷukku of Tiruvicallūr, <gap reason="lost" extent="unknown" unit="character"/> Eccaperumāḷ <gap reason="lost" extent="unknown" unit="character"/></p></div>
             
-            <div type="commentary">
-                
-            </div>
+            <div type="commentary"/>
+            
+            
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1906-1907"/></bibl> (ARIE/1906-1907/C/1907/17). TLI Tj 688.</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1906-1907"/></bibl> (ARIE/1906-1907/C/1907/17), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 688).</p>
                 <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0024">SII 14.24</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl>.</p>
                 <p>This revised edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
-                     <bibl n="SII">
+                    <bibl n="SII">
                         <ptr target="bib:RamanathaAyyar1962_01"/>
                         <citedRange unit="page">22</citedRange>
                         <citedRange unit="item">24</citedRange>
@@ -102,7 +109,10 @@
                         <citedRange unit="page">43</citedRange>
                         <citedRange unit="appendix">C/1907</citedRange>
                         <citedRange unit="item">17</citedRange>
-                        </bibl>
+                    </bibl>
+                    <bibl n="TLI">
+                        <ptr target="bib:Mahalingam1992_01"/>
+                    </bibl>
                 </listBibl>
                 
             </div>

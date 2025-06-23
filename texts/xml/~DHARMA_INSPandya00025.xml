@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirukkōkkaraṇam (Tirugokarṇam), Gokarṇeśvara temple, Māṟaṉ Caṭaiyaṉ, year 417.</title>
+                <title>Tirukkōkkaraṇam (Tirugokarṇam), Gokarṇeśvara temple, Māṟaṉ Caṭaiyaṉ, year 417</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -64,7 +64,7 @@
                     <lb n="4"/>vallanāṭṭu kavira
                     <lb n="5" break="no"/>ppāl kalkuṟic
                     <lb n="6" break="no"/>ci varakuṇa-v-ati
-                    <lb n="7" break="no"/>Araiyaṉ Āṉa
+                    <lb n="7" break="no"/>-Araiyaṉ Āṉa
                     <lb n="8"/>nakkañ ceṭṭi I
                     <lb n="9" break="no"/>ñ-ñāṭṭu tiru-ve
                     <lb n="10" break="no"/>ḷppūr kōkar
@@ -135,8 +135,6 @@
                 <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0025">SII 14.25</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 49).</p>
                 <p>This revised edition by Emmanuel Francis based on photographs.</p>
                 
-                <p>Digital edition of SII 14.25 (ARIE/1904-1905/A/1904/311) by <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> converted to DHARMA conventions by Emmanuel Francis.</p>
-                
                 <listBibl type="primary">
                     
                     <bibl n="SII">
@@ -154,10 +152,10 @@
                 
                 <listBibl type="secondary">
                     <bibl>
-                        <!--<ptr target="bib:ARIE1904-1905"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>-->
+                        <ptr target="bib:ARIE1904-1905"/>
+                        <citedRange unit="page">9</citedRange>
+                        <citedRange unit="appendix">A/1904</citedRange>
+                        <citedRange unit="item">311</citedRange>
                         </bibl>
                 </listBibl>
                 

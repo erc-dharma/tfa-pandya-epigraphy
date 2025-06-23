@@ -60,20 +60,20 @@
                 </p>
                 <p>
                     kō-māṟa<supplied reason="omitted">ñ</supplied> ca
-                    <lb n="2" break="no"/>ṭaiyaṟku yāṇṭu 10 Ā
+                    <lb n="2" break="no"/>ṭaiyaṟku yāṇṭu <num value="10"><g type="numeral">10</g></num> Ā
                     <lb n="3" break="no"/>vatu viṭēlviṭu<supplied reason="omitted">ku</supplied> muttarai
-                    <lb n="4" break="no"/>yan Aṭiyāṉ kiṭa<unclear>kava</unclear>n kāttā
-                    <lb n="5" break="no"/>ṉ niyamamākāḷattu piṭāri
-                    <lb n="6" break="no"/>yāṟk' oru tiruviḷakkinuk
-                    <lb n="7" break="no"/>kum Oru tiruvamurtukku mu
-                    <lb n="8" break="no"/>talāka Ippiṭāriyār Uḷ
-                    <lb n="9" break="no"/>ḷūrkaḷil kallik kuṭutta
-                    <lb n="10"/>nilam Arai kāṇik kaṭa<unclear>ṉ</unclear>
-                    <lb n="11"/><g type="kaḻam"/> 50
+                    <lb n="4" break="no"/>ya<choice><orig>n</orig><reg>ṉ</reg></choice> Aṭiyāṉ kiṭa<unclear>kava</unclear><choice><orig>n</orig><reg>ṉ</reg></choice> kāttā
+                    <lb n="5" break="no"/>ṉ niyama-mā-kāḷattu piṭāri
+                    <lb n="6" break="no"/>yāṟk' oru tiru-viḷakkinuk
+                    <lb n="7" break="no"/>kum Oru tiru-v-amurtukku mu
+                    <lb n="8" break="no"/>tal-āka Ip-piṭāriyār Uḷ
+                    <lb n="9" break="no"/>ḷūrkaḷil kalli-k kuṭutta
+                    <lb n="10"/>nilam Arai kāṇi-k kaṭa<unclear>ṉ</unclear>
+                    <lb n="11"/><g type="kaḻam"/> <num value="50">5 <g type="numeral">10</g></num>
                 </p>
                 <p>
                     Itu pa<hi rend="grantha">nmāheśva</hi>
-                    <lb n="12" break="no"/><hi rend="grantha">ra rakṣai</hi>
+                    <lb n="12" break="no"/><hi rend="grantha">ra-rakṣai</hi>
                 </p>
                 
             </div>
@@ -84,7 +84,7 @@
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p>Hail! Prosperity! This is the 10th year of king Māṟañcaṭaiyaṉ. Kiṭakavan Kāttāṉ, servant <supplied reason="explanation"><foreign>aṭiyāṉ</foreign></supplied> of Viṭēḷviṭuku Muttaraiyar, for the Piṭāri of Mākāḷam of Niyamam, for one sacred lamp and sacred food, gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> as capital <supplied reason="explanation"><foreign>mutal āka</foreign></supplied> half a <foreign>kāṇi</foreign> of land <supplied reason="explanation"><foreign>nilam</foreign></supplied> <supplied reason="subaudible">along with</supplied> 50 <foreign>kalam</foreign> for the taxes <supplied reason="explanation"><foreign>kaṭaṉ</foreign></supplied>, having worked <supplied reason="subaudible">on the land</supplied> <supplied reason="explanation"><foreign>kalli</foreign></supplied> in the inside villages <supplied reason="explanation"><foreign>uḷḷ-ūr-kaḷ-il</foreign></supplied> of this Piṭāri. This is under the protection of the Panmāheśvaras.</p></div>
+                <p>Hail! Prosperity! This is the 10th year of king Māṟañcaṭaiyaṉ. Kiṭakavan Kāttāṉ, servant <supplied reason="explanation"><foreign>aṭiyāṉ</foreign></supplied> of Viṭēḷviṭuku Muttaraiyar, for the Piṭāri of Mākāḷam of Niyamam, for one sacred lamp and sacred food, gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> as capital <supplied reason="explanation"><foreign>mutal āka</foreign></supplied> half a <foreign>kāṇi</foreign> of land <supplied reason="explanation"><foreign>nilam</foreign></supplied> <supplied reason="subaudible">along with</supplied> 50 <foreign>kalam</foreign>s for the taxes <supplied reason="explanation"><foreign>kaṭaṉ</foreign></supplied>, having worked <supplied reason="subaudible">on the land</supplied> <supplied reason="explanation"><foreign>kalli</foreign></supplied> in the inside villages <supplied reason="explanation"><foreign>uḷḷ-ūr-kaḷ-il</foreign></supplied> of this Piṭāri. This is under the protection of the Panmāheśvaras.</p></div>
             
             <div type="commentary">
                 
@@ -92,8 +92,8 @@
             
             <div type="bibliography">
                 
-                <p>Reported in <bibl><ptr target="bib:ARIE1898-1899"/></bibl> (ARIE/1898-1899/B/1899/10). TLI Tj 2614.</p>
-                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.646). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet, ****</ref>).</p>
+                <p>Reported in <bibl><ptr target="bib:ARIE1898-1899"/></bibl> (ARIE/1898-1899/B/1899/10), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 2614).</p>
+                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.646). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet, 2016</ref>).</p>
                 <p>This revised edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -115,6 +115,9 @@
                         <citedRange unit="page">23</citedRange>
                         <citedRange unit="appendix">B/1899</citedRange>
                         <citedRange unit="item">10</citedRange>
+                    </bibl>
+                     <bibl n="TLI">
+                        <ptr target="bib:Mahalingam1992_01"/>
                     </bibl>
                 </listBibl>
                 
