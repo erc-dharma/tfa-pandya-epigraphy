@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Teṉkāci, Viśvanāthasvāmin temple, coronation of Nelvēli Māṟaṉ </title>
+                <title>Putukkōṭṭai plates of Śrivallabha and Varatuṅgarāma Pāṇdya, Śaka year 1505</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -78,58 +78,52 @@
     <text xml:space="preserve">
         <body>
             
-            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
+            <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                 
-                <lg n="1" met="eṇcīrkkaḻi neṭilaṭiyāciriyaviruttam">
-                    <l n="a"><lb n="1"/>Eṟiya cakāttam āyirattu nāṉuṟṟ' e<lb n="2" break="no"/>ḻupattiṉ ṉālil var<choice><sic>iḻc</sic><corr>u<hi rend="grantha">ṣ</hi></corr></choice>am pari<lb n="3" break="no"/>tāpita<supplied reason="omitted">ṉ</supplied>ṉil
-                        mātan</l>
-                    <l n="b">tēriya cittirai<lb n="4"/>yirupatt' oṉpat' ākun tēti yiraṇ<lb n="5" break="no"/>ṭām pakkan tiṅkaḷu rōkaṇi nāl</l>
-                    <l n="c"><lb n="6"/>vīruyarnta mituṉattu nelvēli<lb n="7" break="no"/>-māṟaṉ vīra-vēḷ kulacēkara-c-ceḻiya<lb n="8" break="no"/>ṉ eṉṟu</l>
-                        <l n="d">curarāṟupuṉai yakilēcar<lb n="9"/>kāciyilē viḷaṅkavaṇimavuli ta<lb n="10" break="no"/>rittaṉaṉ para-rācar
-                        paṇintaṉarē</l>
-                </lg>
-                <lg n="2" met="kaṭṭalaikalittuṟai">
-                    <l n="a">
-                        <lb n="11"/>Eṭiya<choice><orig>l</orig><reg>ṉ</reg></choice> mālai paṇintālum vāṭum e<lb n="12" break="no"/>ṉa-p pulavōr</l>
-                    <l n="b">pāṭiya vīra-veṇpā-mālai<lb n="13" break="no"/>yai-p poṉṉiṉ
-                        pāṇṭiyaṉ pōr</l>
-                    <l n="c">tē<lb n="14" break="no"/>ṭiya vēṟ-ceḻiyaṉ kulacēkara-t teṉṉaṉai<lb n="15" break="no"/>-p pōṟ</l>
-                    <l n="d">kuṭiya vēntar uṇṭō v-oru vēn<lb n="16" break="no"/>tarai-c collukilē <g type="dash"/></l>
-                </lg>
-                <p>naṉṟāka <g type="pc">.</g></p>
+                <pb n="1r"/>
                 
+                <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <pb n="1v"/>
+                    <lb n="1"/>śubham astu
+                </p>
+                
+                <p>
+                    śrī-gaṇādhipataye
+                    <lb n="2"/>namaḥ <g type="danda">.</g>
+                </p>
+                
+                <p>
+                    lakṣṃī-vallabha-nābhi-janma-naḷinaM
+                    <lb n="3"/>yasye ritaM janmabhūs saṃkalpas sacāracañ ja
+                    <lb n="4" break="no"/>gad idaṃ vāṇī ...
+                    <pb n="2r"/>
+                    <lb n="2r12=39"/>
+                </p>
+                
+                <lg n="10" met="vasantatilakā">
+                    <l n="a">yaTsaMbha<lb n="2r13=40" break="no"/>vo jalanidhiṃ sura<unclear>k</unclear>kāryyahetos</l>
+                    <l n="b">tu<lb n="2r14=41" break="no"/>lya<choice><sic>ma</sic><corr>ṃ</corr></choice> mamantha puruṣeṇa purātanena <g type="danda">.</g></l>
+                    <l n="c" enjamb="yes">ka<lb n="2r15=42" break="no"/>ściT samasta-nṛpa-mauli-vibhinna-śiṣṭa</l>
+                    <l n="d">⌈<lb n="2r16=43" break="no"/>-mauliM babhañja valayā<choice><orig>t</orig><reg>d</reg></choice> vala-śāsanasya <g type="danda">.</g></l>                    
+                </lg>
             </div>
             
-            <div type="apparatus">
+            <!--<div type="apparatus">
                 
                 <listApp>
-                    
-                    <app loc="2">
-                        <lem>°ḻupattiṉ ṉālil</lem>
-                        <rdg source="bib:GopinathaRao1988_01">°ḻupattu nālil</rdg>
-                    </app> 
-                    
-                    
-                    <app loc="2">
-                        <lem source="bib:GopinathaRao1988_01">var<choice><sic>iḻc</sic><corr>u<hi rend="grantha">ṣ</hi></corr></choice>am</lem>
-                    </app> 
-                    
-                    <app loc="11">
-                        <lem>Eṭiya<choice><orig>l</orig><reg>ṉ</reg></choice></lem>
-                        <rdg source="bib:GopinathaRao1988_01">Eṭiya<choice><sic>l</sic><corr>ṉ</corr></choice></rdg>
-                    </app>                    
-                    
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:GopinathaRao1988_01">...</rdg>
+                </app>
+                
                 </listApp>
                 
-            </div>
+                </div>-->
             
-            <div type="translation" source="bib:GopinathaRao1988_01">      
-                
-                <p n="1" rend="stanza">Nelveli Māraṉ alias Viraveḷ wore the beautiful crown under the name of Kulaśekhara Pānḍya, in the presence of the lord of the Universe at Teṉkâśi, on the twenty-ninth of the month Chittirai with the Rôhiṇi <foreign>nakshatra</foreign> in the dark half of the same month, in the year Paridâpi, which corresponded to the Śaka year one thousand four hundred and seventy-four; the kings of other countries showed their respect to him on this
-occasion.</p> 
-                <p n="2" rend="stanza">Is it possible to mention another king who wore the crown in the manner in which it was done by the king of rare qualities, Kulaśêkhara Pâṇḍya, the wielder of the spear which seeks battle, who, feeling that flower garlands would all fade away, put on a garland of verses in the <foreign>veṇbâ</foreign> metre sung in praise of him by the poets?</p>
-                <p n="16">Be it well.</p>
-                </div>
+            <div type="translation"/>      
+            
+            
             
             <!--<div type="commentary">
                 
@@ -137,13 +131,13 @@ occasion.</p>
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English translation (TAS 1.6.7).</p>
-                <p>Edited here by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl> and photo on cover of <bibl><ptr target="bib:PierdominiciLeao2025-01"/></bibl>.</p>                    
+                <p>Edited in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English summary and visual documentation (TAS 1.6.1).</p>
+                <p>Edited here by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl> and and visual documentation.</p>                    
                 <listBibl type="primary">
                     
                     <bibl n="TAS">
                         <ptr target="bib:GopinathaRao1988_01"/>
-                        <citedRange unit="page">160-161</citedRange>
+                        <citedRange unit="page">109-144</citedRange>
                     </bibl>      			
                     
                 </listBibl>
@@ -152,6 +146,7 @@ occasion.</p>
                     
                     <bibl>
                         <ptr target="bib:PierdominiciLeao2025-01"/>
+                        <citedRange unit="page">320-331</citedRange>
                     </bibl>   
                 </listBibl>
                 
