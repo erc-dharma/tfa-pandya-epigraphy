@@ -99,18 +99,18 @@
             <!--<div type="apparatus">
                 
                 <listApp>
-                    
-                    <app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:GopinathaRao1988_01">...</rdg>
-                    </app>
-                    
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:GopinathaRao1988_01">...</rdg>
+                </app>
+                
                 </listApp>
                 
-            </div>-->
+                </div>-->
             
             <!--<div type="translation"/>-->      
-                        
+            
             
             <!--<div type="commentary">
                 
@@ -119,7 +119,7 @@
             <div type="bibliography">
                 
                 <p>Edited in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English summary and visual documentation (TAS 1.6.12).</p>
-                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl> and visual documentation.</p>                    
+                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl> and visual documentation therein.</p>                    
                 <listBibl type="primary">
                     
                     <bibl n="TAS">
@@ -133,8 +133,8 @@
                     
                     <bibl>
                         <ptr target="bib:PierdominiciLeao2025-01"/>
-                        <citedRange unit="page">TBC</citedRange>
-                    </bibl>   
+                        <citedRange unit="page">338-344</citedRange>
+                    </bibl>               
                 </listBibl>
                 
             </div>

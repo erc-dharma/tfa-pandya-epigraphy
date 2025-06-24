@@ -40,7 +40,14 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary/>
+                        <summary>
+                            <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>:
+                            <quote>This single verse is also engraved on the door-post on the south side of the <foreign>gopura</foreign>, and
+                                records the date of the coronation of Aḻakaṉ Civala-vēḷ. It took place on Monday, the 20th of
+                                Cittirai of the year Raktākṣi, Śaka 1486. This day corresponded with the 6th <foreign>tithi</foreign> of the
+                                bright half of that month, the <foreign>nakṣatra</foreign> being Punarvasu. The king is the well known
+                                Ativīrarāma Pāṇḍya of literary fame.</quote>
+                        </summary>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -87,11 +94,11 @@
                     <l n="b">ceka
                     <lb n="3" break="no"/>ṅkāṇa virattākki cittirai
                     <lb n="4" break="no"/>yil irupatān tēti vēntar</l>
-                    <l n="c"><lb n="5"/>pukaḻntēval ceyappūṟuva
-                    <lb n="6" break="no"/>titiyāṟil mutal vāram puṇar
+                    <l n="c"><lb n="5"/>pukaḻntēval ceya-p-pūṟuva
+                    <lb n="6" break="no"/>-titi y-āṟil mutal vāram puṇar
                     <lb n="7" break="no"/>pūcattiṟ</l>
-                    <l n="d">cukantāti puṉaiyaḻakaṉ
-                    <lb n="8"/>cīvalavēḷ eṉa makuṭañ cūṭiṉāṉē</l>
+                    <l n="d">cukant-āti-puṉai y-aḻakaṉ
+                    <lb n="8"/>cīvala-vēḷ eṉa makuṭañ cūṭiṉāṉē</l>
                 </lg>
                 
                 
@@ -113,8 +120,8 @@
             <div type="translation" source="bib:GopinathaRao1988_01">      
                 
                 <p>Aḻakaṉ who revels in perfumes etc., wore the crown in the presence, of all the people
-                    under the name of Civalavēḷl, on the first day of the week, the sixth <foreign>tithi</foreign> of the first fortnight
-                    and the twentieth of the month of Cittirai, in the year Raktakṣin corresponding to the Śaka
+                    under the name of Civalavēḷ, on the first day of the week, the sixth <foreign>tithi</foreign> of the first fortnight
+                    and the twentieth of the month of Cittirai, in the year Raktākṣin corresponding to the Śaka
                     year one thousand four hundred and eighty-six.</p>
             </div>
             
@@ -125,7 +132,7 @@
             <div type="bibliography">
                 
                 <p>Edited in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English translation (TAS 1.6.8).</p>
-                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>.</p>                    
+                <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>.</p>                    
                 <listBibl type="primary">
                     
                     <bibl n="TAS">

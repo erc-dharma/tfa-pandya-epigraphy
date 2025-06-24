@@ -123,7 +123,7 @@
             <div type="bibliography">
                 
                 <p>Edited in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English summary and visual documentation (TAS 1.6.11).</p>
-                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl> and visual documentation.</p>                    
+                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl> and visual documentation therein.</p>                    
                 <listBibl type="primary">
                     
                     <bibl n="TAS">
@@ -137,7 +137,7 @@
                     
                     <bibl>
                         <ptr target="bib:PierdominiciLeao2025-01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">333-338</citedRange>
                     </bibl>   
                 </listBibl>
                 

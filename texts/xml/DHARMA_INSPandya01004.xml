@@ -183,7 +183,7 @@
                 
             </div>
             
-            <div type="translation"/>      
+            <!--<div type="translation"/>-->      
             
             
             
@@ -194,7 +194,7 @@
             <div type="bibliography">
                 
                 <p>Edited in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English summary and visual documentation (TAS 1.6.1).</p>
-                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl> and visual documentation.</p>                    
+                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl> and visual documentation therein.</p>                    
                 <listBibl type="primary">
                     
                     <bibl n="TAS">

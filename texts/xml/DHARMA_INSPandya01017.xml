@@ -79,31 +79,60 @@
         <body>
             
             <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
-                             
+                
                 <lg n="1" met="śārdūlavikrīḍita">
-                    <l n="a"><lb n="1"/>...</l> 
-                    <l n="b">...</l>
-                    <l n="c">...</l>
-                    <l n="d">...</l>
+                    <!--Check verse scan pada cd-->
+                    <l n="a"><lb n="1"/>śrīma<choice><sic>T</sic><corr>c</corr></choice>-citrana<unclear>dī</unclear>-taṭe varaguṇa-śrīvallabha-kṣmāpatir</l>
+                        <l n="b"><surplus>y</surplus>yajvā sthāpayati sma deva-yajane yajñeśa-vi
+                        <lb n="2" break="no"/>ghneśvaraM <g type="danda">.</g></l> 
+                    <l n="c">prādāT taT purato ’bhiṣeka-puram ity āv<unclear>ā</unclear> sa<choice><sic>t</sic><corr>d</corr></choice>ma śrīyāmṛt<choice><sic>yu</sic><corr>vi</corr></choice></l>
+                    <l n="d">bhyaś śaka-vaTsare sugamake tatrā
+                        <lb n="3" break="no"/>grahārottamaM <g type="danda">.</g></l>
                 </lg>
+                
+                <lg n="2" met="vasantatilakā">
+                    <l n="a">prakhyāta-pāṇḍya-kula-śekhara-deva-yajvā</l>
+                    <l n="b">yajñeśvarābhidha gaṇādhipateḥ pratiṣṭāM <g type="danda">.</g></l>
+                    <l n="c"><lb n="4"/>kṛtvābhiṣeka-puramasya puro ’grahāraM</l>
+                    <l n="d">prādāT sva-deva-yajane nijayājakebhyaḥ <g type="danda">.</g></l>
+                </lg>
+                
+                <lg n="3" met="anuṣṭubh">
+                    <l n="a">Abhiṣeka-pure devā<unclear>n</unclear></l>
+                    <l n="b"><unclear>yaja</unclear><lb n="5" break="no"/>nto y<unclear>ā</unclear>jakā<unclear>ḥ</unclear> svayaM <g type="danda">.</g></l>
+                    <l n="c">dakṣiṇasyāmaśnuvate</l>
+                    <l n="d">kāśyāṃ kaidārasa<choice><sic>M</sic><corr>ṃ</corr></choice>padaM <g type="pc">.</g></l>
+                </lg>
+                
                 
             </div>
             
             <!--<div type="apparatus">
                 
                 <listApp>
-                    
-                    <app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:GopinathaRao1988_01">...</rdg>
-                    </app>
-                    
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:GopinathaRao1988_01">...</rdg>
+                </app>
+                
                 </listApp>
                 
-            </div>-->
+                </div>-->
             
-            <!--<div type="translation"/>-->      
-                        
+            <div type="translation" source="bib:GopinathaRao1988_01">
+                <p n="1" rend="stanza">In the Śaka year 1537 (denoted by) the chronogram <foreign>sugamaka</foreign>, the sacrificer,
+                    king Varaguṇa Śrīvallabha, set up on the bank of the (river) Chitranadi an image of Vighneśvara
+                    (called) Yajñeśa during a sacrifice (i.e., in commemoration of a sacrifice performed by him), and
+                    there presented to the sacrificial priests an excellent <foreign>agrahāra</foreign> named Abhiṣekapura, (situated)
+                    in front of it (the deity, which as it were was) the residence of wealth.</p>
+                <p n="2-3" rend="stanza">
+                    Having consecrated during the sacrifice, a Gaṇeśa named Yajñeśvara, the sacrificer,
+                    the famous Pāṇḍya Kulaśekharadeva, gave to his priests the <foreign>agrahāra</foreign> (named) Abhiṣekapura
+                    (built) in front of the deity. The sacrificial priests, who were themselves performing sacrifices,
+                    are enjoying the yield of the paddy fields in the (<foreign>agrahāra</foreign> of) Abhiṣekapura at Kāśi (Teṉkāci).</p>
+            </div>      
+            
             
             <!--<div type="commentary">
                 
@@ -111,7 +140,7 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English summary and visual documentation (TAS 1.6.14).</p>
+                <p>Edited in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English summary (TAS 1.6.14).</p>
                 <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>.</p>                    
                 <listBibl type="primary">
                     
@@ -125,8 +154,7 @@
                 <listBibl type="secondary">
                     
                     <bibl>
-                        <ptr target="bib:PierdominiciLeao2025-01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        
                     </bibl>   
                 </listBibl>
                 

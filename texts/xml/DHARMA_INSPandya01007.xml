@@ -118,7 +118,7 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English translation and visual documentation (TAS 1.6.4).</p>
+                <p>Edited in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English translation (TAS 1.6.4).</p>
                 <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>.</p>                    
                 <listBibl type="primary">
                     
@@ -130,10 +130,10 @@
                 </listBibl>
                 
                  <listBibl type="secondary">
-                    
                     <bibl>
-                       
-                    </bibl>   
+                        <ptr target="bib:PierdominiciLeao2025-01"/>
+                        <citedRange unit="page">229-230</citedRange>
+                    </bibl>    
                 </listBibl>
                 
             </div>
