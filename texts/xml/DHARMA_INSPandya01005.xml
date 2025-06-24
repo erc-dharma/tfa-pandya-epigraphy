@@ -81,9 +81,10 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 
-                <p>                    
+                <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">                    
                     <lb n="1"/>śubham astu
                 </p>
+                
                 <lg n="1" met="āciriyappā">
                     <l n="1">pūmicaivaṉitai mārpiṉiṟpoliya</l>
                     <l n="2">nāmicaikalaimakaḷ nalaṉuṟviḷaṅkap</l>
@@ -116,9 +117,54 @@
                     <l n="29">poṟkalattamutu polivittaruḷic</l>
                     <l n="30">caṇpakavaṉattuc caṅkarar tamakku</l>
                     <l n="31">maṇṭapamamaittu maṇimuṭi cūṭṭi</l>
-                    <l n="32"><lb n="2"/>...</l>
+                    <l n="32"><lb n="2"/>viḻāvaṇi naṭātti viraippuṉalāṭal</l>
+                    <l n="33">vaḻāvakai naṭātta niṉmaṉṉaruḷtaṉāl</l>
+                    <l n="34">vaṟṟāvaruviyum vaṟṟivaṟkaṭam</l>
+                    <l n="35">uṟṟavik kālattuṟupuṉal nalkeṉa</l>
+                    <l n="36">vēṇṭiyappoḻutē vēṟiṭattiṉṟi-c</l>
+                    <l n="37">cēṇṭarupuṉaliṟ ceḻumpuṉalāṭṭi</l>
+                    <l n="38">miṉkāl vēṇi vi<hi rend="grantha">śva</hi>nātarkku-t</l>
+                    <l n="39">teṉkācip peruṅkōyil ceytu</l>
+                    <l n="40">nallākama vaḻi naimittikamuṭaṉ</l>
+                    <l n="41">Ellāppūcaiyum Ekkōyiliṉum</l>
+                    <l n="42">poruḷ mutalaṉaittum puraiyaṟa naṭātti-t</l>
+                    <l n="43">tirumali cempoṟciṅkācaṉamicai</l>
+                    <l n="44">Ulakamuḻutum Uṭaiyāruṭaṉē</l>
+                    <l n="45">Ilaku karuṇaiyiraṇṭuruveṉṉa</l>
+                    <l n="46">Ammaiyum Appaṉu māyaṉaittuyirkkum</l>
+                    <l n="47">Immaippayaṉu maṟumaikkuṟutiyu</l>
+                    <l n="48">mēmpaṭa nalki vīṟṟiruntaruḷiya</l>
                 </lg>
                 
+                <p>
+                    <hi rend="grantha">śrī-Ari</hi>  . . . . . . <hi rend="grantha">de</hi>var-āṉa pa<hi rend="grantha">rākrama</hi>pā<hi rend="grantha">ṇḍyade</hi>vaṟku yāṇṭu Irupatt' eṭṭāvatiṉ Etirāvatu  . . . . . . . . . . ṟṟu Irupatt' oṉṟ-ān tiyatiyum <hi rend="grantha">pūṟṇai</hi>yum veḷḷikkiḻamaiyum peṟṟa cōti nāḷ
+                </p>
+                <p>
+                    teṉvārināṭṭu <hi rend="grantha">citranadi</hi> Utta<hi rend="grantha">ra</hi>tī<hi rend="grantha">ra</hi>ttil <hi rend="grantha">dakṣi</hi>ṇa<hi rend="grantha">kāśi</hi>yilē Uṭaiyār vi<hi rend="grantha">śva</hi>nā<hi rend="grantha">tha</hi>ṉukku <hi rend="grantha">Abhi</hi>navamāka U<hi rend="grantha">pā</hi>nā<hi rend="grantha">di sthūpiparya</hi>n=tamun tiru-p-paṇi ceytu Uṭaiyār vi<hi rend="grantha">śva</hi>nā<hi rend="grantha">tha</hi>ṉaiyum <hi rend="grantha">pra</hi>ti<hi rend="grantha">ṣṭhi</hi>ttu <hi rend="grantha">ArddhamaṇḍapaM</hi> Iṭaināḻikai <hi rend="grantha">mahāmaṇḍapaM so</hi>pāna<hi rend="grantha">M</hi> Ivaiyun tiru-p-paṇi ceytu tiru-p-paḷḷiAṟai-nācciyār mutalāka Uḷḷa tiru-v-uṭampukaḷum Ēṟi Aruḷa-p-paṇṇuvittu <hi rend="grantha">A</hi>va<hi rend="grantha">ra</hi>ṇa <hi rend="grantha">gopu</hi>ra<hi rend="grantha">radi</hi>kaḷum <hi rend="grantha">AraMbhi</hi>ttu mēl
+                    
+                    <lb n="3"/>Uṭaiyār vi<hi rend="grantha">śva</hi>nā<hi rend="grantha">thaN pūjai</hi>kku Amutu-paṭi cāttu-p-paṭi tirumālai-t tiru-p-parivaṭṭan tiru-viḷakku Uṭpaṭṭa pala ni<hi rend="grantha">tya</hi>-niya<hi rend="grantha">ma</hi>ṅkaḷukkum pala vi<hi rend="grantha">śeṣa-pūjai</hi>-tirunāṭ celavukkum muṉṉāḷ Iraṇṭāvatiṉ Etir Irupattu mūṉṟāvatu mutalukku nām tēvatāṉam-āka viṭṭa paṟṟukaḷil teṉvārināṭṭu-t teṉkācikku-p peru-nāṉk' elkai y-āvatu
+                   <list>
+                       <item>kīḻ Elkai puliyūṟpaṟṟāṉa kārāṇ kuḷattil nīrnakkalukkum parimpukkum puliyūr Akarappaṟṟil puñcaikkum nā<hi rend="grantha">rā</hi>yaṇa <hi rend="grantha">srīpādaṅ</hi>kaḷ maṭappuṟattil mēl Elkaikku mēṟkum</item>
+                    <item>teṉ Elkai <hi rend="grantha">citra</hi>natikku vaṭakku</item>
+                    <item>mēl Elkai kuṉṟakkuṭipparimpukku-k kiḻakkum</item>
+                    <item>va . . . . . . . . . . . . .  ceṉṉāypppoṟṟaikkum kuttukkallukkum teṟkum</item></list>
+                    
+                    Āka
+                    
+                    Iṉṉāṉkel . . . . . . . .
+                    
+                </p>
+                
+                <p>
+                    ...
+                    <lb n="7"/>kaiyāṇṭu kalliluñ cempilum veṭṭi-p pūcaiyun tāḻvaṟa naṭatti-p pōtavum pāṟka
+                </p>
+                <p>
+                    Ivai kiṭārattūṟ-uṭaiyāṉ Eḻuttu <g type="pc">.</g>
+                </p>
+                <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    tulyaM
+                </p>
             </div>
             
             <!--<div type="apparatus">

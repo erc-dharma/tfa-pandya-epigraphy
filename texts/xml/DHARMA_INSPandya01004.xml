@@ -81,9 +81,10 @@
             <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                 
                 <pb n="1r"/>
-                
+                                
                 <p>
                     <pb n="1v"/>
+                    <fw place="top" n="1v">1</fw>
                     <lb n="1v1=1"/>śubham astu
                 </p>
                 
@@ -125,7 +126,7 @@
                 </lg>  
                 
                 <lg n="7" met="śārdūlavikrīḍita">
-                    <l n="ab">... <pb n="2r"/>...</l>
+                    <l n="ab">... <pb n="2r"/><fw place="left" n="2r">2</fw>...</l>
                     <l n="cd">...</l>
                 </lg>
                 
@@ -153,6 +154,7 @@
                     <l n="d">dānāMbhas surabhita<lb n="2r20=47" break="no"/>gaṇḍamaṇḍalānāM <g type="danda">.</g></l>
                 </lg>  
                 
+                <p>...</p>
             </div>
             
             <div type="apparatus">
