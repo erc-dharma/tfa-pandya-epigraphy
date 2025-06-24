@@ -84,24 +84,59 @@
                 <p>                    
                     <lb n="1"/>śubham astu
                 </p>
-                <p>pūmicaivaṉitai mārpiṉiṟpoliya nāmicaikalaimakaḷ nalaṉuṟviḷaṅkap puyavaraimītu cayamakaḷ puṇarak kayaliṇaiyulakiṉ kaṇṇeṉattikaḻac cantirakulattu vantavata<unclear>ri</unclear>ttu muntaiyōr tavattiṉmuḷaiyeṉa vaḷarntu teṉkalai vaṭakalai teḷivuṟatterintu maṉpataipurakka maṇimuṭi puṉaintu caṅkaracaraṇapaṅkayañcūṭic ceṅkōlōcci veṇkuṭainiḻaṟṟi vāṉavāriyu maṉṉaruḷ vāriyun tāṉavāri yuntappātaḷittu maṟakkaḷaipaṟittu nallaṟappayir viḷaittuc ciṅkaiyi laṉuraiyilirācaiyiṟ ceṇ<choice><sic>ṭ</sic><corr>p</corr></choice>aiyil vintaiyilantaiyil mutalaiyil vīraiyil vaippāṟ <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" extent="unknown" unit="character"/> ṉṉaraiveṉ kaṇṭeppāṟṟicaiyu micaiviḷakkēṟṟippatiṉeṇ <gap reason="lost" extent="unknown" unit="character"/> kampōṟṟap patiṉeṇpā<hi rend="grantha">ṣai</hi>p pārttiparaṉai varuntiṟaiyuñ ciṉṉamu muṟaimuṟai kuṇarntu ...</p>
+                <lg n="1" met="āciriyappā">
+                    <l n="1">pūmicaivaṉitai mārpiṉiṟpoliya</l>
+                    <l n="2">nāmicaikalaimakaḷ nalaṉuṟviḷaṅkap</l>
+                    <l n="3">puyavaraimītu cayamakaḷ puṇarak</l>
+                    <l n="4">kayaliṇaiyulakiṉ kaṇṇeṉattikaḻac</l>
+                    <l n="5">cantirakulattu vantavata<unclear>ri</unclear>ttu</l>
+                    <l n="6">muntaiyōr tavattiṉmuḷaiyeṉa vaḷarntu</l>
+                    <l n="7">teṉkalai vaṭakalai teḷivuṟatterintu</l>
+                    <l n="8">maṉpataipurakka maṇimuṭi puṉaintu</l>
+                    <l n="9">caṅkaracaraṇapaṅkayañcūṭic</l>
+                    <l n="10">ceṅkōlōcci veṇkuṭainiḻaṟṟi</l>
+                    <l n="11">vāṉavāriyu maṉṉaruḷ vāriyun</l>
+                    <l n="12">tāṉavāri yuntappātaḷittu</l>
+                    <l n="13">maṟakkaḷaipaṟittu nallaṟappayir viḷaittuc</l>
+                    <l n="14">ciṅkaiyi laṉuraiyilirācaiyiṟ ceṇ<choice><sic>ṭ</sic><corr>p</corr></choice>aiyil</l> 
+                    <l n="15">vintaiyilantaiyil mutalaiyil vīraiyil</l>
+                    <l n="16">vaippāṟ <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg>e</seg> <gap reason="lost" extent="unknown" unit="character"/> ṉṉaraiveṉ kaṇṭ'</l>
+                    <l n="17">eppāṟṟicaiyu micaiviḷakkēṟṟip</l>
+                    <l n="18">patiṉeṇ <gap reason="lost" extent="unknown" unit="character"/> kampōṟṟap</l>
+                    <l n="19">patiṉeṇpā<hi rend="grantha">ṣai</hi>p pārttiparaṉai varun</l>
+                    <l n="20">tiṟaiyuñ ciṉṉamu muṟaimuṟai kuṇarntu</l>
+                    <l n="21">kuṟaipalavirantu kuraikaḻaliṟaiñca</l>
+                    <l n="22">v-avaravar vēṇṭiyata varavarkkaruḷi</l>
+                    <l n="23">Antaṇaraṉēkar centaḻalōmpa</l>
+                    <l n="24">vintaimutal Akaram Aintiṭattiyaṟṟic</l>
+                    <l n="25">civaneṟiyōṅkac civāṟcaṉai purintu</l>
+                    <l n="26">marutūrāṟku maṇṭapamamaittu</l>
+                    <l n="27">muṉ Oru tūr mūṅkiluḷ pukkirunta</l>
+                    <l n="28">ciṟparar tammaittiruvatta cāmattup</l>
+                    <l n="29">poṟkalattamutu polivittaruḷic</l>
+                    <l n="30">caṇpakavaṉattuc caṅkarar tamakku</l>
+                    <l n="31">maṇṭapamamaittu maṇimuṭi cūṭṭi</l>
+                    <l n="32"><lb n="2"/>...</l>
+                </lg>
                 
             </div>
             
             <!--<div type="apparatus">
                 
                 <listApp>
-                    
-                    <app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:GopinathaRao1988_01">...</rdg>
-                    </app>
-                    
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:GopinathaRao1988_01">...</rdg>
+                </app>
+                
                 </listApp>
                 
-            </div>-->
+                </div>-->
             
-            <div type="translation"/>      
+            <div type="translation" source="bib:GopinathaRao1988_01">
+                <p>...</p>
+            </div>      
             
             
             

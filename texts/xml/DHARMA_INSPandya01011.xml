@@ -81,28 +81,42 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 
-                <p><lb n="1"/></p>
+                <lg n="1" met="aṟucīrkkaḻineṭilaṭi yāciriyaviruttam">
+                    <l n="a"><lb n="1"/>cakaṉ kālam āyirattu nāṉūṟṟ' e
+                    <lb n="2" break="no"/>ṇpatt' āṟiṟ calati cūḻnta</l>
+                    <l n="b">ceka
+                    <lb n="3" break="no"/>ṅkāṇa virattākki cittirai
+                    <lb n="4" break="no"/>yil irupatān tēti vēntar</l>
+                    <l n="c"><lb n="5"/>pukaḻntēval ceyappūṟuva
+                    <lb n="6" break="no"/>titiyāṟil mutal vāram puṇar
+                    <lb n="7" break="no"/>pūcattiṟ</l>
+                    <l n="d">cukantāti puṉaiyaḻakaṉ
+                    <lb n="8"/>cīvalavēḷ eṉa makuṭañ cūṭiṉāṉē</l>
+                </lg>
                 
                 
             </div>
             
-             <!--<div type="apparatus">
+            <!--<div type="apparatus">
                 
                 <listApp>
-                    
-                    <app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:GopinathaRao1988_01">...</rdg>
-                    </app>
-                    
+                
+                <app loc="0">
+                <lem>...</lem>
+                <rdg source="bib:GopinathaRao1988_01">...</rdg>
+                </app>
+                
                 </listApp>
                 
-            </div>-->
+                </div>-->
             
             <div type="translation" source="bib:GopinathaRao1988_01">      
                 
-                
-                </div>
+                <p>Aḻakaṉ who revels in perfumes etc., wore the crown in the presence, of all the people
+                    under the name of Civalavēḷl, on the first day of the week, the sixth <foreign>tithi</foreign> of the first fortnight
+                    and the twentieth of the month of Cittirai, in the year Raktakṣin corresponding to the Śaka
+                    year one thousand four hundred and eighty-six.</p>
+            </div>
             
             <!--<div type="commentary">
                 

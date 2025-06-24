@@ -85,6 +85,10 @@
                     <lb n="1"/>śubham astu
                 </p>
                 
+                <lg n="1" met="eṇcīrkkaḻi neṭilaṭiyāciriya viruttam">
+                    <l n="a">Aṉpiṉuṭaṉ ...</l>
+                </lg>
+                
             </div>
             
             <!--<div type="apparatus">
@@ -100,10 +104,9 @@
                 
             </div>-->
             
-            <div type="translation"/>      
+            <!--<div type="translation"/>-->      
             
-            
-            
+                        
             <!--<div type="commentary">
                 
                 </div>-->

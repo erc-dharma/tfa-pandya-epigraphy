@@ -82,7 +82,7 @@
                 
                 <pb n="1r"/>
                 
-                <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                <p>
                     <pb n="1v"/>
                     <lb n="1v1=1"/>śubham astu
                 </p>
@@ -194,7 +194,7 @@
             <div type="bibliography">
                 
                 <p>Edited in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English summary and visual documentation (TAS 1.6.1).</p>
-                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl> and and visual documentation.</p>                    
+                <p>This revised edition by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl> and visual documentation.</p>                    
                 <listBibl type="primary">
                     
                     <bibl n="TAS">
