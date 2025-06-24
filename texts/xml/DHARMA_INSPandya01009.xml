@@ -91,26 +91,73 @@
                 <p>
                     <hi rend="grantha">bhuvanekavīra</hi>
                     <lb n="2" break="no"/>-<hi rend="grantha">candrakula-pradīpa-kojaṭilavarmma-tri</hi>
-                    <lb n="2" break="no"/><hi rend="grantha">bhuvanaccakravartti</hi>-...
+                    <lb n="3" break="no"/><hi rend="grantha">bhuvana-c-cakravartti-ko</hi>nēriṉmai-koṇṭaṉ
+                    <lb n="4"/>perumāḷ <hi rend="grantha">Abhirāma-parākrama-pāṇḍya</hi>-tēvar nan=tana<hi rend="grantha">rā</hi>ṉa
+                    <lb n="5"/><hi rend="grantha">śrī-perumāḷ kuḷa-śekhara</hi>-tēvar-āṉa <hi rend="grantha">parākrama-pāṇḍya</hi>
+                    <lb n="6" break="no"/>-tēvaṟku yāṇṭu <hi rend="grantha">śakābdaM</hi> <num value="1467"><g type="numeral">1000</g> 4 <g type="numeral">100</g> 6 <g type="numeral">10</g> 7</num>-l mūṉṟ-āvatu vi<hi rend="grantha">śvā</hi>va
+                    <lb n="7" break="no"/><hi rend="grantha">su</hi>-va<hi rend="grantha">ruṣa</hi>m Aṟpaci <hi rend="grantha">māsaM</hi> muppatān tiyatiyum <hi rend="grantha">Aparapa</hi>
+                    <lb n="8" break="no"/><hi rend="grantha">kṣa</hi>ttu <hi rend="grantha">Ekādaśi</hi>yum <hi rend="grantha">śukra</hi>-vāramum vai<hi rend="grantha">dhṛti</hi>-yo<hi rend="grantha">ga</hi><unclear>mu</unclear>
+                    <lb n="9" break="no"/>m <hi rend="grantha">siṃhakara</hi>ṇāmum peṟṟa Ut=ti<hi rend="grantha">ra</hi>ttu nāḷ
+                </p>
+                <p>
+                    teṉṉā<unclear>ri</unclear>
+                    <lb n="10" break="no"/>-nāṭṭu ceṅkōṭṭaiyil Uṭaiyār kulacē
+                    <lb n="11" break="no"/>karam-uṭaiya nayiṉārku tēvatāṉam pāṭṭām-āka
+                    <lb n="12"/>kuṭutta nilam Araimāvukku nām cēttu-k kuṭutta
+                    <lb n="13"/>nilamāvatu mēṟpaṭi nāṭṭu mēṟpaṭi y-ūril
+                    <lb n="14"/>mēṟpaṭiyār Añcāliyil mēlvāram tavirttu
+                    <lb n="15" break="no"/>k kuṭutta kuḷappuravu patiṉoṉṟāṅ kaṇṇāṟu taṭi
+                    <lb n="16"/>Āṟu nilam Araikkāṇi muntirikai paṉṉiraṇ
+                    <lb n="17" break="no"/>ṭāṅ kaṇṇāṟu taṭi Eṭṭu nilam Aaraikkāṇi mu
+                    <lb n="18" break="no"/>ntirikai patiṉmūṉṟāṅ kaṇṇāṟu taṭi Añcu
+                    <lb n="19"/>nilam Araikkāṇi Ituvum Āka nilam Arai māvum
+                    <lb n="20"/>nāḷatu mutalukku nāṅkoḷḷum muṟaipāṭu Eṟpēṟ
+                    <lb n="21" break="no"/>paṭṭatum nam variyilār kaṇakkilum tavirttu <hi rend="grantha">Āca</hi>
+                    <lb n="22" break="no"/><hi rend="grantha">ndrā</hi>tā<hi rend="grantha">ra</hi>vaṟ cempi<hi rend="grantha">lu</hi>m ci<hi rend="grantha">lai</hi>yi<hi rend="grantha">lu</hi>m veṭṭikai-
+                    <lb n="23" break="no"/>yyāṇṭu koḷḷavum
+                </p>
+                <p  xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">tulyaM</p>
+                <p>pāṟka</p>
+                <p>Ivai
+                    <lb n="24"/><gap reason="lost" quantity="10" unit="character"/>
                 </p>
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                
-                <app loc="0">
-                <lem>...</lem>
-                <rdg source="bib:GopinathaRao1988_01">...</rdg>
-                </app>
-                
+                    
+                    <app loc="12">
+                        <lem>cēttukkuṭutta</lem>
+                        <note><ptr target="bib:GopinathaRao1988_01"/>: <quote>Read <foreign>cērttukkoṭutta</foreign>.</quote></note>
+                    </app>
+                    <app loc="21">
+                        <lem>Eṟpēṟ
+                    <lb n="21" break="no"/>paṭṭatum</lem>
+                        <note><ptr target="bib:GopinathaRao1988_01"/>: <quote>Read <foreign>Eppēṟpaṭṭatum</foreign>.</quote></note>
+                    </app>
+                    
                 </listApp>
                 
-                </div>-->
+            </div>
             
-            <!--<div type="translation"/>-->      
-            
+            <div type="translation">
+                <p>Be it well. Hail! Prosperity! In the Śaka year 1467 expired, which was the third year
+                    of the reign of Perumāḷ Parākrama Pāṇḍyadeva <hi rend="italic">alias</hi> Kulaśekharadeva,― the unrivalled
+                    hero of the world, the light of the <foreign>candra-kula</foreign>, the king Jaṭilavaraman, the lord of the three
+                    worlds, Kōnēriṉmaikoṇṭāṉ, the son of Perumāḷ Abhirāma Parākrama Pāṇḍyadeva; on a
+                    Friday corresponding to Ekadaśi in the dark half and the thirtieth of the month of Arpaci in
+                    the year Viśvāsu, in the Vaidhṛti yoga, Siṃha <foreign>karaṇa</foreign> and the Uttarā-nakṣatra, the king added
+                    further grant of lands to those already made to the God Kulaśekharam-uṭaiyar of Ceṅkōṭṭai in
+                    the Teṉṉāri-nāṭu; they are the tank fed lands (1) of six <foreign>taṭi</foreign>s measuring <foreign>araikkāṇi-muntiri</foreign>, and
+                    situated near the eleventh channel, (2) of eight <foreign>taṭi</foreign>s measuring <foreign>araikkāṇi-muntiri</foreign>, and situated
+                    near the twelfth channel and (3) of five <foreign>taṭi</foreign>s measuring <foreign>araikkāṇi</foreign>; total, half a <foreign>mā</foreign>. The
+                    revenue accountants are ordered by the king to note that all taxes due to him from those lands
+                    have been abolished. The donee might get this document engraved on stone and copper and
+                    enjoy it as long as the moon and stars endure. The word <foreign>tulyam</foreign>, the royal signature is here
+                    engraved. Be it noted this is the signature of . . . . . . . . . .</p>
+            </div>      
             
             
             <!--<div type="commentary">
