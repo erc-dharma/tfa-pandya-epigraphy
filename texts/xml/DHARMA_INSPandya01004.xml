@@ -81,7 +81,7 @@
             <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                 
                 <pb n="1r"/>
-                                
+                
                 <p>
                     <pb n="1v"/>
                     <fw place="top" n="1v">1</fw>
@@ -99,11 +99,19 @@
                     <l n="b">saṃkalpas sacarācarañ ja
                         <lb n="1v4=4" break="no"/>gad idaṃ vāṇī ca sākṣāt tray<choice><sic>i</sic><corr>ī</corr></choice> <g type="danda">.</g></l>
                     <l n="c">Akalpaḥ kalaśī <lb n="1v5=5"/>jaṭāḥ kamalinī bījāvalī valkalaM</l>
-                    <l n="d">jyotiḥ <lb n="1v6=6"/>puṣyatu viṣvagānam idaṃ bhadrāṇi bhūyāṃ<supplied reason="lost">si</supplied> vaḥ <g type="danda">.</g></l>
+                    <l n="d">jyotiḥ <lb n="1v6=6"/>puṣyatu viṣvagānam idaṃ bhadrāṇi bhūyāṃ<supplied reason="lost">si</supplied> <lb n="1v7=7"/>vaḥ <g type="danda">.</g></l>
                 </lg>
                 <lg n="2" met="śārdūlavikrīḍita">
-                    <l n="ab">...</l>
-                    <l n="cd">...</l>
+                    <l n="a">śeṣorasthalaśāyi dāritamahānī
+                        <lb n="1v8=8" break="no"/>lāśmaraśmiyā<choice><sic>chś</sic><corr>cch</corr></choice>avi</l>
+                    <l n="b">kṣ<choice><orig>i</orig><reg>ī</reg></choice>rodapratibiMbitāM
+                        <lb n="1v9=9" break="no"/>baratalaśrīcāru yad rājate <g type="danda">.</g> 
+                    </l>
+                    <l n="c">sve<choice><sic>chś</sic><corr>cch</corr></choice>ā-mātra
+                        <lb n="1v10=10" break="no"/>-vikalpita-tribhuvana-sthānopasarggodayaM</l>
+                    <l n="d">
+                        <lb n="1v11=11"/>tejas ta<choice><orig>T</orig><reg>d</reg></choice> dyumaṇīndu-netra-maniśaM bhadrāṇi pu
+                        <lb n="1v12=12" break="no"/>ṣṇātu vaḥ <g type="danda">.</g></l>
                 </lg>
                 <lg n="3" met="śārdūlavikrīḍita">
                     <l n="ab">...</l>
@@ -171,15 +179,15 @@
                         <rdg source="bib:GopinathaRao1988_01">sakalpas</rdg>
                     </app>
                     
-                   <!-- <app loc="0">
+                    <!-- <app loc="0">
                         <lem>...</lem>
                         <rdg source="bib:GopinathaRao1988_01">...</rdg>
-                    </app>
-                    
-                    <app loc="0">
+                        </app>
+                        
+                        <app loc="0">
                         <lem>...</lem>
                         <rdg source="bib:GopinathaRao1988_01">...</rdg>
-                    </app>-->
+                        </app>-->
                     
                 </listApp>
                 

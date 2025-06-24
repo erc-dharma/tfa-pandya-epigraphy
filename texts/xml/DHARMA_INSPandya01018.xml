@@ -78,15 +78,21 @@
     <text xml:space="preserve">
         <body>
             
-            <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+            <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/>cakāttam <num value="1538"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 3 <g type="numeral">10</g> <unclear>8</unclear></num> ṉ cellāniṉṟa srī <unclear>perumāḷ</unclear> cīvala māṟaṉ varakuṇa<unclear>rā</unclear>maṉ-āṉa pāṇṭiya-kulacēkara-cōmāciyāṟku Āṇṭu mūṉṟ-āvatu naḷa
-                    <lb n="2"/><g type="varuṣam"/> tai <g type="mācam"/> <num value="21">2 <g type="numeral">10</g> 1</num> <g type="tēti"/> cuvāmiyār tirumūlaṉātar kōvil cīkāriyan tā<unclear>ṉī</unclear>kar kaṇakkaṟku varakkāṭṭiṉa kāriyam cittāttaṅkarai kaṟavai kā
-                    <lb n="3" break="no"/>ṇam kīḷa<unclear>paṟu</unclear>māya māṉakuṟicci Āparil māvuṇṭaṉ puḷḷiyil kālēri Aṇaiñcāṉ paṇṭāram pē<unclear>rā</unclear>l mākāṇi Araikka<unclear>raṇi</unclear>
-                    <lb n="4" break="no"/>kkukār <unclear>paṇam</unclear> 6 pācāṉaM <unclear>paṇam</unclear> 6 Āka-p paṇaM ppaṉṉiraṇṭuM cuvāmikku neyviḷakkukku-k kaṭṭaḷaiyiṭṭōM Appaṭiyē
-                    <lb n="5"/>Ācantirāṟkañ cantatippiṟavēcamē cuvāmiyuṭaiya kuṭiyāka-k kaṭṭaḷaiyiṭṭōm appaṭiyē kaiyyāṇṭu ko
-                    <lb n="6" break="no"/>ḷḷa<unclear>vum</unclear> Ippaṭikkut tiruvuḷappaṭi                    
+                    <lb n="1"/>cakāttam <num value="1538"><g type="numeral">1000</g> 5 <g type="numeral">100</g> 3 <g type="numeral">10</g> <unclear>8</unclear></num> ṉ cellā niṉṟa srī-<unclear>perumāḷ</unclear> cīvala-māṟaṉ varakuṇa-<unclear>rā</unclear>maṉ-āṉa pāṇṭiya-kulacēkara-cōmāciyāṟku Āṇṭu mūṉṟ-āvatu naḷa
+                    <lb n="2"/><g type="varuṣam"/> tai <g type="mācam"/> <num value="21">2 <g type="numeral">10</g> 1</num> <g type="tēti"/>
+                </p>
+                <p>                    
+                    cuvāmiyār tiru-mūla-ṉātar kōvil cī-kāriyan tā<unclear>ṉī</unclear>kar kaṇakkaṟku vara-k kāṭṭiṉa kāriyam cittāttaṅkarai kaṟavai kā
+                    <lb n="3" break="no"/>ṇam kīḷa<unclear>paṟu</unclear>māya māṉakuṟicci Āparil māvuṇṭaṉ puḷḷiyil kālēri Aṇaiñcāṉ paṇṭāram pē<unclear>rā</unclear>l mākāṇi Araikk<unclear>āṇi</unclear>
+                    <lb n="4" break="no"/>kkukār <unclear>paṇam</unclear> 6 pācāṉaM <unclear>paṇam</unclear> 6 Āka-p paṇaM ppaṉṉiraṇṭuM cuvāmikku ney-viḷakkukku-k kaṭṭaḷaiyiṭṭōM Appaṭiyē
+                    <lb n="5"/>Ācantirāṟkañ cantati-p-piṟavēcamē cuvāmi-y-uṭaiya kuṭi-y-āka-k kaṭṭaḷai-y-iṭṭōm ap-paṭiyē kaiyyāṇṭu ko
+                    <lb n="6" break="no"/>ḷḷa<unclear>vum</unclear>
+                </p>
+                <p>
+                    Ip-paṭikku-t tiru-v-uḷa-p paṭi                    
                 </p>
                 
                 <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">śubham astu</p>
@@ -131,7 +137,7 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English translation (TAS 1.6.15).</p>
+                <p>Edited from ink impressions in <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>, with English translation (TAS 1.6.15).</p>
                 <p>This digital edition by Emmanuel Francis, based on <bibl><ptr target="bib:GopinathaRao1988_01"/></bibl>.</p>                    
                 <listBibl type="primary">
                     

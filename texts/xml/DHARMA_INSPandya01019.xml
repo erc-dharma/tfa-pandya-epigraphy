@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tirukkuttalam plate of Civala Varaguṇarāma alias Pāṇḍya Kulaśekharadeva Dīkṣiṭar, Śaka year 1670 (1 of 2)</title>
+                <title>Tirukkuttalam plate of Cīvala Varaguṇarāma alias Pāṇḍya Kulaśekharadeva Dīkṣiṭar, Śaka year 1670 (1 of 2)</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -83,33 +83,100 @@
                 <p>
                     <pb n="1r"/>
                     <lb n="1r1=1"/><g type="pc"/> cālivākaṉa-cakārttam <num value="1675"><g type="numeral">1000</g> 6 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5</num>ṉ mēl-c ce
-                    <lb n="1r2=2"/>llāniṉṟa kollam cukattiṟipavaṉēkavīra-cantira
-                    <lb n="1r3=3"/>kula-p-piṟatīpa-maturā-makēntira-cēnta-maṅkala-p-pur
-                    <lb n="1r4=4"/>āvalatīcura-ceyamācūra-nāraciṅka-kēraḷa-tamōti
-                    <lb n="1r5=5"/>vākara cōḷacintu vaṭavānala caṅkīta cāyuttiyaca
-                    <lb n="1r6=6"/>...
-
+                    <lb n="1r2=2" break="no"/>llā niṉṟa kollam cukattiṟip<choice><sic>a</sic><corr>u</corr></choice>vaṉēkavīra<!--note-->-cantira
+                    <lb n="1r3=3" break="no"/>-kula-p-pi<choice><orig>ṟ</orig><reg>r</reg></choice>atīpa-maturā-makēntira-cēnta-maṅkala-p-pur
+                    <lb n="1r4=4" break="no"/>āvalatīcura<!--note-->-ceyamācūra<!--note-->-nāraciṅka-kēraḷa-tamōti
+                    <lb n="1r5=5" break="no"/>vākara-cōḷacintu-vaṭavānala-caṅkīta-cāyuttiya-c
+                    <lb n="1r6=6" break="no"/>āṟuvapūva-tē<surplus>y</surplus>va-p-pirāmaṇa-tāpaṉācāriya-kō-caṭi
+                    <lb n="1r7=7" break="no"/>la-vaṉmar-āṉa tiṟipuvaṉa-cakki<choice><orig>ṟ</orig><reg>r</reg></choice>ava<choice><orig>ṟ</orig><reg>r</reg></choice>tti-kōṉē<unclear>ri</unclear>ṉmai
+                    <lb n="1r8=8" break="no"/>koṇṭāṉ <hi rend="grantha">śrī</hi>-perumāḷ a<choice><orig>ḷ</orig><reg>ḻ</reg></choice>aka<choice><orig>m</orig><reg>ṉ</reg></choice> perumāḷ y-iṟa
+                    <lb n="1r9=9" break="no"/>nta kālam eṭutta cīvala-varakuṇa-rāma-<unclear>p</unclear>āṇṭiya-kula-cēka
+                    <lb n="1r10=10" break="no"/>ra-tēva-tīṭc<choice><sic>a</sic><corr>i</corr></choice>tarukku Āṇṭu Āvatu kollam <num value="930">9 <g type="numeral">100</g> 3 <g type="numeral">10</g></num>
+                    <lb n="1r11=11"/><g type="varuṣam"/> pava <g type="varuṣam"/> kār<supplied reason="omitted">t</supplied>t<choice><sic>ī</sic><corr>i</corr></choice><supplied reason="omitted">kai</supplied> <g type="mācam"/> <surplus>va</surplus> <num value="26">2 <g type="numeral">10</g> 6</num> <g type="tēti"/> Ātitta-vāramum Uttira
+                    <lb n="1r12=12" break="no"/>-naṭcetti<unclear>ra</unclear>mum navamiyum Āyuṭkkiraṇa-nāma-yō
+                    <lb n="1r13=13" break="no"/>kamum keca-karaṉamum cupa-yōka-cupa-karaṇamum pe
+                    <lb n="1r14=14" break="no"/>ṟṟa pu<choice><orig>ṉṉ</orig><reg>ṇṇ</reg></choice>iya <unclear>ti</unclear>ṉattil
+                </p>
+                <p>
+                    cuvāmi ku<choice><orig>tt</orig><reg>ṟṟ</reg></choice>āla<choice><orig>ṉ</orig><reg>n</reg></choice>āta-cuvā
+                    <lb n="1r15=15" break="no"/>mi kōvil-c cāyalaṭcai-k (17) kaṭṭaḷaikku Irāc<unclear>ā</unclear>kka
+                    <lb n="1r16=16" break="no"/>ḷ kaṟkaṉāṭakamatta Upayarāṉuvamum (18) kuṭi <unclear>pa</unclear>ṭaicey
+                    <lb n="1r17=17" break="no"/>toḷilāḷiyaḻuṅ (19) kaṭṭaḷai vaittu-k koṭutta
+                    <lb n="1r18=18" break="no"/>tu varucam (20) Oṉṟukku-p pallakku-k-kāṟarukku-p pa
+                    <lb n="1r19=19" break="no"/>ttu paṇamum kutirai cuṟuṭṭi-k-kārarukku mūṉ
+                    <lb n="1r20=20" break="no"/>ṟu paṇamum rāṇuvattukku Oru paṇamum atta-k kuṭi
+                    <lb n="1r21=21" break="no"/>paṭaikku Oru paṇam vītam Inta-p paṭikku-k kuṭuttu
+                    <lb n="1r22=22"/>naṭatti varuvōm ākavum <g type="pc">.</g>
+                </p>
+                <p>
+                    Inta-p paṭikku Upaya
+                    <lb n="1r23=23" break="no"/>rāṇuvattār-t taṟmattai-p (21) paripālaṉam paṇ
+                    <lb n="1r24=24" break="no"/>ṇiṉa pēr teyva-p-piratiṭṭai paṇṇiṉa puṇṇi
+                    <lb n="1r25=25" break="no"/>yattil Aṭaivār ākavum
+                </p>
+                <p>
+                    Itaṟku Akitam paṇṇi-
+                    <lb n="1r26=26" break="no"/>ṉa pēr mātā-pitāvukkuṅ kuruvukkum Akitam
+                    <lb n="1r27=27"/>paṇṇiṉa tō<hi rend="grantha">ṣa</hi>ttilēyum keṅkai-k (22) karaiyilē
+                    <lb n="1r28=28"/>kō-katti piramatti-c ciṟi-katti (23) paṇṇiṉa tō
+                    <lb n="1r29=29" break="no"/><hi rend="grantha">ṣa</hi>ttilēyum pōvār ākavum <g type="pc">.</g>
+                </p>
+                <p>
+                    Ippaṭikku-t tā
+                    <lb n="1r30=30" break="no"/>ṉa-cātaṉam-āka kuttālaṉāta(16)-cuvāmi cāyalaṭ
+                    <lb n="1r31=31" break="no"/>cai-k (17) kaṭṭaḷaikku Upayarāṇuvattār paṭṭai
+                    <lb n="1r32=32" break="no"/>yam E<choice><orig>ḷ</orig><reg>ḻ</reg></choice>uti kuṭuttōm
+                </p>
+                <p>
+                    Inta-t taṟmattu-k k<unclear>ā</unclear>
+                    <lb n="1r33=33" break="no"/>riyam tiru-v-āṭutuṟai (25) maṭattu-p pāricañcey
+                    <lb n="1r34=34" break="no"/>tiruppatāl-t taṟmam (21) paripālaṉam-āka naṭat<unclear>tu</unclear>
+                    <lb n="1r35=35" break="no"/>-viccu-k koḷvār ākavum <g type="pc">.</g>
+                </p>
+                <p>
+                    ku<choice><orig>tt</orig><reg>ṟṟ</reg></choice>āla-<choice><orig>ṉ</orig><reg>n</reg></choice>āta-cu
+                    <lb n="1r36=36" break="no"/>vāmi tuṇai <g type="pc">.</g>                    
+                    
                 </p>
                 
                 <pb n="1v"/>
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
                     
-                    <app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:GopinathaRao1988_01">...</rdg>
+                    <app loc="5">
+                        <lem>c
+                            <lb n="1r6=6" break="no"/>āṟuvapūva</lem>
+                        <note><ptr target="bib:GopinathaRao1988_01"/>: <quote>Read <foreign>cārvapauma</foreign>.</quote></note>
                     </app>
                     
                 </listApp>
                 
-            </div>-->
+            </div>
             
-            <!--<div type="translation"/>-->      
-                        
+            <div type="translation" source="bib:GopinathaRao1988_01">
+                <p n="1-2">The year 1675 of the Śalivāhana Śaka era had expired.</p>
+                <p n="2-8">The usual later Pāṇḍya introduction here follows.</p>
+                <p n="8-22">In the Kollam year 930 Bhava on the auspicious day, the 26th of (the month)
+                    Kārttikai, Sunday Uttara <foreign>nakṣatra</foreign> the ninth <foreign>tithi</foreign> and Āyuṣ-karaṇa, in the reign of Perumāḷ
+                    Aḻakaṉ Perumāḷ the Pāṇḍya king Kulaśekharadeva Dikṣitar alias Cīvala Varaguṇarāma, who
+                    brought back the past (glory); the two armies, the one of the king of Karnāṭaka and those of the
+                    others, the farmers and other labourers established a <foreign>kaṭṭaḷai</foreign> (a course of <foreign>pūjā</foreign> and offerings) to
+                    be daily performed in the evenings: (for which) we agreed to pay annually each at the rate of
+                    ten <foreign>paṇam</foreign>s for one who employs a palanquin: for horsemen, three <foreign>paṇam</foreign>s; for foot soldiers,
+                    one <foreign>paṇam</foreign>; and for all others a <foreign>paṇam</foreign>. Thus we agreed to pay and conduct the <foreign>kaṭṭaḷai</foreign>.</p>
+                <p n="22-29">Those that protect this charity would obtain virtue, while those that wish evil
+                    to it shall incur sins.</p>
+                <p n="29-32">Thus we executed this bond of charity for the evening services of the god
+                    Kuttālanāthasvāmin.</p>
+                <p n="32-36">As this charity has been placed under the management of the Tiruvāṭutuṟai
+                    <foreign>maṭha</foreign>, it shall take care of the charity. May the grace of the god Kuttālanāthasvāmin (be with us).</p>
+                
+            </div>      
+            
             
             <!--<div type="commentary">
                 
