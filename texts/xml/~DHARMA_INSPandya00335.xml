@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Sundareśvara temple, Centalai, Tiruvaiyāṟu taluk, Tañcāvūr district. On a pillar in the <foreign>maṇḍapa</foreign> at the entrance of the temple. This inscription is engraved on three of the facets of the octagonal section of a pillar which square faces are engraved with long 8th century Muttaraiyar inscriptions (EI 13.10). At the end of the text on the middle facet, in a slightly different script, two words are engraved on two lines which read <lb n="1"/> <foreign>amaru <gap reason="lost" extent="unknown" unit="character"/></foreign> <lb n="2"/> <foreign>ū<gap reason="lost" extent="unknown" unit="character"/>tta</foreign>. The other facets of the octagonal section are engraved with a donation by the king Nandivarman III Pallava dated with his 12th regnal year (SII 6.447).</p>
+                        <summary><p>Sundareśvara temple, Centalai, Tiruvaiyāṟu taluk, Tañcāvūr district. On a pillar in the <foreign>maṇḍapa</foreign> at the entrance of the temple.</p>
                             
                         </summary>
                     </msContents>
@@ -87,20 +87,20 @@
                 <p>Hail! Prosperity! This is the 10th year of king Māṟañcaṭaiyaṉ. Kiṭakavan Kāttāṉ, servant <supplied reason="explanation"><foreign>aṭiyāṉ</foreign></supplied> of Viṭēḷviṭuku Muttaraiyar, for the Piṭāri of Mākāḷam of Niyamam, for one sacred lamp and sacred food, gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> as capital <supplied reason="explanation"><foreign>mutal āka</foreign></supplied> half a <foreign>kāṇi</foreign> of land <supplied reason="explanation"><foreign>nilam</foreign></supplied> <supplied reason="subaudible">along with</supplied> 50 <foreign>kalam</foreign>s for the taxes <supplied reason="explanation"><foreign>kaṭaṉ</foreign></supplied>, having worked <supplied reason="subaudible">on the land</supplied> <supplied reason="explanation"><foreign>kalli</foreign></supplied> in the inside villages <supplied reason="explanation"><foreign>uḷḷ-ūr-kaḷ-il</foreign></supplied> of this Piṭāri. This is under the protection of the Panmāheśvaras.</p></div>
             
             <div type="commentary">
-                
+                <p>This inscription is engraved on three of the facets of the octagonal section of a pillar which square faces are engraved with long 8th century Muttaraiyar inscriptions (EI 13.10). The other facets of the octagonal section are engraved with a donation by the king Nandivarman III Pallava dated with his 12th regnal year (SII 6.447). At the end of the text on the middle facet, in a slightly different script, two words are engraved on two lines which read <lb n="1"/> <foreign>Amaru <gap reason="lost" quantity="3" unit="character"/></foreign> <lb n="2"/> <foreign>Ū <gap reason="lost" quantity="1" unit="character"/> tta</foreign>. </p>
             </div>
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1898-1899"/></bibl> (ARIE/1898-1899/B/1899/10), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 2614).</p>
-                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (SII 6.646). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet, 2016</ref>).</p>
+                <p>Edited in <bibl><ptr target="bib:SubrahmanyaAiyer1928_01"/></bibl> (<ref target="DHARMA_INSSIIv06p0i0446">SII 6.446</ref>). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet, 2016</ref>).</p>
                 <p>This revised edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl n="SII">
                         <ptr target="bib:SubrahmanyaAiyer1928_01"/>
-                        <citedRange unit="page">238</citedRange>
-                        <citedRange unit="item">646</citedRange>
+                        <citedRange unit="page">185</citedRange>
+                        <citedRange unit="item">446</citedRange>
                     </bibl>
                     <bibl>
                         <ptr target="bib:Gillet2017_01"/>
