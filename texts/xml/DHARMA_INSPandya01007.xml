@@ -82,6 +82,8 @@
                 
                 
                 <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">                    
+                    <milestone n="A" type="pagelike" unit="face"/>
+                    <label>East Face</label>
                     <lb n="1"/>śubham astu
                 </p>
                 
@@ -92,23 +94,49 @@
                     <l n="d">saM<lb n="3" break="no"/><unclear>bho</unclear> <reg>r</reg>jjayati śāśvataM <g type="danda">.</g></l>
                 </lg>
                 
-                <p><hi rend="grantha">śakabdaM</hi> Āyirattu ...</p>
+                <p>
+                    <hi rend="grantha">śakabdaM</hi> Āyirattu muṉ
+                    <lb n="4" break="no"/>ṉūṟṟu Eṇpattu nāliṉ mēṟ cellā niṉṟa
+                    <lb n="5"/><hi rend="grantha">svasti śrī kojaṭila</hi>va<hi rend="grantha">rmmar-ā</hi>na <hi rend="grantha">tribhu</hi>vana<hi rend="grantha">ccakra</hi>va
+                    <lb n="6" break="no"/><hi rend="grantha">rti</hi>kaḷ perumāḷ <hi rend="grantha">Arikesaride</hi>var Eṉṟu tiru-
+                    <lb n="7" break="no"/>nāmam Uṭaiya poṉṉiṉ perumāḷ
+                    <lb n="8"/><hi rend="grantha">parākrama-pāṇḍyade</hi>var Irunt-aruḷiya Iṭat
+                    <lb n="9" break="no"/>tukku yāṇṭu muppattu oṉṟāvatiṉ Etir Oṉ
+                    <lb n="10" break="no"/>patāvatu <hi rend="grantha">mithu</hi>na-nāyaṟṟu Irupatt' eṭṭān tiya
+                    <lb n="11" break="no"/>tiyum <hi rend="grantha">Aparapakṣa</hi>ttu <hi rend="grantha">tra</hi>yo<hi rend="grantha">daśi</hi>yum <hi rend="grantha">śukra</hi>-vāramum
+                    <lb n="12"/>peṟṟa namm-uṭaiya Irunt-aruḷiya Iṭattiṉ tirunāḷ
+                    <lb n="13"/>Āṉa <hi rend="grantha">mṛgaśīrṣa</hi>ttu nāḷ <hi rend="grantha">ja</hi>namum patiṉ eṭṭu nāṭṭu ve
+                    <lb n="14" break="no"/>ḷḷāḻarum Iraṇṭu pattirivaḻiyum maṟṟum Añcu vakai
+                    <lb n="15"/>paṭṭa parikaramuṅ kūṭi <unclear>k</unclear> kaṟpitta kāriyam-āvatu Uṭaiyā<supplied reason="omitted">r</supplied>
+                    <lb n="16"/>vi<hi rend="grantha">śva</hi>nā<hi rend="grantha">thaN</hi> Ut=ta<hi rend="grantha">rakāśi</hi>yil eḻunt-aruḷi Irun
+                    <lb n="17" break="no"/>ta civālayam <hi rend="grantha">jīrṇa</hi>mākaiyālē teṉṉāri
+                    <lb n="18" break="no"/>-nāṭṭu <hi rend="grantha">ccitra</hi>na<hi rend="grantha">dī</hi> Ut=ta<hi rend="grantha">ra</hi>tī<hi rend="grantha">ra</hi>ttilē namakku <hi rend="grantha">dakṣi</hi>
+                    <lb n="19" break="no"/>...
+                    
+                    <milestone n="B" type="pagelike" unit="face" break="no"/>
+                    <label>North Face</label>
+                    <lb n="46" break="no"/>...
+                    
+                    <lb n="90" break="no"/>ta kāṭukaḷilē pala Iṭattilum Ērvai <gap reason="ellipsis" extent="unknown" unit="line"/>
+                                       
+                </p>
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
                 <listApp>
-                    
-                    <app loc="0">
-                        <lem>...</lem>
-                        <rdg source="bib:GopinathaRao1988_01">...</rdg>
-                    </app>
-                    
+                
+                <app loc="90">
+                <lem>Ērvai <gap reason="ellipsis" extent="unknown" unit="line"/></lem>
+                <note><ptr target="bib:GopinathaRao1988_01"/>: <quote>The rest of the inscription is omitted in the transcript, as it is not of great importance to
+the history attempted in the earlier pages.</quote></note>
+                </app>
+                
                 </listApp>
                 
-            </div>-->
+                </div>
             
-           <!-- <div type="translation"/>-->      
+            <!-- <div type="translation"/>-->      
             
             
             
@@ -129,7 +157,7 @@
                     
                 </listBibl>
                 
-                 <listBibl type="secondary">
+                <listBibl type="secondary">
                     <bibl>
                         <ptr target="bib:PierdominiciLeao2025-01"/>
                         <citedRange unit="page">229-230</citedRange>
