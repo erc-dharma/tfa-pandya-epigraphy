@@ -146,10 +146,14 @@
                     
                 </listBibl>
                 
-                <!--<listBibl type="secondary">
+                <listBibl type="secondary">
                     
+                    <bibl>
+                        <ptr target="bib:PierdominiciLeao2025-01"/>
+                        <citedRange unit="page">169-178</citedRange>
+                    </bibl>   
                     
-                    </listBibl>-->
+                </listBibl>
                 
             </div>
             

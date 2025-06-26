@@ -121,10 +121,16 @@
             
             <div type="bibliography">
                 
-                <p>Edited in <bibl><ptr target="bib:SubrahmanyAiyer1933-1934_01"/></bibl>, with English translation (EI 22.10).</p>
-                <p>Edited here by Emmanuel Francis, based on <bibl><ptr target="bib:SubrahmanyAiyer1933-1934_01"/></bibl> and visual documentation therein.</p>    
+                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (<ref target="DHARMA_INSSIIv05p1i0431">SII 5.431</ref>), in <bibl><ptr target="bib:SubrahmanyAiyer1933-1934_01"/></bibl>, with English translation (EI 22.10).</p>
+                <p>This digital edition by Emmanuel Francis, based on previous editions.</p>    
                 
                 <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:KrishnaSastri1925_01"/>
+                        <citedRange unit="page">155-157</citedRange>
+                        <citedRange unit="item">431</citedRange>
+                    </bibl>
                     
                     <bibl n="EI">
                         <ptr target="bib:SubrahmanyAiyer1933-1934_01"/>
@@ -132,10 +138,14 @@
                     
                 </listBibl>
                 
-                <!--<listBibl type="secondary">
+                <listBibl type="secondary">
                     
+                    <bibl>
+                        <ptr target="bib:PierdominiciLeao2025-01"/>
+                        <citedRange unit="page">154-156</citedRange>
+                    </bibl>
                     
-                    </listBibl>-->
+                </listBibl>
                 
             </div>
             
