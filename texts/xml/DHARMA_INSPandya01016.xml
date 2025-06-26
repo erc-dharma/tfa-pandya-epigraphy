@@ -88,7 +88,7 @@
                 </p>
                 
                 <lg n="1" met="anuṣṭubh">
-                    <l n="a">...</l> 
+                    <l n="a"><lb n="1"/>namas tuṃga ...</l> 
                     <l n="b">...</l>
                     <l n="c">...</l>
                     <l n="d">...</l>
@@ -133,7 +133,8 @@
                     
                     <bibl>
                         <ptr target="bib:PierdominiciLeao2025-01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">316</citedRange>
+                        <citedRange unit="note">47</citedRange>
                     </bibl>   
                 </listBibl>
                 

@@ -81,7 +81,7 @@
             <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                               
                 <lg n="1" met="uncertain">
-                    <l n="a"><lb n="1"/>namas tuṃga ...</l> 
+                    <l n="a"><lb n="1"/>cīr koṇṭa ...</l> 
                     <l n="b">...</l>
                     <l n="c">...</l>
                     <l n="d">...</l>
@@ -126,7 +126,7 @@
                     
                     <bibl>
                         <ptr target="bib:PierdominiciLeao2025-01"/>
-                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="page">318</citedRange>
                     </bibl>   
                 </listBibl>
                 
