@@ -100,7 +100,7 @@
                     </l>
                 </lg>
                 <lg n="2" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                        <l n="abcd">dipye tā<unclear>n</unclear> d<choice><sic>i</sic><corr>ī</corr></choice>pa-māle dve sva
+                    <l n="abcd">dipye tā<unclear>n</unclear> d<choice><sic>i</sic><corr>ī</corr></choice>pa-māle dve sva
                         <lb n="9" break="no"/><supplied reason="lost">janma</supplied>-divase tathā pratimāsam iti p<choice><unclear>ṛ</unclear><unclear>ra</unclear></choice>
                         <lb n="10" break="no"/><gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g type="gomutra">.</g></l>
                 </lg>
@@ -194,7 +194,7 @@
             
             <!--<div type="commentary">
                 
-            </div>-->
+                </div>-->
             
             <div type="bibliography">
                 
