@@ -84,7 +84,7 @@
                     <lb n="1"/><hi rend="grantha">śubham astu</hi>
                 </p>
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">                    
+                <ab>                    
                     <hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
@@ -123,7 +123,11 @@
                     <lb n="22" break="no"/><hi rend="grantha">ndrā</hi>tā<hi rend="grantha">ra</hi>vaṟ cempi<hi rend="grantha">lu</hi>m ci<hi rend="grantha">lai</hi>yi<hi rend="grantha">lu</hi>m veṭṭi kai-
                     <lb n="23" break="no"/>yyāṇṭu koḷḷavum
                 </p>
-                <p  xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">tulyaM</p>
+                
+                <p>
+                    <hi rend="grantha">tulyaM</hi>
+                </p>
+                
                 <p>pāṟka</p>
                 <p>Ivai
                     <lb n="24"/><gap reason="lost" quantity="10" unit="character"/>

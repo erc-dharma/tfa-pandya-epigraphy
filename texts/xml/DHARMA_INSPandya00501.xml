@@ -105,9 +105,9 @@
                         <lb n="10" break="no"/><gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g type="gomutra">.</g></l>
                 </lg>
                 
-                <ab xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    svasti
-                    <lb n="11"/><supplied reason="lost">śrī</supplied>
+                <ab>
+                    <hi rend="grantha">svasti</hi>
+                    <lb n="11"/><hi rend="grantha"><supplied reason="lost">śrī</supplied></hi>
                 </ab>
                 
                 <p>

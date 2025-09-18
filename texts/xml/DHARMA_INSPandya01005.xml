@@ -81,8 +81,8 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 
-                <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">                    
-                    <lb n="1"/>śubham astu
+                <p>                    
+                    <lb n="1"/><hi rend="grantha">śubham astu</hi>
                 </p>
                 
                 <lg n="1" met="āciriyappā">
@@ -174,8 +174,8 @@
                 <p>
                     Ivai kiṭārattūṟ-uṭaiyāṉ Eḻuttu <g type="pc">.</g>
                 </p>
-                <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
-                    tulyaM
+                <p>
+                    <hi rend="grantha">tulyaM</hi>
                 </p>
             </div>
             
