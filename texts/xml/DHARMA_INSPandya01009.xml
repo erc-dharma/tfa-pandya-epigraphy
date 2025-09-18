@@ -80,12 +80,12 @@
             
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
-                <p xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">                    
-                    <lb n="1"/>śubham astu
+                <p>                    
+                    <lb n="1"/><hi rend="grantha">śubham astu</hi>
                 </p>
                 
                 <ab xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">                    
-                    svasti śrī
+                    <hi rend="grantha">svasti śrī</hi>
                 </ab>
                 
                 <p>
