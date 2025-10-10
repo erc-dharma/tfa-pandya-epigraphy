@@ -60,8 +60,11 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </p>
                 <p>
-                    kō-<unclear>va</unclear>rakuṇa-marāya<unclear>ṟ</unclear>k<unclear>ku</unclear> <gap reason="lost" extent="unknown" unit="character"/> {built over} <gap reason="lost" extent="unknown" unit="character"/> na tiruvāmūr <hi rend="grantha">mahādeva</hi>ṟku nantāviḷakkukku vai
-                    <lb n="2" break="no"/>ta <gap reason="lost" extent="unknown" unit="character"/> ṇaka <gap reason="lost" extent="unknown" unit="character"/> {built over} <gap reason="lost" extent="unknown" unit="character"/> vaitta <unclear>to</unclear> panmā <gap reason="lost" extent="unknown" unit="character"/> <unclear>e</unclear> <gap reason="lost" extent="unknown" unit="character"/><hi rend="grantha">kṣai ||</hi>
+                    kō-<unclear>va</unclear>rakuṇa-marāya<unclear>ṟ</unclear>k<unclear>ku</unclear> <gap reason="lost" extent="unknown" unit="character"/> na tiruvāmūr <hi rend="grantha">mahādeva</hi>ṟku n<choice><sic>a</sic><corr>o</corr></choice>ntā-viḷakkukku vai
+                    <lb n="2" break="no"/><supplied reason="omitted">t</supplied>ta <gap reason="lost" extent="unknown" unit="character"/> ṇaka <gap reason="lost" extent="unknown" unit="character"/> vaitta <unclear>to</unclear>
+                </p>
+                <p>
+                    panmā <gap reason="lost" extent="unknown" unit="character"/> <unclear>e</unclear> <gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">kṣai <g type="ddanda">.</g></hi>
                 </p>
                 
             </div>
@@ -75,14 +78,14 @@
                 <p>Hail! Prosperity! <gap reason="lost" extent="unknown" unit="character"/> of king Varaguṇa Mahārāja <gap reason="lost" extent="unknown" unit="character"/> For Mahādeva of Tiruvāmūr, for a perpetual lamp <supplied reason="explanation"><foreign>nantāviḷakkukku</foreign> for <foreign>nontāviḷakku</foreign></supplied> was endowed <supplied reason="explanation"><foreign>vaita</foreign> for <foreign>vaitta</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> was endowed <supplied reason="explanation"><foreign>vaitta</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> This is under the protection <supplied reason="explanation"><foreign><supplied reason="lost">ra</supplied>kṣai</foreign></supplied> of the Panmā<supplied reason="lost">heśvaras</supplied>.</p></div>
             
             <div type="commentary">
-                <p>Built in in the middle.</p>
+                <p>Built in the middle.</p>
             </div>
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1962-1963"/></bibl> (ARIE/1962-1963/B/1962-1963/605), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 1673).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet, 2016</ref>).</p>
-                <p>This revised edition by Valérie Gillet and Emmanuel Francis.</p>
+                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl>

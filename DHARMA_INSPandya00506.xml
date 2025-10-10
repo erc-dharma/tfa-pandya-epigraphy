@@ -63,7 +63,10 @@
                     <lb n="2" break="no"/>m āṇṭi<choice><orig>n</orig><reg>ṉ</reg></choice> Etir pati<choice><orig>n</orig><reg>ṉ</reg></choice> onṟām āṇṭu
                 </p>
                 <p>
-                    toṇṭai-nāṭṭu ve <gap reason="lost" quantity="5" unit="character"/> tta te<unclear>nan</unclear> <gap reason="lost" extent="unknown" unit="character"/> yāl mā <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>ai</unclear></seg> <gap reason="lost" quantity="5" unit="character"/> <unclear>pa</unclear>cuvāl nāḻip pālum A<unclear>ṭ</unclear> <gap reason="lost" extent="unknown" unit="character"/> <unclear>va</unclear>tākak kaṇ <gap reason="lost" extent="unknown" unit="character"/> ṭār <hi rend="grantha">śrīmāheśvara rakṣai</hi> <g type="ddanda">.</g>
+                    toṇṭai-nāṭṭu ve <gap reason="lost" quantity="5" unit="character"/> tta te<unclear>nan</unclear> <gap reason="lost" extent="unknown" unit="character"/> yāl mā <seg type="aksara"><seg type="component" subtype="body"><gap reason="lost" quantity="1" unit="component"/></seg><unclear>ai</unclear></seg> <gap reason="lost" quantity="5" unit="character"/> <unclear>pa</unclear>cuvāl nāḻip pālum A<unclear>ṭ</unclear> <gap reason="lost" extent="unknown" unit="character"/> <unclear>va</unclear>tākak kaṇ <gap reason="lost" extent="unknown" unit="character"/> ṭār
+                </p>
+                <p>
+                    <hi rend="grantha">śrī-māheśvara rakṣai</hi> <g type="ddanda">.</g>
                 </p>
                 
             </div>
@@ -99,7 +102,7 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1962-1963"/></bibl> (ARIE/1962-1963/B/1962-1963/608), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 1674).</p>
                 <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet, 2016</ref>).</p>
-                <p>This revised edition by Valérie Gillet and Emmanuel Francis.</p>
+                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl n="G">
