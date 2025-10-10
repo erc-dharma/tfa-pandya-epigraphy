@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#2. (Fig. 13). a) Ericcāvuṭaiyār temple; b) on the inner faces of the door jambs of the small shrine south of the main shrine: the first 9 lines are engraved at the bottom of the northern door jamb and, from line 10, are engraved on the inner face of the southern one; c) personally accessed and photographed in 2023; d) ARE 1916, no. 298; SII 14, no. 36; e) 35th year of a king whose name is not given;<note>The editors of those epigraphs identified him with Māṟañcaṭaiyaṉ based on other inscriptions of a Māṟañcaṭaiyaṉ with high regnal years. Other inscriptions from the same region are indeed dated with high regnal years of a Māṟañcaṭaiyāṉ: Kaḻukumalai (IEP 50, 59), Māṉūr (IEP 51), Paḷḷimaṭam (IEP 57), Talapaticamutiram (IEP 58), Ēruvāṭi (IEP 60), Talavāypuram (IEP 61). However, without working precisely on these sites and inscriptions, it is difficult to ascertain that they belong to the same king. The script, with round, large and well-spaced letters, points, in my view, to this inscription pertaining to the 9th or the early 10th century.</note> f) this inscription was read on 25th August 2023 during a Dharma project workshop in Pondicherry, with G. Vijayavenugopal, Emmanuel Francis, Uthaya Velluppilai, T. Rajarethinam, R. Sathyanarayanan, M. Vigneshwaran, Dominic Goodall.</p>
+                        <summary><p>On the inner faces of the door jambs of the small shrine south of the main shrine: the first 9 lines are engraved at the bottom of the northern door jamb and, from line 10, are engraved on the inner face of the southern one; c) personally accessed and photographed in 2023; d) ARE 1916, no. 298; SII 14, no. 36; e) 35th year of a king whose name is not given;<note>The editors of those epigraphs identified him with Māṟañcaṭaiyaṉ based on other inscriptions of a Māṟañcaṭaiyaṉ with high regnal years. Other inscriptions from the same region are indeed dated with high regnal years of a Māṟañcaṭaiyāṉ: Kaḻukumalai (IEP 50, 59), Māṉūr (IEP 51), Paḷḷimaṭam (IEP 57), Talapaticamutiram (IEP 58), Ēruvāṭi (IEP 60), Talavāypuram (IEP 61). However, without working precisely on these sites and inscriptions, it is difficult to ascertain that they belong to the same king. The script, with round, large and well-spaced letters, points, in my view, to this inscription pertaining to the 9th or the early 10th century.</note> f) this inscription was read on 25th August 2023 during a Dharma project workshop in Pondicherry, with G. Vijayavenugopal, Emmanuel Francis, Uthaya Velluppilai, T. Rajarethinam, R. Sathyanarayanan, M. Vigneshwaran, Dominic Goodall.</p>
                             
                         </summary>
                     </msContents>
@@ -121,19 +121,20 @@
             <div type="bibliography">
                 
                 <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>This edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
-                
-                <listBibl type="primary">
-                </listBibl>
-                
-                <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
-                </listBibl>
+                <p>Edited in Gillet (forthcoming “Ambasamudram in the 9th and 10th centuries: a Holy Teaching Centre of the Pāṇḍya Kingdom”, no. 2 and fig. 13), based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
+                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+                                
+                <!--<listBibl type="primary">
+                    </listBibl>
+                    
+                    <listBibl type="secondary">
+                    <bibl>
+                    <ptr target="bib:ARIE****-****"/>
+                    <citedRange unit="page">TBC</citedRange>
+                    <citedRange unit="appendix">TBC</citedRange>
+                    <citedRange unit="item">TBC</citedRange>
+                    </bibl>
+                    </listBibl>-->
                 
             </div>
             

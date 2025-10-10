@@ -83,11 +83,21 @@
             </div>
             
             <div type="bibliography">
-                
                 <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>No. 10 and Fig. 22 in Gillet, “Ambasamudram in the 9th and 10th centuries: a Holy Teaching Centre of the Pāṇḍya Kingdom”  (forthcoming).</p>
-                <p>This digital edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>                               
+                <p>Edited in Gillet (forthcoming “Ambasamudram in the 9th and 10th centuries: a Holy Teaching Centre of the Pāṇḍya Kingdom”, no. 10 and fig. 22), based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
+                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
+                <!--<listBibl type="primary">
+                    </listBibl>
+                    
+                    <listBibl type="secondary">
+                    <bibl>
+                    <ptr target="bib:ARIE****-****"/>
+                    <citedRange unit="page">TBC</citedRange>
+                    <citedRange unit="appendix">TBC</citedRange>
+                    <citedRange unit="item">TBC</citedRange>
+                    </bibl>
+                    </listBibl>-->
             </div>
             
         </body>

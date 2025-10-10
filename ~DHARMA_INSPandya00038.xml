@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ambasamudram, Ericcāvuṭaiyār temple, time of ***, year **</title>
+                <title>Ambasamudram, Ericcāvuṭaiyār temple, time of unnamed king, year 39</title>
                 <respStmt>
                     <resp>author of digital edition</resp>
                     <persName ref="part:vagi">
@@ -34,7 +34,8 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#3 (Figs. 14–15). a) Ericcāvuṭaiyār temple; b) on a stone now kept in the stores of the Government Museum in Chennai; c) personally accessed and photographed in 2010; d) ARE 1905, no. 104; SII 14, no. 38, pp. 29–30; e) 39th year of a king whose name is not given; f) this inscription was read on 25th August 2023 during a Dharma project workshop in Pondicherry, with G. Vijayavenugopal, Emmanuel Francis, Uthaya Velluppilai, T. Rajarethinam, R. Sathyanarayanan, M. Vigneshwaran, Dominic Goodall.</p>
+                        <summary>
+                            <p>On a stone now kept in the stores of the Government Museum in Chennai; c) personally accessed and photographed in 2010; d) ARE 1905, no. 104; SII 14, no. 38, pp. 29–30; e) 39th year of a king whose name is not given.</p>
                             
                         </summary>
                     </msContents>
@@ -82,19 +83,20 @@
             <div type="bibliography">
                 
                 <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>This edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
-                
-                <listBibl type="primary">
-                </listBibl>
-                
-                <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
-                </listBibl>
+                <p>Edited in Gillet (forthcoming “Ambasamudram in the 9th and 10th centuries: a Holy Teaching Centre of the Pāṇḍya Kingdom”, no. 3 and figs. 14–15), based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
+                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+                                
+                <!--<listBibl type="primary">
+                    </listBibl>
+                    
+                    <listBibl type="secondary">
+                    <bibl>
+                    <ptr target="bib:ARIE****-****"/>
+                    <citedRange unit="page">TBC</citedRange>
+                    <citedRange unit="appendix">TBC</citedRange>
+                    <citedRange unit="item">TBC</citedRange>
+                    </bibl>
+                    </listBibl>-->
                 
             </div>
             

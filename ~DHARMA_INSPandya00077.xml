@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#5. a) Ericcāvuṭaiyār temple; b) on the southern façade of the <foreign>ardha-maṇḍapa</foreign> of the small shrine south of the main shrine, unfinished and engraved very shallowly; c) personally accessed and photographed in 2023; d) ARE 1916, no. 301; SII 14, no. 77, p. 49; IEP 89, p. 107; e) regnal year lost of Caṭaiyamāṟaṉ.</p>
+                        <summary><p>On the southern façade of the <foreign>ardha-maṇḍapa</foreign> of the small shrine south of the main shrine, unfinished and engraved very shallowly; c) personally accessed and photographed in 2023; d) ARE 1916, no. 301; SII 14, no. 77, p. 49; IEP 89, p. 107; e) regnal year lost of Caṭaiyamāṟaṉ.</p>
                             
                         </summary>
                     </msContents>
@@ -79,19 +79,20 @@
             <div type="bibliography">
                 
                 <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>This edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
-                
-                <listBibl type="primary">
-                </listBibl>
-                
-                <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
-                </listBibl>
+                <p>Edited in Gillet (forthcoming “Ambasamudram in the 9th and 10th centuries: a Holy Teaching Centre of the Pāṇḍya Kingdom”, no. 5), based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
+                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+                                
+                <!--<listBibl type="primary">
+                    </listBibl>
+                    
+                    <listBibl type="secondary">
+                    <bibl>
+                    <ptr target="bib:ARIE****-****"/>
+                    <citedRange unit="page">TBC</citedRange>
+                    <citedRange unit="appendix">TBC</citedRange>
+                    <citedRange unit="item">TBC</citedRange>
+                    </bibl>
+                    </listBibl>-->
                 
             </div>
             

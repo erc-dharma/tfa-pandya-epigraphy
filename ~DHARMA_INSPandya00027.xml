@@ -33,7 +33,8 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>#7 (Fig. 20). a) Tirumūlanātha temple; b) on a stela set outside the entrance, today almost entirely defaced: I had to rely on the previous editions, which I followed here; c) personally accessed and photographed in 2022; d) ARE 1907, no. 89; SII 14, no. 27, pp. 23–24; IEP 22; e) dated with a lost regnal year of Māṟañcaṭaiyaṉ.</p>
+                        <summary>
+                            <p>On a stela set outside the entrance, today almost entirely defaced: I had to rely on the previous editions, which I followed here; c) personally accessed and photographed in 2022; d) ARE 1907, no. 89; SII 14, no. 27, pp. 23–24; IEP 22; e) dated with a lost regnal year of Māṟañcaṭaiyaṉ.</p>
                             
                         </summary>
                     </msContents>
@@ -116,19 +117,20 @@
             <div type="bibliography">
                 
                 <!--<p>Reported in <bibl><ptr target="bib:ARIE****-****"/></bibl>.</p>-->
-                <p>This edition by Valérie Gillet and Emmanuel Francis, based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
-                
-                <listBibl type="primary">
-                </listBibl>
-                
-                <listBibl type="secondary">
-                    <!--<bibl>
-                        <ptr target="bib:ARIE****-****"/>
-                        <citedRange unit="page">TBC</citedRange>
-                        <citedRange unit="appendix">TBC</citedRange>
-                        <citedRange unit="item">TBC</citedRange>
-                        </bibl>-->
-                </listBibl>
+                <p>Edited in Gillet (forthcoming “Ambasamudram in the 9th and 10th centuries: a Holy Teaching Centre of the Pāṇḍya Kingdom”, no. 7 and fig. 20), based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
+                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
+                                
+                <!--<listBibl type="primary">
+                    </listBibl>
+                    
+                    <listBibl type="secondary">
+                    <bibl>
+                    <ptr target="bib:ARIE****-****"/>
+                    <citedRange unit="page">TBC</citedRange>
+                    <citedRange unit="appendix">TBC</citedRange>
+                    <citedRange unit="item">TBC</citedRange>
+                    </bibl>
+                    </listBibl>-->
                 
             </div>
             
