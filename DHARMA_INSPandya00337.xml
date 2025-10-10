@@ -33,8 +33,8 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Agnīśvara temple, Tirukkāṭṭupaḷḷi, Tirukkāṭṭupaḷḷi taluk, Tañcāvūr district. On a pillar used as stepping stone in the southern entrance to the Nāṭarāja-<foreign>mandapa</foreign>. Valérie Gillet visited the temple in November 2016, but was not given access to the entrance of the Nāṭarāja-<foreign>maṇḍapa</foreign> to see the inscription.</p>
-                            
+                        <summary>
+                            <p>Agnīśvara temple, Tirukkāṭṭupaḷḷi, Tirukkāṭṭupaḷḷi taluk, Tañcāvūr district. On a pillar used as stepping stone in the southern entrance to the Nāṭarāja-<foreign>mandapa</foreign>. Valérie Gillet visited the temple in November 2016, but was not given access to the entrance of the Nāṭarāja-<foreign>maṇḍapa</foreign> to see the inscription.</p>
                         </summary>
                     </msContents>
                     <physDesc>
@@ -61,21 +61,21 @@
                 <p>
                     kō-mā
                     <lb n="2" break="no"/><unclear>ṟa</unclear>ñ caṭaiyaṟku yā
-                    <lb n="3" break="no"/>ṇṭu 11
+                    <lb n="3" break="no"/>ṇṭu <num value="11"><g type="numeral">10</g> 1</num> Āvat' 
                 </p>
                 <p>
-                    Āvativ
-                    <lb n="4"/>vāṇṭu niyamat
+                    iv
+                    <lb n="4" break="no"/>v-āṇṭu niyamat
                     <lb n="5" break="no"/>tu Āyirattaḷi mā
-                    <lb n="6" break="no"/><hi rend="grantha">hāde</hi>varkku ve
-                    <lb n="7" break="no"/>ṭelviṭuku mu
+                    <lb n="6" break="no"/><hi rend="grantha">hāde</hi>varkku v<choice><sic>e</sic><corr>i</corr></choice>
+                    <lb n="7" break="no"/>ṭēlviṭuku mu
                     <lb n="8" break="no"/>ttaraiyar maka
-                    <lb n="9" break="no"/>ḷāṉa cāttaṅ kā
-                    <lb n="10" break="no"/>ḷi nontāviḷak
-                    <lb n="11" break="no"/>kiṉukku mutalākap pe
+                    <lb n="9" break="no"/>ḷ-āṉa cāttaṅ kā
+                    <lb n="10" break="no"/>ḷi nontā-viḷak
+                    <lb n="11" break="no"/>kiṉukku mutal-āka-p pe
                     <lb n="12" break="no"/>rumakkaḷum pati
                     <lb n="13" break="no"/><unclear>yu</unclear>m pātamulamum
-                    <lb n="14"/>A<unclear>ṟi</unclear>ya nicatip pali
+                    <lb n="14"/>A<unclear>ṟi</unclear>ya nicati-p pali
                     <lb n="15" break="no"/><unclear>cai</unclear>yāl Uriya ney
                     <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/> yat toḻut<unclear>u</unclear> po
                     <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/> pat<unclear>iṉ</unclear> <gap reason="lost" extent="unknown" unit="character"/>
@@ -89,20 +89,32 @@
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p>4 lines inscribed on top of the stone <supplied reason="explanation">perhaps the end of the text engraved below</supplied></p><p><supplied reason="explanation">1</supplied> <gap reason="lost" extent="unknown" unit="character"/> k <gap reason="lost" extent="unknown" unit="character"/> </p><p><supplied reason="explanation">2</supplied> l nikkittu itu kā</p><p><supplied reason="explanation">3</supplied>ttāṉṉ ati enṟalai </p><p><supplied reason="explanation">4</supplied> melaṉa ||</p><p>Hail! Prosperity! This is the 11th year of king Māṟañcaṭaiyaṉ. In this year, for Mahādeva of Āyirattaḷi of Niyamam, Cāttaṉ Kāḷi, daughter of Viṭēlviṭuku Muttaraiyar <supplied reason="subaudible">gave</supplied> as capital <supplied reason="explanation"><foreign>mutal āka</foreign></supplied> for a perpetual lamp; with the interests, every day, for the Perumakkaḷ <supplied reason="explanation">great people</supplied>, the Pati <supplied reason="explanation">priests</supplied>, and the Pātamūlam <supplied reason="explanation">priests</supplied> to know <supplied reason="explanation"><foreign>aṟiya</foreign></supplied>, one <foreign>uri</foreign> of ghee, <gap reason="lost" extent="unknown" unit="character"/>, having worshipped <supplied reason="explanation"><foreign>toḻutu</foreign></supplied>, <gap reason="lost" extent="unknown" unit="character"/> </p><p>Four lines on top:</p><p><gap reason="lost" extent="unknown" unit="character"/> having removed <supplied reason="explanation"><foreign>nikkittu</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> the feet <supplied reason="explanation"><foreign>ati</foreign></supplied> of those who protect <supplied reason="explanation"><foreign>kāttāṉ</foreign></supplied> this <supplied reason="explanation"><foreign>itu</foreign></supplied> are on my head.</p></div>
+                <p>Hail! Prosperity! This is the 11th year of king Māṟañcaṭaiyaṉ. In this year, for Mahādeva of Āyirattaḷi of Niyamam, Cāttaṉ Kāḷi, daughter of Viṭēlviṭuku Muttaraiyar <supplied reason="subaudible">gave</supplied> as capital <supplied reason="explanation"><foreign>mutal āka</foreign></supplied> for a perpetual lamp; with the interests, every day, for the Perumakkaḷ <supplied reason="explanation">great people</supplied>, the Pati <supplied reason="explanation">priests</supplied>, and the Pātamūlam <supplied reason="explanation">priests</supplied> to know <supplied reason="explanation"><foreign>aṟiya</foreign></supplied>, one <foreign>uri</foreign> of ghee, <gap reason="lost" extent="unknown" unit="character"/>, having worshipped <supplied reason="explanation"><foreign>toḻutu</foreign></supplied>, <gap reason="lost" extent="unknown" unit="character"/> </p></div>
             
             <div type="commentary">
                 
+                <p>4 lines inscribed on top of the stone are perhaps the end of the text engraved below:
+                    <foreign><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> k <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2" break="no"/>l nikkittu Itu kā
+                    <lb n="3" break="no"/>ttāṉṉ Ati En ṟalai
+                    <lb n="4"/>mēlaṉa <g type="ddanda">.</g></foreign>, “<gap reason="lost" extent="unknown" unit="character"/> having removed <supplied reason="explanation"><foreign>nikkittu</foreign></supplied> <gap reason="lost" extent="unknown" unit="character"/> the feet <supplied reason="explanation"><foreign>ati</foreign></supplied> of those who protect <supplied reason="explanation"><foreign>kāttāṉ</foreign></supplied> this <supplied reason="explanation"><foreign>itu</foreign></supplied> are on my head.”</p>
             </div>
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1960-1961"/></bibl> (ARIE/1960-1961/B/1960-1961/318 + ARIE 1960–1961, p. 20), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 2892).</p>
-                <p>IEP 37. Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on the ASI estampage consulted in Mysore (2017), with the kind permission of the Director of Epigraphy.</p>
-                <p>This revised edition by Valérie Gillet and Emmanuel Francis.</p>
+                <p>
+                    Edited in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 37).
+                    Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on the ASI estampage consulted in Mysore (2017), with the kind permission of the Director of Epigraphy.</p>
+                <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
-                    <bibl>
+                    <bibl n="IEP">
+                        <ptr target="bib:Krishnan2002_01"/>
+                        <citedRange unit="page">46</citedRange>
+                        <citedRange unit="item">37</citedRange>
+                    </bibl>
+                    <bibl n="G">
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">264</citedRange>
                         <citedRange unit="item">14</citedRange>
