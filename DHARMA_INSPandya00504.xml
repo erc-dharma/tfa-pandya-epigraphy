@@ -60,38 +60,40 @@
                     <lb n="2"/>ṇṭiṉ Etir āṇ
                     <lb n="3" break="no"/>ṭiṉ Etir āṇṭi
                     <lb n="4" break="no"/>ṉ Etir ām āṇṭu
+                </p>
+                <p>
                     <lb n="5"/>Ampar-nāṭṭ' am
-                    <lb n="6"/>par Avaṉi-nārāya
+                    <lb n="6" break="no"/>par Avaṉi-nārāya
                     <lb n="7" break="no"/>ṇa-vi<hi rend="grantha">ṣṇu-gṛha</hi>ttu 
-                    <lb n="8"/>ma<hi rend="grantha">hā</hi>vi<hi rend="grantha">ṣṇu</hi>kka <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="9"/>kku pāṇṭināṭṭu ve
+                    <lb n="8"/>ma<hi rend="grantha">hā</hi>-vi<hi rend="grantha">ṣṇu</hi>kka <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="9" break="no"/>kku pāṇṭi-nāṭṭu ve
                     <lb n="10" break="no"/>ṇpiṉṉāṭṭu veṇ
                     <lb n="12" break="no"/>pil veṇpil kiḻa
-                    <lb n="13" break="no"/>vaṉāyiṉa cāttañ
-                    <lb n="14"/>cāttaṉ tiruviḷak
+                    <lb n="13" break="no"/>vaṉ-āyiṉa cāttañ
+                    <lb n="14"/>cāttaṉ tiru-viḷak
                     <lb n="15" break="no"/>ku nantā-viḷakki
-                    <lb n="16" break="no"/>ṉukku vaitta tip
-                    <lb n="17" break="no"/>pokkuc cempo
-                    <lb n="18" break="no"/>ṉ Irupatiṉ kaḻaṅ
+                    <lb n="16" break="no"/>ṉukku vaitta t<choice><orig>i</orig><reg>ī</reg></choice>-p
+                    <lb n="17" break="no"/>-pōkku-c cempo
+                    <lb n="18" break="no"/>ṉ Iru-patiṉ kaḻaṅ
                     <lb n="19" break="no"/>cu
                 </p>
                 <p>
-                    Ivv-irupatuṅ
+                    Ivv-iru-patuṅ
                     <lb n="20"/><supplied reason="omitted">ko</supplied>ṇṭ' itaṉ pali
                     <lb n="21" break="no"/><supplied reason="omitted">cai</supplied>yāl nicati Uḻak
-                    <lb n="22" break="no"/><supplied reason="omitted">k' ā</supplied>ḻākkut tiruviḷa<unclear>k</unclear>
-                    <lb n="23" break="no"/><supplied reason="omitted">ku</supplied> <unclear>ne</unclear>y nārāyakkāl<unclear>o</unclear>
+                    <lb n="22" break="no"/><supplied reason="omitted">k' ā</supplied>ḻākku-t tiru-viḷa<unclear>k</unclear>
+                    <lb n="23" break="no"/><supplied reason="omitted">ku</supplied> <unclear>ne</unclear>y nārāyakkāl <unclear>o</unclear>
                     <lb n="24"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>k</unclear>ku muḻaiyālla<unclear>ṭ</unclear>
                     <lb n="25" break="no"/><gap reason="lost" extent="unknown" unit="character"/> vām ā<supplied reason="subaudible">ṉō</supplied>m ampar
                     <lb n="26"/><gap reason="lost" extent="unknown" unit="character"/> ruva <gap reason="lost" extent="unknown" unit="character"/> cattāṉ                    
-                    <lb n="27"/><gap reason="lost" extent="unknown" unit="character"/> uḷḷiṭṭa nakarattō 
-                    <lb n="28" break="no"/><gap reason="lost" extent="unknown" unit="character"/> tu muṭṭil ittaḷi
+                    <lb n="27"/><gap reason="lost" extent="unknown" unit="character"/> Uḷḷiṭṭa nakarattō 
+                    <lb n="28" break="no"/><gap reason="lost" extent="unknown" unit="character"/> tu muṭṭil It-taḷi
                     <lb n="29"/><gap reason="lost" extent="unknown" unit="character"/> tamulattārāṉum
                     <lb n="30"/><gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">ṣṇa</hi>varāva <gap reason="lost" extent="unknown" unit="character"/> ṇṭi
                     <lb n="31"/><gap reason="lost" extent="unknown" unit="character"/> vippārāṉār muṭṭi
-                    <lb n="32"/><gap reason="lost" extent="unknown" unit="character"/> k<supplied reason="subaudible">o</supplied>
+                    <lb n="32"/><gap reason="lost" extent="unknown" unit="character"/> k<unclear>o</unclear>
                     <lb n="33"/><gap reason="lost" extent="unknown" unit="character"/> ṇa
-                    <lb n="34"/><gap reason="lost" extent="unknown" unit="character"/> <supplied reason="subaudible">ma</supplied>tu
+                    <lb n="34"/><gap reason="lost" extent="unknown" unit="character"/> <unclear>ma</unclear>tu
                     <lb n="35"/><gap reason="lost" extent="unknown" unit="character"/> me 
                 </p>
                 
@@ -100,17 +102,17 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="5">
-                        <lem>nāṭṭ' am
-                            <lb n="6"/>par</lem>
-                        <rdg source="bib:Gillet2017_01">nāṭṭama
-                            <lb n="6"/>par</rdg>
+                        <lem>°nāṭṭam
+                            <lb n="6" break="no"/>par</lem>
+                        <rdg source="bib:Gillet2017_01">°nāṭṭama
+                            <lb n="6" break="no"/>par</rdg>
                     </app>
                 </listApp>
             </div>
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p></p><p><gap reason="lost" extent="unknown" unit="character"/> the year opposite to the year, opposite to the year, opposite to the year <gap reason="lost" extent="unknown" unit="character"/> For the great Viṣṇu <supplied reason="explanation"><foreign>mahāviṣṇukku</foreign></supplied> of the sanctuary <supplied reason="explanation"><foreign>gṛhattu</foreign></supplied> of Viṣṇu Avaṉi Nārāyaṇa of Ampar in Amparnāṭu, Cāttaṉ Cāttaṉ who has become <supplied reason="explanation"><foreign>āyiṉa</foreign></supplied> the chieftain <supplied reason="explanation"><foreign>kiḻavaṉ</foreign></supplied> of Vempil, in Vempilnāṭu in Pāṇṭināṭu, endowed for a perpetual lamp <supplied reason="explanation"><foreign>nantāviḷakkiṉukku</foreign></supplied>, for a sacred lamp <supplied reason="explanation"><foreign>tiruviḷakku</foreign></supplied>, 20 <foreign>kaḻañcu</foreign>s of pure gold which entered fire; having taken <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> these 20 <foreign>kaḻañcu</foreign>s, with the interests of these <supplied reason="explanation"><foreign>itaṉ palicaiyāl</foreign></supplied>, everyday, for one <foreign>uḻakku</foreign> <supplied reason="explanation"><foreign>uḻakku āḻākku</foreign></supplied> of a lamp, we will supply <supplied reason="explanation"><foreign><supplied reason="lost">aṭṭu</supplied>vōm āṉōm</foreign></supplied> with a ladle <supplied reason="explanation"><foreign>muḻaiyāl</foreign>?</supplied> with one <supplied reason="subaudible">measure</supplied> <foreign>nārāyakkāl</foreign> of ghee, we the Nagaram, including Cattāṉ <supplied reason="explanation">Cattāṉ, that is, Cāttaṉ?</supplied> <gap reason="lost" extent="unknown" unit="character"/> of Ampar. If this <supplied reason="explanation"><foreign>itu</foreign></supplied> is deficient <supplied reason="explanation"><foreign>muṭṭ-il</foreign></supplied> the <supplied reason="lost">Pā</supplied>tamūlattār of this temple <supplied reason="explanation"><foreign>ittaḷi</foreign></supplied> and the <supplied reason="subaudible">Vai*</supplied>ṣṇavas <gap reason="lost" extent="unknown" unit="character"/></p></div>
+                <p></p><p><gap reason="lost" extent="unknown" unit="character"/> the year opposite to the year, opposite to the year, opposite to the year <gap reason="lost" extent="unknown" unit="character"/> For the great Viṣṇu <supplied reason="explanation"><foreign>mahāviṣṇukku</foreign></supplied> of the sanctuary <supplied reason="explanation"><foreign>gṛhattu</foreign></supplied> of Viṣṇu Avaṉi Nārāyaṇa of Ampar in Amparnāṭu, Cāttaṉ Cāttaṉ who has become <supplied reason="explanation"><foreign>āyiṉa</foreign></supplied> the chieftain <supplied reason="explanation"><foreign>kiḻavaṉ</foreign></supplied> of Vempil, in Vempilnāṭu in Pāṇṭināṭu, endowed for a perpetual lamp <supplied reason="explanation"><foreign>nantāviḷakkiṉukku</foreign></supplied>, for a sacred lamp <supplied reason="explanation"><foreign>tiruviḷakku</foreign></supplied>, 20 <foreign>kaḻañcu</foreign>s of pure gold which entered fire; having taken <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> these 20 <foreign>kaḻañcu</foreign>s, with the interests of these <supplied reason="explanation"><foreign>itaṉ palicaiyāl</foreign></supplied>, everyday, for one <foreign>uḻakku</foreign> <supplied reason="explanation"><foreign>uḻakku āḻākku</foreign></supplied> of a lamp, we will supply <supplied reason="explanation"><foreign><supplied reason="lost">aṭṭu</supplied>vōm āṉōm</foreign></supplied> with a ladle <supplied reason="explanation"><foreign>muḻaiyāl</foreign>?</supplied> with one <supplied reason="subaudible">measure</supplied> <foreign>nārāyakkāl</foreign> of ghee, we the Nagaram, including Cattāṉ <supplied reason="explanation">Cattāṉ, that is, Cāttaṉ?</supplied> <gap reason="lost" extent="unknown" unit="character"/> of Ampar. If this <supplied reason="explanation"><foreign>itu</foreign></supplied> is deficient <supplied reason="explanation"><foreign>muṭṭ-il</foreign></supplied> the <supplied reason="lost">Pā</supplied>tamūlattār of this temple <supplied reason="explanation"><foreign>ittaḷi</foreign></supplied> and the <supplied reason="lost">Vai</supplied>ṣṇavas <gap reason="lost" extent="unknown" unit="character"/></p></div>
             
             <div type="commentary">
                 <p>The edition by ... suggests that there were 2 lines before what we see today. However, based on
