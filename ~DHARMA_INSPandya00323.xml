@@ -122,7 +122,10 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1894-1895"/></bibl> (ARIE/1894-1895/B/1895/51), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 2724).</p>
-                <p>Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.608). IEP 23. Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet</ref>).</p>
+                <p>
+                    Edited in <bibl><ptr target="bib:KrishnaSastri1925_01"/></bibl> (SII 5.608). 
+                    Text in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 23).
+                    Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet</ref>).</p>
                 <p>This revised edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
@@ -130,6 +133,11 @@
                         <ptr target="bib:KrishnaSastri1925_01"/>
                         <citedRange unit="page">242</citedRange>
                         <citedRange unit="item">608</citedRange>
+                    </bibl>
+                     <bibl n="IEP">
+                        <ptr target="bib:Krishnan2002_01"/>
+                        <citedRange unit="page">35-36</citedRange>
+                        <citedRange unit="item">23</citedRange>
                     </bibl>
                     <bibl n="VG">
                         <ptr target="bib:Gillet2017_01"/>
