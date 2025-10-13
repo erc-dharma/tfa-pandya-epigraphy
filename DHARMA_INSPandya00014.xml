@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Purātanavaṉeśvara temple, Tirucciṟṟampalam, Pattukkōṭṭai taluk, Tañcāvūr district. On the southern doorjamb of the entrance to the <foreign>ardhamaṇḍapa</foreign>. The middle part of the inscription is not legible anymore: it is at the level of the hand of those who enter the sanctuary, and everybody touches it when entering, damaging the inscription. Valérie Gillet has counted between 25 to 26 lines in this inscription instead of the 16 lines given in both the editions: only a few letters at the beginning or at the end of the lines are legible. There is a damaged inscription dated to the 29th regnal year of Parāntaka I on the opposite doorjamb (ARIE/1925-1926/C/1926/186).</p>
+                        <summary><p>Purātanavaṉeśvara temple, Tirucciṟṟampalam, Pattukkōṭṭai taluk, Tañcāvūr district. On the southern doorjamb of the entrance to the <foreign>ardhamaṇḍapa</foreign>. There is a damaged inscription dated to the 29th regnal year of Parāntaka I on the opposite doorjamb (ARIE/1925-1926/C/1926/186).</p>
                             
                         </summary>
                     </msContents>
@@ -64,35 +64,66 @@
                     <lb n="3" break="no"/>ṟku yāṇṭu nāṉ
                     <lb n="4" break="no"/>k-āvataṟku Etir
                     <lb n="5"/>panni<unclear>raṇṭu</unclear>m ā
-                    <lb n="6" break="no"/>[[ṇṭu]] <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="10"/>[[Āvatu tirucci]]
-                    <lb n="11" break="no"/>[[ṟṟemattu kāṇi U]]
-                    <lb n="12" break="no"/>[[ṭaiyārkku Añ]]
-                    <lb n="13"/>the following lines, up to the lines 25/26, are damaged.
+                    <lb n="6" break="no"/><unclear>ṇṭu</unclear> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="7-9"/><gap reason="lost" quantity="3" unit="line"/>
+                    <lb n="10"/><unclear>Āvatu tirucci</unclear>
+                    <lb n="11" break="no"/><unclear>ṟṟemattu kāṇi U</unclear>
+                    <lb n="12" break="no"/><unclear>ṭaiyārkku Añ</unclear>
+                    <lb n="13-25"/><gap reason="lost" quantity="13" unit="line"/>
                 </p>
                 
             </div>
             
             <div type="apparatus">
                 
+                <listApp>
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
+                    </app>
+                    
+                    <app loc="5">
+                        <lem>panni<unclear>raṇṭu</unclear>m</lem>
+                        <rdg source="bib:RamanathaAyyar1962_01">panni<unclear>raṇṭā</unclear>m</rdg>
+                    </app>
+                    
+                    <app loc="5">
+                        <lem>ā
+                            <lb n="6" break="no"/><unclear>ṇṭu</unclear> <gap reason="lost" extent="unknown" unit="character"/></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01">ā
+                            <lb n="6" break="no"/>ṇṭu <gap reason="lost" quantity="10" unit="character"/></rdg>
+                    </app>                    
+                    
+                    <app loc="10">
+                        <lem><unclear>Āvatu tirucci</unclear>
+                            <lb n="11" break="no"/><unclear>ṟṟemattu kāṇi U</unclear>
+                            <lb n="12" break="no"/><unclear>ṭaiyārkku Añ</unclear></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01">Āvatu tirucci
+                            <lb n="11" break="no"/>ṟṟemattu kāṇi U
+                            <lb n="12" break="no"/>ṭaiyārkku Añ</rdg>
+                    </app>
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p>Hail! Prosperity! This is the 12th year opposite to the 4th year of Varaguṇa Mahārāja <gap reason="lost" extent="unknown" unit="character"/> to the Lords/Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of the land <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> of Tirucciṟṟemam<gap reason="lost" extent="unknown" unit="character"/></p></div>
+                <p>Hail! Prosperity! This is the 12th year opposite to the 4th year of Varaguṇa Mahārāja <gap reason="lost" extent="unknown" unit="character"/> to the Lords/Lord <supplied reason="explanation"><foreign>uṭaiyār</foreign></supplied> of the land <supplied reason="explanation"><foreign>kāṇi</foreign></supplied> of Tirucciṟṟemam <gap reason="lost" extent="unknown" unit="character"/></p></div>
             
             <div type="commentary">
-                
+                <p>The middle part of the inscription is not legible anymore: it is at the level of the hand of those who enter the sanctuary, and everybody touches it when entering, damaging the inscription. Valérie Gillet has counted between 25 to 26 lines in this inscription instead of the 16 lines given in both the editions: only a few letters at the beginning or at the end of the lines are legible.</p>
             </div>
             
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1925-1926"/></bibl> (ARIE/1925-1926/C/1926/185). TLI Pk 559.</p>
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0014">SII 14.14</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 45). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/2016">Valérie Gillet, ****</ref>).</p>
-                <p>This revised edition by Valérie Gillet and Emmanuel Francis.</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0014">SII 14.14</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 45). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/2016">Valérie Gillet, 2016</ref>).</p>
+                <p>This edition by Valérie Gillet. Curated by Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl n="SII">

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ambasamudram, Tirumūlanātha temple, time of Māṟañ Caṭaiyaṉ, year lost</title>
+                <respStmt>
+                    <resp>author of digital edition</resp>
+                    <persName ref="part:vagi">
+                        <forename>Valérie</forename>
+                        <surname>Gillet</surname>
+                    </persName>
+                    <persName ref="part:emfr">
+                        <forename>Emmanuel</forename>
+                        <surname>Francis</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Paris, CEIAS</pubPlace>
+                <idno type="filename">DHARMA_INSPandya00027</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>
+                            <p>On a stela set outside the entrance, today almost entirely defaced.</p>                            
+                        </summary>
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="part:emfr" when="2025-06-12" status="draft">Further conversion of digital encoding to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+            <change who="part:mime" when="2025-06-10" status="draft">Conversion to DHARMA encoding scheme according to EGD (Encoding Guide for Diplomatic Editions)</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+        <body>
+            
+            <div type="edition" xml:lang="tam-Latn" rendition="class:vaṭṭeḻuttu maturity:vernacular">
+                
+                <ab>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi>
+                </ab>
+                <p>
+                    kō-māṟa
+                    <lb n="2" break="no"/>ñ caṭaiyaṟku yāṇ
+                    <lb n="3" break="no"/>ṭu <gap reason="lost" quantity="3" unit="character"/>
+                </p>
+                <p>
+                    Ivv-āṇṭu maka
+                    <lb n="4" break="no"/>ra-ñāyiṟ<unclear>ṟu</unclear> veṇpai-k-kuṭi
+                    <lb n="5" break="no"/>-nāṭṭu Iḷa-veṇpaikaṭatt' i
+                    <lb n="6" break="no"/>rukkai-k kāvati<unclear>yār</unclear> muḷḷi-nāṭṭu
+                    <lb n="7"/>Iḷaṅkōy-k-kuṭi tiru-c-cālai-t
+                    <lb n="8" break="no"/>-tuṟai niṉṟ-aruḷiṉa perumāṉa
+                    <lb n="9" break="no"/>ṭikaḷukku nontā-viḷakku O
+                    <lb n="10" break="no"/>ṉṟiṉukku nicatam ney Urikku
+                    <lb n="11"/>mutal keṭāmai-p poli-Ūṭ
+                    <lb n="12" break="no"/>ṭu koṇṭu eṉṉum Eṟṟi-k kā
+                    <lb n="13" break="no"/>ṇamuṅ kuttu-k-kāṟ paṭāmai-c
+                    <lb n="14"/>celuttuvat' āka Iḷaṅkō
+                    <lb n="15" break="no"/>y-k-kuṭi-c cavaiyār kaiy
+                    <lb n="16" break="no"/>yil kuṭutta niṟai kuṟaiyār
+                    <lb n="17"/>taṉ paḻaṅkācu patiṉ ain
+                    <lb n="18" break="no"/>tu tiru-c-cālai-t-tuṟai-t ti
+                    <lb n="19" break="no"/>ru-m<choice><orig>u</orig><reg>ū</reg></choice>lattāṉattu-p paṭārar
+                    <lb n="20" break="no"/>kku tiru-nantā-viḷakku
+                    <lb n="21"/>Oṉṟiṉukku niyati ne
+                    <lb n="22" break="no"/>y Uri Āka mēṟppaṭi
+                    <lb n="23"/>celuttuvat' āka mēṟpa
+                    <lb n="24" break="no"/>ṭi kuṭutta niṟai kuṟaiyā
+                    <lb n="25"/>ta<unclear>ṉ</unclear> paḻaṅkācu patiṉ ai
+                    <lb n="26" break="no"/>ntu Eṟṟi-k kācu muppa
+                    <lb n="27" break="no"/>tu Ik-kāciṉāṟ <unclear>poli</unclear>
+                    <lb n="28" break="no"/>yāl-t tiṅkaḷ nāḻi ne
+                    <lb n="29" break="no"/>yyāka-k koṇṭu tiru-nantā
+                    <lb n="30" break="no"/>-viḷakku Iraṇṭiṉuk
+                    <lb n="31" break="no"/>kum niyata ney nā
+                    <lb n="32" break="no"/>ḻi-y-āka mutal keṭāmai
+                    <lb n="33" break="no"/>-p poli Ūṭṭu-k-ko
+                    <lb n="34" break="no"/>ṇṭu <gap reason="lost" quantity="2" unit="character"/> Ik-kā<unclear>ṇa</unclear>muṅ ku
+                    <lb n="35" break="no"/>ttu-k-kāṟ paṭāmai ca
+                    <lb n="36" break="no"/>vaiyār kaṇkāṇi-y-āka-c
+                    <lb n="37"/>celuttuvat' āka Oṭṭi
+                    <lb n="38"/>Ik-kācu koṇṭōm I
+                    <lb n="39" break="no"/>ḷaṅkōy-k-kuṭi cavaiyō
+                    <lb n="40" break="no"/>m
+                </p>
+                <p>
+                    cavai paṇikka Eḻuti
+                    <lb n="41" break="no"/>ṉēṉ
+                </p>
+                
+            </div>
+            
+            <div type="apparatus">
+                <listApp>
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
+                    </app>
+                    
+                    <app loc="11">
+                        <lem>poliŪṭ
+                    <lb n="12" break="no"/>ṭu koṇṭu eṉṉum</lem>
+                        <rdg source="bib:RamanathaAyyar1962_01">poliŪṭ
+                    <lb n="12" break="no"/>ṭuk koṇṭu eṉṟum</rdg>
+                    </app>
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
+                    </app>
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
+                    </app>
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
+                    </app>
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
+                    </app>
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
+                    </app>
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
+                    </app>
+                    
+                    <app loc="0">
+                        <lem></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
+                    </app>
+                    
+                </listApp>
+            </div>
+            
+            <div type="translation" source="bib:Gillet2024_01">
+                
+                <p>Fortune! Prosperity! The <gap reason="lost" extent="unknown" unit="character"/> year of king <supplied reason="explanation">kō</supplied> Māṟañcaṭaiyaṉ. In this year <supplied reason="explanation"><foreign>ivvāṇṭu</foreign></supplied>, in the month of Makara, Kāvatiyār, resident of <supplied reason="explanation"><foreign>irukkai</foreign></supplied> Ilaveṇpaikaṭam in Veṇpaikkuṭināṭu, for Perumāṉaṭikaḷ who graciously stands <supplied reason="explanation"><foreign>niṉṟaruḷiṉa</foreign></supplied> in Tiruccālaittuṟai, in Iḷaṅkōykuṭi in Muḷḷināṭu, for one <foreign>uri</foreign> <supplied reason="explanation"><foreign>urikku</foreign></supplied> of ghee <supplied reason="explanation"><foreign>ney</foreign></supplied> everyday <supplied reason="explanation"><foreign>nicatam</foreign></supplied> for one <supplied reason="explanation"><foreign>oṉṟiṉukku</foreign></supplied> perpetual lamp <supplied reason="explanation"><foreign>nontāviḷakku</foreign></supplied>, with <supplied reason="explanation"><foreign>koṇṭu</foreign></supplied> the feeding <supplied reason="explanation"><foreign>ūṭṭu</foreign></supplied> of interests <supplied reason="explanation"><foreign>poli</foreign></supplied> without damaging <supplied reason="explanation"><foreign>keṭāmai</foreign></supplied> the capital <supplied reason="explanation"><foreign>mutal</foreign></supplied>, having added <supplied reason="explanation"><foreign>ēṟṟi</foreign></supplied> all <supplied reason="explanation"><foreign>eṉṉum</foreign></supplied>, he gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> fifteen old <foreign>kācu</foreign>s <supplied reason="explanation"><foreign>paḻaṅkācu</foreign></supplied> undiminished <supplied reason="explanation"><foreign>kuṟaiyār</foreign></supplied> in weight <supplied reason="explanation"><foreign>niṟai</foreign></supplied>, in the hands <supplied reason="explanation"><foreign>kaiyil</foreign></supplied> of the Sabhā of Iḷaṅkōykuṭi, so that they dispatch <supplied reason="explanation"><foreign>celuttuvatāka</foreign></supplied> the shares <supplied reason="explanation"><foreign>kāṇamum</foreign></supplied>, without leg piercing <supplied reason="explanation"><foreign>kuttukkāṟ paṭāmai</foreign></supplied> <supplied reason="subaudible">if one hurts his leg, he cannot work, i.e. without fail</supplied><note>See the parallel in the long Tiruccentūr inscription <supplied reason="explanation">EI 21.17</supplied> of the same period: <foreign>ipparicu celuttātu kuttukkāṟpaṭil ittēvarkkēy irupattaiñcu kācu taṇṭamum paṭṭuc celuttātu viṭṭa mutaliraṭṭiyuṅ kuṭuppatu</foreign> (lines 17-19), "<supplied reason="explanation">in this manner (<foreign>ipparicu</foreign></supplied>, if one has a pierced leg <supplied reason="explanation"><foreign>kuttukkāṟpaṭil</foreign></supplied> and does not pay <supplied reason="explanation"><foreign>celuttātu</foreign></supplied>, the fine <supplied reason="explanation"><foreign>taṇṭamum</foreign></supplied> which occurs <supplied reason="explanation"><foreign>paṭṭu</foreign></supplied> is 25 <supplied reason="explanation"><foreign>irupattaiñcu</foreign></supplied><foreign> kācu</foreign> for this god <supplied reason="explanation"><foreign>ittēvarkkēy</foreign></supplied>, and the double of the capital <supplied reason="explanation"><foreign>mutal iraṭṭiyuṅ</foreign></supplied> has to be given <supplied reason="explanation"><foreign>kuṭuppatu</foreign></supplied>."</note>; For Bhaṭārar of Tirumūlattāṉam of Tiruccālaittuṟai, for one perpetual lamp, to dispatch <supplied reason="explanation"><foreign>celuttuvatāka</foreign></supplied>, as per the order above <supplied reason="explanation"><foreign>mēṟppaṭi</foreign></supplied>, one <foreign>uri</foreign> of ghee every day, he gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied>, as stated above <supplied reason="explanation"><foreign>mēṟpaṭi</foreign></supplied>, thirty <supplied reason="explanation"><foreign>muppatu</foreign></supplied> <foreign>kācu</foreign>s added <supplied reason="explanation"><foreign>ēṟṟi</foreign></supplied> to the fifteenth old <foreign>kācu</foreign>s not deficient <supplied reason="explanation"><foreign>kuṟaiyātaṉ</foreign></supplied> in weight <supplied reason="explanation"><foreign>niṟai</foreign></supplied>. At the rate of <supplied reason="explanation"><foreign>āka</foreign></supplied> one <foreign>nāḻi</foreign> of ghee <supplied reason="explanation"><foreign>ney</foreign></supplied> monthly <supplied reason="explanation"><foreign>tiṅkaḷ</foreign></supplied> with the interests <supplied reason="explanation"><foreign>poliyāl</foreign></supplied> of these <foreign>kācu</foreign>s <supplied reason="explanation"><foreign>ikkāciṉāṟ</foreign></supplied>, at the rate of one <foreign>nāḻi</foreign> of ghee everyday <supplied reason="explanation"><foreign>niyata</foreign></supplied> for two <supplied reason="explanation"><foreign>iraṇṭiṉukku</foreign></supplied> perpetual lamps with the feeding of interests <supplied reason="explanation"><foreign>ūṭṭu</foreign></supplied> without destroying <supplied reason="explanation"><foreign>keṭāmai</foreign></supplied> the capital <gap reason="lost" extent="unknown" unit="character"/> having undertaken <supplied reason="explanation"><foreign>oṭṭi</foreign></supplied> to dispatch, as supervisor <supplied reason="explanation"><foreign>kaṇkāṇiyāka</foreign></supplied> of those of the Sabhā <supplied reason="explanation"><foreign>cavaiyār</foreign></supplied>, the shares <supplied reason="explanation"><foreign>kāṇamum</foreign></supplied> without leg piercing <supplied reason="explanation"><foreign>kuttukkāṟ paṭāmai</foreign></supplied>, we have taken <supplied reason="explanation"><foreign>koṇṭōm</foreign></supplied> these <foreign>kācu</foreign>s, we the Sabhā <supplied reason="explanation"><foreign>cavaiyōm</foreign></supplied> of Iḷaṅkōykkuṭi. I have written <supplied reason="explanation"><foreign>eḻutiṉēṉ</foreign></supplied> as ordered <supplied reason="explanation"><foreign>paṇikka</foreign></supplied> by the Sabhā <supplied reason="explanation"><foreign>cavai</foreign></supplied>.</p></div>
+            
+            <div type="commentary">
+                
+            </div>
+            
+            <div type="bibliography">
+                
+                <p>Reported in <bibl><ptr target="bib:ARIE1907-1908"/></bibl> (ARIE/1907-1908/B/1907/89).</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0027">SII 14.27</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 22).</p>                
+                <p>Edited in Gillet (forthcoming “Ambasamudram in the 9th and 10th centuries: a Holy Teaching Centre of the Pāṇḍya Kingdom”, no. 7 and fig. 20), based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 2022</ref>)-->, and previous editions.</p>
+                <p>This digital edition by Valérie Gillet. Curated by Emmanuel Francis.</p>
+                
+                <listBibl type="primary">
+                    
+                    <bibl n="SII">
+                        <ptr target="bib:RamanathaAyyar1962_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">27</citedRange>
+                    </bibl>
+                    
+                    <bibl n="IEP">
+                        <ptr target="bib:Krishnan2002_01"/>
+                        <citedRange unit="page">TBC</citedRange>
+                        <citedRange unit="item">22</citedRange>
+                    </bibl>
+                    
+                </listBibl>
+                
+                <listBibl type="secondary">
+                    <bibl>
+                        <ptr target="bib:ARIE1907-1908"/>
+                        <citedRange unit="page">12</citedRange>
+                        <citedRange unit="appendix">B/1907</citedRange>
+                        <citedRange unit="item">89</citedRange>
+                    </bibl>
+                </listBibl>
+                
+            </div>
+            
+        </body>
+    </text>
+</TEI>
