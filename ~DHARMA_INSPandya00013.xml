@@ -62,21 +62,31 @@
                 </ab>
                 
                 <p>
-                    <hi rend="grantha">bhaṭārar anugraha</hi>ttiṉ[[ā]]
-                    <lb n="2"/>ṟ muḷḷināṭṭiḷaṅkoykkuṭi t {broken}
-                    <lb n="3"/>ruppottuṭaiyār <hi rend="grantha">śrī</hi>koyil <hi rend="grantha">bhaṭāra</hi>kku mu {broken}
-                    <lb n="4"/>keṭāmai poli koṇṭu nāṟku kālamun ti {broken}
-                    <lb n="5"/>tu celuttuvatāka varakuṇa-<hi rend="grantha">maharajar</hi> toṇṭainā {broken}
-                    <lb n="6"/>peṇṇaikkarai Araicūr viṟṟ-iruntu Iḷaṅ {broken}
-                    <lb n="7"/>ṭic cavaiyār kaiyyiṟ kuṭutta kācu Irun {broken}
-                    <lb n="8"/>ṇ<unclear>ṇu</unclear>ṟu Ivaṟṟāṟ kāciṉ vāy iru-kalam āka {broken}
-                    <lb n="9"/>varai cavaiyār aḷakkum poli nel Ain n<unclear>ū</unclear>ṟṟeṇpa {broken}
-                    <lb n="10"/>ṉ kalam Ivai koṇṭu <hi rend="grantha">bhaṭāra</hi>r paṇi makkaḷum I {broken}
-                    <lb n="11"/>kokkuṭic cavai vāriyarum Uṭaṉiṉṟu varaku {broken}
-                    <lb n="12"/><hi rend="grantha">maharaja</hi>rkku <hi rend="grantha">rājyavaṣa</hi>m nāṉkāvatukku E {broken}
-                    <lb n="13"/>panniraṇṭā yāṇṭu tulā-ñāyiṟu mutal-āka ni {broken}
-                    <lb n="14"/>yāka nāṉku kālamun tiru-v-amitu celuttu<unclear>m pa</unclear>
-                    <lb n="15"/>ṭi Oru poḻutaikku vēṇṭuvaṉa Arici cenn<unclear>e</unclear>ṟ
+                    <hi rend="grantha">bhaṭārar anugraha</hi>ttiṉ<unclear>ā</unclear>
+                    <lb n="2" break="no"/>ṟ muḷḷināṭṭ' iḷaṅkōy-k-kuṭi t<supplied reason="lost">i</supplied>
+                    <lb n="3" break="no"/>ru-p-pōtt-uṭaiyār <hi rend="grantha">śrī</hi>-kōyil <hi rend="grantha">bhaṭāra</hi>kku mu<supplied reason="lost">tal</supplied>
+                    <lb n="4"/>keṭāmai poli koṇṭu nāṟku kālamun ti<supplied reason="lost">ru-v-amutu</supplied>
+                    <lb n="5" break="no"/>tu celuttuvat' āka varakuṇa-<hi rend="grantha">maharajar</hi> toṇṭai-nā<supplied reason="lost">ṭṭu-p</supplied>
+                    <lb n="6"/>peṇṇai-k-karai Araicūr v<choice><orig>i</orig><reg>ī</reg></choice>ṟṟ-iruntu Iḷaṅ<supplied reason="lost">kōy-k-ku</supplied>
+                    <lb n="7" break="no"/>ṭi-c cavaiyār kaiyyiṟ kuṭutta kācu Irun<supplied reason="lost">ūṟṟu-t to</supplied>
+                    <lb n="8" break="no"/>ṇ<unclear>ṇū</unclear>ṟu
+                </p>
+                <p>
+                    Ivaṟṟāṟ kāciṉ vāy iru-kalam āka <supplied reason="lost">Āṇṭu</supplied>
+                    <lb n="9"/>varai cavaiyār aḷakkum poli nel Ain n<unclear>ū</unclear>ṟṟ' eṇpa<supplied reason="lost">ti</supplied>
+                    <lb n="10" break="no"/>ṉ kalam
+                </p>
+                <p>
+                    Ivai koṇṭu <hi rend="grantha">bhaṭāra</hi>r paṇi makkaḷum I<supplied reason="lost">ḷaṅ</supplied>
+                    <lb n="11"/>kō-k-kuṭi-c cavai vāriyarum Uṭaṉiṉṟu varaku<supplied reason="lost">ṇa</supplied>
+                    <lb n="12"/><hi rend="grantha">mah<choice><sic>a</sic><corr>ā</corr></choice>rāja</hi>rkku <hi rend="grantha">rājyava<unclear>r</unclear>ṣa</hi>m nāṉk-āvatukku E<supplied reason="lost">tir</supplied>
+                    <lb n="13"/>panniraṇṭā<supplied reason="omitted">m</supplied> yāṇṭu tulā-ñāyiṟu mutal-āka ni<supplied reason="lost">cati</supplied>
+                    <lb n="14"/>-y-āka nāṉku kālamun tiru-v-amitu celuttu<unclear>m pa</unclear>
+                    <lb n="15"/>ṭi
+                </p>
+                
+                <p>                    
+                    Oru poḻutaikku vēṇṭuvaṉa Arici cenn<unclear>e</unclear>ṟ
                     <lb n="16"/>ṟiṭṭal nāṉāḻi kummāyattukku paya<unclear>ṟṟu</unclear>
                     <lb n="17"/>pparuppuri nivetikka pacuviṉ ṉaṟuney [[u]]
                     <lb n="18"/>ḻakkup pacuviṉṟoy tayir urik karuvāḻai
@@ -152,7 +162,17 @@
             </div>
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="0">
+                        <lem>t</lem>
+                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
+                    </app>
+                    
+                    <app loc="14">
+                        <lem>tiruvamitu</lem>
+                        <rdg source="bib:RamanathaAyyar1962_01">tiruvamutu</rdg>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation" source="bib:Gillet2024_01">
@@ -167,8 +187,8 @@
                
                 <p>Reported in <bibl><ptr target="bib:ARIE1925-1926"/></bibl> (ARIE/1904-1905/B/1905/105).</p>
                 <p>EI 9, no. 10, pp. 84–94 (edited by V. Venkayya, with introduction, translation and estampage).</p>
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0014">SII 14.13</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 46).</p>
-                <p>Edited in Gillet (forthcoming “Ambasamudram in the 9th and 10th centuries: a Holy Teaching Centre of the Pāṇḍya Kingdom”, no. 1 and figs. 10-11), based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->.</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0013">SII 14.13</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 46).</p>
+                <p>Edited in Gillet (forthcoming “Ambasamudram in the 9th and 10th centuries: a Holy Teaching Centre of the Pāṇḍya Kingdom”, no. 1 and figs. 10-11), based on autopsy and photographs<!--(<ref target="https://didomena.ehess.fr/concern/data_sets/****">by Valérie Gillet, 20**</ref>)-->. Characters lost in end of lines marked unclear or omitted in SII 14.13.</p>
                 <p>This digital edition by Valérie Gillet and Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
