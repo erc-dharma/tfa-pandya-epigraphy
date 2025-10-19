@@ -98,7 +98,6 @@
                     <app loc="3">
                         <lem source="bib:RamanathaAyyar1962_01">paṉmāye<hi rend="grantha">śva</hi>ra<unclear>r</unclear>ē</lem>
                         <rdg source="bib:Gillet2017_01">paṉmāye<hi rend="grantha">śva</hi>r</rdg>
-                        <rdg ><gap reason="lost" extent="unknown" unit="character"/> paḻaya kal</rdg>
                     </app>
                 </listApp>
             </div>
