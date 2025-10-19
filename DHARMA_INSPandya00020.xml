@@ -91,22 +91,22 @@
                     </app>
                     
                     <app loc="1">
-                        <lem><unclear>paṉaiyūr Araiyaṉ kaḷva</unclear>ṉ</lem>
-                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
-                        <note>Not legible today, as covered with a thick layer of black grease coming from the lamps. I could not read it, but the letters are not damaged.</note>
+                        <lem source="bib:Gillet2017_01"><unclear>paṉaiyūr Araiyaṉ kaḷva</unclear>ṉ</lem>
+                        <rdg source="bib:RamanathaAyyar1962_01">paṉaiyūr Araiyaṉ kaḷvaṉ</rdg>
+                        <note>Letters not damaged but covered with a thick layer of black grease coming from the lamps.</note>
                     </app>
                     
                     <app loc="2">
-                        <lem>neyyu<unclear>m it-taḷikkē kuṇaṉtu A</unclear>ccippārkk'</lem>
-                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
-                        <note>Not legible today, as covered with a thick layer of black grease coming from the lamps. I could not read it, but the letters are not damaged.</note>
+                        <lem source="bib:Gillet2017_01">neyyu<unclear>m it-taḷikkē kuṇaṉtu A</unclear>ccippārkk' aḷantu</lem>
+                        <rdg source="bib:RamanathaAyyar1962_01">neyyu mittaḷikke kuṇa<choice><sic>ṉ</sic><corr>n</corr></choice>tu A<supplied reason="omitted">r</supplied>ccippārk kaḷantu</rdg>
+                        <note>Letters not damaged but covered with a thick layer of black grease coming from the lamps.</note>
                     </app>
                 </listApp>
             </div>
             
             <div type="translation" source="bib:Gillet2017_01">
                 
-                <p>This is also <supplied reason="explanation"><foreign>itu-v-um</foreign></supplied> a copy <supplied reason="explanation"><foreign>paṭi</foreign></supplied> of one <supplied reason="explanation"><foreign>oru</foreign></supplied> old stone <supplied reason="explanation"><foreign>paḻaṅ-kal</foreign></supplied>. This is the 4th year of king Māṟañcaṭaiyaṉ. Kaḷvaṉ, the chieftain <supplied reason="explanation"><foreign>araiyaṉ</foreign></supplied> of Paṉaiyūr in Peraiyūrnāṭu, for Mahādeva in Tirukkōṭikkā, gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> for a perpetual lamp 15 <foreign>kaḻañcu</foreign> of pure gold <supplied reason="explanation"><foreign>cempoṉ</foreign></supplied>; with the interests of this <supplied reason="subaudible">gold</supplied>, having brought <supplied reason="explanation"><foreign>kuṇantu</foreign></supplied> to this temple <supplied reason="explanation"><foreign>i-t-taḷikkē</foreign></supplied>, having measured <supplied reason="explanation"><foreign>aḷantu</foreign></supplied> for the priests <supplied reason="explanation"><foreign>arccipārkku</foreign></supplied>, we will give <supplied reason="explanation"><foreign>kuṭuppōmāy</foreign></supplied> 4 <foreign>uḻakku</foreign> and 1 <foreign>uḻakku</foreign> of ghee everyday with 1 <foreign>uḻakku</foreign> under <supplied reason="subaudible">the measure</supplied> <foreign>piḻaiyānāḻi</foreign>; we, the Sabhā of Nāraṇakkacaturvedimaṅgalam, have taken <supplied reason="explanation"><foreign>koṇṭōm</foreign></supplied> this gold.</p><p>This is a copy of an old stone <supplied reason="explanation"><foreign>paḻaṅ-kal-paṭi</foreign></supplied>; since it is engraved <supplied reason="explanation"><foreign>veṭṭinamai-yil</foreign></supplied> completely <supplied reason="explanation"><foreign>ēṟa</foreign></supplied> on this sacred sanctuary <supplied reason="explanation"><foreign>śrīvimāṉa</foreign></supplied>, since there is no <supplied reason="explanation"><foreign>illāmaiy-il</foreign></supplied> use <supplied reason="explanation"><foreign>ubhaiyōkam</foreign></supplied> for the separate stones <supplied reason="explanation"><foreign>taṉi-k-kal-l-āl</foreign></supplied> which were lying engraved <supplied reason="explanation"><foreign>veṭṭi-kiṭanta</foreign></supplied> with this previous text <supplied reason="explanation"><foreign>muṉ-ṉ-i-vājagam</foreign></supplied>, that has been removed <supplied reason="explanation"><foreign>taviṉtatu</foreign> for <foreign>tavirntatu</foreign></supplied>. If this <supplied reason="explanation"><foreign>itu</foreign></supplied> is deficient <supplied reason="explanation"><foreign>muṭṭil</foreign></supplied>, the Paṉmāheśvaras will obtain <supplied reason="explanation"><foreign>peṟṟār</foreign></supplied> and carry out <supplied reason="explanation"><foreign>kaṭai-k-kūṭṭa</foreign></supplied>.</p></div>
+                <p>This is also <supplied reason="explanation"><foreign>itu-v-um</foreign></supplied> a copy <supplied reason="explanation"><foreign>paṭi</foreign></supplied> of one <supplied reason="explanation"><foreign>oru</foreign></supplied> old stone <supplied reason="explanation"><foreign>paḻaṅ-kal</foreign></supplied>. This is the 4th year of king Māṟañcaṭaiyaṉ. Kaḷvaṉ, the chieftain <supplied reason="explanation"><foreign>araiyaṉ</foreign></supplied> of Paṉaiyūr in Peraiyūrnāṭu, for Mahādeva in Tirukkōṭikkā, gave <supplied reason="explanation"><foreign>kuṭutta</foreign></supplied> for a perpetual lamp 15 <foreign>kaḻañcu</foreign> of pure gold <supplied reason="explanation"><foreign>cempoṉ</foreign></supplied>; with the interests of this <supplied reason="subaudible">gold</supplied>, having brought <supplied reason="explanation"><foreign>kuṇantu</foreign></supplied> to this temple <supplied reason="explanation"><foreign>i-t-taḷikkē</foreign></supplied>, having measured <supplied reason="explanation"><foreign>aḷantu</foreign></supplied> for the priests <supplied reason="explanation"><foreign>arccipārkku</foreign></supplied>, we will give <supplied reason="explanation"><foreign>kuṭuppōmāy</foreign></supplied> 4 <foreign>uḻakku</foreign> and 1 <foreign>uḻakku</foreign> of ghee everyday with 1 <foreign>uḻakku</foreign> under <supplied reason="subaudible">the measure</supplied> <foreign>piḻaiyānāḻi</foreign>; we, the Sabhā of Nāraṇakkacaturvedimaṅgalam, have taken <supplied reason="explanation"><foreign>koṇṭōm</foreign></supplied> this gold.</p><p>This is a copy of an old stone <supplied reason="explanation"><foreign>paḻaṅ-kal-paṭi</foreign></supplied>; since it is engraved <supplied reason="explanation"><foreign>veṭṭinamai-yil</foreign></supplied> completely <supplied reason="explanation"><foreign>ēṟa</foreign></supplied> on this sacred sanctuary <supplied reason="explanation"><foreign>śrīvimāṉam</foreign></supplied>, since there is no <supplied reason="explanation"><foreign>illāmaiy-il</foreign></supplied> use <supplied reason="explanation"><foreign>ubhaiyōkam</foreign></supplied> for the separate stones <supplied reason="explanation"><foreign>taṉi-k-kal-l-āl</foreign></supplied> which were lying engraved <supplied reason="explanation"><foreign>veṭṭi-kiṭanta</foreign></supplied> with this previous text <supplied reason="explanation"><foreign>muṉ-ṉ-i-vājagam</foreign></supplied>, that has been removed <supplied reason="explanation"><foreign>taviṉtatu</foreign> for <foreign>tavirntatu</foreign></supplied>. If this <supplied reason="explanation"><foreign>itu</foreign></supplied> is deficient <supplied reason="explanation"><foreign>muṭṭil</foreign></supplied>, the Paṉmāheśvaras will obtain <supplied reason="explanation"><foreign>peṟṟār</foreign></supplied> and carry out <supplied reason="explanation"><foreign>kaṭai-k-kūṭṭa</foreign></supplied>.</p></div>
             
             <div type="commentary">
                 
@@ -115,8 +115,9 @@
             <div type="bibliography">
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE/1930-1931/B/1930-1931/21), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 262).</p>
-                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0020">SII 14.20</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 24). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet</ref>).</p>
-                <p>This revised edition by Valérie Gillet and Emmanuel Francis.</p>
+                <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0020">SII 14.20</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 24).</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs<!-- (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet</ref>)-->. Most unclear letters previously legible to earlier editors.</p>
+                <p>This online edition by Valérie Gillet. Curated by Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl n="SII">
@@ -129,7 +130,7 @@
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="item">24</citedRange>
                     </bibl>
-                    <bibl>
+                    <bibl n="G">
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">261-262</citedRange>
                         <citedRange unit="item">11</citedRange>
