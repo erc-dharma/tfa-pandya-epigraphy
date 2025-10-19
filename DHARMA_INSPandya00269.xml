@@ -33,7 +33,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary><p>Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district. On the base of the southern façade of the sanctuary. We do not know who is the donor: his/her name is either not given or given in line 1 but lost under the construction of the shrine of Dakṣiṇāmūrti which covers a part of the inscription.</p>
+                        <summary><p>Tirukkōṭīśvara temple, Tirukkōṭikkāval, Tiruviṭaimarutūr taluk, Tañcāvūr district. On the base of the southern façade of the sanctuary. We do not know who is the donor: his/her name is probably given in line 1 but presently covered by a later construction (the shrine of Dakṣiṇāmūrti).</p>
                             
                         </summary>
                     </msContents>
@@ -59,23 +59,48 @@
                     <lb n="1"/><hi rend="grantha">svasti śrī</hi>
                 </p>
                 <p>
-                    Ituvumm oru paḻaṅkal paṭi
+                    Ituvu<choice><orig>mm</orig><reg>m</reg></choice> oru paḻaṅ kal paṭi
                 </p>
                 <p>
-                    kō-māṟa-caṭaiyarku yā<unclear>nṭu</unclear> [[patiṉṉo]] {built Over} <hi rend="grantha">mahāde</hi>vaṟku tiruviḷakkiṉukku kuṭutta tippokkuccempoṉ muppatiṉ kaḻañcu
+                    kō-māṟa<supplied reason="omitted">ṉ</supplied> caṭaiyarku yā<unclear>nṭu patiṉṉo</unclear> <gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">mahā-de</hi>vaṟku tiru-viḷakkiṉukku kuṭutta t<choice><orig>i</orig><reg>ī</reg></choice>-p-pokku-c cempoṉ mu-p-patiṉ kaḻañcu
                 </p>
                 <p>
-                    Itaṉ palicaiyāl nāl Uḻakkum piḻaiyānāḻiyoṭo
-                    <lb n="2" break="no"/>kkum muḻaiyāl na <gap reason="lost" extent="unknown" unit="character"/> ṭi Uḻakku <gap reason="lost" extent="unknown" unit="character"/> ytaḷiaṟccipāṟka[[ḷantu nontāvi]] {built Over} paḻaya kalpaṭi Inta<hi rend="grantha">śrī</hi> vimānattile Eṟa veṭṭinamaiyil muṉṉivvā <hi rend="grantha">jaga</hi>m veṭṭikkiṭanta taṉikkallāl U<hi rend="grantha">bhai</hi>yō<hi rend="grantha">ga</hi>m Illāmaiyil Atu tavittatu
+                    Itaṉ palicaiyāl nāl Uḻakkum piḻaiyānāḻi y-oṭo
+                    <lb n="2" break="no"/>kkum muḻaiyāl na <gap reason="lost" extent="unknown" unit="character"/> ṭi Uḻakku <gap reason="lost" extent="unknown" unit="character"/> y taḷi-Aṟccipāṟk' a<unclear>ḷantu nontā-vi</unclear> <gap reason="lost" extent="unknown" unit="character"/> 
+                </p>
+                <p>
+                    <supplied reason="lost">Itu</supplied> paḻ<choice><orig>a</orig><reg>ai</reg></choice>ya kal paṭi
+                </p>
+                <p>
+                    Inta <hi rend="grantha">śrī</hi>-vimānattile Eṟa veṭṭinamaiyil muṉṉ-iv-vā<hi rend="grantha">jaga</hi>m veṭṭi-k-kiṭanta taṉi-k-kallāl U<hi rend="grantha">bhai</hi>yō<hi rend="grantha">ga</hi>m Illāmaiyil Atu tavittatu
                 </p>
                 <p>                    
-                    <lb n="3"/>Itu muṭṭiṟ paṉmāyeśvar <unclear>kaṭai</unclear>kkuṭṭapeṟṟār ||
+                    <lb n="3"/>Itu muṭṭiṟ paṉmāye<hi rend="grantha">śva</hi>ra<unclear>r</unclear>ē <unclear>kaṭai</unclear>-k-kuṭṭa peṟṟār <g type="ddanda">.</g>
                 </p>
                 
             </div>
             
             <div type="apparatus">
-                
+                <listApp>
+                    <app loc="1">
+                        <lem source="bib:Gillet2017_01">yā<unclear>nṭu patiṉṉo</unclear> <gap reason="lost" extent="unknown" unit="character"/></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01">yā<unclear>nṭu pa</unclear>tiṉṉo <gap reason="lost" quantity="10" unit="character"/></rdg>
+                    </app>
+                    <app loc="2">
+                        <lem source="bib:Gillet2017_01">taḷiAṟccipāṟk' a<unclear>ḷantu nontā-vi</unclear> <gap reason="lost" extent="unknown" unit="character"/></lem>
+                        <rdg source="bib:RamanathaAyyar1962_01">taḷi Aṟccipāṟ kaḷa<unclear>ntu </unclear> nontā-vi <gap reason="lost" extent="unknown" unit="character"/></rdg>
+                    </app>
+                    <app loc="2">
+                        <lem><supplied reason="lost">Itu</supplied> paḻ<choice><orig>a</orig><reg>ai</reg></choice>ya kal</lem>
+                        <rdg source="bib:Gillet2017_01"><gap reason="lost" extent="unknown" unit="character"/> paḻaya kal</rdg>
+                        <rdg source="bib:RamanathaAyyar1962_01"><gap reason="lost" extent="unknown" unit="character"/> paḻaya kal</rdg>
+                    </app>
+                    <app loc="3">
+                        <lem source="bib:RamanathaAyyar1962_01">paṉmāye<hi rend="grantha">śva</hi>ra<unclear>r</unclear>ē</lem>
+                        <rdg source="bib:Gillet2017_01">paṉmāye<hi rend="grantha">śva</hi>r</rdg>
+                        <rdg ><gap reason="lost" extent="unknown" unit="character"/> paḻaya kal</rdg>
+                    </app>
+                </listApp>
             </div>
             
             <div type="translation" source="bib:Gillet2017_01">
@@ -90,7 +115,7 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE/1930-1931/B/1930-1931/29), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 265).</p>
                 <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p2i0002">SII 14, appendix, no. 2</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 38). Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet</ref>).</p>
-                <p>This revised edition by Valérie Gillet and Emmanuel Francis.</p>
+                <p>This online edition by Valérie Gillet. Curated by Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
                     <bibl n="SII">
@@ -103,7 +128,7 @@
                         <citedRange unit="page">TBC</citedRange>
                         <citedRange unit="item">38</citedRange>
                     </bibl>
-                    <bibl>
+                    <bibl n="G">
                         <ptr target="bib:Gillet2017_01"/>
                         <citedRange unit="page">270-271</citedRange>
                         <citedRange unit="item">24</citedRange>
