@@ -93,13 +93,13 @@
                     <app loc="1">
                         <lem source="bib:Gillet2017_01"><unclear>paṉaiyūr Araiyaṉ kaḷva</unclear>ṉ</lem>
                         <rdg source="bib:RamanathaAyyar1962_01">paṉaiyūr Araiyaṉ kaḷvaṉ</rdg>
-                        <note>Letters not damaged but covered with a thick layer of black grease coming from the lamps.</note>
+                        <note>Letters not damaged but presently (2017) covered with a thick layer of black grease coming from the lamps.</note>
                     </app>
                     
                     <app loc="2">
                         <lem source="bib:Gillet2017_01">neyyu<unclear>m it-taḷikkē kuṇaṉtu A</unclear>ccippārkk' aḷantu</lem>
                         <rdg source="bib:RamanathaAyyar1962_01">neyyu mittaḷikke kuṇa<choice><sic>ṉ</sic><corr>n</corr></choice>tu A<supplied reason="omitted">r</supplied>ccippārk kaḷantu</rdg>
-                        <note>Letters not damaged but covered with a thick layer of black grease coming from the lamps.</note>
+                        <note>Letters not damaged but presently (2017) covered with a thick layer of black grease coming from the lamps.</note>
                     </app>
                 </listApp>
             </div>
@@ -116,7 +116,7 @@
                 
                 <p>Reported in <bibl><ptr target="bib:ARIE1930-1931"/></bibl> (ARIE/1930-1931/B/1930-1931/21), in <bibl><ptr target="bib:Mahalingam1992_01"/></bibl> (Tj 262).</p>
                 <p>Edited in <bibl><ptr target="bib:RamanathaAyyar1962_01"/></bibl> (<ref target="DHARMA_INSSIIv14p1i0020">SII 14.20</ref>), in <bibl><ptr target="bib:Krishnan2002_01"/></bibl> (IEP 24).</p>
-                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs<!-- (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet</ref>)-->. Most unclear letters previously legible to earlier editors.</p>
+                <p>Edited and translated in <bibl><ptr target="bib:Gillet2017_01"/></bibl>, based on autopsy and photographs<!-- (<ref target="https://didomena.ehess.fr/concern/data_sets/****">Valérie Gillet</ref>)-->. Most presently (2017) unclear letters previously legible to earlier editors.</p>
                 <p>This online edition by Valérie Gillet. Curated by Emmanuel Francis.</p>
                 
                 <listBibl type="primary">
