@@ -93,13 +93,23 @@
                 <p>
                     
                     <pb n="2r"/>
-                    
+                    <lb n="2r1=16"/>
+                </p>
+                
+                <lg n="17" met="indravajrā" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <l n="a">śrīkaṇṭha-nāmno ’kkaḷanimmaṭīti</l>
+                    <l n="b">nāmna śrutā coḷa-kula-<lb n="2r15=30" break="no"/>-pradīpāt·</l>
+                    <l n="c">AMbhonidher aMbuja-vāsinīva</l>
+                    <l n="d">labdhodbhavā yañ janayāM babhūva <g type="gomutraFinal">.</g></l>
+                </lg>
+                
+                <p>
                     <pb n="2v"/>
                     
                     <pb n="3r"/>
                     
-                    <lg n="35" met="indravjrā" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                        <l n="a">Etaṃ grāmaṃ rakṣatāM· bhūpatīnāM·</l>
+                    <lg n="35" met="indravajrā" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                        <l n="a">Etaṃ grāmaṃ rakṣatāM bhūpatīnāM</l>
                         <l n="b">cātvārotthāḥ prāṇibhiḥ prārtthyamānāḥ</l>
                         <l n="c">dīrgghaṃ kā<lb n="3r60=60" break="no"/>laṃ vṛddhim ṛccantu p<choice><orig>ra</orig><reg>ṛ</reg></choice>thvīn</l>
                         <l n="d">dharmo lakṣmir bhoga-śaktir yaśāś ca</l>
