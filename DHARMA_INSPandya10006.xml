@@ -46,7 +46,7 @@
                     <physDesc>
                         <handDesc>
                             <p>
-                                
+                                No distinction between <foreign>i</foreign> and <foreign>ī</foreign>.
                             </p>
                         </handDesc>
                     </physDesc>
@@ -93,8 +93,19 @@
                     <pb n="2v"/>		
                     
                     <pb n="3r"/>
-                    
+                    <lb n="3r1=21"/>...
+                </p>
+                
+                <lg n="15" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <l n="a">śrīr iva śrī-nivāsasya</l>
+                    <l n="b">paulomīva śata-kratoḥ</l>
+                    <l n="c">śrī-vānavan-mah<choice><sic>a</sic><corr>ā</corr></choice><lb n="3r9=21" break="no"/>-devī</l>
+                    <l n="d">devī tasya prabhor abhūt· <g type="gomutraFinal">.</g></l>
+                </lg>
+                
+                <p>
                     <pb n="3v"/>
+                    <lb n="3v1=41"/>...
                     
                     <pb n="4r"/>
                     
@@ -103,15 +114,19 @@
                     <pb n="5r"/>
                     
                     <pb n="5v"/>
-                    
+                    <lb n="5v1=59"/>...
+                </p>
+                
                     <lg n="37" met="vasantatilakā" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                        <l n="a">pāta-prasatna-manasas sukṛtam mameti</l>
+                        <l n="a">pāta prasa<choice><sic>t</sic><corr>n</corr></choice>na-manasas sukṛtam mameti</l>
                         <l n="b">so ’yaṃ samasta-vasudhādhipa<lb n="5v5=73" break="no"/>-vandanīyaḥ</l>
                         <l n="c">baddhāñjaliḥ pratidinaM· praṇamaty aśeṣān</l>
                         <l n="d">āgāmi<lb n="5v5=74" break="no"/>naḥ kṣiti-patīn abhimāna-meruḥ <g type="gomutraFinal">.</g></l>
                     </lg>
+                <p>
                     
                     <pb n="6r"/>
+                    <lb n="6r1=80"/>...
                     
                     <pb n="6v"/>
                     
@@ -141,11 +156,18 @@
             
             <div type="translation" resp="part:emfr">      
                 
+                <p n="15" rend="stanza">
+                    <l>The glorious Vānavan-mahādevī</l>
+                    <l>was the wife of this lord <supplied reason="explanation">Parāntaka</supplied>,</l>
+                    <l>like Śrī to Śrīnivāsa <supplied reason="explanation">Viṣṇu</supplied>,</l>
+                    <l>like Paulomī <supplied reason="explanation">Śacī</supplied> to Śatakratu <supplied reason="explanation">Indra</supplied>.</l>
+                </p>
+                
                 <p n="37" rend="stanza">
                     <l>Praised by all the kings of the earth</l>
-                    <l>Abhimānameru<note>That is, the Pāṇḍya king.</note>, with hands joined <supplied reason="subaudible">on his forehead</supplied>,</l>
+                    <l>Abhimānameru,<note>That is, the Pāṇḍya king.</note> with hands joined <supplied reason="subaudible">on his forehead</supplied>,</l>
                     <l>Bows day after day to all the kings of the future</l>
-                    <l>Saying <supplied reason="subaudible">them</supplied>: <quote>...</quote></l>
+                    <l>Saying <supplied reason="subaudible">them</supplied>: <quote>O pure-minded ones, protect my meritorious act!</quote></l>
                 </p>
             </div>
             
