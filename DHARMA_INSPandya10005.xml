@@ -107,14 +107,17 @@
                     <pb n="2v"/>
                     
                     <pb n="3r"/>
-                    
-                    <lg n="35" met="indravajrā" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
-                        <l n="a">Etaṃ grāmaṃ rakṣatāM bhūpatīnāM</l>
-                        <l n="b">cātvārotthāḥ prāṇibhiḥ prārtthyamānāḥ</l>
-                        <l n="c">dīrgghaṃ kā<lb n="3r60=60" break="no"/>laṃ vṛddhim ṛccantu p<choice><orig>ra</orig><reg>ṛ</reg></choice>thvīn</l>
-                        <l n="d">dharmo lakṣmir bhoga-śaktir yaśāś ca</l>
-                    </lg>
-                    
+                </p>
+                
+                
+                <lg n="35" met="indravajrā" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
+                    <l n="a">Etaṃ grāmaṃ rakṣatāM bhūpatīnāM</l>
+                    <l n="b">cātvārotthāḥ prāṇibhiḥ prārtthyamānāḥ</l>
+                    <l n="c">dīrgghaṃ kā<lb n="3r60=60" break="no"/>laṃ vṛddhim ṛccantu p<choice><orig>ra</orig><reg>ṛ</reg></choice>thvīn</l>
+                    <l n="d">dharmo lakṣmir bhoga-śaktir yaśāś ca</l>
+                </lg>
+                
+                <p>
                     <pb n="3v"/>
                     
                     <pb n="4r"/>
@@ -136,19 +139,10 @@
                 
             </div>
             
-            <!--<div type="apparatus">
+            <div type="apparatus">
                 
-                <listApp>
-                
-                <app loc="0">
-                <lem></lem>
-                <rdg source="bib:..."></rdg>
-                </app>
-                </listApp>
-                
-                </div>
-            -->
-            
+            </div>
+                        
             <div type="translation" resp="part:emfr">      
                 
                 <p>Prosperity!</p>
