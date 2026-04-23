@@ -45,7 +45,7 @@
                         <idno/>
                     </msIdentifier>
                     <msContents>
-                        <summary></summary>
+                        <summary/>
                     </msContents>
                     <physDesc>
                         <handDesc>
@@ -64,16 +64,13 @@
                     under the European Union’s Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -101,7 +98,7 @@
                     <l n="a"><lb n="1v1=1"/>śriyañ ciraṃ vaś śiśirāṃśu-śekharaś</l>
                     <l n="b">śiva<supplied reason="omitted">ḥ</supplied> śritārtthi-pratibandha-kāraṇaM</l>
                     <l n="c">tanotu sauvarṇṇa-kapa<lb n="1v2=2" break="no"/>rdda-sundaraẖ</l>
-                    <l n="d">ku-darppa-kandarppa-mada-pramarddanaḥ <g type="pc"/></l></lg>
+                    <l n="d">ku-darppa-kandarppa-mada-pramarddanaḥ <g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--></l></lg>
                 
                 <p>
                     ...
@@ -121,7 +118,7 @@
                     <l n="a">rājatāṃ sa mahīpāla</l>
                     <l n="b">kirīṭārppita-śāsanaḥ</l>
                     <l n="c">rā<lb n="3v2=30" break="no"/>jasiṃha-suto rājā</l>
-                    <l n="d">ciram urvvyāM parāntakaḥ <g type="gomutraFinal">.</g></l>
+                    <l n="d">ciram urvvyāM parāntakaḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
                 <p>
@@ -159,14 +156,14 @@
                     <l n="a">ra<choice><orig>t</orig><reg>k</reg></choice>ṣān naraḥ parakṛtau vidadhīta vidvān</l>
                     <l n="b">pādā hi dharmma-yaśasaḥ para<lb n="9v3=144" break="no"/>masya labdhā<supplied reason="omitted">ḥ</supplied></l>
                     <l n="c">dhātraiva s<choice><orig>ra</orig><reg>ṛ</reg></choice>ṣṭam akhilaM· bhuvanan tathāpi</l>
-                    <l n="d">ra<choice><orig>t</orig><reg>k</reg></choice>ṣant<surplus>r</surplus>i puṇyaratayaḥ p<choice><orig>ra</orig><reg>ṛ</reg></choice>thiv<choice><orig>i</orig><reg>ī</reg></choice>n narendrā<supplied reason="omitted">ḥ</supplied> <g type="gomutraInitial">.</g><g type="spiral">.</g><g type="gomutraFinal">.</g></l>
+                    <l n="d">ra<choice><orig>t</orig><reg>k</reg></choice>ṣant<surplus>r</surplus>i puṇyaratayaḥ p<choice><orig>ra</orig><reg>ṛ</reg></choice>thiv<choice><orig>i</orig><reg>ī</reg></choice>n narendrā<supplied reason="omitted">ḥ</supplied> <g ref="sym:flourish-taperIn" type="punctuation">.</g><g ref="sym:spiral" type="punctuation">.</g><g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
                 <lg n="20" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
                     <l n="a"><lb n="9v4=145" break="no"/>na hi bhūmi-pradānād vai</l>
                     <l n="b">dānam anyad viśiṣyate</l>
                     <l n="c">na cāpi bhūmi-haraṇāt</l>
-                    <l n="d">pāpa<lb n="9v5=146" break="no"/>m anyad vidhīyate <g type="pc">.</g></l>
+                    <l n="d">pāpa<lb n="9v5=146" break="no"/>m anyad vidhīyate <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></l>
                 </lg>
                 
                 <lg n="21" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
@@ -180,17 +177,17 @@
                     <l n="a">svadattāM· paradattāM· vā</l>
                     <l n="b">yo hareta vasundharā<lb n="9v7=148" break="no"/>M·</l>
                     <l n="c">na tasya <unclear>na</unclear>rakāt ghorād</l>
-                    <l n="d">vidyate niṣk<supplied reason="lost">ṛ</supplied>ti<supplied reason="omitted">ḥ</supplied> kvacit·  <g type="pc">.</g></l>
+                    <l n="d">vidyate niṣk<supplied reason="lost">ṛ</supplied>ti<supplied reason="omitted">ḥ</supplied> kvacit·  <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"--></l>
                 </lg>
                 
                 <lg n="23" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:regional">
                     <l n="a">bahubhir vvasudhā <pb n="10r"/><lb n="10r1=149"/> dattā</l>
                     <l n="b">bhujyate hi <choice><sic>t</sic><corr>dh</corr></choice>arādhipaiḥ</l>
                     <l n="c">yasya yasya yadā bhūm<unclear>i</unclear>s</l>
-                    <l n="d">tasya tasya ta<lb n="10r2=150" break="no"/>dā phalaM· <g type="gomutraInitial">.</g><g type="spiral">.</g><g type="gomutraFinal">.</g></l>
+                    <l n="d">tasya tasya ta<lb n="10r2=150" break="no"/>dā phalaM· <g ref="sym:flourish-taperIn" type="punctuation">.</g><g ref="sym:spiral" type="punctuation">.</g><g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
-                <p xml:lang="san-Latn" rendition="class:grantha maturity:83215">catvāraḥ Ime vaiṣṇave dharmme ślokāḥ <g type="gomutraInitial">.</g><g type="spiral">.</g><g type="gomutraFinal">.</g></p>
+                <p xml:lang="san-Latn" rendition="class:grantha maturity:83215">catvāraḥ Ime vaiṣṇave dharmme ślokāḥ <g ref="sym:flourish-taperIn" type="punctuation">.</g><g ref="sym:spiral" type="punctuation">.</g><g ref="sym:flourish-taperOut" type="punctuation">.</g></p>
                 
                 <p>
                     <lb n="10r3=151"/>...

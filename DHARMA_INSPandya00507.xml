@@ -64,7 +64,7 @@
                     <lb n="2" break="no"/><supplied reason="omitted">t</supplied>ta <gap reason="lost" extent="unknown" unit="character"/> ṇaka <gap reason="lost" extent="unknown" unit="character"/> vaitta <unclear>to</unclear>
                 </p>
                 <p>
-                    panmā <gap reason="lost" extent="unknown" unit="character"/> <unclear>e</unclear> <gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">kṣai <g type="ddanda">.</g></hi>
+                    panmā <gap reason="lost" extent="unknown" unit="character"/> <unclear>e</unclear> <gap reason="lost" extent="unknown" unit="character"/> <hi rend="grantha">kṣai <g ref="sym:doubleBar" type="punctuation">.</g></hi>
                 </p>
                 
             </div>

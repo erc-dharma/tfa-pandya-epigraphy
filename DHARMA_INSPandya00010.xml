@@ -59,24 +59,20 @@
                     under the European Union’s Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr part:vagi" when="2023-10-10" status="draft"
-                >Creation of the file</change>
+            <change who="part:emfr part:vagi" when="2023-10-10" status="draft">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -106,7 +102,7 @@
                     <lb n="11" break="no"/>ḻit<unclear>·</unclear>tup pōntu niyamat<unclear>·</unclear>t’ irunt-aruḷi <supplied reason="lost"><hi rend="grantha">so</hi></supplied>		
                     <lb n="12" break="no"/><hi rend="grantha">ma-sū<supplied reason="omitted">r</supplied>yyānva</hi>ya-<hi rend="grantha">dva</hi>ya-ti<hi rend="grantha">lakā<choice><sic>r</sic><corr>l</corr></choice>aṁ<choice><orig>g</orig><reg>k</reg></choice>ārar-ā</hi>yina <supplied reason="lost"><hi rend="grantha">pā</hi></supplied>
                     <lb n="13" break="no"/><hi rend="grantha">ṇḍyādhirājar</hi> va<hi rend="grantha">ragu</hi>ṇa-<hi rend="grantha">de</hi>var tirumal<unclear>ai</unclear>-<hi rend="grantha">bhaṭā</hi>ra<supplied reason="lost">rk</supplied>
-                    <lb n="14" break="no"/>ku-k kuṭutta poṉ pāṭi-k-kallāl <num value="125"><g type="numeral">100</g> <unclear>2 <g type="numeral">10</g></unclear> 5</num> <g type="tam-kalancu"/> nūṟ<unclear>ṟ</unclear>’ <supplied reason="lost">i</supplied>
+                    <lb n="14" break="no"/>ku-k kuṭutta poṉ pāṭi-k-kallāl <num value="125"><g type="numeral">100</g> <unclear>2 <g type="numeral">10</g></unclear> 5</num> <g ref="sym:tam-kalancu"/> nūṟ<unclear>ṟ</unclear>’ <supplied reason="lost">i</supplied>
                     <lb n="15" break="no"/>rupatt’ aiṅ-kaḻañcum
                 </p>
                 

@@ -56,16 +56,13 @@
                     under the European Union’s Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -90,28 +87,28 @@
                 
                 <p>
                     śrī-gaṇādhipataye
-                    <lb n="1v2=2"/>namaḥ <g type="danda">.</g>
+                    <lb n="1v2=2"/>namaḥ <g ref="sym:bar" type="punctuation">.</g>
                 </p>
                 
                 <lg n="1" met="śārdūlavikrīḍita">
                     <l n="a">lakṣṃī-vallabha-nābhi-janma-naḷinaM
                         <lb n="1v3=3"/>yasye ritaM janmabhūs</l> 
                     <l n="b">saṃkalpas sacarācarañ ja
-                        <lb n="1v4=4" break="no"/>gad idaṃ vāṇī ca sākṣāt tray<choice><sic>i</sic><corr>ī</corr></choice> <g type="danda">.</g></l>
+                        <lb n="1v4=4" break="no"/>gad idaṃ vāṇī ca sākṣāt tray<choice><sic>i</sic><corr>ī</corr></choice> <g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">Akalpaḥ kalaśī <lb n="1v5=5"/>jaṭāḥ kamalinī bījāvalī valkalaM</l>
-                    <l n="d">jyotiḥ <lb n="1v6=6"/>puṣyatu viṣvagānam idaṃ bhadrāṇi bhūyāṃ<supplied reason="lost">si</supplied> <lb n="1v7=7"/>vaḥ <g type="danda">.</g></l>
+                    <l n="d">jyotiḥ <lb n="1v6=6"/>puṣyatu viṣvagānam idaṃ bhadrāṇi bhūyāṃ<supplied reason="lost">si</supplied> <lb n="1v7=7"/>vaḥ <g ref="sym:bar" type="punctuation">.</g></l>
                 </lg>
                 <lg n="2" met="śārdūlavikrīḍita">
                     <l n="a">śeṣorasthalaśāyi dāritamahānī
                         <lb n="1v8=8" break="no"/>lāśmaraśmiyā<choice><sic>chś</sic><corr>cch</corr></choice>avi</l>
                     <l n="b">kṣ<choice><orig>i</orig><reg>ī</reg></choice>rodapratibiMbitāM
-                        <lb n="1v9=9" break="no"/>baratalaśrīcāru yad rājate <g type="danda">.</g> 
+                        <lb n="1v9=9" break="no"/>baratalaśrīcāru yad rājate <g ref="sym:bar" type="punctuation">.</g> 
                     </l>
                     <l n="c">sve<choice><sic>chś</sic><corr>cch</corr></choice>ā-mātra
                         <lb n="1v10=10" break="no"/>-vikalpita-tribhuvana-sthānopasarggodayaM</l>
                     <l n="d">
                         <lb n="1v11=11"/>tejas ta<choice><orig>T</orig><reg>d</reg></choice> dyumaṇīndu-netra-maniśaM bhadrāṇi pu
-                        <lb n="1v12=12" break="no"/>ṣṇātu vaḥ <g type="danda">.</g></l>
+                        <lb n="1v12=12" break="no"/>ṣṇātu vaḥ <g ref="sym:bar" type="punctuation">.</g></l>
                 </lg>
                 <lg n="3" met="śārdūlavikrīḍita">
                     <l n="ab">...</l>
@@ -150,16 +147,16 @@
                 
                 <lg n="10" met="vasantatilakā">
                     <l n="a">yaT-saMbha<lb n="2r13=40" break="no"/>vo jala-nidhiṃ sura<unclear>k</unclear>kāryyahetos</l>
-                    <l n="b">tu<lb n="2r14=41" break="no"/>lya<choice><sic>ma</sic><corr>ṃ</corr></choice> mamantha puruṣeṇa purātanena <g type="danda">.</g></l>
+                    <l n="b">tu<lb n="2r14=41" break="no"/>lya<choice><sic>ma</sic><corr>ṃ</corr></choice> mamantha puruṣeṇa purātanena <g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c" enjamb="yes">ka<lb n="2r15=42" break="no"/>ściT samasta-nṛpa-mauli-vibhinna-śiṣṭa</l>
-                    <l n="d">⌈<lb n="2r16=43" break="no"/>-mauli<unclear>M</unclear> babhañja valayā<choice><orig>T</orig><reg>d</reg></choice> vala-śāsanasya <g type="danda">.</g></l>                    
+                    <l n="d">⌈<lb n="2r16=43" break="no"/>-mauli<unclear>M</unclear> babhañja valayā<choice><orig>T</orig><reg>d</reg></choice> vala-śāsanasya <g ref="sym:bar" type="punctuation">.</g></l>                    
                 </lg>
                 
                 <lg n="11" met="praharṣiṇī">
                     <l n="a"><lb n="2r17=44"/>yaj jātaṃ vibudha-pater jjayāya kañciT</l>
-                    <l n="b"><lb n="2r18=45"/>sandhāyāśara-patir udyataḥ pratasthe <g type="danda">.</g></l>
+                    <l n="b"><lb n="2r18=45"/>sandhāyāśara-patir udyataḥ pratasthe <g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">nāgānā<lb n="2r19=46" break="no"/>m adita sahasram artthayitryai</l>
-                    <l n="d">dānāMbhas surabhita<lb n="2r20=47" break="no"/>gaṇḍamaṇḍalānāM <g type="danda">.</g></l>
+                    <l n="d">dānāMbhas surabhita<lb n="2r20=47" break="no"/>gaṇḍamaṇḍalānāM <g ref="sym:bar" type="punctuation">.</g></l>
                 </lg>  
                 
                 <p>...</p>

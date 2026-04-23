@@ -86,8 +86,8 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="0">
-                        <lem></lem>
-                        <rdg source="bib:RamanathaAyyar1962_01"></rdg>
+                        <lem/>
+                        <rdg source="bib:RamanathaAyyar1962_01"/>
                     </app>
                     
                     <app loc="1">

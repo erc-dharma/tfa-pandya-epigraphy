@@ -57,7 +57,7 @@
             <div type="edition" xml:lang="tam-Latn" rendition="class:tamil maturity:vernacular">
                 
                 <p>
-                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <unclear><g type="gomutraFinal">.</g></unclear>
+                    <lb n="1"/><hi rend="grantha">svasti śrī</hi> <unclear><g ref="sym:flourish-taperOut" type="punctuation">.</g></unclear>
                 </p>
                 
                 <p><hi rend="grantha">śrī</hi>-kō-māṟaṉ

@@ -56,24 +56,20 @@
                     under the European Union’s Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
         </encodingDesc>
         <revisionDesc>
-            <change who="part:emfr" when="2024-05-01" status="draft"
-                >Creation of the file</change>
+            <change who="part:emfr" when="2024-05-01" status="draft">Creation of the file</change>
         </revisionDesc>
     </teiHeader>
     <text xml:space="preserve">
@@ -82,21 +78,21 @@
             <div type="edition" xml:lang="san-Latn" rendition="class:grantha maturity:vernacular">
                 
                 <ab>
-                    <lb n="1"/>hariḥ OM svasti śrī <g type="circleDouble">.</g><g type="dash">.</g>	
+                    <lb n="1"/>hariḥ OM svasti śrī <g ref="sym:bullet-double-hollow" type="punctuation">.</g><g ref="sym:dash" type="punctuation">.</g>	
                 </ab>
                 
                 <lg n="1" met="śārdūlavikrīḍita">
                     <l n="a">yenāsau karuṇāmanīyata daśāṃ śrī-raṃga-pa<choice><orig>t</orig><reg>d</reg></choice>mākaraḥ</l>
                     <l n="b">kṛtvā taM bhuvanāntara-praṇayinaṃ karṇṇāṭa-doṣākaraM</l>
                     <l n="c">bhūyopy atra jagat-trayī-bahumatāṃ lakṣmīm avasthāpayan</l>
-                    <l n="d">devas sundara-pāṇḍya-bhānur udayaṃ lebhe <lb n="2"/>pratāpoṣmaḷaM <g type="ddanda">.</g></l>
+                    <l n="d">devas sundara-pāṇḍya-bhānur udayaṃ lebhe <lb n="2"/>pratāpoṣmaḷaM <g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 
                 <lg n="2" met="śārdūlavikrīḍita">
                     <l n="a">dattair nnaika-tulādhiroha-vidhinā raṃgeśvarasyālayan</l>
                     <l n="b">devaś śrī-madhurā-mahendra-nṛpatir jjāMbūnadair nirmmame</l>
                     <l n="c">Asyottuṃgabhujādribhāsurayaśas candrodayavyañjikā</l>
-                    <l n="d">sandhyevāniśam īkṣyate navajapāraktā yadaṃśu<lb n="3" break="no"/>chaṭā <g type="ddanda">.</g></l>
+                    <l n="d">sandhyevāniśam īkṣyate navajapāraktā yadaṃśu<lb n="3" break="no"/>chaṭā <g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 
                 <p>
@@ -107,7 +103,7 @@
                     <l n="a"><lb n="23"/>hemāc-chādana-rāja Ity adhigata-prakhyāta-nāmno harer</l>
                     <l n="b">haimasyoraga-sūdanasya śayanāgārasya vādhiśriyaḥ</l>
                     <l n="c">trīṇ<unclear>i</unclear>-sva<supplied reason="omitted">rṇṇa</supplied>-mayāni rāja-tapanaś cakre vimānāni yaiś</l>
-                    <l n="d">śrī-raṃgas sa Ivābhiṣeka-vidhṛtair u<choice><orig>T</orig><reg>d</reg></choice>bhāsate maulibhiḥ <g type="ddanda">.</g></l>
+                    <l n="d">śrī-raṃgas sa Ivābhiṣeka-vidhṛtair u<choice><orig>T</orig><reg>d</reg></choice>bhāsate maulibhiḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 
             </div>

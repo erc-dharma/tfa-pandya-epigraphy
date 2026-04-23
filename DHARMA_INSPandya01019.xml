@@ -56,16 +56,13 @@
                     under the European Union’s Horizon 2020 research and innovation programme (grant
                     agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named
                         ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_IdListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the
                         <ref>DHARMA_IdListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
@@ -82,7 +79,7 @@
                 
                 <p>
                     <pb n="1r"/>
-                    <lb n="1r1=1"/><g type="pc"/> cālivākaṉa-cakārttam <num value="1675"><g type="numeral">1000</g> 6 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5</num>ṉ mēl-c ce
+                    <lb n="1r1=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> cālivākaṉa-cakārttam <num value="1675"><g type="numeral">1000</g> 6 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5</num>ṉ mēl-c ce
                     <lb n="1r2=2" break="no"/>llā niṉṟa kollam cukattiṟip<choice><sic>a</sic><corr>u</corr></choice>vaṉēkavīra<!--note-->-cantira
                     <lb n="1r3=3" break="no"/>-kula-p-pi<choice><orig>ṟ</orig><reg>r</reg></choice>atīpa-maturā-makēntira-cēnta-maṅkala-p-pur
                     <lb n="1r4=4" break="no"/>āvalatīcura<!--note-->-ceyamācūra<!--note-->-nāraciṅka-kēraḷa-tamōti
@@ -92,7 +89,7 @@
                     <lb n="1r8=8" break="no"/>koṇṭāṉ <hi rend="grantha">śrī</hi>-perumāḷ a<choice><orig>ḷ</orig><reg>ḻ</reg></choice>aka<choice><orig>m</orig><reg>ṉ</reg></choice> perumāḷ y-iṟa
                     <lb n="1r9=9" break="no"/>nta kālam eṭutta cīvala-varakuṇa-rāma-<unclear>p</unclear>āṇṭiya-kula-cēka
                     <lb n="1r10=10" break="no"/>ra-tēva-tīṭc<choice><sic>a</sic><corr>i</corr></choice>tarukku Āṇṭu Āvatu kollam <num value="930">9 <g type="numeral">100</g> 3 <g type="numeral">10</g></num>
-                    <lb n="1r11=11"/><g type="tam-varusam"/> pava <g type="tam-varusam"/> kār<supplied reason="omitted">t</supplied>t<choice><sic>ī</sic><corr>i</corr></choice><supplied reason="omitted">kai</supplied> <g type="tam-matam"/> <surplus>va</surplus> <num value="26">2 <g type="numeral">10</g> 6</num> <g type="tam-teti"/> Ātitta-vāramum Uttira
+                    <lb n="1r11=11"/><g ref="sym:tam-varusam"/> pava <g ref="sym:tam-varusam"/> kār<supplied reason="omitted">t</supplied>t<choice><sic>ī</sic><corr>i</corr></choice><supplied reason="omitted">kai</supplied> <g ref="sym:tam-matam"/> <surplus>va</surplus> <num value="26">2 <g type="numeral">10</g> 6</num> <g ref="sym:tam-teti"/> Ātitta-vāramum Uttira
                     <lb n="1r12=12" break="no"/>-naṭcetti<unclear>ra</unclear>mum navamiyum Āyuṭkkiraṇa-nāma-yō
                     <lb n="1r13=13" break="no"/>kamum keca-karaṉamum cupa-yōka-cupa-karaṇamum pe
                     <lb n="1r14=14" break="no"/>ṟṟa pu<choice><orig>ṉṉ</orig><reg>ṇṇ</reg></choice>iya <unclear>ti</unclear>ṉattil
@@ -106,7 +103,7 @@
                     <lb n="1r19=19" break="no"/>ttu paṇamum kutirai cuṟuṭṭi-k-kārarukku mūṉ
                     <lb n="1r20=20" break="no"/>ṟu paṇamum rāṇuvattukku Oru paṇamum atta-k kuṭi
                     <lb n="1r21=21" break="no"/>paṭaikku Oru paṇam vītam Inta-p paṭikku-k kuṭuttu
-                    <lb n="1r22=22"/>naṭatti varuvōm ākavum <g type="pc">.</g>
+                    <lb n="1r22=22"/>naṭatti varuvōm ākavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                 <p>
                     Inta-p paṭikku Upaya
@@ -119,7 +116,7 @@
                     <lb n="1r26=26" break="no"/>ṉa pēr mātā-pitāvukkuṅ kuruvukkum Akitam
                     <lb n="1r27=27"/>paṇṇiṉa tō<hi rend="grantha">ṣa</hi>ttilēyum keṅkai-k (22) karaiyilē
                     <lb n="1r28=28"/>kō-katti piramatti-c ciṟi-katti (23) paṇṇiṉa tō
-                    <lb n="1r29=29" break="no"/><hi rend="grantha">ṣa</hi>ttilēyum pōvār ākavum <g type="pc">.</g>
+                    <lb n="1r29=29" break="no"/><hi rend="grantha">ṣa</hi>ttilēyum pōvār ākavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                 <p>
                     Ippaṭikku-t tā
@@ -131,11 +128,11 @@
                     Inta-t taṟmattu-k k<unclear>ā</unclear>
                     <lb n="1r33=33" break="no"/>riyam tiru-v-āṭutuṟai (25) maṭattu-p pāricañcey
                     <lb n="1r34=34" break="no"/>tiruppatāl-t taṟmam (21) paripālaṉam-āka naṭat<unclear>tu</unclear>
-                    <lb n="1r35=35" break="no"/>-viccu-k koḷvār ākavum <g type="pc">.</g>
+                    <lb n="1r35=35" break="no"/>-viccu-k koḷvār ākavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
                 </p>
                 <p>
                     ku<choice><orig>tt</orig><reg>ṟṟ</reg></choice>āla-<choice><orig>ṉ</orig><reg>n</reg></choice>āta-cu
-                    <lb n="1r36=36" break="no"/>vāmi tuṇai <g type="pc">.</g>                    
+                    <lb n="1r36=36" break="no"/>vāmi tuṇai <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->                    
                     
                 </p>
                 
