@@ -79,7 +79,7 @@
                 
                 <p>
                     <pb n="1r"/>
-                    <lb n="1r1=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g><!--CHECK SYMBOL, updated from "pc"--> cālivākaṉa-cakārttam <num value="1675"><g type="numeral">1000</g> 6 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5</num>ṉ mēl-c ce
+                    <lb n="1r1=1"/><g ref="sym:tam-pillaiyarCuli" type="ideogram">@</g> cālivākaṉa-cakārttam <num value="1675"><g type="numeral">1000</g> 6 <g type="numeral">100</g> 7 <g type="numeral">10</g> 5</num>ṉ mēl-c ce
                     <lb n="1r2=2" break="no"/>llā niṉṟa kollam cukattiṟip<choice><sic>a</sic><corr>u</corr></choice>vaṉēkavīra<!--note-->-cantira
                     <lb n="1r3=3" break="no"/>-kula-p-pi<choice><orig>ṟ</orig><reg>r</reg></choice>atīpa-maturā-makēntira-cēnta-maṅkala-p-pur
                     <lb n="1r4=4" break="no"/>āvalatīcura<!--note-->-ceyamācūra<!--note-->-nāraciṅka-kēraḷa-tamōti
@@ -103,7 +103,7 @@
                     <lb n="1r19=19" break="no"/>ttu paṇamum kutirai cuṟuṭṭi-k-kārarukku mūṉ
                     <lb n="1r20=20" break="no"/>ṟu paṇamum rāṇuvattukku Oru paṇamum atta-k kuṭi
                     <lb n="1r21=21" break="no"/>paṭaikku Oru paṇam vītam Inta-p paṭikku-k kuṭuttu
-                    <lb n="1r22=22"/>naṭatti varuvōm ākavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                    <lb n="1r22=22"/>naṭatti varuvōm ākavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                 </p>
                 <p>
                     Inta-p paṭikku Upaya
@@ -116,7 +116,7 @@
                     <lb n="1r26=26" break="no"/>ṉa pēr mātā-pitāvukkuṅ kuruvukkum Akitam
                     <lb n="1r27=27"/>paṇṇiṉa tō<hi rend="grantha">ṣa</hi>ttilēyum keṅkai-k (22) karaiyilē
                     <lb n="1r28=28"/>kō-katti piramatti-c ciṟi-katti (23) paṇṇiṉa tō
-                    <lb n="1r29=29" break="no"/><hi rend="grantha">ṣa</hi>ttilēyum pōvār ākavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                    <lb n="1r29=29" break="no"/><hi rend="grantha">ṣa</hi>ttilēyum pōvār ākavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                 </p>
                 <p>
                     Ippaṭikku-t tā
@@ -128,11 +128,11 @@
                     Inta-t taṟmattu-k k<unclear>ā</unclear>
                     <lb n="1r33=33" break="no"/>riyam tiru-v-āṭutuṟai (25) maṭattu-p pāricañcey
                     <lb n="1r34=34" break="no"/>tiruppatāl-t taṟmam (21) paripālaṉam-āka naṭat<unclear>tu</unclear>
-                    <lb n="1r35=35" break="no"/>-viccu-k koḷvār ākavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->
+                    <lb n="1r35=35" break="no"/>-viccu-k koḷvār ākavum <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>
                 </p>
                 <p>
                     ku<choice><orig>tt</orig><reg>ṟṟ</reg></choice>āla-<choice><orig>ṉ</orig><reg>n</reg></choice>āta-cu
-                    <lb n="1r36=36" break="no"/>vāmi tuṇai <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g><!--CHECK SYMBOL, updated from "pc"-->                    
+                    <lb n="1r36=36" break="no"/>vāmi tuṇai <g ref="sym:tam-pillaiyarCuli" type="punctuation">.</g>                    
                     
                 </p>
                 
