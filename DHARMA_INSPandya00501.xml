@@ -92,13 +92,13 @@
                         <lb n="5"/><supplied reason="lost">tri</supplied><unclear>bhu</unclear>vana-pataye śam·bhave <gap reason="lost" quantity="1" unit="character"/>
                         <lb n="6" break="no"/><gap reason="lost" quantity="2" unit="character"/> <unclear>dh</unclear>āttre kācānām pañca-paṁkti-<gap reason="lost" quantity="1" unit="character"/>
                         <lb n="7" break="no"/><gap reason="lost" quantity="2" unit="character"/> tarad urutaran dhāma śaṁbho<supplied reason="omitted">r</supplied> yyi <gap reason="lost" quantity="1" unit="character"/>
-                        <lb n="8" break="no"/><gap reason="lost" quantity="1" unit="character"/> <unclear><g ref="sym:flourish-taperOut" type="punctuation">.</g><!--CHECK SYMBOL encoding and content, was "gomutra"--></unclear>
+                        <lb n="8" break="no"/><gap reason="lost" quantity="1" unit="character"/> <unclear><g ref="sym:flourish-taperOut" type="punctuation">.</g></unclear>
                     </l>
                 </lg>
                 <lg n="2" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                     <l n="abcd">dipye tā<unclear>n</unclear> d<choice><sic>i</sic><corr>ī</corr></choice>pa-māle dve sva
                         <lb n="9" break="no"/><supplied reason="lost">janma</supplied>-divase tathā pratimāsam iti p<choice><unclear>ṛ</unclear><unclear>ra</unclear></choice>
-                        <lb n="10" break="no"/><gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g ref="sym:flourish-taperOut" type="punctuation">.</g><!--CHECK SYMBOL encoding and content, was "gomutra"--></l>
+                        <lb n="10" break="no"/><gap reason="lost" quantity="2" unit="character"/> kam· punar api svayam· <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                 </lg>
                 
                 <ab>
@@ -138,7 +138,7 @@
                 
                 <p>
                     <supplied reason="lost">I</supplied><hi rend="grantha"><unclear>ddha</unclear></hi><choice><sic>m·</sic><corr>ma</corr></choice>ttiṉai <hi rend="grantha">rakṣi</hi>ppār
-                    <lb n="30"/><hi rend="grantha">śrī-pāda</hi><unclear>m</unclear> Eṉ· ṟalai mēlaṉa <g ref="sym:flourish-taperOut" type="punctuation">.</g><!--CHECK SYMBOL encoding and content, was "gomutra"-->      			
+                    <lb n="30"/><hi rend="grantha">śrī-pāda</hi><unclear>m</unclear> Eṉ· ṟalai mēlaṉa <g ref="sym:flourish-taperOut" type="punctuation">.</g>      			
                 </p>
                 
             </div>
