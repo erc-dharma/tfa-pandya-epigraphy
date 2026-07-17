@@ -10,14 +10,14 @@
             <titleStmt>
                 <title>Tiruvalīśvaram, Valīśvara, time of Sundara Cōḻapāṇḍya, year 17</title>
                 <respStmt>
-                    <resp>EpiDoc encoding</resp>
+                    <resp key="contributor">EpiDoc encoding</resp>
                     <persName>
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
                     </persName>
                 </respStmt>
                 <respStmt>
-                    <resp>Intellectual authorship of edition</resp>
+                    <resp key="creator">Intellectual authorship of edition</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
