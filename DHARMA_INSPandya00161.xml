@@ -8,27 +8,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Tiruvalīśvaram, Valīśvara, time of Sundara Cōḻapāṇḍya, year 17</title>
+                <title>Tiruvalīśvaram, Valīśvara, time of Sundara Cōḻapāṇḍya, year 17</title>                
                 <respStmt>
-                    <resp key="contributor">EpiDoc encoding</resp>
-                    <persName>
-                        <forename>Renato</forename>
-                        <surname>Dávalos</surname>
-                    </persName>
-                </respStmt>
-                <respStmt>
-                    <resp key="creator">Intellectual authorship of edition</resp>
+                    <resp key="creator">EpiDoc encoding</resp>
                     <persName ref="part:reda">
                         <forename>Renato</forename>
                         <surname>Dávalos</surname>
-                    </persName>
-                    <persName ref="part:matr">
-                        <forename>Margherita</forename>
-                        <surname>Trento</surname>
-                    </persName>
-                    <persName ref="part:vija">
-                        <forename>G.</forename>
-                        <surname>Vijayavenugopal</surname>
                     </persName>
                 </respStmt>
             </titleStmt>
@@ -200,7 +185,7 @@
                         <item>Ivai puravu-vari-tiṇ<hi rend="grantha">ai</hi>-k-ka 
                             <lb n="29" break="no"/>ḷattu-k kaṇakku cōḻa-cikāmaṇi-nallūr-uṭaiyāṉ Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g> </item>
                         <item>Iv<hi rend="grantha">ai</hi> puravu-vari-tiṇ<hi rend="grantha">ai</hi>-k-kaḷa nāyakam maṇṇ<hi rend="grantha">ai</hi>koṇṭa-cōḻa-nallūr-uṭaiyāṉ eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
-                        <item>ivai puravu-vari-tiṇai-k-kaḷa-nāyakam-kuṟicci U<pb n="14:090"/>
+                        <item>ivai puravu-vari-tiṇai-k-kaḷa-nāyakam-kuṟicci U
                             <lb n="30" break="no"/>ṭaiyāṉ eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
                         <item>Ivai puravu-vari-tiṇai-k-kaḷattu paṭṭol<hi rend="grantha">ai</hi> ciṟutūr Uṭaiyāṉ Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
                         <item>Ivai puravu-vari tiṇ<hi rend="grantha">ai</hi>-k-kaḷattu mukaveṭṭi rā<hi rend="grantha">ja</hi>kēcari-nallūr uṭaiyāṉ Eḻuttu <g ref="sym:flourish-taperOut" type="punctuation">.</g></item>
