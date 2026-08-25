@@ -22,10 +22,11 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <authority>DHARMA</authority>
+                <authority><ref target="https://dharmalekha.info">DHARMA</ref></authority>
                 <pubPlace>Paris, CEIAS</pubPlace>
                 <idno type="filename">DHARMA_INSPandya00011</idno>
-            </publicationStmt>
+            <availability><licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</licence></availability>
+</publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
@@ -82,7 +83,7 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="5">
-                        <lem source="bib:RamanathaAyyar1962_01"><hi rend="grantha">pāṇḍyādhi</hi>pati°></lem>
+                        <lem source="bib:RamanathaAyyar1962_01"><hi rend="grantha">pāṇḍyādhi</hi>pati°&gt;</lem>
                         <rdg source="bib:Gillet2017_01"><hi rend="grantha">pāṇḍyādhipati</hi>°</rdg>
                     </app>
                     <app loc="14">
