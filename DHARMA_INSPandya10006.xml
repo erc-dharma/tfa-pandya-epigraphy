@@ -8,7 +8,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ciṉṉamaṉūr plates (larger set), time of Rājasiṃha, year 14 + 2</title>			    
+                <title>Ciṉṉamaṉūr plates (larger set), time of Rājasiṁha, year 14 + 2</title>			    
                 <respStmt>
                     <resp key="creator">author of digital edition</resp>
                     <persName ref="part:emfr">
@@ -92,7 +92,7 @@
                 
                     <lg n="37" met="vasantatilakā" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
                         <l n="a">pāta prasa<choice><sic>t</sic><corr>n</corr></choice>na-manasas sukṛtam mameti</l>
-                        <l n="b">so ’yaṃ samasta-vasudhādhipa<lb n="5v5=73" break="no"/>-vandanīyaḥ</l>
+                        <l n="b">so ’yaṁ samasta-vasudhādhipa<lb n="5v5=73" break="no"/>-vandanīyaḥ</l>
                         <l n="c">baddhāñjaliḥ pratidinaM· praṇamaty aśeṣān</l>
                         <l n="d">āgāmi<lb n="5v5=74" break="no"/>naḥ kṣiti-patīn abhimāna-meruḥ <g ref="sym:flourish-taperOut" type="punctuation">.</g></l>
                     </lg>
