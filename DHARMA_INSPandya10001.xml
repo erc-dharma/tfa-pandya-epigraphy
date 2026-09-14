@@ -64,9 +64,9 @@
                 <lg n="1" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">	
                     
                     <l n="a"><pb n="1v"/><lb n="1v1=1"/>bhavot·bhavas sadā bhūyāt·</l>
-                    <l n="b">bhavatā mahī-vṛ<choice><orig>dh</orig><reg>d</reg></choice>dhaye</l>
+                    <l n="b">bhavatā mahī-vr̥<choice><orig>dh</orig><reg>d</reg></choice>dhaye</l>
                     <l n="c"><lb n="1v2=2"/>yat· prasādāt· samut·bhūtau</l>
-                    <l n="d">ni<reg>r</reg>vvāṇābhyudayau nṛṇām<unclear>·</unclear></l>
+                    <l n="d">ni<reg>r</reg>vvāṇābhyudayau nr̥ṇām<unclear>·</unclear></l>
                 </lg>
                 
                 <p>
@@ -101,9 +101,9 @@
                 </p>
                 
                 <lg n="2" met="uncertain" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a"><lb n="3r13=60"/>brahmadeya-paripālanād ṛ<choice><orig>d</orig><reg>t</reg></choice>e</l>
+                    <l n="a"><lb n="3r13=60"/>brahmadeya-paripālanād r̥<choice><orig>d</orig><reg>t</reg></choice>e</l>
                     <l n="b">n<supplied reason="lost">ā</supplied>nyad asti bhuvi dha<reg>r</reg>mma-sā<unclear reason="eccentric_ductus">dha</unclear>nam<unclear>·</unclear></l>
-                    <l n="c"><choice><orig>d</orig><reg>t</reg></choice>asya cāpa<lb n="3r14=61" break="no"/>haraṇād ṛ<choice><orig>d</orig><reg>t</reg></choice>e tathā</l>
+                    <l n="c"><choice><orig>d</orig><reg>t</reg></choice>asya cāpa<lb n="3r14=61" break="no"/>haraṇād r̥<choice><orig>d</orig><reg>t</reg></choice>e tathā</l>
                     <l n="d">nānyad asti <supplied reason="lost">bhu</supplied>vi pāpa-sā<unclear reason="eccentric_ductus">dha</unclear>nam·</l>
                 </lg>
                 
@@ -116,7 +116,7 @@
                 </lg>
                 
                 <lg n="4" met="anuṣṭubh" xml:lang="san-Latn" rendition="class:grantha maturity:83215">
-                    <l n="a">bahubh<choice><sic>ṛ</sic><corr>ir</corr></choice> vvasudhā dattā</l>
+                    <l n="a">bahubh<choice><sic>r̥</sic><corr>ir</corr></choice> vvasudhā dattā</l>
                     <l n="b">rājabhi<supplied reason="omitted">s</supplied> saga<unclear>r</unclear>ādibhi<supplied reason="omitted">ḥ</supplied></l>
                     <l n="c">yasya yasya yadā <lb n="3r17=64"/> bhūm<choice><sic>ī</sic><corr>i</corr></choice><supplied reason="omitted">ḥ</supplied></l>
                     <l n="d">tasya tasya t<supplied reason="omitted">ad</supplied>ā <choice><orig>p</orig><reg>ph</reg></choice>alam<supplied reason="omitted">·</supplied></l>
